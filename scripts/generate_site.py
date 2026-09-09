@@ -50,15 +50,18 @@ def escape_md(text):
 def render_entry(entry):
     lines = []
     title = entry.get("title") or "(untitled)"
-    anilist = entry.get("anilist")
+    enrichment = entry.get("enrichment") or entry.get("anilist")
+    source_label = {"kitsu": "Kitsu", "anilist": "AniList"}.get(
+        (enrichment or {}).get("source"), "AniList" if entry.get("anilist") else None
+    )
     display_title = title
-    if anilist and anilist.get("title_english") and anilist["title_english"].lower() != title.lower():
-        display_title = f"{title} ({anilist['title_english']})"
+    if enrichment and enrichment.get("title_english") and enrichment["title_english"].lower() != title.lower():
+        display_title = f"{title} ({enrichment['title_english']})"
     lines.append(f"### {escape_md(display_title)}")
     lines.append("")
 
-    if anilist and anilist.get("image_path"):
-        rel = "../" + anilist["image_path"]
+    if enrichment and enrichment.get("image_path"):
+        rel = "../" + enrichment["image_path"]
         lines.append(f'<img src="{rel}" alt="{escape_md(title)} cover" width="200">')
         lines.append("")
 
@@ -72,28 +75,23 @@ def render_entry(entry):
     when = entry.get("air_dates") or entry.get("release_date")
     if when:
         meta_bits.append(f"**Aired/Released:** {escape_md(when)}")
-    if anilist and anilist.get("genres"):
-        meta_bits.append(f"**Genres:** {escape_md(', '.join(anilist['genres']))}")
+    if enrichment and enrichment.get("genres"):
+        meta_bits.append(f"**Genres:** {escape_md(', '.join(enrichment['genres']))}")
     if meta_bits:
         lines.append(" &nbsp;|&nbsp; ".join(meta_bits))
         lines.append("")
 
-    synopsis = None
-    source_note = None
-    if anilist and anilist.get("description"):
-        synopsis = anilist["description"]
-        source_note = "AniList"
-    if synopsis:
-        lines.append(f"> {escape_md(synopsis)}")
+    if enrichment and enrichment.get("description"):
+        lines.append(f"> {escape_md(enrichment['description'])}")
         lines.append(">")
-        lines.append(f"> _Synopsis source: {source_note}_")
+        lines.append(f"> _Synopsis source: {source_label}_")
         lines.append("")
 
     links = []
     if entry.get("wiki_url") and not entry.get("redlink"):
         links.append(f"[Wikipedia]({entry['wiki_url']})")
-    if anilist and anilist.get("site_url"):
-        links.append(f"[AniList]({anilist['site_url']})")
+    if enrichment and enrichment.get("site_url"):
+        links.append(f"[{source_label}]({enrichment['site_url']})")
     if links:
         lines.append(" · ".join(links))
     lines.append("")
@@ -107,14 +105,14 @@ def generate_year_page(year, entries, is_enriched):
     for e in entries:
         by_section.setdefault(e.get("section", "Unknown"), []).append(e)
 
-    matched = sum(1 for e in entries if e.get("anilist"))
+    matched = sum(1 for e in entries if e.get("enrichment") or e.get("anilist"))
     lines = [
         f"# {year} in Anime",
         "",
         "[← Back to index](../README.md)",
         "",
         f"{len(entries)} titles"
-        + (f" · {matched} with AniList synopsis/art" if is_enriched else " · not yet enriched with synopsis/art")
+        + (f" · {matched} with a matched synopsis/cover art" if is_enriched else " · not yet enriched with synopsis/art")
         + f" · [source]({f'https://en.wikipedia.org/wiki/{year}_in_anime'})",
         "",
     ]
@@ -147,7 +145,7 @@ def generate_readme(all_years_meta):
         "An archive of anime organized by year, built from Wikipedia's "
         "[List of years in anime](https://en.wikipedia.org/wiki/List_of_years_in_anime) "
         "index and each year's article, enriched with synopses and cover art "
-        "from the [AniList](https://anilist.co) API.",
+        "from [AniList](https://anilist.co) and/or [Kitsu](https://kitsu.io).",
         "",
         f"**{total_entries} titles** across {len(years)} years, "
         f"**{total_matched}** with a matched synopsis/cover image.",
@@ -156,11 +154,7 @@ def generate_readme(all_years_meta):
     for decade in sorted(decades.keys()):
         lines.append(f"## {decade}s")
         lines.append("")
-        links = []
-        for y in sorted(decades[decade]):
-            m = all_years_meta[y]
-            marker = "" if m["matched"] > 0 or not m["enriched"] else ""
-            links.append(f"[{y}](years/{y}.md)")
+        links = [f"[{y}](years/{y}.md)" for y in sorted(decades[decade])]
         lines.append(" · ".join(links))
         lines.append("")
 
@@ -169,12 +163,13 @@ def generate_readme(all_years_meta):
         "",
         "- Year-by-year title listings are drawn from Wikipedia "
         "(text available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)).",
-        "- Synopses and cover images are fetched from the AniList API "
-        "(https://anilist.co), which is built for this kind of third-party display use.",
+        "- Synopses and cover images are fetched from the AniList and/or Kitsu "
+        "APIs, which are built for this kind of third-party display use "
+        "(each entry's page notes which one it came from).",
         "- Wikipedia's own cover art for anime articles is almost always "
         "non-free \"fair use\" content licensed only for use within that "
         "specific Wikipedia article, so it is intentionally **not** mirrored "
-        "here -- entries without an AniList match simply have no image.",
+        "here -- entries without a match simply have no image.",
         "- This is an unofficial, non-commercial fan archive/index, not affiliated "
         "with Wikipedia, the Wikimedia Foundation, or AniList.",
         "",
@@ -195,7 +190,7 @@ def main():
         generate_year_page(year, entries, is_enriched)
         meta[year] = {
             "count": len(entries),
-            "matched": sum(1 for e in entries if e.get("anilist")),
+            "matched": sum(1 for e in entries if e.get("enrichment") or e.get("anilist")),
             "enriched": is_enriched,
         }
         print(f"{year}: page generated ({meta[year]['count']} entries)")
