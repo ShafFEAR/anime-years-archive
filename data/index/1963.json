@@ -1,0 +1,98 @@
+[
+  {
+    "year": 1963,
+    "section": "Releases",
+    "title": "Astro Boy",
+    "wiki_title": "Astro Boy (1963 TV series)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Astro_Boy_(1963_TV_series)",
+    "redlink": false,
+    "original_title": "鉄腕アトム ( Tetsuwan Atomu )",
+    "type": "TV",
+    "demographic": "Shōnen",
+    "regions": "JA, NA"
+  },
+  {
+    "year": 1963,
+    "section": "Releases",
+    "title": "Gigantor",
+    "wiki_title": "Gigantor",
+    "wiki_url": "https://en.wikipedia.org/wiki/Gigantor",
+    "redlink": false,
+    "original_title": "鉄人28号 ( Tetsujin Nijūhachi-gō )",
+    "type": "TV",
+    "demographic": "Shōnen",
+    "regions": "JA, NA"
+  },
+  {
+    "year": 1963,
+    "section": "Releases",
+    "title": "8th Man",
+    "wiki_title": "8 Man",
+    "wiki_url": "https://en.wikipedia.org/wiki/8_Man",
+    "redlink": false,
+    "original_title": "エイトマン ( Eitoman )",
+    "type": "TV",
+    "demographic": "Shōnen",
+    "regions": "JA"
+  },
+  {
+    "year": 1963,
+    "section": "Releases",
+    "title": "Wolf Boy Ken",
+    "wiki_title": "Wolf Boy Ken",
+    "wiki_url": "https://en.wikipedia.org/wiki/Wolf_Boy_Ken",
+    "redlink": false,
+    "original_title": "狼少年ケン ( Ōkami Shōnen Ken )",
+    "type": "TV",
+    "demographic": "Children",
+    "regions": "JA"
+  },
+  {
+    "year": 1963,
+    "section": "Releases",
+    "title": "Doggie March",
+    "wiki_title": "Doggie March",
+    "wiki_url": "https://en.wikipedia.org/wiki/Doggie_March",
+    "redlink": false,
+    "original_title": "わんわん忠臣蔵 ( Wanwan Chūshingura )",
+    "type": "Movie",
+    "demographic": "Family, Children",
+    "regions": "JA, EU"
+  },
+  {
+    "year": 1963,
+    "section": "Releases",
+    "title": "Prince Shisukon",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "original_title": "シスコン王子 ( Shisukon Ouji )",
+    "type": "TV",
+    "demographic": "Shōnen",
+    "regions": "JA"
+  },
+  {
+    "year": 1963,
+    "section": "Releases",
+    "title": "Hermit Village",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "original_title": "仙人部落 ( Sennin Buraku )",
+    "type": "TV",
+    "demographic": "Seinen",
+    "regions": "JA"
+  },
+  {
+    "year": 1963,
+    "section": "Releases",
+    "title": "The Little Prince and the Eight-Headed Dragon",
+    "wiki_title": "The Little Prince and the Eight-Headed Dragon",
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Little_Prince_and_the_Eight-Headed_Dragon",
+    "redlink": false,
+    "original_title": "わんぱく王子の大蛇退治 ( Wanpaku Ōji no Orochi Taiji )",
+    "type": "Movie",
+    "demographic": "Family, Children",
+    "regions": "JA"
+  }
+]
