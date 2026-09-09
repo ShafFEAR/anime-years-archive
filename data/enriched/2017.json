@@ -32,7 +32,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kizumonogatari-part-3-reiketsu-hen",
       "year_match": true,
-      "image_path": "images/kitsu-11407.jpg"
+      "image_path": "images/kitsu-11407.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -78,7 +79,8 @@
       ],
       "site_url": "https://kitsu.io/anime/koutetsujou-no-kabaneri",
       "year_match": true,
-      "image_path": "images/kitsu-10036.jpg"
+      "image_path": "images/kitsu-10036.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -115,7 +117,8 @@
       ],
       "site_url": "https://kitsu.io/anime/black-butler-book-of-the-atlantic",
       "year_match": true,
-      "image_path": "images/kitsu-11449.jpg"
+      "image_path": "images/kitsu-11449.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -148,7 +151,8 @@
       ],
       "site_url": "https://kitsu.io/anime/gyakusatsu-kikan",
       "year_match": true,
-      "image_path": "images/kitsu-8737.jpg"
+      "image_path": "images/kitsu-8737.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -181,7 +185,8 @@
       ],
       "site_url": "https://kitsu.io/anime/ao-oni-the-animation",
       "year_match": true,
-      "image_path": "images/kitsu-12477.jpg"
+      "image_path": "images/kitsu-12477.jpg",
+      "similarity": 0.46
     }
   },
   {
@@ -218,7 +223,8 @@
       ],
       "site_url": "https://kitsu.io/anime/sword-art-online-ordinal-scale",
       "year_match": true,
-      "image_path": "images/kitsu-11423.jpg"
+      "image_path": "images/kitsu-11423.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -255,7 +261,8 @@
         "Drama"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-11546.jpg"
+      "image_path": "images/kitsu-11546.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -290,7 +297,8 @@
       ],
       "site_url": "https://kitsu.io/anime/doraemon-movie-37-nobita-no-nankyoku-kachi-kochi-daibouken",
       "year_match": true,
-      "image_path": "images/kitsu-12500.jpg"
+      "image_path": "images/kitsu-12500.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -306,24 +314,7 @@
     "running_time": "54",
     "notes": "",
     "ref": "[ 9 ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "12711",
-      "title_romaji": "Shimajirou to Niji no Oasis",
-      "title_english": null,
-      "title_native": "しまじろうと にじのオアシス",
-      "description": null,
-      "cover_large": "https://media.kitsu.app/anime/poster_images/12711/large.jpg",
-      "kitsu_year": 2017,
-      "format": "movie",
-      "episodes": 1,
-      "genres": [
-        "Kids"
-      ],
-      "site_url": "https://kitsu.io/anime/shimajirou-to-niji-no-oasis",
-      "year_match": true,
-      "image_path": "images/kitsu-12711.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 2017,
@@ -357,7 +348,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kuroko-no-basket-last-game",
       "year_match": true,
-      "image_path": "images/kitsu-11399.jpg"
+      "image_path": "images/kitsu-11399.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -390,7 +382,8 @@
       ],
       "site_url": "https://kitsu.io/anime/yoru-wa-mijikashi-arukeyo-otome",
       "year_match": true,
-      "image_path": "images/kitsu-13138.jpg"
+      "image_path": "images/kitsu-13138.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -442,7 +435,8 @@
       ],
       "site_url": "https://kitsu.io/anime/detective-conan-movie-21-deep-red-love-letter",
       "year_match": true,
-      "image_path": "images/kitsu-12772.jpg"
+      "image_path": "images/kitsu-12772.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -480,7 +474,8 @@
       ],
       "site_url": "https://kitsu.io/anime/fairy-tail-movie-2",
       "year_match": true,
-      "image_path": "images/kitsu-10922.jpg"
+      "image_path": "images/kitsu-10922.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -514,7 +509,8 @@
       ],
       "site_url": "https://kitsu.io/anime/yoake-tsugeru-lu-no-uta",
       "year_match": true,
-      "image_path": "images/kitsu-13253.jpg"
+      "image_path": "images/kitsu-13253.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -551,7 +547,8 @@
       ],
       "site_url": "https://kitsu.io/anime/mahouka-koukou-no-rettousei-movie-hoshi-wo-yobu-shoujo",
       "year_match": true,
-      "image_path": "images/kitsu-11931.jpg"
+      "image_path": "images/kitsu-11931.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -592,7 +589,8 @@
       ],
       "site_url": "https://kitsu.io/anime/no-game-no-life-zero",
       "year_match": true,
-      "image_path": "images/kitsu-12325.jpg"
+      "image_path": "images/kitsu-12325.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -628,7 +626,8 @@
       ],
       "site_url": "https://kitsu.io/anime/pokemon-kimi-ni-kimeta",
       "year_match": true,
-      "image_path": "images/kitsu-12941.jpg"
+      "image_path": "images/kitsu-12941.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -678,7 +677,8 @@
       ],
       "site_url": "https://kitsu.io/anime/fate-kaleid-liner-prisma-illya-movie-sekka-no-chikai",
       "year_match": true,
-      "image_path": "images/kitsu-12555.jpg"
+      "image_path": "images/kitsu-12555.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -715,7 +715,8 @@
         "Drama"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-11546.jpg"
+      "image_path": "images/kitsu-11546.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -750,7 +751,8 @@
       ],
       "site_url": "https://kitsu.io/anime/fate-stay-night-movie-heaven-s-feel",
       "year_match": true,
-      "image_path": "images/kitsu-8675.jpg"
+      "image_path": "images/kitsu-8675.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -801,7 +803,8 @@
       ],
       "site_url": "https://kitsu.io/anime/godzilla-kaijuu-wakusei",
       "year_match": true,
-      "image_path": "images/kitsu-12634.jpg"
+      "image_path": "images/kitsu-12634.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -838,7 +841,8 @@
       ],
       "site_url": "https://kitsu.io/anime/girls-und-panzer-saishuushou-part-1",
       "year_match": true,
-      "image_path": "images/kitsu-12628.jpg"
+      "image_path": "images/kitsu-12628.jpg",
+      "similarity": 0.67
     }
   },
   {
@@ -870,7 +874,8 @@
         "Slice of Life"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-12864.jpg"
+      "image_path": "images/kitsu-12864.jpg",
+      "similarity": 0.51
     }
   },
   {
@@ -907,7 +912,8 @@
       ],
       "site_url": "https://kitsu.io/anime/akiba-s-trip-the-animation",
       "year_match": true,
-      "image_path": "images/kitsu-12532.jpg"
+      "image_path": "images/kitsu-12532.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -942,7 +948,8 @@
       ],
       "site_url": "https://kitsu.io/anime/masamune-kun-no-revenge",
       "year_match": true,
-      "image_path": "images/kitsu-12267.jpg"
+      "image_path": "images/kitsu-12267.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -977,7 +984,8 @@
       ],
       "site_url": "https://kitsu.io/anime/seiren",
       "year_match": true,
-      "image_path": "images/kitsu-12673.jpg"
+      "image_path": "images/kitsu-12673.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1011,7 +1019,8 @@
       ],
       "site_url": "https://kitsu.io/anime/urara-meirochou",
       "year_match": true,
-      "image_path": "images/kitsu-11934.jpg"
+      "image_path": "images/kitsu-11934.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1047,7 +1056,8 @@
       ],
       "site_url": "https://kitsu.io/anime/fuuka",
       "year_match": true,
-      "image_path": "images/kitsu-12460.jpg"
+      "image_path": "images/kitsu-12460.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1081,7 +1091,8 @@
       ],
       "site_url": "https://kitsu.io/anime/minami-kamakura-koukou-joshi-jitenshabu",
       "year_match": true,
-      "image_path": "images/kitsu-11330.jpg"
+      "image_path": "images/kitsu-11330.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1118,7 +1129,8 @@
       ],
       "site_url": "https://kitsu.io/anime/youjo-senki",
       "year_match": true,
-      "image_path": "images/kitsu-11794.jpg"
+      "image_path": "images/kitsu-11794.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1154,7 +1166,8 @@
       ],
       "site_url": "https://kitsu.io/anime/ao-no-exorcist-2",
       "year_match": true,
-      "image_path": "images/kitsu-12275.jpg"
+      "image_path": "images/kitsu-12275.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1189,7 +1202,8 @@
       ],
       "site_url": "https://kitsu.io/anime/demi-chan-wa-kataritai",
       "year_match": true,
-      "image_path": "images/kitsu-12529.jpg"
+      "image_path": "images/kitsu-12529.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1224,7 +1238,8 @@
       ],
       "site_url": "https://kitsu.io/anime/chain-chronicle-tv",
       "year_match": true,
-      "image_path": "images/kitsu-10071.jpg"
+      "image_path": "images/kitsu-10071.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1258,7 +1273,8 @@
       ],
       "site_url": "https://kitsu.io/anime/eldlive",
       "year_match": true,
-      "image_path": "images/kitsu-11894.jpg"
+      "image_path": "images/kitsu-11894.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1290,7 +1306,8 @@
       ],
       "site_url": "https://kitsu.io/anime/idol-jihen",
       "year_match": true,
-      "image_path": "images/kitsu-12596.jpg"
+      "image_path": "images/kitsu-12596.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1324,7 +1341,8 @@
       ],
       "site_url": "https://kitsu.io/anime/nyanko-days",
       "year_match": true,
-      "image_path": "images/kitsu-12687.jpg"
+      "image_path": "images/kitsu-12687.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1359,7 +1377,8 @@
       ],
       "site_url": "https://kitsu.io/anime/tales-of-zestiria-the-x",
       "year_match": true,
-      "image_path": "images/kitsu-11023.jpg"
+      "image_path": "images/kitsu-11023.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1395,7 +1414,8 @@
         "School Life"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-12272.jpg"
+      "image_path": "images/kitsu-12272.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1429,7 +1449,8 @@
       ],
       "site_url": "https://kitsu.io/anime/gabriel-dropout",
       "year_match": true,
-      "image_path": "images/kitsu-12497.jpg"
+      "image_path": "images/kitsu-12497.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1464,7 +1485,8 @@
       ],
       "site_url": "https://kitsu.io/anime/acca-13-ku-kansatsu-ka",
       "year_match": true,
-      "image_path": "images/kitsu-12202.jpg"
+      "image_path": "images/kitsu-12202.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1497,7 +1519,8 @@
       ],
       "site_url": "https://kitsu.io/anime/hand-shakers",
       "year_match": true,
-      "image_path": "images/kitsu-11951.jpg"
+      "image_path": "images/kitsu-11951.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1531,7 +1554,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kemono-friends",
       "year_match": true,
-      "image_path": "images/kitsu-12707.jpg"
+      "image_path": "images/kitsu-12707.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1566,7 +1590,8 @@
       ],
       "site_url": "https://kitsu.io/anime/yowamushi-pedal-3rd-season",
       "year_match": true,
-      "image_path": "images/kitsu-11583.jpg"
+      "image_path": "images/kitsu-11583.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1582,27 +1607,7 @@
     "director": "Masato Jinbo",
     "original_title": "",
     "ref": "[ 34 ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "13526",
-      "title_romaji": "ChäoS;Child: Silent Sky",
-      "title_english": "ChäoS;Child: Silent Sky",
-      "title_native": "CHAOS;CHILD SILENT SKY",
-      "description": "The anime will be the \"final chapter\" that will tell the story of \"'what happens afterward' for the 'boy' and 'girl.'\"",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/13526/large.jpg",
-      "kitsu_year": 2017,
-      "format": "movie",
-      "episodes": 1,
-      "site_url": "https://kitsu.io/anime/chaos-child-silent-sky",
-      "genres": [
-        "Science Fiction",
-        "Fantasy",
-        "Psychological",
-        "Mystery"
-      ],
-      "year_match": true,
-      "image_path": "images/kitsu-13526.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 2017,
@@ -1634,7 +1639,8 @@
       ],
       "site_url": "https://kitsu.io/anime/one-room",
       "year_match": true,
-      "image_path": "images/kitsu-12758.jpg"
+      "image_path": "images/kitsu-12758.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1667,7 +1673,8 @@
       ],
       "site_url": "https://kitsu.io/anime/piace-watashi-no-italian",
       "year_match": true,
-      "image_path": "images/kitsu-12274.jpg"
+      "image_path": "images/kitsu-12274.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1700,7 +1707,8 @@
       ],
       "site_url": "https://kitsu.io/anime/schoolgirl-strikers-animation-channel",
       "year_match": true,
-      "image_path": "images/kitsu-12685.jpg"
+      "image_path": "images/kitsu-12685.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1736,7 +1744,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kobayashi-san-chi-no-maid-dragon",
       "year_match": true,
-      "image_path": "images/kitsu-12243.jpg"
+      "image_path": "images/kitsu-12243.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1774,7 +1783,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kuzu-no-honkai",
       "year_match": true,
-      "image_path": "images/kitsu-11940.jpg"
+      "image_path": "images/kitsu-11940.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1815,7 +1825,8 @@
       ],
       "site_url": "https://kitsu.io/anime/bang-dream",
       "year_match": true,
-      "image_path": "images/kitsu-12330.jpg"
+      "image_path": "images/kitsu-12330.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1853,7 +1864,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kirakira-precure-a-la-mode",
       "year_match": true,
-      "image_path": "images/kitsu-12927.jpg"
+      "image_path": "images/kitsu-12927.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1886,7 +1898,8 @@
         "Adventure"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-12641.jpg"
+      "image_path": "images/kitsu-12641.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1927,7 +1940,8 @@
         "Military"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-8671.jpg"
+      "image_path": "images/kitsu-8671.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1959,7 +1973,8 @@
       ],
       "site_url": "https://kitsu.io/anime/future-card-buddyfight-battsu",
       "year_match": true,
-      "image_path": "images/kitsu-13314.jpg"
+      "image_path": "images/kitsu-13314.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1997,7 +2012,8 @@
       ],
       "site_url": "https://kitsu.io/anime/boku-no-hero-academia",
       "year_match": true,
-      "image_path": "images/kitsu-11469.jpg"
+      "image_path": "images/kitsu-11469.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2030,7 +2046,8 @@
       ],
       "site_url": "https://kitsu.io/anime/gin-no-guardian",
       "year_match": true,
-      "image_path": "images/kitsu-11936.jpg"
+      "image_path": "images/kitsu-11936.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2063,7 +2080,8 @@
       ],
       "site_url": "https://kitsu.io/anime/alice-to-zouroku",
       "year_match": true,
-      "image_path": "images/kitsu-12726.jpg"
+      "image_path": "images/kitsu-12726.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2100,7 +2118,8 @@
       ],
       "site_url": "https://kitsu.io/anime/granblue-fantasy-the-animation",
       "year_match": true,
-      "image_path": "images/kitsu-11382.jpg"
+      "image_path": "images/kitsu-11382.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2136,7 +2155,8 @@
       ],
       "site_url": "https://kitsu.io/anime/beyblade-burst",
       "year_match": true,
-      "image_path": "images/kitsu-11113.jpg"
+      "image_path": "images/kitsu-11113.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2168,7 +2188,8 @@
       ],
       "site_url": "https://kitsu.io/anime/frame-arms-girl",
       "year_match": true,
-      "image_path": "images/kitsu-12807.jpg"
+      "image_path": "images/kitsu-12807.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2201,7 +2222,8 @@
       ],
       "site_url": "https://kitsu.io/anime/warau-salesman-new",
       "year_match": true,
-      "image_path": "images/kitsu-12951.jpg"
+      "image_path": "images/kitsu-12951.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2237,7 +2259,8 @@
       ],
       "site_url": "https://kitsu.io/anime/tsugumomo",
       "year_match": true,
-      "image_path": "images/kitsu-12534.jpg"
+      "image_path": "images/kitsu-12534.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2272,7 +2295,8 @@
       ],
       "site_url": "https://kitsu.io/anime/roku-de-nashi-majutsu-koushi-to-kinki-kyouten",
       "year_match": true,
-      "image_path": "images/kitsu-11942.jpg"
+      "image_path": "images/kitsu-11942.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2306,7 +2330,8 @@
       ],
       "site_url": "https://kitsu.io/anime/idol-time-pripara",
       "year_match": true,
-      "image_path": "images/kitsu-13293.jpg"
+      "image_path": "images/kitsu-13293.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2339,7 +2364,8 @@
       ],
       "site_url": "https://kitsu.io/anime/oushitsu-kyoushi-haine",
       "year_match": true,
-      "image_path": "images/kitsu-12667.jpg"
+      "image_path": "images/kitsu-12667.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2372,7 +2398,8 @@
       ],
       "site_url": "https://kitsu.io/anime/busou-shoujo-machiavellianism",
       "year_match": true,
-      "image_path": "images/kitsu-12265.jpg"
+      "image_path": "images/kitsu-12265.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2409,7 +2436,8 @@
       ],
       "site_url": "https://kitsu.io/anime/boruto-naruto-next-generations",
       "year_match": true,
-      "image_path": "images/kitsu-13051.jpg"
+      "image_path": "images/kitsu-13051.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2444,7 +2472,8 @@
       ],
       "site_url": "https://kitsu.io/anime/sakurada-reset",
       "year_match": true,
-      "image_path": "images/kitsu-12599.jpg"
+      "image_path": "images/kitsu-12599.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2478,7 +2507,8 @@
       ],
       "site_url": "https://kitsu.io/anime/sakura-quest",
       "year_match": true,
-      "image_path": "images/kitsu-12793.jpg"
+      "image_path": "images/kitsu-12793.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2511,7 +2541,8 @@
       ],
       "site_url": "https://kitsu.io/anime/clockwork-planet",
       "year_match": true,
-      "image_path": "images/kitsu-11662.jpg"
+      "image_path": "images/kitsu-11662.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2543,7 +2574,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kabukibu",
       "year_match": true,
-      "image_path": "images/kitsu-12487.jpg"
+      "image_path": "images/kitsu-12487.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2578,7 +2610,8 @@
       ],
       "site_url": "https://kitsu.io/anime/renai-boukun",
       "year_match": true,
-      "image_path": "images/kitsu-11610.jpg"
+      "image_path": "images/kitsu-11610.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2611,7 +2644,8 @@
       ],
       "site_url": "https://kitsu.io/anime/tsuki-ga-kirei",
       "year_match": true,
-      "image_path": "images/kitsu-13234.jpg"
+      "image_path": "images/kitsu-13234.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2644,7 +2678,8 @@
       ],
       "site_url": "https://kitsu.io/anime/hinako-note",
       "year_match": true,
-      "image_path": "images/kitsu-12644.jpg"
+      "image_path": "images/kitsu-12644.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2676,7 +2711,8 @@
       ],
       "site_url": "https://kitsu.io/anime/seikaisuru-kado",
       "year_match": true,
-      "image_path": "images/kitsu-11490.jpg"
+      "image_path": "images/kitsu-11490.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2712,7 +2748,8 @@
       ],
       "site_url": "https://kitsu.io/anime/shingeki-no-bahamut-virgin-soul",
       "year_match": true,
-      "image_path": "images/kitsu-10902.jpg"
+      "image_path": "images/kitsu-10902.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2746,7 +2783,8 @@
       ],
       "site_url": "https://kitsu.io/anime/rilu-rilu-fairilu-mahou-no-kagami",
       "year_match": true,
-      "image_path": "images/kitsu-13577.jpg"
+      "image_path": "images/kitsu-13577.jpg",
+      "similarity": 0.75
     }
   },
   {
@@ -2779,7 +2817,8 @@
       ],
       "site_url": "https://kitsu.io/anime/twin-angel-break",
       "year_match": true,
-      "image_path": "images/kitsu-12295.jpg"
+      "image_path": "images/kitsu-12295.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2813,7 +2852,8 @@
       ],
       "site_url": "https://kitsu.io/anime/eromanga-sensei",
       "year_match": true,
-      "image_path": "images/kitsu-11914.jpg"
+      "image_path": "images/kitsu-11914.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2850,7 +2890,8 @@
       ],
       "site_url": "https://kitsu.io/anime/re-creators",
       "year_match": true,
-      "image_path": "images/kitsu-13055.jpg"
+      "image_path": "images/kitsu-13055.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2885,7 +2926,8 @@
       ],
       "site_url": "https://kitsu.io/anime/id-0",
       "year_match": true,
-      "image_path": "images/kitsu-12484.jpg"
+      "image_path": "images/kitsu-12484.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2920,7 +2962,8 @@
         "Drama"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-12551.jpg"
+      "image_path": "images/kitsu-12551.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2954,7 +2997,8 @@
       ],
       "site_url": "https://kitsu.io/anime/zero-kara-hajimeru-mahou-no-sho",
       "year_match": true,
-      "image_path": "images/kitsu-12623.jpg"
+      "image_path": "images/kitsu-12623.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2993,7 +3037,8 @@
       ],
       "site_url": "https://kitsu.io/anime/fukumenkei-noise",
       "year_match": true,
-      "image_path": "images/kitsu-12117.jpg"
+      "image_path": "images/kitsu-12117.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3034,7 +3079,8 @@
       ],
       "site_url": "https://kitsu.io/anime/shuumatsu-nani-shitemasu-ka-isogashii-desu-ka-sukutte-moratte-ii-desu-ka",
       "year_match": true,
-      "image_path": "images/kitsu-12769.jpg"
+      "image_path": "images/kitsu-12769.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3068,7 +3114,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kenka-banchou-otome-girl-beats-boys",
       "year_match": true,
-      "image_path": "images/kitsu-12821.jpg"
+      "image_path": "images/kitsu-12821.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3101,7 +3148,8 @@
       ],
       "site_url": "https://kitsu.io/anime/one-room",
       "year_match": true,
-      "image_path": "images/kitsu-12758.jpg"
+      "image_path": "images/kitsu-12758.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3135,7 +3183,8 @@
       ],
       "site_url": "https://kitsu.io/anime/gamers",
       "year_match": true,
-      "image_path": "images/kitsu-12754.jpg"
+      "image_path": "images/kitsu-12754.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3171,7 +3220,8 @@
       ],
       "site_url": "https://kitsu.io/anime/saenai-heroine-no-sodatekata-flat",
       "year_match": true,
-      "image_path": "images/kitsu-10909.jpg"
+      "image_path": "images/kitsu-10909.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3206,7 +3256,8 @@
       ],
       "site_url": "https://kitsu.io/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatte-iru-darouka-gaiden-sword-oratoria",
       "year_match": true,
-      "image_path": "images/kitsu-11902.jpg"
+      "image_path": "images/kitsu-11902.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3240,7 +3291,8 @@
       ],
       "site_url": "https://kitsu.io/anime/sin-nanatsu-no-taizai",
       "year_match": true,
-      "image_path": "images/kitsu-12540.jpg"
+      "image_path": "images/kitsu-12540.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3272,7 +3324,8 @@
       ],
       "site_url": "https://kitsu.io/anime/100-pascal-sensei",
       "year_match": true,
-      "image_path": "images/kitsu-13412.jpg"
+      "image_path": "images/kitsu-13412.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3306,7 +3359,8 @@
       ],
       "site_url": "https://kitsu.io/anime/atom-the-beginning",
       "year_match": true,
-      "image_path": "images/kitsu-12235.jpg"
+      "image_path": "images/kitsu-12235.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3339,7 +3393,8 @@
       ],
       "site_url": "https://kitsu.io/anime/puripuri-chii-chan",
       "year_match": true,
-      "image_path": "images/kitsu-13434.jpg"
+      "image_path": "images/kitsu-13434.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3374,7 +3429,8 @@
       ],
       "site_url": "https://kitsu.io/anime/tomica-hyper-rescue-drive-head-kidou-kyuukyuu-keisatsu",
       "year_match": true,
-      "image_path": "images/kitsu-12913.jpg"
+      "image_path": "images/kitsu-12913.jpg",
+      "similarity": 0.75
     }
   },
   {
@@ -3412,7 +3468,8 @@
       ],
       "site_url": "https://kitsu.io/anime/yu-gi-oh-vrains",
       "year_match": true,
-      "image_path": "images/kitsu-13189.jpg"
+      "image_path": "images/kitsu-13189.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3449,7 +3506,8 @@
       ],
       "site_url": "https://kitsu.io/anime/luck-logic",
       "year_match": true,
-      "image_path": "images/kitsu-11536.jpg"
+      "image_path": "images/kitsu-11536.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3484,7 +3542,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kakegurui",
       "year_match": true,
-      "image_path": "images/kitsu-13252.jpg"
+      "image_path": "images/kitsu-13252.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3517,7 +3576,8 @@
       ],
       "site_url": "https://kitsu.io/anime/katsugeki-touken-ranbu",
       "year_match": true,
-      "image_path": "images/kitsu-11994.jpg"
+      "image_path": "images/kitsu-11994.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3551,7 +3611,8 @@
       ],
       "site_url": "https://kitsu.io/anime/senki-zesshou-symphogear-axz-by-shedding-many-tears-the-reality-you-face-is",
       "year_match": true,
-      "image_path": "images/kitsu-11883.jpg"
+      "image_path": "images/kitsu-11883.jpg",
+      "similarity": 0.67
     }
   },
   {
@@ -3585,7 +3646,8 @@
       ],
       "site_url": "https://kitsu.io/anime/battle-girl-high-school",
       "year_match": true,
-      "image_path": "images/kitsu-13115.jpg"
+      "image_path": "images/kitsu-13115.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3619,7 +3681,8 @@
       ],
       "site_url": "https://kitsu.io/anime/keppeki-danshi-aoyama-kun",
       "year_match": true,
-      "image_path": "images/kitsu-13280.jpg"
+      "image_path": "images/kitsu-13280.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3659,7 +3722,8 @@
       ],
       "site_url": "https://kitsu.io/anime/fate-apocrypha",
       "year_match": true,
-      "image_path": "images/kitsu-13066.jpg"
+      "image_path": "images/kitsu-13066.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3696,7 +3760,8 @@
       ],
       "site_url": "https://kitsu.io/anime/knights-and-magic",
       "year_match": true,
-      "image_path": "images/kitsu-13274.jpg"
+      "image_path": "images/kitsu-13274.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3730,7 +3795,8 @@
       ],
       "site_url": "https://kitsu.io/anime/youkai-apartment-no-yuuga-na-nichijou",
       "year_match": true,
-      "image_path": "images/kitsu-13260.jpg"
+      "image_path": "images/kitsu-13260.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3766,7 +3832,8 @@
       ],
       "site_url": "https://kitsu.io/anime/isekai-shokudou",
       "year_match": true,
-      "image_path": "images/kitsu-12535.jpg"
+      "image_path": "images/kitsu-12535.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3801,7 +3868,8 @@
       ],
       "site_url": "https://kitsu.io/anime/aho-girl",
       "year_match": true,
-      "image_path": "images/kitsu-13259.jpg"
+      "image_path": "images/kitsu-13259.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3835,7 +3903,8 @@
       ],
       "site_url": "https://kitsu.io/anime/koi-to-uso",
       "year_match": true,
-      "image_path": "images/kitsu-13257.jpg"
+      "image_path": "images/kitsu-13257.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3868,7 +3937,8 @@
       ],
       "site_url": "https://kitsu.io/anime/nana-maru-san-batsu",
       "year_match": true,
-      "image_path": "images/kitsu-13263.jpg"
+      "image_path": "images/kitsu-13263.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3902,7 +3972,8 @@
       ],
       "site_url": "https://kitsu.io/anime/tsurezure-children",
       "year_match": true,
-      "image_path": "images/kitsu-13258.jpg"
+      "image_path": "images/kitsu-13258.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3934,7 +4005,8 @@
       ],
       "site_url": "https://kitsu.io/anime/netsuzou-trap",
       "year_match": true,
-      "image_path": "images/kitsu-12757.jpg"
+      "image_path": "images/kitsu-12757.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3981,7 +4053,8 @@
       ],
       "site_url": "https://kitsu.io/anime/konbini-kareshi",
       "year_match": true,
-      "image_path": "images/kitsu-13537.jpg"
+      "image_path": "images/kitsu-13537.jpg",
+      "similarity": 0.67
     }
   },
   {
@@ -4016,7 +4089,8 @@
       ],
       "site_url": "https://kitsu.io/anime/free-dive-to-the-future",
       "year_match": true,
-      "image_path": "images/kitsu-14010.jpg"
+      "image_path": "images/kitsu-14010.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4049,7 +4123,8 @@
       ],
       "site_url": "https://kitsu.io/anime/18-if",
       "year_match": true,
-      "image_path": "images/kitsu-13281.jpg"
+      "image_path": "images/kitsu-13281.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4083,7 +4158,8 @@
       ],
       "site_url": "https://kitsu.io/anime/action-heroine-cheer-fruits",
       "year_match": true,
-      "image_path": "images/kitsu-13539.jpg"
+      "image_path": "images/kitsu-13539.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4118,7 +4194,8 @@
       ],
       "site_url": "https://kitsu.io/anime/shoukoku-no-altair",
       "year_match": true,
-      "image_path": "images/kitsu-13057.jpg"
+      "image_path": "images/kitsu-13057.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4152,7 +4229,8 @@
       ],
       "site_url": "https://kitsu.io/anime/jikan-no-shihaisha",
       "year_match": true,
-      "image_path": "images/kitsu-12971.jpg"
+      "image_path": "images/kitsu-12971.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4191,7 +4269,8 @@
       ],
       "site_url": "https://kitsu.io/anime/made-in-abyss",
       "year_match": true,
-      "image_path": "images/kitsu-13273.jpg"
+      "image_path": "images/kitsu-13273.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4226,7 +4305,8 @@
       ],
       "site_url": "https://kitsu.io/anime/vatican-kiseki-chosakan",
       "year_match": true,
-      "image_path": "images/kitsu-12732.jpg"
+      "image_path": "images/kitsu-12732.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4261,7 +4341,8 @@
       ],
       "site_url": "https://kitsu.io/anime/hitorijime-my-hero",
       "year_match": true,
-      "image_path": "images/kitsu-12318.jpg"
+      "image_path": "images/kitsu-12318.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4297,7 +4378,8 @@
       ],
       "site_url": "https://kitsu.io/anime/ballroom-e-youkoso",
       "year_match": true,
-      "image_path": "images/kitsu-13068.jpg"
+      "image_path": "images/kitsu-13068.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4333,7 +4415,8 @@
       ],
       "site_url": "https://kitsu.io/anime/centaur-no-nayami",
       "year_match": true,
-      "image_path": "images/kitsu-13270.jpg"
+      "image_path": "images/kitsu-13270.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4370,7 +4453,8 @@
       ],
       "site_url": "https://kitsu.io/anime/princess-principal",
       "year_match": true,
-      "image_path": "images/kitsu-13261.jpg"
+      "image_path": "images/kitsu-13261.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4405,7 +4489,8 @@
       ],
       "site_url": "https://kitsu.io/anime/tenshi-no-3p",
       "year_match": true,
-      "image_path": "images/kitsu-12624.jpg"
+      "image_path": "images/kitsu-12624.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4442,7 +4527,8 @@
       ],
       "site_url": "https://kitsu.io/anime/isekai-wa-smartphone-to-tomo-ni",
       "year_match": true,
-      "image_path": "images/kitsu-13457.jpg"
+      "image_path": "images/kitsu-13457.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4477,7 +4563,8 @@
         "Comedy"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-13402.jpg"
+      "image_path": "images/kitsu-13402.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4516,7 +4603,8 @@
         "Working Life"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-11467.jpg"
+      "image_path": "images/kitsu-11467.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4552,7 +4640,8 @@
       ],
       "site_url": "https://kitsu.io/anime/musekinin-galaxy-tylor",
       "year_match": true,
-      "image_path": "images/kitsu-13561.jpg"
+      "image_path": "images/kitsu-13561.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4589,7 +4678,8 @@
       ],
       "site_url": "https://kitsu.io/anime/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-tv",
       "year_match": true,
-      "image_path": "images/kitsu-13503.jpg"
+      "image_path": "images/kitsu-13503.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4619,7 +4709,8 @@
       "genres": [],
       "site_url": "https://kitsu.io/anime/clione-no-akari",
       "year_match": true,
-      "image_path": "images/kitsu-13231.jpg"
+      "image_path": "images/kitsu-13231.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4655,7 +4746,8 @@
         "Sports"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-11597.jpg"
+      "image_path": "images/kitsu-11597.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4690,7 +4782,8 @@
       ],
       "site_url": "https://kitsu.io/anime/hajimete-no-gal",
       "year_match": true,
-      "image_path": "images/kitsu-12761.jpg"
+      "image_path": "images/kitsu-12761.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4723,7 +4816,8 @@
       ],
       "site_url": "https://kitsu.io/anime/nora-to-oujo-to-noraneko-heart",
       "year_match": true,
-      "image_path": "images/kitsu-11811.jpg"
+      "image_path": "images/kitsu-11811.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4788,7 +4882,8 @@
       ],
       "site_url": "https://kitsu.io/anime/uq-holder",
       "year_match": true,
-      "image_path": "images/kitsu-12273.jpg"
+      "image_path": "images/kitsu-12273.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4825,7 +4920,8 @@
       ],
       "site_url": "https://kitsu.io/anime/black-clover-tv",
       "year_match": true,
-      "image_path": "images/kitsu-13209.jpg"
+      "image_path": "images/kitsu-13209.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4863,7 +4959,8 @@
       ],
       "site_url": "https://kitsu.io/anime/shokugeki-no-souma-san-no-sara",
       "year_match": true,
-      "image_path": "images/kitsu-13581.jpg"
+      "image_path": "images/kitsu-13581.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -4897,7 +4994,8 @@
       ],
       "site_url": "https://kitsu.io/anime/infini-t-force",
       "year_match": true,
-      "image_path": "images/kitsu-12131.jpg"
+      "image_path": "images/kitsu-12131.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4931,7 +5029,8 @@
       ],
       "site_url": "https://kitsu.io/anime/juuni-taisen",
       "year_match": true,
-      "image_path": "images/kitsu-13225.jpg"
+      "image_path": "images/kitsu-13225.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4965,7 +5064,8 @@
       ],
       "site_url": "https://kitsu.io/anime/osake-wa-fuufu-ni-natte-kara",
       "year_match": true,
-      "image_path": "images/kitsu-13719.jpg"
+      "image_path": "images/kitsu-13719.jpg",
+      "similarity": 0.75
     }
   },
   {
@@ -4999,7 +5099,8 @@
       ],
       "site_url": "https://kitsu.io/anime/sengoku-night-blood",
       "year_match": true,
-      "image_path": "images/kitsu-13784.jpg"
+      "image_path": "images/kitsu-13784.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5034,7 +5135,8 @@
       ],
       "site_url": "https://kitsu.io/anime/konohana-kitan",
       "year_match": true,
-      "image_path": "images/kitsu-13752.jpg"
+      "image_path": "images/kitsu-13752.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5071,7 +5173,8 @@
       ],
       "site_url": "https://kitsu.io/anime/urahara",
       "year_match": true,
-      "image_path": "images/kitsu-13638.jpg"
+      "image_path": "images/kitsu-13638.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5103,7 +5206,8 @@
       ],
       "site_url": "https://kitsu.io/anime/dynamic-chord",
       "year_match": true,
-      "image_path": "images/kitsu-12945.jpg"
+      "image_path": "images/kitsu-12945.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5137,7 +5241,8 @@
         "School Life"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-13530.jpg"
+      "image_path": "images/kitsu-13530.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5176,7 +5281,8 @@
       ],
       "site_url": "https://kitsu.io/anime/ousama-game-the-animation",
       "year_match": true,
-      "image_path": "images/kitsu-13727.jpg"
+      "image_path": "images/kitsu-13727.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5214,7 +5320,8 @@
       ],
       "site_url": "https://kitsu.io/anime/shoujo-shuumatsu-ryokou",
       "year_match": true,
-      "image_path": "images/kitsu-13597.jpg"
+      "image_path": "images/kitsu-13597.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5248,7 +5355,8 @@
         "Slice of Life"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-13467.jpg"
+      "image_path": "images/kitsu-13467.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5281,7 +5389,8 @@
       ],
       "site_url": "https://kitsu.io/anime/net-juu-no-susume",
       "year_match": true,
-      "image_path": "images/kitsu-13703.jpg"
+      "image_path": "images/kitsu-13703.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5318,7 +5427,8 @@
       ],
       "site_url": "https://kitsu.io/anime/yuuki-yuuna-wa-yuusha-de-aru-washio-sumi-no-shou-movie-3",
       "year_match": true,
-      "image_path": "images/kitsu-13122.jpg"
+      "image_path": "images/kitsu-13122.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5360,7 +5470,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kekkai-sensen-beyond",
       "year_match": true,
-      "image_path": "images/kitsu-12770.jpg"
+      "image_path": "images/kitsu-12770.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5393,7 +5504,8 @@
       ],
       "site_url": "https://kitsu.io/anime/classicaloid",
       "year_match": true,
-      "image_path": "images/kitsu-11172.jpg"
+      "image_path": "images/kitsu-11172.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5430,7 +5542,8 @@
       ],
       "site_url": "https://kitsu.io/anime/code-realize-sousei-no-himegimi",
       "year_match": true,
-      "image_path": "images/kitsu-11338.jpg"
+      "image_path": "images/kitsu-11338.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5466,7 +5579,8 @@
       ],
       "site_url": "https://kitsu.io/anime/dies-irae",
       "year_match": true,
-      "image_path": "images/kitsu-11212.jpg"
+      "image_path": "images/kitsu-11212.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5501,7 +5615,8 @@
       ],
       "site_url": "https://kitsu.io/anime/garo-vanishing-line",
       "year_match": true,
-      "image_path": "images/kitsu-13730.jpg"
+      "image_path": "images/kitsu-13730.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5535,7 +5650,8 @@
         "Comedy"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-13226.jpg"
+      "image_path": "images/kitsu-13226.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5571,7 +5687,8 @@
       ],
       "site_url": "https://kitsu.io/anime/houseki-no-kuni-tv",
       "year_match": true,
-      "image_path": "images/kitsu-13521.jpg"
+      "image_path": "images/kitsu-13521.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5615,7 +5732,8 @@
       ],
       "site_url": "https://kitsu.io/anime/love-live-sunshine",
       "year_match": true,
-      "image_path": "images/kitsu-11745.jpg"
+      "image_path": "images/kitsu-11745.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5649,7 +5767,8 @@
       ],
       "site_url": "https://kitsu.io/anime/pingu-in-the-city",
       "year_match": true,
-      "image_path": "images/kitsu-13783.jpg"
+      "image_path": "images/kitsu-13783.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5691,7 +5810,8 @@
       ],
       "site_url": "https://kitsu.io/anime/mahoutsukai-no-yome",
       "year_match": true,
-      "image_path": "images/kitsu-13228.jpg"
+      "image_path": "images/kitsu-13228.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5724,7 +5844,8 @@
       ],
       "site_url": "https://kitsu.io/anime/the-idolmaster-side-m",
       "year_match": true,
-      "image_path": "images/kitsu-13755.jpg"
+      "image_path": "images/kitsu-13755.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -5758,7 +5879,8 @@
       ],
       "site_url": "https://kitsu.io/anime/time-bokan-gyakushuu-no-san-akunin",
       "year_match": true,
-      "image_path": "images/kitsu-13484.jpg"
+      "image_path": "images/kitsu-13484.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5790,7 +5912,8 @@
         "Motorsport"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-13680.jpg"
+      "image_path": "images/kitsu-13680.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5824,7 +5947,8 @@
       ],
       "site_url": "https://kitsu.io/anime/animegataris",
       "year_match": true,
-      "image_path": "images/kitsu-13699.jpg"
+      "image_path": "images/kitsu-13699.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5857,7 +5981,8 @@
       ],
       "site_url": "https://kitsu.io/anime/imouto-sae-ireba-ii",
       "year_match": true,
-      "image_path": "images/kitsu-11207.jpg"
+      "image_path": "images/kitsu-11207.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5890,7 +6015,8 @@
       ],
       "site_url": "https://kitsu.io/anime/blend-s",
       "year_match": true,
-      "image_path": "images/kitsu-13465.jpg"
+      "image_path": "images/kitsu-13465.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5923,7 +6049,8 @@
       ],
       "site_url": "https://kitsu.io/anime/cardfight-vanguard-g-z",
       "year_match": true,
-      "image_path": "images/kitsu-13786.jpg"
+      "image_path": "images/kitsu-13786.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5963,7 +6090,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kujira-no-kora-wa-sajou-ni-utau",
       "year_match": true,
-      "image_path": "images/kitsu-13229.jpg"
+      "image_path": "images/kitsu-13229.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5997,7 +6125,8 @@
         "School Life"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-13489.jpg"
+      "image_path": "images/kitsu-13489.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -6030,7 +6159,8 @@
         "Music"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-13707.jpg"
+      "image_path": "images/kitsu-13707.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -6066,7 +6196,8 @@
       ],
       "site_url": "https://kitsu.io/anime/inuyashiki",
       "year_match": true,
-      "image_path": "images/kitsu-13096.jpg"
+      "image_path": "images/kitsu-13096.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -6101,7 +6232,8 @@
       ],
       "site_url": "https://kitsu.io/anime/boku-no-kanojo-ga-majimesugiru-sho-bitch-na-ken",
       "year_match": true,
-      "image_path": "images/kitsu-13693.jpg"
+      "image_path": "images/kitsu-13693.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -6137,7 +6269,8 @@
       ],
       "site_url": "https://kitsu.io/anime/yuuki-yuuna-wa-yuusha-de-aru-yuusha-no-shou-tv",
       "year_match": true,
-      "image_path": "images/kitsu-13160.jpg"
+      "image_path": "images/kitsu-13160.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -6151,28 +6284,7 @@
     "episodes": "20",
     "studio": "Asahi Production",
     "director": "Hatsuki Tsuji",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "12863",
-      "title_romaji": "Chou Yuu Sekai: Being the Reality",
-      "title_english": null,
-      "title_native": "超游世界 -BEING THE REALITY-",
-      "description": "A hot-blooded high school teen, a mysterious female swordsman, and an unpredictable dark emo girl. It's impossible to distinguish between reality and the game world! What kind of conspiracy is awaiting them in this super journey of the world!",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/12863/large.jpg",
-      "kitsu_year": 2017,
-      "format": "ONA",
-      "episodes": 20,
-      "genres": [
-        "Virtual Reality",
-        "Fantasy",
-        "Romance",
-        "Action",
-        "Adventure"
-      ],
-      "site_url": "https://kitsu.io/anime/chou-yuu-sekai-being-the-reality",
-      "year_match": true,
-      "image_path": "images/kitsu-12863.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 2017,
@@ -6201,7 +6313,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kakuchou-shoujo-kei-trinary",
       "year_match": true,
-      "image_path": "images/kitsu-12592.jpg"
+      "image_path": "images/kitsu-12592.jpg",
+      "similarity": 1.0
     }
   }
 ]

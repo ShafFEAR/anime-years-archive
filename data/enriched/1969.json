@@ -26,7 +26,8 @@
       ],
       "site_url": "https://kitsu.io/anime/wonder-kun-no-hatsu-yume-uchuu-ryokou",
       "year_match": true,
-      "image_path": "images/kitsu-6819.jpg"
+      "image_path": "images/kitsu-6819.jpg",
+      "similarity": 0.2
     }
   },
   {
@@ -60,7 +61,8 @@
       ],
       "site_url": "https://kitsu.io/anime/himitsu-no-akko-chan",
       "year_match": true,
-      "image_path": "images/kitsu-2908.jpg"
+      "image_path": "images/kitsu-2908.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -94,7 +96,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kaitei-shounen-marine",
       "year_match": true,
-      "image_path": "images/kitsu-5526.jpg"
+      "image_path": "images/kitsu-5526.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -124,7 +127,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kaitei-toshi-no-dekiru-made",
       "year_match": true,
-      "image_path": "images/kitsu-9359.jpg"
+      "image_path": "images/kitsu-9359.jpg",
+      "similarity": 0.0
     }
   },
   {
@@ -138,26 +142,7 @@
     "type": "Movie",
     "demographic": "Family, Children",
     "regions": "JA",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "2064",
-      "title_romaji": "Nagagutsu wo Haita Neko",
-      "title_english": null,
-      "title_native": "長靴をはいた猫",
-      "description": "A comic adaptation of Charles Perrault's classic fairy tale about a clever musketeer feline in boots. His goal is to help the weak and defenseless, but his saving a mouse makes him the most wanted in all Catdom. On the run from the notorious Three Blunderers, Perro befriends a young miller's boy, Pierre, and together, they decide to seek their fame and fortune. When they cross paths with the lovely Princess Rosa, Perro determines to get Pierre hitched to Her Royal Highness. But the wicked ogre, Lucifer, also has his sights on Rosa. Nonetheless, with the help of a band of comic mice thieves, Perro manages to get Pierre to become engaged to Rosa. But on the night of the full moon, Lucifer kidnaps the princess, and Pierre, Perro, and the mice bandits set off to rescue her.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/2064/large.jpg",
-      "kitsu_year": 1969,
-      "format": "movie",
-      "episodes": 1,
-      "genres": [
-        "Fantasy",
-        "Adventure",
-        "Kids"
-      ],
-      "site_url": "https://kitsu.io/anime/nagagutsu-wo-haita-neko",
-      "year_match": true,
-      "image_path": "images/kitsu-2064.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1969,
@@ -188,7 +173,8 @@
         "Kids"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-9043.jpg"
+      "image_path": "images/kitsu-9043.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -219,7 +205,8 @@
       ],
       "site_url": "https://kitsu.io/anime/umeboshi-denka",
       "year_match": true,
-      "image_path": "images/kitsu-6824.jpg"
+      "image_path": "images/kitsu-6824.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -252,7 +239,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kurenai-sanshiro",
       "year_match": true,
-      "image_path": "images/kitsu-3607.jpg"
+      "image_path": "images/kitsu-3607.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -295,7 +283,8 @@
         "Action"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-6516.jpg"
+      "image_path": "images/kitsu-6516.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -334,7 +323,8 @@
         "Violence"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-3888.jpg"
+      "image_path": "images/kitsu-3888.jpg",
+      "similarity": 0.67
     }
   },
   {
@@ -364,7 +354,8 @@
       ],
       "site_url": "https://kitsu.io/anime/roppou-yabure-kun",
       "year_match": true,
-      "image_path": "images/kitsu-9558.jpg"
+      "image_path": "images/kitsu-9558.jpg",
+      "similarity": 0.0
     }
   },
   {
@@ -411,7 +402,8 @@
       ],
       "site_url": "https://kitsu.io/anime/sora-tobu-yuurei-sen",
       "year_match": true,
-      "image_path": "images/kitsu-2566.jpg"
+      "image_path": "images/kitsu-2566.jpg",
+      "similarity": 0.0
     }
   },
   {
@@ -427,23 +419,23 @@
     "regions": "JA",
     "enrichment": {
       "source": "kitsu",
-      "source_id": "4296",
-      "title_romaji": "Kyojin no Hoshi",
+      "source_id": "9019",
+      "title_romaji": "Kyojin no Hoshi: Chizome no Kesshousen",
       "title_english": null,
-      "title_native": "巨人の星",
-      "description": "The story is about Hyuma Hoshi, a promising young baseball pitcher who dreams of becoming a top star like his father Ittetsu Hoshi in the professional Japanese league. His father was once a 3rd baseman until he was injured in World War II and was forced to retire. The boy would join the ever popular Giants team, and soon he realized the difficulty of managing the high expectations. From the grueling training to battling the rival Mitsuru Hanagata on the Hanshin Tigers, he would have to take out his best pitching magic to step up to the challenge.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/4296/large.jpg",
-      "kitsu_year": 1968,
-      "format": "TV",
-      "episodes": 182,
+      "title_native": "巨人の星 血ぞめの決勝戦",
+      "description": "First Kyojin no Hoshi movie.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/9019/large.jpg",
+      "kitsu_year": 1969,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/kyojin-no-hoshi-chizome-no-kesshousen",
       "genres": [
-        "Action",
-        "Sports",
-        "Baseball"
+        "Baseball",
+        "Sports"
       ],
-      "site_url": "https://kitsu.io/anime/kyojin-no-hoshi",
       "year_match": true,
-      "image_path": "images/kitsu-4296.jpg"
+      "similarity": 0.0,
+      "image_path": "images/kitsu-9019.jpg"
     }
   },
   {
@@ -473,7 +465,8 @@
       ],
       "site_url": "https://kitsu.io/anime/pinch-to-punch",
       "year_match": true,
-      "image_path": "images/kitsu-9534.jpg"
+      "image_path": "images/kitsu-9534.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -487,30 +480,7 @@
     "type": "TV",
     "demographic": "Shōnen",
     "regions": "JA",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "9172",
-      "title_romaji": "Otoko Ippiki Gaki Daishou",
-      "title_english": null,
-      "title_native": "男一匹ガキ大将",
-      "description": "TV anime adaptation of Motomiya Hiroshi's manga \"Otoko Ippiki Gaki Daishou\" about young gang leader and all the trouble and fights his gang gets into, serialized in Weekly Shonen Jump.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/9172/large.jpg",
-      "kitsu_year": 1969,
-      "format": "TV",
-      "episodes": 156,
-      "genres": [
-        "Drama",
-        "Action",
-        "Shounen",
-        "Violence",
-        "Middle School",
-        "Friendship",
-        "Adventure"
-      ],
-      "site_url": "https://kitsu.io/anime/otoko-ippiki-gaki-daishou",
-      "year_match": true,
-      "image_path": "images/kitsu-9172.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1969,
@@ -542,7 +512,8 @@
       ],
       "site_url": "https://kitsu.io/anime/tiger-mask",
       "year_match": true,
-      "image_path": "images/kitsu-2720.jpg"
+      "image_path": "images/kitsu-2720.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -556,27 +527,7 @@
     "type": "TV",
     "demographic": "Family, Children",
     "regions": "JA",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "5258",
-      "title_romaji": "Muumin",
-      "title_english": null,
-      "title_native": "ムーミン",
-      "description": "Very loosely based upon the Moomin books by Finnish author Tove Jansson. Jansson, however, never really approved of the series due to dramatic changes in plot, atmosphere, character personality, appearance and names etc. The series was directed to adults rather than children.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/5258/large.jpg",
-      "kitsu_year": 1969,
-      "format": "TV",
-      "episodes": 65,
-      "site_url": "https://kitsu.io/anime/moomin",
-      "genres": [
-        "Fantasy",
-        "Adventure",
-        "Comedy",
-        "Slice of Life"
-      ],
-      "year_match": true,
-      "image_path": "images/kitsu-5258.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1969,
@@ -609,7 +560,8 @@
       ],
       "site_url": "https://kitsu.io/anime/hakushon-daimaou",
       "year_match": true,
-      "image_path": "images/kitsu-2626.jpg"
+      "image_path": "images/kitsu-2626.jpg",
+      "similarity": 0.0
     }
   },
   {
@@ -640,7 +592,8 @@
       ],
       "site_url": "https://kitsu.io/anime/sazae-san",
       "year_match": true,
-      "image_path": "images/kitsu-2182.jpg"
+      "image_path": "images/kitsu-2182.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -689,7 +642,8 @@
       ],
       "site_url": "https://kitsu.io/anime/attack-no-1",
       "year_match": true,
-      "image_path": "images/kitsu-1391.jpg"
+      "image_path": "images/kitsu-1391.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -705,23 +659,23 @@
     "regions": "JA",
     "enrichment": {
       "source": "kitsu",
-      "source_id": "4296",
-      "title_romaji": "Kyojin no Hoshi",
+      "source_id": "9415",
+      "title_romaji": "Kyojin no Hoshi: Ike Ike Hyuuma",
       "title_english": null,
-      "title_native": "巨人の星",
-      "description": "The story is about Hyuma Hoshi, a promising young baseball pitcher who dreams of becoming a top star like his father Ittetsu Hoshi in the professional Japanese league. His father was once a 3rd baseman until he was injured in World War II and was forced to retire. The boy would join the ever popular Giants team, and soon he realized the difficulty of managing the high expectations. From the grueling training to battling the rival Mitsuru Hanagata on the Hanshin Tigers, he would have to take out his best pitching magic to step up to the challenge.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/4296/large.jpg",
-      "kitsu_year": 1968,
-      "format": "TV",
-      "episodes": 182,
+      "title_native": "巨人の星 行け行け飛雄馬",
+      "description": "Second Kyojin no Hoshi movie.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/9415/large.jpg",
+      "kitsu_year": 1969,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/kyojin-no-hoshi-ike-ike-hyuuma",
       "genres": [
-        "Action",
-        "Sports",
-        "Baseball"
+        "Baseball",
+        "Sports"
       ],
-      "site_url": "https://kitsu.io/anime/kyojin-no-hoshi",
       "year_match": true,
-      "image_path": "images/kitsu-4296.jpg"
+      "similarity": 0.0,
+      "image_path": "images/kitsu-9415.jpg"
     }
   },
   {
@@ -758,7 +712,8 @@
       ],
       "site_url": "https://kitsu.io/anime/ashita-no-joe",
       "year_match": true,
-      "image_path": "images/kitsu-2178.jpg"
+      "image_path": "images/kitsu-2178.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -808,7 +763,8 @@
       ],
       "site_url": "https://kitsu.io/anime/lupin-iii-pilot-film",
       "year_match": true,
-      "image_path": "images/kitsu-3997.jpg"
+      "image_path": "images/kitsu-3997.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -824,23 +780,23 @@
     "regions": "JA",
     "enrichment": {
       "source": "kitsu",
-      "source_id": "4843",
-      "title_romaji": "Kemeko no Love",
+      "source_id": "4836",
+      "title_romaji": "G-senjou no Higeki",
       "title_english": null,
-      "title_native": "ケメ子のLOVE",
-      "description": "Experimental short film from Yoji Kuri.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/4843/large.jpg",
-      "kitsu_year": 1968,
+      "title_native": "G線上の悲劇",
+      "description": "Short experimental animation from Yoji Kuri.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/4836/large.jpg",
+      "kitsu_year": 1969,
       "format": "movie",
       "episodes": 1,
-      "site_url": "https://kitsu.io/anime/love-of-kemoko",
+      "site_url": "https://kitsu.io/anime/tragedy-on-the-g-line",
       "genres": [
-        "Music",
         "Comedy",
-        "Romance"
+        "Dementia"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-4843.jpg"
+      "similarity": 0.0,
+      "image_path": "images/kitsu-4836.jpg"
     }
   },
   {
@@ -871,7 +827,8 @@
       ],
       "site_url": "https://kitsu.io/anime/forty-four-hiki-no-neko",
       "year_match": true,
-      "image_path": "images/kitsu-5415.jpg"
+      "image_path": "images/kitsu-5415.jpg",
+      "similarity": 0.0
     }
   }
 ]

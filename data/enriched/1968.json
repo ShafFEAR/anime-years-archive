@@ -12,27 +12,29 @@
     "regions": "JA",
     "enrichment": {
       "source": "kitsu",
-      "source_id": "4246",
-      "title_romaji": "Gegege no Kitarou (1968)",
-      "title_english": null,
+      "source_id": "8921",
+      "title_romaji": "Gegege no Kitarou (1968 Movie)",
+      "title_english": "Spooky Kitaro",
       "title_native": "ゲゲゲの鬼太郎",
-      "description": "Kitarou, a ghost, spends his afterlife helping humans in need of his skills. He thwarts the plans of evil spirits who live to torment humanity.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/4246/large.jpg",
+      "description": "A retelling of episodes 5-6 from the 1968 TV anime.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/8921/large.jpg",
       "kitsu_year": 1968,
-      "format": "TV",
-      "episodes": 65,
-      "site_url": "https://kitsu.io/anime/gegege-no-kitarou-1968",
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/gegege-no-kitarou-1968-movie",
       "genres": [
-        "Present",
+        "Earth",
         "Contemporary Fantasy",
         "Japan",
+        "Asia",
         "Fantasy",
         "Adventure",
         "Horror",
         "Comedy"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-4246.jpg"
+      "similarity": 1.0,
+      "image_path": "images/kitsu-8921.jpg"
     }
   },
   {
@@ -63,7 +65,8 @@
         "Mystery"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-6674.jpg"
+      "image_path": "images/kitsu-6674.jpg",
+      "similarity": 0.0
     }
   },
   {
@@ -95,7 +98,8 @@
       ],
       "site_url": "https://kitsu.io/anime/andersen-monogatari-match-uri-no-shoujo",
       "year_match": true,
-      "image_path": "images/kitsu-3929.jpg"
+      "image_path": "images/kitsu-3929.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -127,7 +131,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kyojin-no-hoshi",
       "year_match": true,
-      "image_path": "images/kitsu-4296.jpg"
+      "image_path": "images/kitsu-4296.jpg",
+      "similarity": 0.0
     }
   },
   {
@@ -157,7 +162,8 @@
         "Sports"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-9190.jpg"
+      "image_path": "images/kitsu-9190.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -191,7 +197,8 @@
         "Adventure"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-3741.jpg"
+      "image_path": "images/kitsu-3741.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -223,7 +230,8 @@
       ],
       "site_url": "https://kitsu.io/anime/fight-da-pyuta",
       "year_match": true,
-      "image_path": "images/kitsu-9261.jpg"
+      "image_path": "images/kitsu-9261.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -258,7 +266,8 @@
       ],
       "site_url": "https://kitsu.io/anime/akane-chan",
       "year_match": true,
-      "image_path": "images/kitsu-9186.jpg"
+      "image_path": "images/kitsu-9186.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -290,7 +299,8 @@
         "Comedy"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-2813.jpg"
+      "image_path": "images/kitsu-2813.jpg",
+      "similarity": 0.0
     }
   },
   {
@@ -304,28 +314,7 @@
     "type": "Movie",
     "demographic": "Family, Children",
     "regions": "JA",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "934",
-      "title_romaji": "Taiyou no Ouji: Horus no Daibouken",
-      "title_english": "The Little Norse Prince",
-      "title_native": "太陽の王子 ホルスの大冒険",
-      "description": "Horus is a boy that one day, hunted by silver wolfs, found the sword of the sun. The day his father died he left his home to find the people from the town his father told him. Together with a small bear named Koro he start the journey an run into a great adventure fighting against Grunwald and his subordinates who wants to rule the world.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/934/large.jpg",
-      "kitsu_year": 1968,
-      "format": "movie",
-      "episodes": 1,
-      "genres": [
-        "Fantasy",
-        "Adventure",
-        "Coming Of Age",
-        "Magic",
-        "Anthropomorphism"
-      ],
-      "site_url": "https://kitsu.io/anime/taiyou-no-ouji-horus-no-daibouken",
-      "year_match": true,
-      "image_path": "images/kitsu-934.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1968,
@@ -360,7 +349,8 @@
         "Comedy"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-4246.jpg"
+      "image_path": "images/kitsu-4246.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -392,7 +382,8 @@
         "Action"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-4401.jpg"
+      "image_path": "images/kitsu-4401.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -406,24 +397,7 @@
     "type": "JA",
     "demographic": "Shōnen",
     "regions": "NA",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "6807",
-      "title_romaji": "Yuuyake Banchou",
-      "title_english": null,
-      "title_native": "夕やけ番長",
-      "description": "A transfer student only just arrives and is confronted by the school gang. One by one he defeats the gang members and challenges their leader to a fight. Each 10 minute episode aired Monday through Saturday.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/6807/large.jpg",
-      "kitsu_year": 1968,
-      "format": "TV",
-      "episodes": 26,
-      "genres": [
-        "Action"
-      ],
-      "site_url": "https://kitsu.io/anime/yuuyake-banchou",
-      "year_match": true,
-      "image_path": "images/kitsu-6807.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1968,
@@ -453,7 +427,8 @@
       ],
       "site_url": "https://kitsu.io/anime/dokachin",
       "year_match": true,
-      "image_path": "images/kitsu-7346.jpg"
+      "image_path": "images/kitsu-7346.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -494,7 +469,8 @@
       ],
       "site_url": "https://kitsu.io/anime/sabu-to-ichi-torimono-hikae",
       "year_match": true,
-      "image_path": "images/kitsu-4379.jpg"
+      "image_path": "images/kitsu-4379.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -538,7 +514,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kyubi-no-kitsune-to-tobimaru-sesshoseki",
       "year_match": true,
-      "image_path": "images/kitsu-9419.jpg"
+      "image_path": "images/kitsu-9419.jpg",
+      "similarity": 0.33
     }
   },
   {
@@ -568,7 +545,8 @@
         "Parody"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-3035.jpg"
+      "image_path": "images/kitsu-3035.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -598,7 +576,8 @@
         "Action"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-6516.jpg"
+      "image_path": "images/kitsu-6516.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -630,7 +609,8 @@
         "Romance"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-4843.jpg"
+      "image_path": "images/kitsu-4843.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -646,23 +626,23 @@
     "regions": "JA",
     "enrichment": {
       "source": "kitsu",
-      "source_id": "4843",
-      "title_romaji": "Kemeko no Love",
+      "source_id": "10419",
+      "title_romaji": "Ni-hiki no Sanma (1968)",
       "title_english": null,
-      "title_native": "ケメ子のLOVE",
-      "description": "Experimental short film from Yoji Kuri.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/4843/large.jpg",
+      "title_native": "二匹のサンマ",
+      "description": "The international version of Ni-hiki no Sanma that is colored, redrawn, and edited.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/10419/large.jpg",
       "kitsu_year": 1968,
       "format": "movie",
       "episodes": 1,
-      "site_url": "https://kitsu.io/anime/love-of-kemoko",
+      "site_url": "https://kitsu.io/anime/ni-hiki-no-sanma-1968",
       "genres": [
-        "Music",
-        "Comedy",
-        "Romance"
+        "Island",
+        "Comedy"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-4843.jpg"
+      "similarity": 0.0,
+      "image_path": "images/kitsu-10419.jpg"
     }
   },
   {
@@ -692,7 +672,8 @@
         "Comedy"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-4914.jpg"
+      "image_path": "images/kitsu-4914.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -722,7 +703,8 @@
         "Comedy"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-6881.jpg"
+      "image_path": "images/kitsu-6881.jpg",
+      "similarity": 0.0
     }
   }
 ]

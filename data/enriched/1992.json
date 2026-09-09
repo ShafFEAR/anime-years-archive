@@ -15,36 +15,23 @@
     "ref": "[ 1 ] [ better source needed ]",
     "enrichment": {
       "source": "kitsu",
-      "source_id": "860",
-      "title_romaji": "Yokoyama Mitsuteru Sangokushi",
+      "source_id": "5084",
+      "title_romaji": "Sangokushi Daiichibu Eiyuu-tachi no Yoake",
       "title_english": null,
-      "title_native": "横山光輝 三国志",
-      "description": "Around 1800 years ago in China, the ruling power of the Han dynasty became weakened and the flames of war spread throughout the land. Liu Bei was a young, poor straw-mat seller from the countryside of Hebai Hsing. After pledging eternal brotherhood with the two heroes, Guan Yu and Zhang Fei, Liu began building his idea of a righteous kingdom that would aid citizens who suffered from persecution.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/860/large.jpg",
-      "kitsu_year": 1991,
-      "format": "TV",
-      "episodes": 47,
+      "title_native": "三国志 第一部 英雄たちの夜明け",
+      "description": "An anime based on the Romance of the Three Kingdoms novel.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/5084/large.jpg",
+      "kitsu_year": 1992,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/sangokushi-daiichibu-eiyuu-tachi-no-yoake",
       "genres": [
-        "China",
-        "Three Kingdoms",
-        "Action",
-        "Asia",
-        "Earth",
-        "Alternative Past",
-        "Feudal Warfare",
-        "Swordplay",
-        "War",
-        "Past",
-        "Politics",
-        "Disaster",
-        "Plot Continuity",
-        "Military",
         "Historical",
-        "Adventure"
+        "Three Kingdoms"
       ],
-      "site_url": "https://kitsu.io/anime/romance-of-the-three-kingdoms",
       "year_match": true,
-      "image_path": "images/kitsu-860.jpg"
+      "similarity": 0.6,
+      "image_path": "images/kitsu-5084.jpg"
     }
   },
   {
@@ -78,7 +65,8 @@
       ],
       "site_url": "https://kitsu.io/anime/doraemon-nobita-and-the-kingdom-of-clouds",
       "year_match": true,
-      "image_path": "images/kitsu-2425.jpg"
+      "image_path": "images/kitsu-2425.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -95,31 +83,7 @@
     "demographic": "Shōnen",
     "genre": "martial arts ; fighting; sci-fi; action",
     "ref": "[ 3 ] [ better source needed ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "8611",
-      "title_romaji": "Dragon Ball Z: Zenbu Misemasu Toshi Wasure Dragon Ball Z!",
-      "title_english": null,
-      "title_native": "全部見せます 年忘れドラゴンボールZ!",
-      "description": "In this film, which is believed to take place some time around the 25th World Martial Arts Tournament, Gohan and Goten are having a hot bath outside in the middle of winter. Goku (who is still dead) suddenly appears in front of his sons with the help of his Instant Transmission, and joins them in the tub. While there, the three Saiyans reflect back on the events that occurred during the Cell Games. Inside the house after Chi-Chi appeared, Goku tells his sons about Pikkon and the Other World Tournament. Later, the four members of the Son family appear dressed nicely. Gohan says that the adult division of the Tournament will begin this next year (in 1994), and the special comes to an end.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/8611/large.jpg",
-      "kitsu_year": 1993,
-      "format": "special",
-      "episodes": 1,
-      "genres": [
-        "Comedy",
-        "Super Power",
-        "Fantasy",
-        "Slice of Life",
-        "Action",
-        "Adventure",
-        "Martial Arts",
-        "Shounen"
-      ],
-      "site_url": "https://kitsu.io/anime/dragon-ball-z-zenbu-misemasu-toshi-wasure-dragon-ball-z",
-      "year_match": true,
-      "image_path": "images/kitsu-8611.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1992,
@@ -135,29 +99,7 @@
     "demographic": "",
     "genre": "",
     "ref": "[ 4 ] [ better source needed ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "9023",
-      "title_romaji": "Magical★Taruruuto-kun: Sukisuki Takoyaki!",
-      "title_english": null,
-      "title_native": "まじかる★タルるートくん すきすき♡タコ焼きっ!",
-      "description": "The third movie of Magical Taruruuto-kun",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/9023/large.jpg",
-      "kitsu_year": 1992,
-      "format": "movie",
-      "episodes": 1,
-      "site_url": "https://kitsu.io/anime/magical-taruruuto-kun-sukisuki-takoyaki",
-      "genres": [
-        "Magic",
-        "Fantasy",
-        "Adventure",
-        "Comedy",
-        "Ecchi",
-        "School Life"
-      ],
-      "year_match": true,
-      "image_path": "images/kitsu-9023.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1992,
@@ -208,7 +150,8 @@
         "Slice of Life"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-652.jpg"
+      "image_path": "images/kitsu-652.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -247,7 +190,8 @@
         "Drama"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-2696.jpg"
+      "image_path": "images/kitsu-2696.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -285,7 +229,8 @@
         "Adventure"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-3834.jpg"
+      "image_path": "images/kitsu-3834.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -318,31 +263,7 @@
     "demographic": "Shōnen",
     "genre": "martial arts; fighting; sci-fi; action",
     "ref": "[ 7 ] [ better source needed ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "8611",
-      "title_romaji": "Dragon Ball Z: Zenbu Misemasu Toshi Wasure Dragon Ball Z!",
-      "title_english": null,
-      "title_native": "全部見せます 年忘れドラゴンボールZ!",
-      "description": "In this film, which is believed to take place some time around the 25th World Martial Arts Tournament, Gohan and Goten are having a hot bath outside in the middle of winter. Goku (who is still dead) suddenly appears in front of his sons with the help of his Instant Transmission, and joins them in the tub. While there, the three Saiyans reflect back on the events that occurred during the Cell Games. Inside the house after Chi-Chi appeared, Goku tells his sons about Pikkon and the Other World Tournament. Later, the four members of the Son family appear dressed nicely. Gohan says that the adult division of the Tournament will begin this next year (in 1994), and the special comes to an end.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/8611/large.jpg",
-      "kitsu_year": 1993,
-      "format": "special",
-      "episodes": 1,
-      "genres": [
-        "Comedy",
-        "Super Power",
-        "Fantasy",
-        "Slice of Life",
-        "Action",
-        "Adventure",
-        "Martial Arts",
-        "Shounen"
-      ],
-      "site_url": "https://kitsu.io/anime/dragon-ball-z-zenbu-misemasu-toshi-wasure-dragon-ball-z",
-      "year_match": true,
-      "image_path": "images/kitsu-8611.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1992,
@@ -358,31 +279,7 @@
     "demographic": "Shōnen",
     "genre": "action-adventure; fantasy",
     "ref": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "8611",
-      "title_romaji": "Dragon Ball Z: Zenbu Misemasu Toshi Wasure Dragon Ball Z!",
-      "title_english": null,
-      "title_native": "全部見せます 年忘れドラゴンボールZ!",
-      "description": "In this film, which is believed to take place some time around the 25th World Martial Arts Tournament, Gohan and Goten are having a hot bath outside in the middle of winter. Goku (who is still dead) suddenly appears in front of his sons with the help of his Instant Transmission, and joins them in the tub. While there, the three Saiyans reflect back on the events that occurred during the Cell Games. Inside the house after Chi-Chi appeared, Goku tells his sons about Pikkon and the Other World Tournament. Later, the four members of the Son family appear dressed nicely. Gohan says that the adult division of the Tournament will begin this next year (in 1994), and the special comes to an end.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/8611/large.jpg",
-      "kitsu_year": 1993,
-      "format": "special",
-      "episodes": 1,
-      "genres": [
-        "Comedy",
-        "Super Power",
-        "Fantasy",
-        "Slice of Life",
-        "Action",
-        "Adventure",
-        "Martial Arts",
-        "Shounen"
-      ],
-      "site_url": "https://kitsu.io/anime/dragon-ball-z-zenbu-misemasu-toshi-wasure-dragon-ball-z",
-      "year_match": true,
-      "image_path": "images/kitsu-8611.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1992,
@@ -417,7 +314,8 @@
       ],
       "site_url": "https://kitsu.io/anime/rokudenashi-blues",
       "year_match": true,
-      "image_path": "images/kitsu-5596.jpg"
+      "image_path": "images/kitsu-5596.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -453,7 +351,8 @@
       ],
       "site_url": "https://kitsu.io/anime/senbon-matsubara",
       "year_match": true,
-      "image_path": "images/kitsu-9573.jpg"
+      "image_path": "images/kitsu-9573.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -496,7 +395,8 @@
       ],
       "site_url": "https://kitsu.io/anime/porco-rosso",
       "year_match": true,
-      "image_path": "images/kitsu-380.jpg"
+      "image_path": "images/kitsu-380.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -538,7 +438,8 @@
         "Violence"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-1898.jpg"
+      "image_path": "images/kitsu-1898.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -576,7 +477,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kaze-no-tairiku",
       "year_match": true,
-      "image_path": "images/kitsu-1597.jpg"
+      "image_path": "images/kitsu-1597.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -634,7 +536,8 @@
         "Slice of Life"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-1807.jpg"
+      "image_path": "images/kitsu-1807.jpg",
+      "similarity": 0.6
     }
   },
   {
@@ -673,7 +576,8 @@
       ],
       "site_url": "https://kitsu.io/anime/tottoi",
       "year_match": true,
-      "image_path": "images/kitsu-4140.jpg"
+      "image_path": "images/kitsu-4140.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -711,7 +615,8 @@
       ],
       "site_url": "https://kitsu.io/anime/mobile-suit-gundam-0083-the-fading-light-of-zeon",
       "year_match": true,
-      "image_path": "images/kitsu-2457.jpg"
+      "image_path": "images/kitsu-2457.jpg",
+      "similarity": 0.71
     }
   },
   {
@@ -745,7 +650,8 @@
       ],
       "site_url": "https://kitsu.io/anime/shou-chan-sora-wo-tobu",
       "year_match": true,
-      "image_path": "images/kitsu-11055.jpg"
+      "image_path": "images/kitsu-11055.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -764,30 +670,31 @@
     "ref": "[ 14 ] [ better source needed ]",
     "enrichment": {
       "source": "kitsu",
-      "source_id": "2726",
-      "title_romaji": "Ginga Eiyuu Densetsu: Arata Naru Tatakai no Overture",
-      "title_english": "Legend of the Galactic Heroes: Overture to a New War",
-      "title_native": "銀河英雄伝説外伝　新たなる戦いの序曲[オーヴァチュア]",
-      "description": "Based on a series of sci-fi novels, this series tells the story of a massive conflict between the Prussia-like Galactic Empire and the Free Planets Alliance. It describes all levels of the war, from the tactical to the strategic, but focuses most on the two opposing militaries' leaders: Reinhard Von Lohengramm and Yang Wen-Li.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/2726/large.jpg",
-      "kitsu_year": 1993,
+      "source_id": "2725",
+      "title_romaji": "Ginga Eiyuu Densetsu Gaiden: Ougon no Tsubasa",
+      "title_english": "Legend of the Galactic Heroes: Golden Wings",
+      "title_native": "銀河英雄伝説外伝　黄金の翼",
+      "description": "Reinhard von Müsel, a poor nobleman's son, one day discovers that his sister, Annerose, has been sold to the royal family. To get her back he sets out to rise quickly through the military along with his friend Siegfried Kircheis.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2725/large.jpg",
+      "kitsu_year": 1992,
       "format": "movie",
       "episodes": 1,
-      "site_url": "https://kitsu.io/anime/ginga-eiyuu-densetsu-arata-naru-tatakai-no-overture",
+      "site_url": "https://kitsu.io/anime/ginga-eiyuu-densetsu-gaiden-ougon-no-tsubasa",
       "genres": [
         "Future",
         "Space",
         "Space Travel",
+        "Other Planet",
         "Shipboard",
+        "Plot Continuity",
         "Action",
         "Science Fiction",
         "Politics",
-        "Military",
-        "Space Battles",
-        "Space Opera"
+        "Drama"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-2726.jpg"
+      "similarity": 1.0,
+      "image_path": "images/kitsu-2725.jpg"
     }
   },
   {
@@ -824,7 +731,8 @@
       ],
       "site_url": "https://kitsu.io/anime/apfelland-monogatari",
       "year_match": true,
-      "image_path": "images/kitsu-4236.jpg"
+      "image_path": "images/kitsu-4236.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -860,7 +768,8 @@
         "School Life"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-5695.jpg"
+      "image_path": "images/kitsu-5695.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -898,7 +807,8 @@
       ],
       "site_url": "https://kitsu.io/anime/mama-wa-shougaku-4-nensei",
       "year_match": true,
-      "image_path": "images/kitsu-300.jpg"
+      "image_path": "images/kitsu-300.jpg",
+      "similarity": 0.67
     }
   },
   {
@@ -934,7 +844,8 @@
       ],
       "site_url": "https://kitsu.io/anime/the-bush-baby",
       "year_match": true,
-      "image_path": "images/kitsu-2641.jpg"
+      "image_path": "images/kitsu-2641.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -981,7 +892,8 @@
       ],
       "site_url": "https://kitsu.io/anime/bishoujo-senshi-sailor-moon-r",
       "year_match": true,
-      "image_path": "images/kitsu-664.jpg"
+      "image_path": "images/kitsu-664.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1016,7 +928,8 @@
       ],
       "site_url": "https://kitsu.io/anime/genki-bakuhatsu-ganbaruger",
       "year_match": true,
-      "image_path": "images/kitsu-2643.jpg"
+      "image_path": "images/kitsu-2643.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1051,7 +964,8 @@
       ],
       "site_url": "https://kitsu.io/anime/tomatoman",
       "year_match": true,
-      "image_path": "images/kitsu-3980.jpg"
+      "image_path": "images/kitsu-3980.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1091,7 +1005,8 @@
       ],
       "site_url": "https://kitsu.io/anime/crayon-shin-chan",
       "year_match": true,
-      "image_path": "images/kitsu-856.jpg"
+      "image_path": "images/kitsu-856.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1127,7 +1042,8 @@
       ],
       "site_url": "https://kitsu.io/anime/ashita-e-free-kick",
       "year_match": true,
-      "image_path": "images/kitsu-3314.jpg"
+      "image_path": "images/kitsu-3314.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1168,7 +1084,8 @@
       ],
       "site_url": "https://kitsu.io/anime/aa-harimanada",
       "year_match": true,
-      "image_path": "images/kitsu-5248.jpg"
+      "image_path": "images/kitsu-5248.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1205,7 +1122,8 @@
       ],
       "site_url": "https://kitsu.io/anime/yadamon",
       "year_match": true,
-      "image_path": "images/kitsu-2562.jpg"
+      "image_path": "images/kitsu-2562.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1247,7 +1165,8 @@
       ],
       "site_url": "https://kitsu.io/anime/hime-chan-no-ribbon",
       "year_match": true,
-      "image_path": "images/kitsu-1836.jpg"
+      "image_path": "images/kitsu-1836.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1285,7 +1204,8 @@
       ],
       "site_url": "https://kitsu.io/anime/tsuyoshi-shikkari-shinasai",
       "year_match": true,
-      "image_path": "images/kitsu-4375.jpg"
+      "image_path": "images/kitsu-4375.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1334,7 +1254,8 @@
       ],
       "site_url": "https://kitsu.io/anime/yu-yu-hakusho",
       "year_match": true,
-      "image_path": "images/kitsu-359.jpg"
+      "image_path": "images/kitsu-359.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1352,25 +1273,7 @@
     "demographic": "",
     "genre": "drama",
     "ref": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "2802",
-      "title_romaji": "Kaze no Naka no Shoujo: Kinpatsu no Jeanie",
-      "title_english": null,
-      "title_native": "風の中の少女 金髪のジェニー",
-      "description": "The story begins in a small town, Pennsylvania in 1838. Jeanie MacDowell is a cheerful and beautiful girl with light brown hair. Jeanie enjoys playing the piano and loves taking piano lessons from her mother. Steven, a good harmonica player, and Bill, a black boy who is very good at playing the banjo, are great friends of Jeanie's. They enjoy playing music together like a small band. However, Jeanie's happy life changes dramatically after her mother suddenly passes away. Experiencing many difficulties and learning the importance of life, she decides to devote her life to helping many people suffering from illness. This series is a highly emotional love story about the relationship between young Stephen Foster, who later becomes a famous composer and author of children's songs, and young Jeanie MacDowell, who becomes Stephen Foster's wife.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/2802/large.jpg",
-      "kitsu_year": 1992,
-      "format": "TV",
-      "episodes": 52,
-      "genres": [
-        "Historical",
-        "Drama"
-      ],
-      "site_url": "https://kitsu.io/anime/kaze-no-naka-no-shoujo-kinpatsu-no-jeanie",
-      "year_match": true,
-      "image_path": "images/kitsu-2802.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1992,
@@ -1407,7 +1310,8 @@
       ],
       "site_url": "https://kitsu.io/anime/mikan-enikki",
       "year_match": true,
-      "image_path": "images/kitsu-2947.jpg"
+      "image_path": "images/kitsu-2947.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1443,7 +1347,8 @@
       ],
       "site_url": "https://kitsu.io/anime/handsome-girl",
       "year_match": true,
-      "image_path": "images/kitsu-999.jpg"
+      "image_path": "images/kitsu-999.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -1484,7 +1389,8 @@
       ],
       "site_url": "https://kitsu.io/anime/video-girl-ai",
       "year_match": true,
-      "image_path": "images/kitsu-178.jpg"
+      "image_path": "images/kitsu-178.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1523,7 +1429,8 @@
       ],
       "site_url": "https://kitsu.io/anime/joker-marginal-city",
       "year_match": true,
-      "image_path": "images/kitsu-3177.jpg"
+      "image_path": "images/kitsu-3177.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1561,7 +1468,8 @@
       ],
       "site_url": "https://kitsu.io/anime/sousei-kishi-gaiarth",
       "year_match": true,
-      "image_path": "images/kitsu-1867.jpg"
+      "image_path": "images/kitsu-1867.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1619,7 +1527,8 @@
       ],
       "site_url": "https://kitsu.io/anime/ko-seiki-beast-sanjuushi",
       "year_match": true,
-      "image_path": "images/kitsu-557.jpg"
+      "image_path": "images/kitsu-557.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1668,7 +1577,8 @@
       ],
       "site_url": "https://kitsu.io/anime/macross-ii-lovers-again",
       "year_match": true,
-      "image_path": "images/kitsu-1137.jpg"
+      "image_path": "images/kitsu-1137.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1708,7 +1618,8 @@
       ],
       "site_url": "https://kitsu.io/anime/spirit-of-wonder-china-san-no-yuuutsu",
       "year_match": true,
-      "image_path": "images/kitsu-2195.jpg"
+      "image_path": "images/kitsu-2195.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1741,7 +1652,8 @@
       ],
       "site_url": "https://kitsu.io/anime/seikima-ii-humane-society-jinrui-ai-ni-michita-shakai",
       "year_match": true,
-      "image_path": "images/kitsu-5471.jpg"
+      "image_path": "images/kitsu-5471.jpg",
+      "similarity": 0.83
     }
   },
   {
@@ -1775,7 +1687,8 @@
       ],
       "site_url": "https://kitsu.io/anime/hard-loose",
       "year_match": true,
-      "image_path": "images/kitsu-4421.jpg"
+      "image_path": "images/kitsu-4421.jpg",
+      "similarity": 0.71
     }
   },
   {
@@ -1814,7 +1727,8 @@
       ],
       "site_url": "https://kitsu.io/anime/iron-virgin-jun",
       "year_match": true,
-      "image_path": "images/kitsu-1476.jpg"
+      "image_path": "images/kitsu-1476.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1848,7 +1762,8 @@
       ],
       "site_url": "https://kitsu.io/anime/mikeneko-holmes-no-yuurei-joushu",
       "year_match": true,
-      "image_path": "images/kitsu-6696.jpg"
+      "image_path": "images/kitsu-6696.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -1887,7 +1802,8 @@
       ],
       "site_url": "https://kitsu.io/anime/giant-robo-the-animation-chikyuu-ga-seishi-suru-hi",
       "year_match": true,
-      "image_path": "images/kitsu-2102.jpg"
+      "image_path": "images/kitsu-2102.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1924,7 +1840,8 @@
       ],
       "site_url": "https://kitsu.io/anime/houkago-no-tinker-bell",
       "year_match": true,
-      "image_path": "images/kitsu-6934.jpg"
+      "image_path": "images/kitsu-6934.jpg",
+      "similarity": 0.67
     }
   },
   {
@@ -1965,7 +1882,8 @@
         "Adventure"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-3214.jpg"
+      "image_path": "images/kitsu-3214.jpg",
+      "similarity": 0.8
     }
   },
   {
@@ -2001,7 +1919,8 @@
       ],
       "site_url": "https://kitsu.io/anime/nozomi-witches",
       "year_match": true,
-      "image_path": "images/kitsu-1851.jpg"
+      "image_path": "images/kitsu-1851.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2043,7 +1962,8 @@
       ],
       "site_url": "https://kitsu.io/anime/delinquent-in-drag",
       "year_match": true,
-      "image_path": "images/kitsu-2546.jpg"
+      "image_path": "images/kitsu-2546.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2084,7 +2004,8 @@
       ],
       "site_url": "https://kitsu.io/anime/bastard",
       "year_match": true,
-      "image_path": "images/kitsu-371.jpg"
+      "image_path": "images/kitsu-371.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2119,7 +2040,8 @@
       ],
       "site_url": "https://kitsu.io/anime/domain-of-murder",
       "year_match": true,
-      "image_path": "images/kitsu-3773.jpg"
+      "image_path": "images/kitsu-3773.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2160,7 +2082,8 @@
       ],
       "site_url": "https://kitsu.io/anime/hanappe-bazooka",
       "year_match": true,
-      "image_path": "images/kitsu-3427.jpg"
+      "image_path": "images/kitsu-3427.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2200,7 +2123,8 @@
         "Shounen"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-747.jpg"
+      "image_path": "images/kitsu-747.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2244,7 +2168,8 @@
       ],
       "site_url": "https://kitsu.io/anime/tenchi-muyo-ryo-ohki",
       "year_match": true,
-      "image_path": "images/kitsu-498.jpg"
+      "image_path": "images/kitsu-498.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2285,7 +2210,8 @@
       ],
       "site_url": "https://kitsu.io/anime/tokyo-babylon",
       "year_match": true,
-      "image_path": "images/kitsu-933.jpg"
+      "image_path": "images/kitsu-933.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2327,7 +2253,8 @@
       ],
       "site_url": "https://kitsu.io/anime/bannou-bunka-neko-musume",
       "year_match": true,
-      "image_path": "images/kitsu-340.jpg"
+      "image_path": "images/kitsu-340.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2367,7 +2294,8 @@
       ],
       "site_url": "https://kitsu.io/anime/gensou-jotan-ellcia",
       "year_match": true,
-      "image_path": "images/kitsu-3026.jpg"
+      "image_path": "images/kitsu-3026.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2414,7 +2342,8 @@
       ],
       "site_url": "https://kitsu.io/anime/jigen-sengokushi-kuro-no-shishi-jinnai-hen",
       "year_match": true,
-      "image_path": "images/kitsu-1579.jpg"
+      "image_path": "images/kitsu-1579.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2430,24 +2359,7 @@
     "director": "Hidehito Ueda",
     "studio": "AIC; J.C. Staff",
     "ref": "[ 31 ] [ better source needed ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "3828",
-      "title_romaji": "Fuuma no Kojirou: Fuuma Hanran-hen",
-      "title_english": null,
-      "title_native": "風魔の小次郎～風魔反乱篇～",
-      "description": "After the Chaos war, Kojiro and Ryuma return to earth only to find their clan members killing off each other.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/3828/large.jpg",
-      "kitsu_year": 1991,
-      "format": "OVA",
-      "episodes": 1,
-      "site_url": "https://kitsu.io/anime/fuuma-no-kojirou-fuuma-hanran-hen",
-      "genres": [
-        "Action"
-      ],
-      "year_match": true,
-      "image_path": "images/kitsu-3828.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1992,
@@ -2485,7 +2397,8 @@
       ],
       "site_url": "https://kitsu.io/anime/green-legend-ran",
       "year_match": true,
-      "image_path": "images/kitsu-1050.jpg"
+      "image_path": "images/kitsu-1050.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2501,27 +2414,7 @@
     "director": "Takashi Watanabe",
     "studio": "Tokyo Kids",
     "ref": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "9708",
-      "title_romaji": "Ys IV: The Dawn of Ys",
-      "title_english": null,
-      "title_native": "イースIV 新作 OVA",
-      "description": "This was an animated promotional video that Falcom commissioned for Ys IV: The Dawn of Ys game for PC Engine, to shop around to various production houses. This was done in hopes of getting it made into a full-scale animated series/movie/etc., but it never panned out.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/9708/large.jpg",
-      "kitsu_year": 1993,
-      "format": "special",
-      "episodes": 1,
-      "genres": [
-        "Virtual Reality",
-        "Fantasy",
-        "Action",
-        "Adventure"
-      ],
-      "site_url": "https://kitsu.io/anime/ys-iv-the-dawn-of-ys",
-      "year_match": true,
-      "image_path": "images/kitsu-9708.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1992,
@@ -2553,7 +2446,8 @@
         "Ecchi"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-4181.jpg"
+      "image_path": "images/kitsu-4181.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2589,7 +2483,8 @@
       ],
       "site_url": "https://kitsu.io/anime/download",
       "year_match": true,
-      "image_path": "images/kitsu-2825.jpg"
+      "image_path": "images/kitsu-2825.jpg",
+      "similarity": 0.75
     }
   },
   {
@@ -2627,7 +2522,8 @@
       ],
       "site_url": "https://kitsu.io/anime/eien-no-filena",
       "year_match": true,
-      "image_path": "images/kitsu-4247.jpg"
+      "image_path": "images/kitsu-4247.jpg",
+      "similarity": 0.5
     }
   }
 ]

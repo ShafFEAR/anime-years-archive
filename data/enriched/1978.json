@@ -32,7 +32,8 @@
       ],
       "site_url": "https://kitsu.io/anime/perrine-monogatari",
       "year_match": true,
-      "image_path": "images/kitsu-2314.jpg"
+      "image_path": "images/kitsu-2314.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -63,7 +64,8 @@
       ],
       "site_url": "https://kitsu.io/anime/majokko-tickle",
       "year_match": true,
-      "image_path": "images/kitsu-3321.jpg"
+      "image_path": "images/kitsu-3321.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -77,26 +79,7 @@
     "type": "Movie",
     "demographic": "Family",
     "regions": "Japan, United States",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "2617",
-      "title_romaji": "Hoshi no Orpheus",
-      "title_english": "Winds of Change",
-      "title_native": "星のオルフェウス",
-      "description": "A magical blending of old and new, with colorful animation and an exciting disco/rock musical score, \"Winds of Change\" is a re-telling of 5 ancient Greek myths. These delightful cautionary tales are adapted from the classical author, Ovid, with a new character, called Wondermaker added. Wondermaker acts as our guide to each episode's meaning, and transforms himself into each of its heroes. First, he is Perseus cutting off the head of Medusa; then, Actaeon being turned into a deer for spying on the goddess Diana as she bathes; the god Mercury in a tale of envy; Orpheus descending into Hades for his love, Eurydice; and finally, Phaeton wreaking havoc with the sun-god's chariot.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/2617/large.jpg",
-      "kitsu_year": 1979,
-      "format": "movie",
-      "episodes": 1,
-      "site_url": "https://kitsu.io/anime/hoshi-no-orpheus",
-      "genres": [
-        "Fantasy",
-        "Adventure",
-        "Kids"
-      ],
-      "year_match": true,
-      "image_path": "images/kitsu-2617.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1978,
@@ -131,7 +114,8 @@
       ],
       "site_url": "https://kitsu.io/anime/chirin-no-suzu",
       "year_match": true,
-      "image_path": "images/kitsu-1990.jpg"
+      "image_path": "images/kitsu-1990.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -170,7 +154,8 @@
         "Crime"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-890.jpg"
+      "image_path": "images/kitsu-890.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -201,7 +186,8 @@
       ],
       "site_url": "https://kitsu.io/anime/wakusei-robo-danguard-ace-uchuu-daikaisen",
       "year_match": true,
-      "image_path": "images/kitsu-4131.jpg"
+      "image_path": "images/kitsu-4131.jpg",
+      "similarity": 0.8
     }
   },
   {
@@ -232,7 +218,8 @@
       ],
       "site_url": "https://kitsu.io/anime/sekai-meisaku-douwa-oyayubi-hime",
       "year_match": true,
-      "image_path": "images/kitsu-3232.jpg"
+      "image_path": "images/kitsu-3232.jpg",
+      "similarity": 0.75
     }
   },
   {
@@ -264,7 +251,8 @@
       ],
       "site_url": "https://kitsu.io/anime/ikkyuu-san-to-yancha-hime",
       "year_match": true,
-      "image_path": "images/kitsu-8878.jpg"
+      "image_path": "images/kitsu-8878.jpg",
+      "similarity": 0.67
     }
   },
   {
@@ -296,7 +284,8 @@
       ],
       "site_url": "https://kitsu.io/anime/candy-candy-haru-no-yobigoe",
       "year_match": true,
-      "image_path": "images/kitsu-2557.jpg"
+      "image_path": "images/kitsu-2557.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -310,26 +299,7 @@
     "type": "TV",
     "demographic": "Shōnen",
     "regions": "Japan, Spain, Italy, Philippines, Poland, China (Hong Kong), China (Taiwan)",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "3887",
-      "title_romaji": "Toushi Gordian",
-      "title_english": "Gordian Warrior",
-      "title_native": "闘士ゴーディアン",
-      "description": "The Earth had become a wasteland of deserts as the survivors work to rebuild communities. Daigo Otaki is a young orphan raised by his uncle. Becoming an adult, Daigo discovers that Victor City was in fact planned by his father who was a genius scientist. Daigo's sister Saori had been managing it. She plead Daigo to take on the inheritance that Daigo's father left him, a super robot system known as Gordian. Daigo would join the Mechacon mechanic combat 18th regiment unit, an organization of law enforcers that defend Victor City against attacks from the Madokuta organization.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/3887/large.jpg",
-      "kitsu_year": 1979,
-      "format": "TV",
-      "episodes": 73,
-      "site_url": "https://kitsu.io/anime/toushi-gordian",
-      "genres": [
-        "Mecha",
-        "Action",
-        "Science Fiction"
-      ],
-      "year_match": true,
-      "image_path": "images/kitsu-3887.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1978,
@@ -366,7 +336,8 @@
       ],
       "site_url": "https://kitsu.io/anime/sf-saiyuuki-starzinger",
       "year_match": true,
-      "image_path": "images/kitsu-1112.jpg"
+      "image_path": "images/kitsu-1112.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -404,7 +375,8 @@
       ],
       "site_url": "https://kitsu.io/anime/mirai-shounen-conan",
       "year_match": true,
-      "image_path": "images/kitsu-276.jpg"
+      "image_path": "images/kitsu-276.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -418,27 +390,7 @@
     "type": "TV",
     "demographic": "Shōnen",
     "regions": "Japan",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "9865",
-      "title_romaji": "Ikkyuu-san (1978)",
-      "title_english": null,
-      "title_native": "一球さん",
-      "description": "High-school student Ikkyuu knows nothing about baseball, but his talents are recognized by the manager of the baseball club, and he takes up this enchanting sport. While his ignorance of the game leads him to make many mistakes, Ikkyuu - who is in fact a descendant of ninja - displays his superhuman abilities and leads the team to the High School Baseball Championships.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/9865/large.jpg",
-      "kitsu_year": 1978,
-      "format": "TV",
-      "episodes": 26,
-      "genres": [
-        "Action",
-        "Sports",
-        "Baseball",
-        "School Life"
-      ],
-      "site_url": "https://kitsu.io/anime/ikkyuu-san-1978",
-      "year_match": true,
-      "image_path": "images/kitsu-9865.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1978,
@@ -469,7 +421,8 @@
         "Comedy"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-6049.jpg"
+      "image_path": "images/kitsu-6049.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -507,7 +460,8 @@
         "Slice of Life"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-2944.jpg"
+      "image_path": "images/kitsu-2944.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -540,7 +494,8 @@
         "Adventure"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-3267.jpg"
+      "image_path": "images/kitsu-3267.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -572,7 +527,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kagaku-ninja-tai-gatchaman-movie",
       "year_match": true,
-      "image_path": "images/kitsu-2826.jpg"
+      "image_path": "images/kitsu-2826.jpg",
+      "similarity": 0.67
     }
   },
   {
@@ -611,7 +567,8 @@
         "Crime"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-890.jpg"
+      "image_path": "images/kitsu-890.jpg",
+      "similarity": 0.67
     }
   },
   {
@@ -642,7 +599,8 @@
       ],
       "site_url": "https://kitsu.io/anime/candy-candy-candy-no-natsu-yasumi",
       "year_match": true,
-      "image_path": "images/kitsu-2558.jpg"
+      "image_path": "images/kitsu-2558.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -656,30 +614,7 @@
     "type": "TV",
     "demographic": "Shōnen",
     "regions": "Japan, Korea, Spain, Italy",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "6086",
-      "title_romaji": "Uchuu Majin Daikengou",
-      "title_english": null,
-      "title_native": "宇宙魔神ダイケンゴー",
-      "description": "Giant robot Daikengo flies through space to re-establish galactic peace; on-board prince Ryger, who ran away from his planet Emperius to defeat the menace out of his reign borders, in order to save his people; Cleo, corrupted prime minister's daughter, help him along with two nice little robots, Anike and Otoke. They fight evil Lady Baracross, leading invasion forces, with her assistant Roboleon, wearing a Napoleon style hat. Daikengo is the first robot with scuttles on his mouth. When he opens them, his vampire style teeth are shown and he can spit fire.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/6086/large.jpg",
-      "kitsu_year": 1978,
-      "format": "TV",
-      "episodes": 26,
-      "genres": [
-        "Science Fiction",
-        "Mecha",
-        "Super Robot",
-        "Robot",
-        "Space",
-        "Action",
-        "Adventure"
-      ],
-      "site_url": "https://kitsu.io/anime/uchuu-mazin-daikengo",
-      "year_match": true,
-      "image_path": "images/kitsu-6086.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1978,
@@ -692,29 +627,7 @@
     "type": "TV",
     "demographic": "Shōnen",
     "regions": "Japan, Italy",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "2923",
-      "title_romaji": "Muteki Koujin Daitarn 3",
-      "title_english": null,
-      "title_native": "無敵鋼人ダイターン３",
-      "description": "Souzou Haran was a brilliant scientist that was conducting research on Mars. He created a form of cyborg life with the ability to think for itself. These cyborgs, dubbed the Meganoids, soon ran out of control and killed Dr. Haran along with his whole family, save his youngest son, the 16-year-old Banjou Haran. Banjou escapes from Mars on a rocket with a solar-powered super robot called Daitarn 3, which was built with the special metals of Mars. Now eighteen years old and living on Earth in a luxurious mansion, Banjou fights against the Meganoids with the aid of his faithful butler Garrison and his two gorgeous companions Reika and Beauty. Together they must stop the evil Meganoids which aspire to turn all humans into cyborgs and thus \"improve\" the human race.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/2923/large.jpg",
-      "kitsu_year": 1978,
-      "format": "TV",
-      "episodes": 40,
-      "genres": [
-        "Transforming Craft",
-        "Science Fiction",
-        "Mecha",
-        "Super Robot",
-        "Piloted Robot",
-        "Robot"
-      ],
-      "site_url": "https://kitsu.io/anime/muteki-koujin-daitarn-3",
-      "year_match": true,
-      "image_path": "images/kitsu-2923.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1978,
@@ -750,7 +663,8 @@
       ],
       "site_url": "https://kitsu.io/anime/saraba-uchuu-senkan-yamato-ai-no-senshitachi",
       "year_match": true,
-      "image_path": "images/kitsu-2766.jpg"
+      "image_path": "images/kitsu-2766.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -783,7 +697,8 @@
       ],
       "site_url": "https://kitsu.io/anime/one-million-year-trip-bander-book",
       "year_match": true,
-      "image_path": "images/kitsu-3943.jpg"
+      "image_path": "images/kitsu-3943.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -820,7 +735,8 @@
       ],
       "site_url": "https://kitsu.io/anime/ore-wa-teppei",
       "year_match": true,
-      "image_path": "images/kitsu-3281.jpg"
+      "image_path": "images/kitsu-3281.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -863,7 +779,8 @@
       ],
       "site_url": "https://kitsu.io/anime/galaxy-express-999",
       "year_match": true,
-      "image_path": "images/kitsu-1337.jpg"
+      "image_path": "images/kitsu-1337.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -894,7 +811,8 @@
       ],
       "site_url": "https://kitsu.io/anime/daisetsusan-no-yuusha-kibaou",
       "year_match": true,
-      "image_path": "images/kitsu-4472.jpg"
+      "image_path": "images/kitsu-4472.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -926,7 +844,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kagaku-ninja-tai-gatchaman-ii",
       "year_match": true,
-      "image_path": "images/kitsu-4535.jpg"
+      "image_path": "images/kitsu-4535.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -958,7 +877,8 @@
       ],
       "site_url": "https://kitsu.io/anime/manga-kodomo-bunko",
       "year_match": true,
-      "image_path": "images/kitsu-9434.jpg"
+      "image_path": "images/kitsu-9434.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -997,7 +917,8 @@
         "Adventure"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-2382.jpg"
+      "image_path": "images/kitsu-2382.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1013,25 +934,24 @@
     "regions": "Japan, Spain, Italy",
     "enrichment": {
       "source": "kitsu",
-      "source_id": "283",
-      "title_romaji": "Ace wo Nerae! (1979)",
-      "title_english": "Aim for the Ace! (1979)",
-      "title_native": "エースをねらえ！",
-      "description": "High school freshman Hiromi joins the tennis club because of her admiration for Ryuzaki. Ryuzaki is a senior, who's the best tennis player on the team and also nicknamed \"Ochoufujin\", (\"Madame Butterfly\"), because of her elegance on the tennis court. However, the new coach, Jin Munakata, wants the inexperienced Hiromi to play in a forthcoming tournament. Due to this, Hiromi considers quitting tennis for good but, in the depth of her soul, she soon realizes that she loves tennis after all. She returns to the club and, under Munakata's coaching, her talent starts to bloom. In the end, Hiromi develops a strong emotional bond with her coach, not knowing that Munakata is risking his life because of a chronic illness.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/283/large.jpg",
-      "kitsu_year": 1979,
-      "format": "movie",
-      "episodes": 1,
-      "site_url": "https://kitsu.io/anime/ace-wo-nerae-1979",
+      "source_id": "5381",
+      "title_romaji": "Shin Ace wo Nerae!",
+      "title_english": "New Aim for the Ace!",
+      "title_native": "新・エースをねらえ!",
+      "description": "Heroine, Hiromi Oka, has just entered a high school famous for its tennis club. She has started playing tennis yearning after Madam Butterfly. She was expecting to enjoy playing tennis with her best friend, Maki, but the situation changes when the new coach, Mr. Munakata, suddenly picks out Hiromi to be one of the players for the upcoming tournament and starts giving Hiromi tough lessons. She strives under any circumstance. The more the new coach gives her training, the better she seems to get. Finally she becomes the representative in the junior match tournament. (Source: TMS Entertainment) Note: This is not a direct sequel to the first series. Due to an overwhelming success of the classic animated series, AIM FOR THE BEST (Ace wo Nerae), this remake was been produced to retrace and flashback to the original series.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/5381/large.jpg",
+      "kitsu_year": 1978,
+      "format": "TV",
+      "episodes": 25,
+      "site_url": "https://kitsu.io/anime/shin-ace-wo-nerae",
       "genres": [
-        "Japan",
-        "Tennis",
         "Romance",
         "School Life",
         "Sports"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-283.jpg"
+      "similarity": 1.0,
+      "image_path": "images/kitsu-5381.jpg"
     }
   },
   {
@@ -1081,7 +1001,8 @@
       ],
       "site_url": "https://kitsu.io/anime/pink-lady-monogatari-eikou-no-tenshi-tachi",
       "year_match": true,
-      "image_path": "images/kitsu-9535.jpg"
+      "image_path": "images/kitsu-9535.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1118,7 +1039,8 @@
       ],
       "site_url": "https://kitsu.io/anime/captain-future",
       "year_match": true,
-      "image_path": "images/kitsu-2326.jpg"
+      "image_path": "images/kitsu-2326.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1132,30 +1054,7 @@
     "type": "Movie",
     "demographic": "Seinen",
     "regions": "Japan, United States, United Kingdom, France, Spain, Italy, Netherlands, Portugal, Russian",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "1283",
-      "title_romaji": "Lupin III: Cagliostro no Shiro",
-      "title_english": "Lupin the Third: The Castle of Cagliostro",
-      "title_native": "ルパン三世 カリオストロの城",
-      "description": "In the twilight of his career, master thief Lupin the Third's latest and greatest caper has hit a snag. What should've been bags of cash from a national casino turns out to be expert counterfeits! Together with his partner-in-crime Jigen, Lupin heads to the remote European nation of Cagliostro to exact revenge. Not everything goes as planned; the two encounter Clarisse, a royal damsel in distress being forced to marry the sinister Count Cagliostro against her will. Saving her won't be easy, however, as Lupin and Jigen -- together with Lupin's unpredictable ex-girlfriend Fujiko and the swordsman Goemon -- must fight their way through a trap-filled castle, a deadly dungeon, and an army of professional assassins! Can Lupin rescue the girl, evade the cuffs of his long-time nemesis Inspector Zenigata, and uncover the secret treasures of The Castle of Cagliostro?",
-      "cover_large": "https://media.kitsu.app/anime/1283/poster_image/large-87822c5fffd6de83f95c600ae9e8dd7c.jpeg",
-      "kitsu_year": 1979,
-      "format": "movie",
-      "episodes": 1,
-      "site_url": "https://kitsu.io/anime/lupin-iii-cagliostro-no-shiro",
-      "genres": [
-        "Earth",
-        "Europe",
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Crime",
-        "Thievery"
-      ],
-      "year_match": true,
-      "image_path": "images/kitsu-1283.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1978,
@@ -1190,7 +1089,8 @@
       ],
       "site_url": "https://kitsu.io/anime/machi-ichiban-no-kechinbou",
       "year_match": true,
-      "image_path": "images/kitsu-9094.jpg"
+      "image_path": "images/kitsu-9094.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1222,7 +1122,8 @@
       ],
       "site_url": "https://kitsu.io/anime/captain-future-kareinaru-taiyokei-race",
       "year_match": true,
-      "image_path": "images/kitsu-3656.jpg"
+      "image_path": "images/kitsu-3656.jpg",
+      "similarity": 0.6
     }
   },
   {
@@ -1236,24 +1137,6 @@
     "type": "Short",
     "demographic": "Family",
     "regions": "Japan",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "4873",
-      "title_romaji": "Pika Don",
-      "title_english": null,
-      "title_native": "ピカドン",
-      "description": "An animation documentary describing the tragic consequences of the A-bomb explosion in Hiroshima on August 6th, 1945. The flash of the A-bomb, 100 times brighter than the sun, is called \"PICA\", and the enormous shock wave which came right after the flash is called \"DON\". At the time this film was completed, it was the very first attempt in the world to deal with such a sensitive subject of Hiroshima using animation media. Because of this short film, the City of Hiroshima decided to establish the Hiroshima International Animation Festival in 1984, appreciating animation art as an effective medium.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/4873/large.jpg",
-      "kitsu_year": 1978,
-      "format": "movie",
-      "episodes": 1,
-      "genres": [
-        "Historical",
-        "Drama"
-      ],
-      "site_url": "https://kitsu.io/anime/pika-don",
-      "year_match": true,
-      "image_path": "images/kitsu-4873.jpg"
-    }
+    "enrichment": null
   }
 ]

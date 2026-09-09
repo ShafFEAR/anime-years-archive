@@ -31,7 +31,8 @@
         "Slice of Life"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-2318.jpg"
+      "image_path": "images/kitsu-2318.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -45,24 +46,7 @@
     "type": "TV",
     "demographic": "Family",
     "regions": "Japan, Italy, Poland, Portugal",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "6113",
-      "title_romaji": "Manga Nippon Mukashibanashi",
-      "title_english": null,
-      "title_native": "まんが日本昔ばなし",
-      "description": "This series is an anthology of old Japanese tales.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/6113/large.jpg",
-      "kitsu_year": 1975,
-      "format": "TV",
-      "episodes": 12,
-      "genres": [
-        "Historical"
-      ],
-      "site_url": "https://kitsu.io/anime/manga-nippon-mukashibanashi",
-      "year_match": true,
-      "image_path": "images/kitsu-6113.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1975,
@@ -96,7 +80,8 @@
       ],
       "site_url": "https://kitsu.io/anime/great-mazinger-vs-getter-robo",
       "year_match": true,
-      "image_path": "images/kitsu-3581.jpg"
+      "image_path": "images/kitsu-3581.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -132,7 +117,8 @@
         "Science Fiction"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-3538.jpg"
+      "image_path": "images/kitsu-3538.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -160,7 +146,8 @@
       "genres": [],
       "site_url": "https://kitsu.io/anime/ningyohime",
       "year_match": true,
-      "image_path": "images/kitsu-40619.jpg"
+      "image_path": "images/kitsu-40619.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -194,7 +181,8 @@
       ],
       "site_url": "https://kitsu.io/anime/mitsubachi-maya-no-bouken",
       "year_match": true,
-      "image_path": "images/kitsu-2336.jpg"
+      "image_path": "images/kitsu-2336.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -231,7 +219,8 @@
       ],
       "site_url": "https://kitsu.io/anime/yuusha-raideen",
       "year_match": true,
-      "image_path": "images/kitsu-1925.jpg"
+      "image_path": "images/kitsu-1925.jpg",
+      "similarity": 0.0
     }
   },
   {
@@ -265,7 +254,8 @@
       ],
       "site_url": "https://kitsu.io/anime/star-of-the-seine",
       "year_match": true,
-      "image_path": "images/kitsu-2754.jpg"
+      "image_path": "images/kitsu-2754.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -297,7 +287,8 @@
       ],
       "site_url": "https://kitsu.io/anime/don-chuck-monogatari",
       "year_match": true,
-      "image_path": "images/kitsu-2340.jpg"
+      "image_path": "images/kitsu-2340.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -335,7 +326,8 @@
       ],
       "site_url": "https://kitsu.io/anime/gamba-no-bouken",
       "year_match": true,
-      "image_path": "images/kitsu-4023.jpg"
+      "image_path": "images/kitsu-4023.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -366,7 +358,8 @@
       ],
       "site_url": "https://kitsu.io/anime/shounen-tokugawa-ieyasu",
       "year_match": true,
-      "image_path": "images/kitsu-9595.jpg"
+      "image_path": "images/kitsu-9595.jpg",
+      "similarity": 0.67
     }
   },
   {
@@ -401,7 +394,8 @@
       ],
       "site_url": "https://kitsu.io/anime/getter-robo-g",
       "year_match": true,
-      "image_path": "images/kitsu-3639.jpg"
+      "image_path": "images/kitsu-3639.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -440,7 +434,8 @@
         "Action"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-1308.jpg"
+      "image_path": "images/kitsu-1308.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -454,30 +449,7 @@
     "type": "Movie",
     "demographic": "Shōnen",
     "regions": "Japan, France, Italy",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "4205",
-      "title_romaji": "Uchuu Enban Dai-Sensou",
-      "title_english": null,
-      "title_native": "宇宙円盤大戦争",
-      "description": "The pilot movie of Grendizer. It is about Duke Fleed, a fugitive of the planet fleed, who was kicked out of his planet by the Armies of Vega. Fleed and the daughter of the king of Vega were in love before the war between their planets. The armies of Vega continue their fight with Duke Fleed.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/4205/large.jpg",
-      "kitsu_year": 1975,
-      "format": "movie",
-      "episodes": 1,
-      "site_url": "https://kitsu.io/anime/uchuu-enban-dai-sensou",
-      "genres": [
-        "Present",
-        "Earth",
-        "Mecha",
-        "Piloted Robot",
-        "Action",
-        "Science Fiction",
-        "Romance"
-      ],
-      "year_match": true,
-      "image_path": "images/kitsu-4205.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1975,
@@ -510,7 +482,8 @@
         "Super Robot"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-3582.jpg"
+      "image_path": "images/kitsu-3582.jpg",
+      "similarity": 0.8
     }
   },
   {
@@ -541,7 +514,8 @@
       ],
       "site_url": "https://kitsu.io/anime/iruka-to-shounen",
       "year_match": true,
-      "image_path": "images/kitsu-6507.jpg"
+      "image_path": "images/kitsu-6507.jpg",
+      "similarity": 0.0
     }
   },
   {
@@ -573,7 +547,8 @@
       ],
       "site_url": "https://kitsu.io/anime/dracula-no-uta",
       "year_match": true,
-      "image_path": "images/kitsu-8827.jpg"
+      "image_path": "images/kitsu-8827.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -603,7 +578,8 @@
         "Music"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-5467.jpg"
+      "image_path": "images/kitsu-5467.jpg",
+      "similarity": 0.0
     }
   },
   {
@@ -633,7 +609,8 @@
       ],
       "site_url": "https://kitsu.io/anime/sekai-meisaku-douwa",
       "year_match": true,
-      "image_path": "images/kitsu-4960.jpg"
+      "image_path": "images/kitsu-4960.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -667,7 +644,8 @@
         "Romance"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-2579.jpg"
+      "image_path": "images/kitsu-2579.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -701,7 +679,8 @@
       ],
       "site_url": "https://kitsu.io/anime/wanpaku-oomukashi-kum-kum",
       "year_match": true,
-      "image_path": "images/kitsu-5261.jpg"
+      "image_path": "images/kitsu-5261.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -740,7 +719,8 @@
         "Robot Helper"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-3346.jpg"
+      "image_path": "images/kitsu-3346.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -779,7 +759,8 @@
       ],
       "site_url": "https://kitsu.io/anime/koutetsu-jeeg",
       "year_match": true,
-      "image_path": "images/kitsu-3518.jpg"
+      "image_path": "images/kitsu-3518.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -815,7 +796,8 @@
       ],
       "site_url": "https://kitsu.io/anime/grendizer-getter-robo-g-great-mazinger-kessen-daikaijuu",
       "year_match": true,
-      "image_path": "images/kitsu-3041.jpg"
+      "image_path": "images/kitsu-3041.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -846,7 +828,8 @@
         "Slice of Life"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-6485.jpg"
+      "image_path": "images/kitsu-6485.jpg",
+      "similarity": 0.33
     }
   },
   {
@@ -876,7 +859,8 @@
       ],
       "site_url": "https://kitsu.io/anime/andes-shounen-pepero-no-bouken",
       "year_match": true,
-      "image_path": "images/kitsu-3931.jpg"
+      "image_path": "images/kitsu-3931.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -906,7 +890,8 @@
       ],
       "site_url": "https://kitsu.io/anime/sougen-no-shoujo-laura",
       "year_match": true,
-      "image_path": "images/kitsu-3276.jpg"
+      "image_path": "images/kitsu-3276.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -920,27 +905,7 @@
     "type": "TV",
     "demographic": "Family, Children",
     "regions": "Italy, Russia, Arabia, Japan, China (Taiwan), China (Hong Kong), China (PRC)",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "3857",
-      "title_romaji": "Ikkyuu-san",
-      "title_english": "Ikkyu the Little Monk",
-      "title_native": "一休さん",
-      "description": "Ikkyu is a little boy training to be a monk at Ankokuji Temple. Known for being mischievous and a bit of a troublemaker, but also extremely smart, Ikkyu constantly thinks of new ways to outwit his frustrated teachers, helping others at the same time.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/3857/large.jpg",
-      "kitsu_year": 1975,
-      "format": "TV",
-      "episodes": 296,
-      "site_url": "https://kitsu.io/anime/ikkyuu-san",
-      "genres": [
-        "Historical",
-        "Japan",
-        "Comedy",
-        "Kids"
-      ],
-      "year_match": true,
-      "image_path": "images/kitsu-3857.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1975,
@@ -969,7 +934,8 @@
       ],
       "site_url": "https://kitsu.io/anime/mizu-no-tane",
       "year_match": true,
-      "image_path": "images/kitsu-3463.jpg"
+      "image_path": "images/kitsu-3463.jpg",
+      "similarity": 0.0
     }
   }
 ]

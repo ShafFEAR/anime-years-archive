@@ -29,7 +29,8 @@
       ],
       "site_url": "https://kitsu.io/anime/okawari-boy-starzan-s",
       "year_match": true,
-      "image_path": "images/kitsu-5498.jpg"
+      "image_path": "images/kitsu-5498.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -64,7 +65,8 @@
       ],
       "site_url": "https://kitsu.io/anime/makiba-no-shoujo-katori",
       "year_match": true,
-      "image_path": "images/kitsu-2832.jpg"
+      "image_path": "images/kitsu-2832.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -99,7 +101,8 @@
       ],
       "site_url": "https://kitsu.io/anime/chou-kousoku-galvion",
       "year_match": true,
-      "image_path": "images/kitsu-4645.jpg"
+      "image_path": "images/kitsu-4645.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -135,7 +138,8 @@
       ],
       "site_url": "https://kitsu.io/anime/juusenki-l-gaim",
       "year_match": true,
-      "image_path": "images/kitsu-2362.jpg"
+      "image_path": "images/kitsu-2362.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -164,29 +168,7 @@
     "director": "Shinichi Tsuji",
     "studio": "Mushi Production",
     "ref": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "1085",
-      "title_romaji": "Wata no Kuni Hoshi",
-      "title_english": "Fantasy of a Kitten",
-      "title_native": "綿の国星",
-      "description": "After two-month-old kitten Chibi-neko is abandoned by her former owners, she is found by 18-year-old Tokio. Although his mother is allergic to cats and has a great fear of them, she agrees to let him keep the kitten because she fears he is becoming too withdrawn after failing his university entrance exams. Chibi-neko soon falls in love with Tokio. In her own mind, Chibi-neko is a small human who speaks in human words, although people only ever seem to hear her meow, and she believes that all humans were once kittens like her. A stray cat tells Chibi-neko of a paradise called Cottonland, where dreams can come true.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/1085/large.jpg",
-      "kitsu_year": 1984,
-      "format": "movie",
-      "episodes": 1,
-      "genres": [
-        "Fantasy",
-        "Angst",
-        "Drama",
-        "Romance",
-        "Psychological",
-        "Juujin"
-      ],
-      "site_url": "https://kitsu.io/anime/the-star-of-cottonland",
-      "year_match": true,
-      "image_path": "images/kitsu-1085.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1984,
@@ -227,7 +209,8 @@
       ],
       "site_url": "https://kitsu.io/anime/urusei-yatsura-movie-2-beautiful-dreamer",
       "year_match": true,
-      "image_path": "images/kitsu-1731.jpg"
+      "image_path": "images/kitsu-1731.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -256,33 +239,7 @@
     "director": "Osamu Kasai",
     "studio": "Toei Animation",
     "ref": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "2312",
-      "title_romaji": "Princess Sara",
-      "title_english": "A Little Princess Sara",
-      "title_native": "小公女セーラ",
-      "description": "Sara, a pretty girl born into a rich British family in India, is treated like a little princess at a dormitory school in London. Sara's sweet school life turns to tragedy when she learns of her father's death and the family's bankruptcy. However, Sara endures her hard luck with kindness and imagination and escapes from her misery through fantasies.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/2312/large.jpg",
-      "kitsu_year": 1985,
-      "format": "TV",
-      "episodes": 46,
-      "site_url": "https://kitsu.io/anime/princess-sara",
-      "genres": [
-        "All Girls School",
-        "Past",
-        "Earth",
-        "Historical",
-        "Plot Continuity",
-        "United Kingdom",
-        "Europe",
-        "Slice of Life",
-        "Drama",
-        "Coming Of Age"
-      ],
-      "year_match": true,
-      "image_path": "images/kitsu-2312.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1984,
@@ -319,7 +276,8 @@
         "Thievery"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-1279.jpg"
+      "image_path": "images/kitsu-1279.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -356,7 +314,8 @@
       ],
       "site_url": "https://kitsu.io/anime/video-senshi-lezarion",
       "year_match": true,
-      "image_path": "images/kitsu-4657.jpg"
+      "image_path": "images/kitsu-4657.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -389,7 +348,8 @@
         "Steampunk"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-2378.jpg"
+      "image_path": "images/kitsu-2378.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -427,7 +387,8 @@
       ],
       "site_url": "https://kitsu.io/anime/nausicaa-of-the-valley-of-the-wind",
       "year_match": true,
-      "image_path": "images/kitsu-529.jpg"
+      "image_path": "images/kitsu-529.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -442,28 +403,7 @@
     "director": "Masuji Harada",
     "studio": "Shin-Ei Animation",
     "ref": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "10295",
-      "title_romaji": "Ninja Hattori-kun Plus Perman: Ninja Kaijuu Jippou tai Miracle Tamago",
-      "title_english": null,
-      "title_native": "忍者ハットリくん＋パーマン 忍者怪獣ジッポウVSミラクル卵",
-      "description": "Crossover film featuring both of Motoo Abiko's work. Both casts gets wrapped up when an alien egg falls from the sky that becomes a monster seeking destruction of the Earth. It was screened as a double feature with Doraemon: Nobita no Little Star Wars.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/10295/large.jpg",
-      "kitsu_year": 1985,
-      "format": "movie",
-      "episodes": 1,
-      "genres": [
-        "Comedy",
-        "Science Fiction",
-        "Super Power",
-        "Adventure",
-        "Martial Arts"
-      ],
-      "site_url": "https://kitsu.io/anime/ninja-hattori-kun-plus-perman-ninja-kaijuu-jippou-tai-miracle-tamago",
-      "year_match": true,
-      "image_path": "images/kitsu-10295.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1984,
@@ -496,7 +436,8 @@
         "Fantasy"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-2435.jpg"
+      "image_path": "images/kitsu-2435.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -532,7 +473,8 @@
       ],
       "site_url": "https://kitsu.io/anime/gu-gu-ganmo",
       "year_match": true,
-      "image_path": "images/kitsu-2728.jpg"
+      "image_path": "images/kitsu-2728.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -567,7 +509,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kyoshin-gorg",
       "year_match": true,
-      "image_path": "images/kitsu-2939.jpg"
+      "image_path": "images/kitsu-2939.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -613,7 +556,8 @@
       ],
       "site_url": "https://kitsu.io/anime/chikkun-takkun",
       "year_match": true,
-      "image_path": "images/kitsu-7403.jpg"
+      "image_path": "images/kitsu-7403.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -647,7 +591,8 @@
         "Shoujo"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-465.jpg"
+      "image_path": "images/kitsu-465.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -681,7 +626,8 @@
       ],
       "site_url": "https://kitsu.io/anime/attacker-you",
       "year_match": true,
-      "image_path": "images/kitsu-2779.jpg"
+      "image_path": "images/kitsu-2779.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -715,7 +661,8 @@
       ],
       "site_url": "https://kitsu.io/anime/choujin-locke",
       "year_match": true,
-      "image_path": "images/kitsu-3071.jpg"
+      "image_path": "images/kitsu-3071.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -750,7 +697,8 @@
       ],
       "site_url": "https://kitsu.io/anime/god-mazinger",
       "year_match": true,
-      "image_path": "images/kitsu-4012.jpg"
+      "image_path": "images/kitsu-4012.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -787,7 +735,8 @@
       ],
       "site_url": "https://kitsu.io/anime/choujikuu-kidan-southern-cross",
       "year_match": true,
-      "image_path": "images/kitsu-3653.jpg"
+      "image_path": "images/kitsu-3653.jpg",
+      "similarity": 0.75
     }
   },
   {
@@ -802,26 +751,7 @@
     "director": "Kazuyoshi Katayama",
     "studio": "Studio Pierrot",
     "ref": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "1838",
-      "title_romaji": "Mahou no Yousei Persia",
-      "title_english": null,
-      "title_native": "魔法の妖精 ペルシャ",
-      "description": "11-year-old Persia has grown up alongside the animals on the Serengeti plains of Africa. Twins Riki and Gaku Muroi and their grandfather, Gouken, bring Persia to Japan with them, where she will live with a couple (who Persia calls Mama and Papa) that own a grocery store. During the flight to Japan, Persia finds herself in the \"Lovely Dream\" where she meets the Fairy Queen, who explains that the Lovely Dream is in danger and requests Persia's help. Giving Persia a magical headband (which can also summon a magical baton) that allows her to transform into a teenage girl, connecting her to the Lovely Dream and allowing her to use magic. She is sent with three kappa back into the regular world with the mission of collecting love energy to thaw the frozen Lovely Dream. If Persia fails her task of collecting love energy or if someone catches her using magic, Riki and Gaku will be transformed into women.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/1838/large.jpg",
-      "kitsu_year": 1984,
-      "format": "TV",
-      "episodes": 48,
-      "genres": [
-        "Comedy",
-        "Magic",
-        "Magical Girl"
-      ],
-      "site_url": "https://kitsu.io/anime/mahou-no-yousei-persia",
-      "year_match": true,
-      "image_path": "images/kitsu-1838.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1984,
@@ -837,24 +767,29 @@
     "ref": "",
     "enrichment": {
       "source": "kitsu",
-      "source_id": "2527",
-      "title_romaji": "Galactic Patrol Lensman",
+      "source_id": "2528",
+      "title_romaji": "SF Shinseiki Lensman",
       "title_english": null,
-      "title_native": "GALACTIC PATROL　レンズマン",
-      "description": "The young Kimball Kinnison is leaving home for a wider education when a Galactic Patrol ship crashes on his family's land and the dying pilot gives him a mysterious Lens. Half-sentient, the Lens now implanted in his hand becomes the focus of changes in Kim's life including his father's death, a space battle, and an encounter with Galactic Patrol nursing officer Chris. Impelled by the Lens, he discovers a new world of experiences opening before him and he risks his life to save Chris and the Universe.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/2527/large.jpg",
+      "title_native": "SF新世紀 レンズマン",
+      "description": "Kim is living a peaceful life with his father as a farmer on their planet until one day when a runaway spaceship is detected moving at a high speed towards his father's farm. To rescue his father Kim jumps on board the ship and manages to land it safely before it crashes. On board the ship he finds a severely Injured lone survivor whom with his dying words begs Kim to take something of his to the Galactic Fleet. He then transfers something that was attached to his arm onto Kim's arm. The thing was a Lens and its transferring should have been impossible and having it has turned Kim into a Lensman. Other than giving Kim unknown powers it also contains vital information for the victory of the Galactic Fleet over the evil Boskone Empire. Kim must now using the spaceship Britannia bring the Lense to the Galactic Fleet. But this is not an easy task when Lord Helmet of the Boskone Empire is willing to use everything in his power to stop him.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2528/large.jpg",
       "kitsu_year": 1984,
-      "format": "TV",
-      "episodes": 25,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/sf-shinseiki-lensman",
       "genres": [
-        "Science Fiction",
+        "Alien",
+        "Future",
+        "Space",
+        "Space Travel",
         "Action",
-        "Space Opera",
-        "Adventure"
+        "Science Fiction",
+        "Adventure",
+        "Space Opera"
       ],
-      "site_url": "https://kitsu.io/anime/galactic-patrol-lensman",
       "year_match": true,
-      "image_path": "images/kitsu-2527.jpg"
+      "similarity": 0.5,
+      "image_path": "images/kitsu-2528.jpg"
     }
   },
   {
@@ -904,7 +839,8 @@
       ],
       "site_url": "https://kitsu.io/anime/macross-do-you-remember-love",
       "year_match": true,
-      "image_path": "images/kitsu-974.jpg"
+      "image_path": "images/kitsu-974.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -938,7 +874,8 @@
       ],
       "site_url": "https://kitsu.io/anime/fushigi-na-koala-blinky",
       "year_match": true,
-      "image_path": "images/kitsu-1189.jpg"
+      "image_path": "images/kitsu-1189.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -972,7 +909,8 @@
         "School Life"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-5373.jpg"
+      "image_path": "images/kitsu-5373.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1015,28 +953,7 @@
     "director": "Osamu Tezuka",
     "studio": "Tezuka Productions",
     "ref": "[ 1 ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "2094",
-      "title_romaji": "Daishizen no Majuu: Bagi",
-      "title_english": "Baggy",
-      "title_native": "大自然の魔獣 バギ",
-      "description": "Ryo is sent out by the people of a village to kill the monster which has been attacking the villagers. It is rumored that this monster is a cat-woman named Bagi. As Ryo waits for the monster to come to its watering hole, he thinks back to how he first met Bagi as a kitten who learned how to write, and later reenters his life on a quest to discover who and what she really is. But now she has gone wild, and as the time of her arrival approaches, he strengthens his resolve to kill her.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/2094/large.jpg",
-      "kitsu_year": 1984,
-      "format": "movie",
-      "episodes": 1,
-      "genres": [
-        "Romance",
-        "Science Fiction",
-        "Genetic Modification",
-        "Action",
-        "Anthropomorphism"
-      ],
-      "site_url": "https://kitsu.io/anime/bagi-the-monster-of-mighty-nature",
-      "year_match": true,
-      "image_path": "images/kitsu-2094.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1984,
@@ -1069,7 +986,8 @@
       ],
       "site_url": "https://kitsu.io/anime/nine-3-kanketsuhen",
       "year_match": true,
-      "image_path": "images/kitsu-5644.jpg"
+      "image_path": "images/kitsu-5644.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1115,7 +1033,8 @@
       ],
       "site_url": "https://kitsu.io/anime/futari-daka",
       "year_match": true,
-      "image_path": "images/kitsu-3264.jpg"
+      "image_path": "images/kitsu-3264.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1147,7 +1066,8 @@
       ],
       "site_url": "https://kitsu.io/anime/koala-boy-kokki",
       "year_match": true,
-      "image_path": "images/kitsu-3212.jpg"
+      "image_path": "images/kitsu-3212.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1187,7 +1107,8 @@
       ],
       "site_url": "https://kitsu.io/anime/hokuto-no-ken",
       "year_match": true,
-      "image_path": "images/kitsu-857.jpg"
+      "image_path": "images/kitsu-857.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1202,25 +1123,7 @@
     "director": "Masakazu Higuchi",
     "studio": "Zuiyo Enterprise , Shaft",
     "ref": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "2017",
-      "title_romaji": "Mori no Tonto-tachi",
-      "title_english": null,
-      "title_native": "森のトントたち",
-      "description": "Deep in the forests of Finland live the little people, or Tontus, the elves who work all year round to keep Joulupukki (Santa Claus) supplied with toys for Christmas Eve.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/2017/large.jpg",
-      "kitsu_year": 1984,
-      "format": "TV",
-      "episodes": 23,
-      "genres": [
-        "Fantasy",
-        "Kids"
-      ],
-      "site_url": "https://kitsu.io/anime/mori-no-tonto-tachi",
-      "year_match": true,
-      "image_path": "images/kitsu-2017.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1984,
@@ -1255,7 +1158,8 @@
       ],
       "site_url": "https://kitsu.io/anime/panzer-world-galient",
       "year_match": true,
-      "image_path": "images/kitsu-3952.jpg"
+      "image_path": "images/kitsu-3952.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -1290,7 +1194,8 @@
       ],
       "site_url": "https://kitsu.io/anime/chouriki-robo-galatt",
       "year_match": true,
-      "image_path": "images/kitsu-5510.jpg"
+      "image_path": "images/kitsu-5510.jpg",
+      "similarity": 0.67
     }
   },
   {
@@ -1360,7 +1265,8 @@
       ],
       "site_url": "https://kitsu.io/anime/cat-s-eye",
       "year_match": true,
-      "image_path": "images/kitsu-1842.jpg"
+      "image_path": "images/kitsu-1842.jpg",
+      "similarity": 0.75
     }
   },
   {
@@ -1419,7 +1325,8 @@
       ],
       "site_url": "https://kitsu.io/anime/mahou-no-tenshi-creamy-mami",
       "year_match": true,
-      "image_path": "images/kitsu-1843.jpg"
+      "image_path": "images/kitsu-1843.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1436,30 +1343,31 @@
     "ref": "",
     "enrichment": {
       "source": "kitsu",
-      "source_id": "1294",
-      "title_romaji": "Ginga Tetsudou no Yoru",
-      "title_english": "Night on the Galactic Railroad",
-      "title_native": "銀河鉄道の夜",
-      "description": "Based on a short story by the popular children's writer Kenji Miyazawa, Galactic Railroad offers viewers a slow-paced, dreamlike journey through space and time. When Giovanni, a lonely boy in a hill town, goes to get milk for his ailing mother, he finds himself crossing the Milky Way on a faster-than-light steam railroad. The stations he visits in various constellations, like the planets explored by St. Exupery's Little Prince, offer curious adventures and an assortment of human \"types.\" Reality and fantasy blur aboard the train, and its travels across the light-years sometimes suggests the journey through life. The characters are depicted as cats, presumably to avoid the problems of animating humans.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/1294/large.jpg",
-      "kitsu_year": 1985,
-      "format": "movie",
-      "episodes": 1,
-      "site_url": "https://kitsu.io/anime/night-on-the-galactic-railroad",
+      "source_id": "2701",
+      "title_romaji": "Ginga Hyouryuu Vifam",
+      "title_english": null,
+      "title_native": "銀河漂流バイファム",
+      "description": "AD. 2058, on the Clayad which was the 3rd planet of the Ypserlon system, which was 43 light years away from Earth, suddently aliens raided the planet.The emigrants on the Clayad had to escape from the planet. Because of the confusion during the escape, the children were strayed from their parents and got in the training space ship, Janous. With a lot of sacrifices, they managed to arrive at 4th planet Belwick. However, the Belwick had been already in the war. Therefore, the 13 children had to go to the Earth by themselves.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2701/large.jpg",
+      "kitsu_year": 1983,
+      "format": "TV",
+      "episodes": 46,
+      "site_url": "https://kitsu.io/anime/ginga-hyouryuu-vifam",
       "genres": [
-        "Past",
-        "Historical",
-        "Plot Continuity",
-        "Parallel Universe",
-        "Fantasy",
-        "Adventure",
-        "Anthropomorphism",
-        "Drama",
-        "Coming Of Age",
-        "Mystery"
+        "Alien",
+        "Robot",
+        "Future",
+        "Space",
+        "Mecha",
+        "Space Travel",
+        "Other Planet",
+        "Shipboard",
+        "Humanoid Alien",
+        "Plot Continuity"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-1294.jpg"
+      "similarity": 0.67,
+      "image_path": "images/kitsu-2701.jpg"
     }
   },
   {
@@ -1501,7 +1409,8 @@
       ],
       "site_url": "https://kitsu.io/anime/meitantei-holmes",
       "year_match": true,
-      "image_path": "images/kitsu-1775.jpg"
+      "image_path": "images/kitsu-1775.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1532,30 +1441,31 @@
     "ref": "",
     "enrichment": {
       "source": "kitsu",
-      "source_id": "1294",
-      "title_romaji": "Ginga Tetsudou no Yoru",
-      "title_english": "Night on the Galactic Railroad",
-      "title_native": "銀河鉄道の夜",
-      "description": "Based on a short story by the popular children's writer Kenji Miyazawa, Galactic Railroad offers viewers a slow-paced, dreamlike journey through space and time. When Giovanni, a lonely boy in a hill town, goes to get milk for his ailing mother, he finds himself crossing the Milky Way on a faster-than-light steam railroad. The stations he visits in various constellations, like the planets explored by St. Exupery's Little Prince, offer curious adventures and an assortment of human \"types.\" Reality and fantasy blur aboard the train, and its travels across the light-years sometimes suggests the journey through life. The characters are depicted as cats, presumably to avoid the problems of animating humans.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/1294/large.jpg",
-      "kitsu_year": 1985,
-      "format": "movie",
-      "episodes": 1,
-      "site_url": "https://kitsu.io/anime/night-on-the-galactic-railroad",
+      "source_id": "2701",
+      "title_romaji": "Ginga Hyouryuu Vifam",
+      "title_english": null,
+      "title_native": "銀河漂流バイファム",
+      "description": "AD. 2058, on the Clayad which was the 3rd planet of the Ypserlon system, which was 43 light years away from Earth, suddently aliens raided the planet.The emigrants on the Clayad had to escape from the planet. Because of the confusion during the escape, the children were strayed from their parents and got in the training space ship, Janous. With a lot of sacrifices, they managed to arrive at 4th planet Belwick. However, the Belwick had been already in the war. Therefore, the 13 children had to go to the Earth by themselves.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2701/large.jpg",
+      "kitsu_year": 1983,
+      "format": "TV",
+      "episodes": 46,
+      "site_url": "https://kitsu.io/anime/ginga-hyouryuu-vifam",
       "genres": [
-        "Past",
-        "Historical",
-        "Plot Continuity",
-        "Parallel Universe",
-        "Fantasy",
-        "Adventure",
-        "Anthropomorphism",
-        "Drama",
-        "Coming Of Age",
-        "Mystery"
+        "Alien",
+        "Robot",
+        "Future",
+        "Space",
+        "Mecha",
+        "Space Travel",
+        "Other Planet",
+        "Shipboard",
+        "Humanoid Alien",
+        "Plot Continuity"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-1294.jpg"
+      "similarity": 0.67,
+      "image_path": "images/kitsu-2701.jpg"
     }
   },
   {
@@ -1587,7 +1497,8 @@
         "Comedy"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-4390.jpg"
+      "image_path": "images/kitsu-4390.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1622,7 +1533,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kinnikuman-daiabare-segi-choujin",
       "year_match": true,
-      "image_path": "images/kitsu-2900.jpg"
+      "image_path": "images/kitsu-2900.jpg",
+      "similarity": 0.67
     }
   },
   {

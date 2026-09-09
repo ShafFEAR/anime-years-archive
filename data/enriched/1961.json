@@ -12,22 +12,22 @@
     "regions": "JA",
     "enrichment": {
       "source": "kitsu",
-      "source_id": "4834",
-      "title_romaji": "Fashion",
+      "source_id": "4845",
+      "title_romaji": "Kitte no Gensou",
       "title_english": null,
-      "title_native": "ファッション",
-      "description": "Experimental anime from animation pioneer Yoji Kuri from 1960.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/4834/large.jpg",
-      "kitsu_year": 1960,
+      "title_native": "切手の幻想",
+      "description": "Short experimental animation from 1961 from animation pioneer Yoji Kuri.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/4845/large.jpg",
+      "kitsu_year": 1961,
       "format": "movie",
       "episodes": 1,
-      "site_url": "https://kitsu.io/anime/fashion",
+      "site_url": "https://kitsu.io/anime/stamp-fantasia",
       "genres": [
-        "Comedy",
-        "Dementia"
+        "Comedy"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-4834.jpg"
+      "similarity": 0.0,
+      "image_path": "images/kitsu-4845.jpg"
     }
   },
   {
@@ -57,7 +57,8 @@
       ],
       "site_url": "https://kitsu.io/anime/instant-history",
       "year_match": true,
-      "image_path": "images/kitsu-10113.jpg"
+      "image_path": "images/kitsu-10113.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -94,7 +95,8 @@
       ],
       "site_url": "https://kitsu.io/anime/anju-to-zushioumaru",
       "year_match": true,
-      "image_path": "images/kitsu-5051.jpg"
+      "image_path": "images/kitsu-5051.jpg",
+      "similarity": 0.0
     }
   }
 ]

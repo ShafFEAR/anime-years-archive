@@ -31,7 +31,8 @@
         "Shoujo"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-3290.jpg"
+      "image_path": "images/kitsu-3290.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -63,7 +64,8 @@
       ],
       "site_url": "https://kitsu.io/anime/shoukoushi-cedie",
       "year_match": true,
-      "image_path": "images/kitsu-2320.jpg"
+      "image_path": "images/kitsu-2320.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -98,7 +100,8 @@
       ],
       "site_url": "https://kitsu.io/anime/machine-robo-leina-the-legend-of-wolf-blade",
       "year_match": true,
-      "image_path": "images/kitsu-4619.jpg"
+      "image_path": "images/kitsu-4619.jpg",
+      "similarity": 0.75
     }
   },
   {
@@ -131,7 +134,8 @@
         "Seinen"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-2234.jpg"
+      "image_path": "images/kitsu-2234.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -172,7 +176,8 @@
       ],
       "site_url": "https://kitsu.io/anime/ginga-eiyuu-densetsu-waga-yuku-wa-hoshi-no-taikai",
       "year_match": true,
-      "image_path": "images/kitsu-2724.jpg"
+      "image_path": "images/kitsu-2724.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -214,7 +219,8 @@
       ],
       "site_url": "https://kitsu.io/anime/ultimate-teacher",
       "year_match": true,
-      "image_path": "images/kitsu-2536.jpg"
+      "image_path": "images/kitsu-2536.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -259,7 +265,8 @@
         "Comedy"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-5920.jpg"
+      "image_path": "images/kitsu-5920.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -298,7 +305,8 @@
       ],
       "site_url": "https://kitsu.io/anime/aura-battler-dunbine-ova",
       "year_match": true,
-      "image_path": "images/kitsu-4075.jpg"
+      "image_path": "images/kitsu-4075.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -337,7 +345,8 @@
       ],
       "site_url": "https://kitsu.io/anime/dragon-s-heaven",
       "year_match": true,
-      "image_path": "images/kitsu-2817.jpg"
+      "image_path": "images/kitsu-2817.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -378,7 +387,8 @@
       ],
       "site_url": "https://kitsu.io/anime/sakigake-otokojuku",
       "year_match": true,
-      "image_path": "images/kitsu-7777.jpg"
+      "image_path": "images/kitsu-7777.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -407,26 +417,7 @@
     "director": "Atsutoshi Umezawa",
     "studio": "Toei Animation",
     "ref": "[ 3 ] [ better source needed ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "4337",
-      "title_romaji": "Xanadu Dragonslayer Densetsu",
-      "title_english": null,
-      "title_native": "ザナドウ・ドラゴンスレイヤー伝説",
-      "description": "Based on the role-playing game \"Legend of Xanadu\". The evil magician Reichswar has killed the King to gain possession of a magic crystal; now he means to use its power to rule the whole of Xanadu. Then the widowed Queen Rieru is kidnapped. One brave young warrior, wielding the magic blade Dragonslayer, goes to her rescue.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/4337/large.jpg",
-      "kitsu_year": 1988,
-      "format": "OVA",
-      "episodes": 1,
-      "genres": [
-        "Fantasy",
-        "Adventure",
-        "Comedy"
-      ],
-      "site_url": "https://kitsu.io/anime/xanadu-dragonslayer-densetsu",
-      "year_match": true,
-      "image_path": "images/kitsu-4337.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1988,
@@ -457,7 +448,8 @@
       ],
       "site_url": "https://kitsu.io/anime/tsurupika-hagemaru",
       "year_match": true,
-      "image_path": "images/kitsu-4293.jpg"
+      "image_path": "images/kitsu-4293.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -472,24 +464,7 @@
     "director": "Koichi Mashimo",
     "studio": "Studio Deen",
     "ref": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "4331",
-      "title_romaji": "Chinpui",
-      "title_english": null,
-      "title_native": "チンプイ",
-      "description": "TV anime show based on the manga by F. Fujio Fujiko.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/4331/large.jpg",
-      "kitsu_year": 1989,
-      "format": "TV",
-      "episodes": 56,
-      "genres": [
-        "Comedy"
-      ],
-      "site_url": "https://kitsu.io/anime/chinpui",
-      "year_match": true,
-      "image_path": "images/kitsu-4331.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1988,
@@ -522,7 +497,8 @@
       ],
       "site_url": "https://kitsu.io/anime/harbor-light-monogatari-fashion-lala-yori",
       "year_match": true,
-      "image_path": "images/kitsu-2933.jpg"
+      "image_path": "images/kitsu-2933.jpg",
+      "similarity": 0.83
     }
   },
   {
@@ -555,7 +531,8 @@
       ],
       "site_url": "https://kitsu.io/anime/bikkuriman-daiichiji-seima-taisen",
       "year_match": true,
-      "image_path": "images/kitsu-6077.jpg"
+      "image_path": "images/kitsu-6077.jpg",
+      "similarity": 0.75
     }
   },
   {
@@ -593,7 +570,8 @@
       ],
       "site_url": "https://kitsu.io/anime/doraemon-nobita-s-version-of-saiyuki",
       "year_match": true,
-      "image_path": "images/kitsu-2422.jpg"
+      "image_path": "images/kitsu-2422.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -624,7 +602,8 @@
       ],
       "site_url": "https://kitsu.io/anime/esper-mami-hoshizora-no-dancing-doll",
       "year_match": true,
-      "image_path": "images/kitsu-5917.jpg"
+      "image_path": "images/kitsu-5917.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -677,7 +656,8 @@
       ],
       "site_url": "https://kitsu.io/anime/mobile-suit-gundam-char-s-counterattack",
       "year_match": true,
-      "image_path": "images/kitsu-66.jpg"
+      "image_path": "images/kitsu-66.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -711,7 +691,8 @@
       ],
       "site_url": "https://kitsu.io/anime/mobile-suit-sd-gundam-mk-i",
       "year_match": true,
-      "image_path": "images/kitsu-2084.jpg"
+      "image_path": "images/kitsu-2084.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -744,7 +725,8 @@
       ],
       "site_url": "https://kitsu.io/anime/moeru-onii-san",
       "year_match": true,
-      "image_path": "images/kitsu-4408.jpg"
+      "image_path": "images/kitsu-4408.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -784,7 +766,8 @@
       ],
       "site_url": "https://kitsu.io/anime/armored-trooper-votoms-red-shoulder-document-roots-of-treachery",
       "year_match": true,
-      "image_path": "images/kitsu-2350.jpg"
+      "image_path": "images/kitsu-2350.jpg",
+      "similarity": 0.86
     }
   },
   {
@@ -799,27 +782,7 @@
     "director": "Noboru Furuse",
     "studio": "Tokyo Movie Shinsha",
     "ref": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "8123",
-      "title_romaji": "Ace wo Nerae! 2",
-      "title_english": null,
-      "title_native": "エースをねらえ！２",
-      "description": "Three years has passed since the events of the first series. Hiromi continued training with her coach and became Japan's junior champion. Their common profits have also contributed to the coach being chosen as the first trainer of the Japanese Selection of Tennis and is arranged to head a trip with the youngest members of the team to USA. The relation between Hiromi and its trainer is narrower at personal level but it exceeds the teacher-student bond with great difficulty.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/8123/large.jpg",
-      "kitsu_year": 1988,
-      "format": "OVA",
-      "episodes": 13,
-      "site_url": "https://kitsu.io/anime/ace-wo-nerae-2",
-      "genres": [
-        "Japan",
-        "Tennis",
-        "Sports",
-        "Drama"
-      ],
-      "year_match": true,
-      "image_path": "images/kitsu-8123.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1988,
@@ -872,7 +835,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kiteretsu-daihyakka",
       "year_match": true,
-      "image_path": "images/kitsu-4586.jpg"
+      "image_path": "images/kitsu-4586.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -915,7 +879,8 @@
       ],
       "site_url": "https://kitsu.io/anime/city-hunter-2",
       "year_match": true,
-      "image_path": "images/kitsu-1317.jpg"
+      "image_path": "images/kitsu-1317.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -961,7 +926,8 @@
       ],
       "site_url": "https://kitsu.io/anime/ikinari-dagon",
       "year_match": true,
-      "image_path": "images/kitsu-9339.jpg"
+      "image_path": "images/kitsu-9339.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -1000,7 +966,8 @@
       ],
       "site_url": "https://kitsu.io/anime/transformers-masterforce",
       "year_match": true,
-      "image_path": "images/kitsu-822.jpg"
+      "image_path": "images/kitsu-822.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1017,27 +984,29 @@
     "ref": "",
     "enrichment": {
       "source": "kitsu",
-      "source_id": "2741",
-      "title_romaji": "Chouon Senshi Borgman",
-      "title_english": null,
-      "title_native": "超音戦士ボーグマン",
-      "description": "Sonic Soldier Borgman is a science fiction that comebines super sentai with non-gattai. It features a sentai-like three members team that fight an organization known as Youma. Features 3 characters with 3 basic ranger colors: Pink, Blue and Green.Featuring three main characters : Chuck,Ryo and Anise, Ryo is the leader, Chuck and Anise are teachers at a public school.Sometimes,the students help or make troubles to the Borgman somehow, some even know the Borgman secret identities. Ryo has a talking \"modern\" blue motorcycle that can upgrade itself. The transformation code is \"Borg. Get On\". Each member has a personal cannon that matches his/her armor color that appears only to finish the monster they fight.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/2741/large.jpg",
-      "kitsu_year": 1988,
-      "format": "TV",
-      "episodes": 35,
+      "source_id": "3238",
+      "title_romaji": "The Borgman: Last Battle",
+      "title_english": "Sonic Soldier Borgman: Last Battle",
+      "title_native": "THE·BORGMAN LAST BATTLE (ザ・ボーグマン ラストバトル)",
+      "description": "It has been three years since the end of the series. Ryo works for NASA as an engineer on a large rocket project. Anise, fellow Borgman and lover, has been reduced to flipping burgers in a restaurant. So naturally, when she gets a letter offering her a professional job in a big, Japanese, high-tech project, she jumps at the chance. Ryo, however, is as indecisive as ever and so she leaves for Japan without him. Chuck Sweager, the third Borgman, is a police officer, as is his girlfriend Miki. When she witnesses a fight amongst several cyborgs she tells Chuck, who says flatly that it cannot be possible, since the only living cyborgs are Ryo, Anise, and himself. But she convinces him and they investigate. Anise arrives for her new job, and when they meet for dinner they explain the situation to her. Anise volunteers to sneak around the Heaven's Gate project, which they believe to be the source of these new cyborgs. Ryo, meanwhile, is en route to Japan to go after his girlfriend. Accompanying him is Hussan, one of the two surviving researchers on the Borgman Project, who has been asked to appear before the Tokyo Police to help investigate. Once the entire cast is in Japan, things begin to get complicated.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3238/large.jpg",
+      "kitsu_year": 1989,
+      "format": "OVA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/sonic-soldier-borgman-last-battle",
       "genres": [
-        "Power Suit",
-        "Science Fiction",
-        "Action",
-        "Earth",
+        "Cyborg",
         "Future",
-        "School Life",
-        "Demon"
+        "Human Enhancement",
+        "Demon",
+        "Action",
+        "Science Fiction",
+        "Cyberpunk",
+        "Special Squads"
       ],
-      "site_url": "https://kitsu.io/anime/sonic-soldier-borgman",
       "year_match": true,
-      "image_path": "images/kitsu-2741.jpg"
+      "similarity": 1.0,
+      "image_path": "images/kitsu-3238.jpg"
     }
   },
   {
@@ -1068,7 +1037,8 @@
         "Comedy"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-6651.jpg"
+      "image_path": "images/kitsu-6651.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1108,7 +1078,8 @@
       ],
       "site_url": "https://kitsu.io/anime/mashin-eiyuuden-wataru",
       "year_match": true,
-      "image_path": "images/kitsu-3289.jpg"
+      "image_path": "images/kitsu-3289.jpg",
+      "similarity": 0.67
     }
   },
   {
@@ -1147,7 +1118,8 @@
       ],
       "site_url": "https://kitsu.io/anime/my-neighbor-totoro",
       "year_match": true,
-      "image_path": "images/kitsu-482.jpg"
+      "image_path": "images/kitsu-482.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1187,7 +1159,8 @@
       ],
       "site_url": "https://kitsu.io/anime/grave-of-the-fireflies",
       "year_match": true,
-      "image_path": "images/kitsu-534.jpg"
+      "image_path": "images/kitsu-534.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1230,7 +1203,8 @@
       ],
       "site_url": "https://kitsu.io/anime/appleseed",
       "year_match": true,
-      "image_path": "images/kitsu-834.jpg"
+      "image_path": "images/kitsu-834.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1245,35 +1219,7 @@
     "director": "Mamoru Oshii , Naoyuki Yoshinaga",
     "studio": "Studio Deen",
     "ref": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "1162",
-      "title_romaji": "Kidou Keisatsu Patlabor",
-      "title_english": "Patlabor: The Mobile Police",
-      "title_native": "機動警察パトレイバー",
-      "description": "In the future, rapidly advancing technology gives birth to giant robots known as \"Labors,\" so named for their usefulness in heavy industry. However, this also gives rise to \"Labor crimes,\" resulting the the need for a new branch of law enforcement equiped with and dedicated to the policing of Labors. When Izumi Noa, a female police officer, becomes the newest recruit of Special Vechicals Devision 2, she and her top of the line \"Patrol Labor\" (or \"Patlabor\") Alphonse are swept into a series of adventures featuring crazed construction workers, eco-terrorists, and sea monsters.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/1162/large.jpg",
-      "kitsu_year": 1988,
-      "format": "OVA",
-      "episodes": 7,
-      "genres": [
-        "Science Fiction",
-        "Mecha",
-        "Action",
-        "Japan",
-        "Earth",
-        "Asia",
-        "Piloted Robot",
-        "Comedy",
-        "Special Squads",
-        "Future",
-        "Law And Order",
-        "Cops"
-      ],
-      "site_url": "https://kitsu.io/anime/mobile-police-patlabor-early-days",
-      "year_match": true,
-      "image_path": "images/kitsu-1162.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1988,
@@ -1305,7 +1251,8 @@
       ],
       "site_url": "https://kitsu.io/anime/topo-gigio",
       "year_match": true,
-      "image_path": "images/kitsu-3696.jpg"
+      "image_path": "images/kitsu-3696.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1320,35 +1267,7 @@
     "director": "Ichiro Itano, Katsuhito Akiyama",
     "studio": "AIC",
     "ref": "[ 8 ] [ better source needed ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "8924",
-      "title_romaji": "Kujakuou",
-      "title_english": "Spirit Warrior",
-      "title_native": "孔雀王",
-      "description": "A young mystic without a past, Kujaku was born under a dark omen possessed of incredible supernatural powers. Raised by priests, he has learned to use these powers for good. But the evil Siegfried von Mittgard seeks to steal his birthright, and rule the world as the Regent of Darkness. He has dispatched bloodthirsty minions to destroy Kujaku before he can awaken to his destiny. Now, Kujaku must unravel the riddle of his past, before the power within consumes him!",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/8924/large.jpg",
-      "kitsu_year": 1988,
-      "format": "OVA",
-      "episodes": 3,
-      "genres": [
-        "Contemporary Fantasy",
-        "Fantasy",
-        "Earth",
-        "Japan",
-        "Action",
-        "Asia",
-        "Martial Arts",
-        "Magic",
-        "Violence",
-        "Present",
-        "Demon",
-        "Horror"
-      ],
-      "site_url": "https://kitsu.io/anime/kujakuou",
-      "year_match": true,
-      "image_path": "images/kitsu-8924.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1988,
@@ -1385,7 +1304,8 @@
       ],
       "site_url": "https://kitsu.io/anime/yoroiden-samurai-troopers",
       "year_match": true,
-      "image_path": "images/kitsu-1139.jpg"
+      "image_path": "images/kitsu-1139.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1421,7 +1341,8 @@
       ],
       "site_url": "https://kitsu.io/anime/hello-lady-lynn",
       "year_match": true,
-      "image_path": "images/kitsu-2181.jpg"
+      "image_path": "images/kitsu-2181.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1455,7 +1376,8 @@
         "Action"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-3950.jpg"
+      "image_path": "images/kitsu-3950.jpg",
+      "similarity": 0.67
     }
   },
   {
@@ -1517,7 +1439,8 @@
       ],
       "site_url": "https://kitsu.io/anime/mobile-suit-sd-gundam-mk-i",
       "year_match": true,
-      "image_path": "images/kitsu-2084.jpg"
+      "image_path": "images/kitsu-2084.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1532,29 +1455,7 @@
     "director": "Atsutoshi Umezawa",
     "studio": "Toei Animation",
     "ref": "[ 10 ] [ better source needed ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "6722",
-      "title_romaji": "Touyama Sakura Uchuu Chou: Yatsu no Na wa Gold",
-      "title_english": null,
-      "title_native": "遠山桜宇宙帖・奴の名はゴールド",
-      "description": "This science-fiction anime was inspired somewhat by the life of Kinshiro Toyama (1793-1855), who was first popularized in the 1893 kabuki play \"Toyama no Kinsan.\"",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/6722/large.jpg",
-      "kitsu_year": 1988,
-      "format": "OVA",
-      "episodes": 1,
-      "genres": [
-        "Action",
-        "Swordplay",
-        "Conspiracy",
-        "Future",
-        "Android",
-        "Science Fiction"
-      ],
-      "site_url": "https://kitsu.io/anime/touyama-sakura-uchuu-chou-yatsu-no-na-wa-gold",
-      "year_match": true,
-      "image_path": "images/kitsu-6722.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1988,
@@ -1568,29 +1469,7 @@
     "director": "Masakatsu Iijima",
     "studio": "Tokyo Movie Shinsha",
     "ref": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "2636",
-      "title_romaji": "Rokushin Gattai GodMars: Juunana-sai no Densetsu",
-      "title_english": null,
-      "title_native": "六神合体ゴッドマーズ 十七歳の伝説",
-      "description": "Marg was deprived his little brother, Mars, by Zure, and lost his parents. Therefore, he was living alone on the planet, Gishin. He became a member of guerrilla to riot against the dictator Zure, and he fell in love with Ruru, the daughter of the leader, Ura. However, the organization was destroyed. He was trapped by Zure, and he was brainwashed to become a soldier. Then, his long cherished wish that he would meet his brother again was realized… as a duel with him.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/2636/large.jpg",
-      "kitsu_year": 1988,
-      "format": "OVA",
-      "episodes": 1,
-      "genres": [
-        "Science Fiction",
-        "Mecha",
-        "Space Opera",
-        "Other Planet",
-        "Space",
-        "Action"
-      ],
-      "site_url": "https://kitsu.io/anime/rokushin-gattai-god-mars-juunanasai-no-densetsu",
-      "year_match": true,
-      "image_path": "images/kitsu-2636.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1988,
@@ -1632,7 +1511,8 @@
       ],
       "site_url": "https://kitsu.io/anime/project-a-ko-3-cinderella-rhapsody",
       "year_match": true,
-      "image_path": "images/kitsu-1169.jpg"
+      "image_path": "images/kitsu-1169.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1672,7 +1552,8 @@
       ],
       "site_url": "https://kitsu.io/anime/akai-koudan-zillion-utahime-yakyoku",
       "year_match": true,
-      "image_path": "images/kitsu-2451.jpg"
+      "image_path": "images/kitsu-2451.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1710,7 +1591,8 @@
       ],
       "site_url": "https://kitsu.io/anime/tekken-chinmi",
       "year_match": true,
-      "image_path": "images/kitsu-3729.jpg"
+      "image_path": "images/kitsu-3729.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -1750,7 +1632,8 @@
       ],
       "site_url": "https://kitsu.io/anime/natsufuku-no-shoujotachi",
       "year_match": true,
-      "image_path": "images/kitsu-5523.jpg"
+      "image_path": "images/kitsu-5523.jpg",
+      "similarity": 0.67
     }
   },
   {
@@ -1783,7 +1666,8 @@
       ],
       "site_url": "https://kitsu.io/anime/bikkuriman-moen-zone-no-himitsu",
       "year_match": true,
-      "image_path": "images/kitsu-6074.jpg"
+      "image_path": "images/kitsu-6074.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1820,7 +1704,8 @@
       ],
       "site_url": "https://kitsu.io/anime/dragon-ball-movie-3-makafushigi-daibouken",
       "year_match": true,
-      "image_path": "images/kitsu-792.jpg"
+      "image_path": "images/kitsu-792.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1865,7 +1750,8 @@
       ],
       "site_url": "https://kitsu.io/anime/akira",
       "year_match": true,
-      "image_path": "images/kitsu-29.jpg"
+      "image_path": "images/kitsu-29.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1880,28 +1766,7 @@
     "director": "Tetsu Dezaki",
     "studio": "Magic Bus",
     "ref": "[ 15 ] [ better source needed ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "5786",
-      "title_romaji": "Shirahata no Shoujo Ryuuko",
-      "title_english": null,
-      "title_native": "白旗の少女 琉子",
-      "description": "In 1945, American troops land on the island of Okinawa. The Japanese fight a guerrilla war against the invaders, and little Ryuko is forced to leave her grandparents behind and flee with her mother and younger sister, who are eventually killed. Ryuko heads on alone across the war-torn island. Eventually she reaches safety in Japanese-occupied caves, only to witness the Japanese troops committing suicide with hand grenades. Based on a children's book by Akira Aratagawa and Hikuji Norima, itself inspired by real American footage of an Okinawan girl, Tomiko Higa, waving a white flag at the island's surrender.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/5786/large.jpg",
-      "kitsu_year": 1988,
-      "format": "movie",
-      "episodes": 1,
-      "genres": [
-        "Japan",
-        "World War II",
-        "Anti War",
-        "Disaster",
-        "Historical"
-      ],
-      "site_url": "https://kitsu.io/anime/shirahata-no-shoujo-ryuuko",
-      "year_match": true,
-      "image_path": "images/kitsu-5786.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1988,
@@ -1940,7 +1805,8 @@
         "Action"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-631.jpg"
+      "image_path": "images/kitsu-631.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1978,7 +1844,8 @@
       ],
       "site_url": "https://kitsu.io/anime/saint-seiya-legend-of-crimson-youth",
       "year_match": true,
-      "image_path": "images/kitsu-1130.jpg"
+      "image_path": "images/kitsu-1130.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2019,7 +1886,8 @@
       ],
       "site_url": "https://kitsu.io/anime/sakigake-otokojuku",
       "year_match": true,
-      "image_path": "images/kitsu-7777.jpg"
+      "image_path": "images/kitsu-7777.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2057,7 +1925,8 @@
       ],
       "site_url": "https://kitsu.io/anime/tokyo-vice",
       "year_match": true,
-      "image_path": "images/kitsu-1803.jpg"
+      "image_path": "images/kitsu-1803.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2088,7 +1957,8 @@
       ],
       "site_url": "https://kitsu.io/anime/what-s-michael-2",
       "year_match": true,
-      "image_path": "images/kitsu-6650.jpg"
+      "image_path": "images/kitsu-6650.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2130,7 +2000,8 @@
       ],
       "site_url": "https://kitsu.io/anime/deimos-no-hanayome",
       "year_match": true,
-      "image_path": "images/kitsu-4336.jpg"
+      "image_path": "images/kitsu-4336.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2165,7 +2036,8 @@
       ],
       "site_url": "https://kitsu.io/anime/watt-poe-to-bokura-no-ohanashi",
       "year_match": true,
-      "image_path": "images/kitsu-3661.jpg"
+      "image_path": "images/kitsu-3661.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2197,7 +2069,8 @@
       ],
       "site_url": "https://kitsu.io/anime/hare-tokidoki-buta-237ed5ac-3592-469b-9b50-efa39eb861ec",
       "year_match": true,
-      "image_path": "images/kitsu-10752.jpg"
+      "image_path": "images/kitsu-10752.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2226,31 +2099,7 @@
     "director": "Toyoo Ashida",
     "studio": "J.C. Staff",
     "ref": "[ 23 ] [ better source needed ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "2860",
-      "title_romaji": "Kosuke-sama Rikimaru-sama: Konpeitou no Ryuu",
-      "title_english": null,
-      "title_native": "小助さま力丸さま-コンペイ島の竜-",
-      "description": "Kosukesama Rikimarusama: Konpeito no Ryu was a 45 minute long anime TV special produced by J.C. Staff and broadcast on Japanese television in 1988. Similar to Dragon Ball, it was a martial arts adventure story featuring villains that could have stepped out of the Red Ribbon Army, typical Toriyama mecha, and a clone of Son Gohan's Haiya Dragon.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/2860/large.jpg",
-      "kitsu_year": 1988,
-      "format": "OVA",
-      "episodes": 1,
-      "genres": [
-        "Earth",
-        "Adventure",
-        "Action",
-        "Asia",
-        "Martial Arts",
-        "Alternative Present",
-        "Present",
-        "Super Power"
-      ],
-      "site_url": "https://kitsu.io/anime/kosuke-sama-rikimaru-sama-konpeitou-no-ryuu",
-      "year_match": true,
-      "image_path": "images/kitsu-2860.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1988,
@@ -2264,32 +2113,7 @@
     "director": "Naoyuki Yoshinaga",
     "studio": "Kitty Films",
     "ref": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "3043",
-      "title_romaji": "Maison Ikkoku: Utsuriyuku Kisetsu no Naka de",
-      "title_english": null,
-      "title_native": "めぞん一刻～移りゆく季節の中で～",
-      "description": "A recap of the Maison Ikkoku series that focuses on the relationship between Godai and Kyoko. The entire special is taken from footage of the TV series.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/3043/large.jpg",
-      "kitsu_year": 1988,
-      "format": "OVA",
-      "episodes": 1,
-      "genres": [
-        "Japan",
-        "Earth",
-        "Slice of Life",
-        "Asia",
-        "Comedy",
-        "Coming Of Age",
-        "Present",
-        "Romance",
-        "Seinen"
-      ],
-      "site_url": "https://kitsu.io/anime/maison-ikkoku-through-the-passing-of-the-seasons",
-      "year_match": true,
-      "image_path": "images/kitsu-3043.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1988,
@@ -2329,7 +2153,8 @@
       ],
       "site_url": "https://kitsu.io/anime/crying-freeman",
       "year_match": true,
-      "image_path": "images/kitsu-1034.jpg"
+      "image_path": "images/kitsu-1034.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2362,7 +2187,8 @@
       ],
       "site_url": "https://kitsu.io/anime/hiatari-ryoukou-yume-no-naka-ni-kimi-ga-ita",
       "year_match": true,
-      "image_path": "images/kitsu-1392.jpg"
+      "image_path": "images/kitsu-1392.jpg",
+      "similarity": 0.8
     }
   },
   {
@@ -2401,7 +2227,8 @@
       ],
       "site_url": "https://kitsu.io/anime/grimm-masterpiece-theater-ii",
       "year_match": true,
-      "image_path": "images/kitsu-3439.jpg"
+      "image_path": "images/kitsu-3439.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2434,7 +2261,8 @@
       ],
       "site_url": "https://kitsu.io/anime/sore-ike-anpanman",
       "year_match": true,
-      "image_path": "images/kitsu-1766.jpg"
+      "image_path": "images/kitsu-1766.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -2481,7 +2309,8 @@
       ],
       "site_url": "https://kitsu.io/anime/top-wo-nerae",
       "year_match": true,
-      "image_path": "images/kitsu-841.jpg"
+      "image_path": "images/kitsu-841.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2514,7 +2343,8 @@
       ],
       "site_url": "https://kitsu.io/anime/yumemiru-toppo-jijo",
       "year_match": true,
-      "image_path": "images/kitsu-3713.jpg"
+      "image_path": "images/kitsu-3713.jpg",
+      "similarity": 0.67
     }
   },
   {
@@ -2554,7 +2384,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kimagure-orange-road-i-want-to-return-to-that-day",
       "year_match": true,
-      "image_path": "images/kitsu-2228.jpg"
+      "image_path": "images/kitsu-2228.jpg",
+      "similarity": 0.75
     }
   },
   {
@@ -2592,7 +2423,8 @@
       ],
       "site_url": "https://kitsu.io/anime/oishinbo",
       "year_match": true,
-      "image_path": "images/kitsu-978.jpg"
+      "image_path": "images/kitsu-978.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2634,7 +2466,8 @@
       ],
       "site_url": "https://kitsu.io/anime/demon-city-shinjuku",
       "year_match": true,
-      "image_path": "images/kitsu-459.jpg"
+      "image_path": "images/kitsu-459.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2672,7 +2505,8 @@
       ],
       "site_url": "https://kitsu.io/anime/uchuu-no-senshi",
       "year_match": true,
-      "image_path": "images/kitsu-2282.jpg"
+      "image_path": "images/kitsu-2282.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2710,7 +2544,8 @@
       ],
       "site_url": "https://kitsu.io/anime/ryuu-seiki",
       "year_match": true,
-      "image_path": "images/kitsu-3555.jpg"
+      "image_path": "images/kitsu-3555.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2752,7 +2587,8 @@
       ],
       "site_url": "https://kitsu.io/anime/gall-force-3-stardust-war",
       "year_match": true,
-      "image_path": "images/kitsu-1861.jpg"
+      "image_path": "images/kitsu-1861.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2767,33 +2603,7 @@
     "director": "Takeyuki Kanda",
     "studio": "Sunrise",
     "ref": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "1847",
-      "title_romaji": "Kikou Ryohei Mellowlink",
-      "title_english": null,
-      "title_native": "機甲猟兵メロウリンク",
-      "description": "As the sole survivor from a squad that was sacrificed and hung out as scapegoats for embezzlement of military resources at the end of the 100 years war, Mellowlink Arity is out for revenge. Carrying the dogtags of his deceased comrades and armed with a dated anti AT rifle, he swears to hunt down and exact revenge on the corrupt officers that betrayed his squad, and maybe even uncover the truth behind the plot as well.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/1847/large.jpg",
-      "kitsu_year": 1988,
-      "format": "OVA",
-      "episodes": 12,
-      "genres": [
-        "Rotten World",
-        "Other Planet",
-        "War",
-        "Future",
-        "Piloted Robot",
-        "Science Fiction",
-        "Action",
-        "Mecha",
-        "Violence",
-        "Military"
-      ],
-      "site_url": "https://kitsu.io/anime/kikou-ryohei-mellowlink",
-      "year_match": true,
-      "image_path": "images/kitsu-1847.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1988,
@@ -2844,7 +2654,8 @@
       ],
       "site_url": "https://kitsu.io/anime/mei-ou-project-zeorymer",
       "year_match": true,
-      "image_path": "images/kitsu-1649.jpg"
+      "image_path": "images/kitsu-1649.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2884,7 +2695,8 @@
       ],
       "site_url": "https://kitsu.io/anime/one-pound-gospel",
       "year_match": true,
-      "image_path": "images/kitsu-1185.jpg"
+      "image_path": "images/kitsu-1185.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2924,7 +2736,8 @@
       ],
       "site_url": "https://kitsu.io/anime/metal-skin-panic-madox-01",
       "year_match": true,
-      "image_path": "images/kitsu-2235.jpg"
+      "image_path": "images/kitsu-2235.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2955,7 +2768,8 @@
         "Slice of Life"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-5923.jpg"
+      "image_path": "images/kitsu-5923.jpg",
+      "similarity": 0.67
     }
   },
   {
@@ -2986,7 +2800,8 @@
       ],
       "site_url": "https://kitsu.io/anime/yousei-ou",
       "year_match": true,
-      "image_path": "images/kitsu-5135.jpg"
+      "image_path": "images/kitsu-5135.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3030,7 +2845,8 @@
       ],
       "site_url": "https://kitsu.io/anime/ginga-eiyuu-densetsu",
       "year_match": true,
-      "image_path": "images/kitsu-727.jpg"
+      "image_path": "images/kitsu-727.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3045,32 +2861,7 @@
     "director": "Kimio Yabuki",
     "studio": "Doga Kobo",
     "ref": "[ 30 ] [ better source needed ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "3666",
-      "title_romaji": "Uchuu Kazoku Carlvinson",
-      "title_english": null,
-      "title_native": "宇宙家族カールビンソン",
-      "description": "When a motley band of travelling performers has a deep-space collision with another spacecraft, they find that the sole survivor of the other craft is a humanoid infant. They decide to raise the child as their own on the nearest planet as they wait for other members of the girl's race to come and find her.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/3666/large.jpg",
-      "kitsu_year": 1988,
-      "format": "OVA",
-      "episodes": 1,
-      "genres": [
-        "Science Fiction",
-        "Mecha",
-        "Fantasy World",
-        "Comedy",
-        "Other Planet",
-        "Alien",
-        "Future",
-        "Slapstick",
-        "Fantasy"
-      ],
-      "site_url": "https://kitsu.io/anime/uchuu-kazoku-carlvinson",
-      "year_match": true,
-      "image_path": "images/kitsu-3666.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1988,
@@ -3104,7 +2895,8 @@
       ],
       "site_url": "https://kitsu.io/anime/violence-jack-2",
       "year_match": true,
-      "image_path": "images/kitsu-1197.jpg"
+      "image_path": "images/kitsu-1197.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3139,7 +2931,8 @@
       ],
       "site_url": "https://kitsu.io/anime/yami-no-purple-eye",
       "year_match": true,
-      "image_path": "images/kitsu-5764.jpg"
+      "image_path": "images/kitsu-5764.jpg",
+      "similarity": 1.0
     }
   }
 ]

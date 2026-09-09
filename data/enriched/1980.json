@@ -31,7 +31,8 @@
       ],
       "site_url": "https://kitsu.io/anime/tom-sawyer-no-bouken",
       "year_match": true,
-      "image_path": "images/kitsu-2342.jpg"
+      "image_path": "images/kitsu-2342.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -65,7 +66,8 @@
       ],
       "site_url": "https://kitsu.io/anime/mori-no-youki-na-kobito-tachi-belfy-to-lillibit",
       "year_match": true,
-      "image_path": "images/kitsu-3266.jpg"
+      "image_path": "images/kitsu-3266.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -99,7 +101,8 @@
       ],
       "site_url": "https://kitsu.io/anime/nils-no-fushigi-na-tabi-movie",
       "year_match": true,
-      "image_path": "images/kitsu-5074.jpg"
+      "image_path": "images/kitsu-5074.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -132,7 +135,8 @@
       ],
       "site_url": "https://kitsu.io/anime/maeterlinck-no-aoi-tori",
       "year_match": true,
-      "image_path": "images/kitsu-3316.jpg"
+      "image_path": "images/kitsu-3316.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -169,7 +173,8 @@
       ],
       "site_url": "https://kitsu.io/anime/trider-g7",
       "year_match": true,
-      "image_path": "images/kitsu-3669.jpg"
+      "image_path": "images/kitsu-3669.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -185,27 +190,7 @@
     "director": "Hiroshi Sasagawa",
     "notes": "",
     "ref": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "5387",
-      "title_romaji": "Time Bokan Series: Time Patroltai Otasukeman",
-      "title_english": null,
-      "title_native": "タイムボカンシリーズ タイムパトロール隊 オタスケマン",
-      "description": "Burning with ambitions to become the most beautiful woman, the most renowned scientist, and the greatest hero the world has ever known, three villains, Atasha, Sekobitchi and Duwarusuki, unite. The trio are Time Patrollers, the keepers and protectors of the annals of history. But, this is only a cover for the trio, as the villains are league with a nefarious leader, who is trying to alter the course of history to suit his desires, and, under his instructions, the trio travel in time with the aim of tampering with recorded history. Only Hikaru and Nana, disguised as the Otasukemen, stand between the villains and their goals.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/5387/large.jpg",
-      "kitsu_year": 1980,
-      "format": "TV",
-      "episodes": 53,
-      "genres": [
-        "Science Fiction",
-        "Action",
-        "Adventure",
-        "Comedy"
-      ],
-      "site_url": "https://kitsu.io/anime/time-bokan-series-time-patrol-tai-otasukeman",
-      "year_match": true,
-      "image_path": "images/kitsu-5387.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1980,
@@ -239,7 +224,8 @@
         "Anthropomorphism"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-5796.jpg"
+      "image_path": "images/kitsu-5796.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -272,7 +258,8 @@
       ],
       "site_url": "https://kitsu.io/anime/futago-no-monchhichi",
       "year_match": true,
-      "image_path": "images/kitsu-8982.jpg"
+      "image_path": "images/kitsu-8982.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -311,7 +298,8 @@
       ],
       "site_url": "https://kitsu.io/anime/mahou-shoujo-lalabel",
       "year_match": true,
-      "image_path": "images/kitsu-3318.jpg"
+      "image_path": "images/kitsu-3318.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -352,7 +340,8 @@
         "Action"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-2646.jpg"
+      "image_path": "images/kitsu-2646.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -386,7 +375,8 @@
         "Comedy"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-3215.jpg"
+      "image_path": "images/kitsu-3215.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -402,26 +392,7 @@
     "director": "Osamu Dezaki",
     "notes": "",
     "ref": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "2585",
-      "title_romaji": "Ie Naki Ko (Movie)",
-      "title_english": null,
-      "title_native": "家なき子",
-      "description": "No synopsis has been added for this series yet.Click here to update this information.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/2585/large.jpg",
-      "kitsu_year": 1980,
-      "format": "movie",
-      "episodes": 1,
-      "genres": [
-        "Slice of Life",
-        "Drama",
-        "Adventure"
-      ],
-      "site_url": "https://kitsu.io/anime/ie-naki-ko-movie",
-      "year_match": true,
-      "image_path": "images/kitsu-2585.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1980,
@@ -457,7 +428,8 @@
       ],
       "site_url": "https://kitsu.io/anime/hi-no-tori-2772-ai-no-cosmozone",
       "year_match": true,
-      "image_path": "images/kitsu-2549.jpg"
+      "image_path": "images/kitsu-2549.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -473,25 +445,7 @@
     "director": "Kimio Yabuki , Tetsuo Imazawa",
     "notes": "",
     "ref": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "3229",
-      "title_romaji": "Sekai Meisaku Douwa: Mori wa Ikiteiru",
-      "title_english": null,
-      "title_native": "森は生きている",
-      "description": "Twelve Months is the story of an orphaned girl named Anya. When a spoiled princess, who is also orphaned, sees a picture of a Galanthus, she immediately wants one. However, the Galanthus only blooms in spring, in the month of April. It is New Year's Eve and there was no way that such a flower can be found in the middle of the winter. The princess offers a basket of gold to anyone who can bring her a bag of Galanthus.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/3229/large.jpg",
-      "kitsu_year": 1980,
-      "format": "movie",
-      "episodes": 1,
-      "genres": [
-        "Fantasy",
-        "Kids"
-      ],
-      "site_url": "https://kitsu.io/anime/sekai-meisaku-douwa-mori-wa-ikiteiru",
-      "year_match": true,
-      "image_path": "images/kitsu-3229.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1980,
@@ -528,7 +482,8 @@
       ],
       "site_url": "https://kitsu.io/anime/uchuu-taitei-god-sigma",
       "year_match": true,
-      "image_path": "images/kitsu-3507.jpg"
+      "image_path": "images/kitsu-3507.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -559,27 +514,7 @@
     "director": "",
     "notes": "",
     "ref": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "3711",
-      "title_romaji": "Moero Arthur: Hakuba no Ouji",
-      "title_english": null,
-      "title_native": "燃えろアーサー・白馬の王子",
-      "description": "No synopsis has been added for this series yet.Click here to update this information.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/3711/large.jpg",
-      "kitsu_year": 1980,
-      "format": "TV",
-      "episodes": 22,
-      "genres": [
-        "Historical",
-        "Drama",
-        "Romance",
-        "Adventure"
-      ],
-      "site_url": "https://kitsu.io/anime/moero-arthur-hakuba-no-oji",
-      "year_match": true,
-      "image_path": "images/kitsu-3711.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1980,
@@ -614,7 +549,8 @@
       ],
       "site_url": "https://kitsu.io/anime/tsurikichi-sanpei",
       "year_match": true,
-      "image_path": "images/kitsu-2819.jpg"
+      "image_path": "images/kitsu-2819.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -649,7 +585,8 @@
       ],
       "site_url": "https://kitsu.io/anime/zukkoke-knight-don-de-la-mancha",
       "year_match": true,
-      "image_path": "images/kitsu-5129.jpg"
+      "image_path": "images/kitsu-5129.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -694,7 +631,8 @@
       ],
       "site_url": "https://kitsu.io/anime/terra-e-movie",
       "year_match": true,
-      "image_path": "images/kitsu-2325.jpg"
+      "image_path": "images/kitsu-2325.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -728,7 +666,8 @@
       ],
       "site_url": "https://kitsu.io/anime/ganbare-tabuchi-kun",
       "year_match": true,
-      "image_path": "images/kitsu-11875.jpg"
+      "image_path": "images/kitsu-11875.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -769,7 +708,8 @@
       ],
       "site_url": "https://kitsu.io/anime/space-runaway-ideon",
       "year_match": true,
-      "image_path": "images/kitsu-828.jpg"
+      "image_path": "images/kitsu-828.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -804,7 +744,8 @@
       ],
       "site_url": "https://kitsu.io/anime/space-warrior-baldios-movie",
       "year_match": true,
-      "image_path": "images/kitsu-1557.jpg"
+      "image_path": "images/kitsu-1557.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -843,7 +784,8 @@
       ],
       "site_url": "https://kitsu.io/anime/mahou-shoujo-lalabel",
       "year_match": true,
-      "image_path": "images/kitsu-3318.jpg"
+      "image_path": "images/kitsu-3318.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -879,7 +821,8 @@
       ],
       "site_url": "https://kitsu.io/anime/ganbare-genki",
       "year_match": true,
-      "image_path": "images/kitsu-2859.jpg"
+      "image_path": "images/kitsu-2859.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -928,7 +871,8 @@
         "Slice of Life"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-5319.jpg"
+      "image_path": "images/kitsu-5319.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -970,7 +914,8 @@
       ],
       "site_url": "https://kitsu.io/anime/yamato-yo-eien-ni",
       "year_match": true,
-      "image_path": "images/kitsu-2767.jpg"
+      "image_path": "images/kitsu-2767.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1008,7 +953,8 @@
       ],
       "site_url": "https://kitsu.io/anime/yami-no-teio-kyuuketsuki-dracula",
       "year_match": true,
-      "image_path": "images/kitsu-3259.jpg"
+      "image_path": "images/kitsu-3259.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1047,7 +993,8 @@
       ],
       "site_url": "https://kitsu.io/anime/fumoon",
       "year_match": true,
-      "image_path": "images/kitsu-4307.jpg"
+      "image_path": "images/kitsu-4307.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1081,7 +1028,8 @@
         "Kids"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-2814.jpg"
+      "image_path": "images/kitsu-2814.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1097,30 +1045,7 @@
     "director": "",
     "notes": "",
     "ref": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "4295",
-      "title_romaji": "Tondemo Senshi Muteking",
-      "title_english": null,
-      "title_native": "とんでも戦士ムテキング",
-      "description": "Twelve-year-old Linn Youki loyally supported his father when the world laughed at the scientist for saying that Earth was about to be invaded from outer space. But Linn did not expect to become personally involved--until he met Takoro, the strange young \"deputy sheriff\" from another world who was on the trail of notorious space criminals. There were only four Kurodako Brothers, but they plotted to use their alien science and natural shape-changing powers to become the secret masters of Earth. With Takoro's help, Linn became the mighty super-hero, Muteking, to foil their schemes. There is plenty of action and laughs in this light-hearted comedy-drama about a roller-skating costumed hero, his friendly but bumbling alien partner, a gang of klutzy would-be world conquerors, a beautiful police chief, an obsessed scientist, a sarcastic dog, an officious flying saucer, and others. This unusual but appealing cast of characters will charm viewers' hearts while it amuses them.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/4295/large.jpg",
-      "kitsu_year": 1980,
-      "format": "TV",
-      "episodes": 56,
-      "genres": [
-        "Comedy",
-        "Science Fiction",
-        "Magic",
-        "Super Power",
-        "Mecha",
-        "Action",
-        "Kids"
-      ],
-      "site_url": "https://kitsu.io/anime/tondemo-senshi-muteking",
-      "year_match": true,
-      "image_path": "images/kitsu-4295.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1980,
@@ -1157,7 +1082,8 @@
       ],
       "site_url": "https://kitsu.io/anime/ojamanga-yamada-kun",
       "year_match": true,
-      "image_path": "images/kitsu-7452.jpg"
+      "image_path": "images/kitsu-7452.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1192,7 +1118,8 @@
       ],
       "site_url": "https://kitsu.io/anime/astro-boy-1980",
       "year_match": true,
-      "image_path": "images/kitsu-2748.jpg"
+      "image_path": "images/kitsu-2748.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1226,7 +1153,8 @@
         "Science Fiction"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-3524.jpg"
+      "image_path": "images/kitsu-3524.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1242,29 +1170,7 @@
     "director": "Leiji Matsumoto , Noburo Ishiguro",
     "notes": "",
     "ref": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "1485",
-      "title_romaji": "Uchuu Senkan Yamato III",
-      "title_english": "Star Blazers: The Bolar Wars",
-      "title_native": "宇宙戦艦ヤマトⅢ",
-      "description": "A stray missile from a confrontation between the Galman empire and the Bolar Federation crashes into the sun, turning it into a time bomb of radiation. The Star Force once again sets off into space, this time on a quest to look for a new world for the human race.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/1485/large.jpg",
-      "kitsu_year": 1980,
-      "format": "TV",
-      "episodes": 25,
-      "genres": [
-        "Science Fiction",
-        "Space Opera",
-        "Space",
-        "Action",
-        "Adventure",
-        "Military"
-      ],
-      "site_url": "https://kitsu.io/anime/uchuu-senkan-yamato-3",
-      "year_match": true,
-      "image_path": "images/kitsu-1485.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1980,
@@ -1304,7 +1210,8 @@
         "Action"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-2646.jpg"
+      "image_path": "images/kitsu-2646.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1338,7 +1245,8 @@
       ],
       "site_url": "https://kitsu.io/anime/ganbare-tabuchi-kun",
       "year_match": true,
-      "image_path": "images/kitsu-11875.jpg"
+      "image_path": "images/kitsu-11875.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1373,7 +1281,8 @@
         "Adventure"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-7868.jpg"
+      "image_path": "images/kitsu-7868.jpg",
+      "similarity": 1.0
     }
   }
 ]

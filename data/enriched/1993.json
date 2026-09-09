@@ -11,25 +11,7 @@
     "director": "By episode: Takashi Anno (1–17) Hiroko Tokita (30–51)",
     "studio": "Japan Taps",
     "ref": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "10286",
-      "title_romaji": "Kitty to Daniel no Suteki na Christmas",
-      "title_english": null,
-      "title_native": "キティとダニエルのすてきなクリスマス",
-      "description": "Daniel was supposed to come visit Kitty and Mimmy on Christmas. But due to bad weather in New York, he isn't able to fly. The girls are quite saddened but a miracle happens.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/10286/large.jpg",
-      "kitsu_year": 1992,
-      "format": "OVA",
-      "episodes": 1,
-      "genres": [
-        "Kids",
-        "Anthropomorphism"
-      ],
-      "site_url": "https://kitsu.io/anime/kitty-to-daniel-no-suteki-na-christmas",
-      "year_match": true,
-      "image_path": "images/kitsu-10286.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1993,
@@ -65,7 +47,8 @@
       ],
       "site_url": "https://kitsu.io/anime/wakakusa-monogatari-nan-to-jo-sensei",
       "year_match": true,
-      "image_path": "images/kitsu-2323.jpg"
+      "image_path": "images/kitsu-2323.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -105,7 +88,8 @@
       ],
       "site_url": "https://kitsu.io/anime/musekinin-kanchou-tylor",
       "year_match": true,
-      "image_path": "images/kitsu-526.jpg"
+      "image_path": "images/kitsu-526.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -147,7 +131,8 @@
       ],
       "site_url": "https://kitsu.io/anime/yuusha-tokkyuu-might-gaine",
       "year_match": true,
-      "image_path": "images/kitsu-3046.jpg"
+      "image_path": "images/kitsu-3046.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -182,7 +167,8 @@
       ],
       "site_url": "https://kitsu.io/anime/nekketsu-saikyou-go-saurer",
       "year_match": true,
-      "image_path": "images/kitsu-4082.jpg"
+      "image_path": "images/kitsu-4082.jpg",
+      "similarity": 0.67
     }
   },
   {
@@ -226,7 +212,8 @@
       ],
       "site_url": "https://kitsu.io/anime/bishoujo-senshi-sailor-moon-r",
       "year_match": true,
-      "image_path": "images/kitsu-664.jpg"
+      "image_path": "images/kitsu-664.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -272,7 +259,8 @@
       ],
       "site_url": "https://kitsu.io/anime/mobile-suit-victory-gundam",
       "year_match": true,
-      "image_path": "images/kitsu-68.jpg"
+      "image_path": "images/kitsu-68.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -304,7 +292,8 @@
       ],
       "site_url": "https://kitsu.io/anime/shippuu-iron-leaguer-silver-no-hata-no-moto-ni",
       "year_match": true,
-      "image_path": "images/kitsu-6968.jpg"
+      "image_path": "images/kitsu-6968.jpg",
+      "similarity": 0.67
     }
   },
   {
@@ -344,7 +333,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kenyuu-densetsu-yaiba",
       "year_match": true,
-      "image_path": "images/kitsu-2115.jpg"
+      "image_path": "images/kitsu-2115.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -359,26 +349,7 @@
     "director": "Tsutomu Shibayama",
     "studio": "Ajia-do Animation Works",
     "ref": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "1078",
-      "title_romaji": "Nintama Rantarou",
-      "title_english": null,
-      "title_native": "忍たま乱太郎",
-      "description": "Rantarou, Shinbei and Kirimaru are ninja apprentices in the Ninja Gakuen, where first grade ones are called \"Nintamas\" (contraction of the words ninja+tama (egg)). They must learn everything a ninja must know, but as for our heroes, money, food or playing are more interesting. The series show the everyday adventures of our heroes, segmentated in a cartoon fashion, like 2 small episodes in a 30-min show. The cast also includes the teachers (Doi-sensei and crossdressing Yamada-sensei), nintama kunoichis, evil guys (Dokutake ninjas) and even family members of all the cast...",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/1078/large.jpg",
-      "kitsu_year": 1993,
-      "format": "TV",
-      "episodes": null,
-      "genres": [
-        "Ninja",
-        "Japan",
-        "Comedy"
-      ],
-      "site_url": "https://kitsu.io/anime/nintama-rantarou",
-      "year_match": true,
-      "image_path": "images/kitsu-1078.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1993,
@@ -413,7 +384,8 @@
       ],
       "site_url": "https://kitsu.io/anime/ghost-sweeper-gs-mikami",
       "year_match": true,
-      "image_path": "images/kitsu-2177.jpg"
+      "image_path": "images/kitsu-2177.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -447,7 +419,8 @@
       ],
       "site_url": "https://kitsu.io/anime/dragon-league",
       "year_match": true,
-      "image_path": "images/kitsu-3977.jpg"
+      "image_path": "images/kitsu-3977.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -479,7 +452,8 @@
       ],
       "site_url": "https://kitsu.io/anime/muka-muka-paradise",
       "year_match": true,
-      "image_path": "images/kitsu-3457.jpg"
+      "image_path": "images/kitsu-3457.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -522,7 +496,8 @@
       ],
       "site_url": "https://kitsu.io/anime/slam-dunk",
       "year_match": true,
-      "image_path": "images/kitsu-148.jpg"
+      "image_path": "images/kitsu-148.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -569,7 +544,8 @@
       ],
       "site_url": "https://kitsu.io/anime/shima-shima-tora-no-shimajirou",
       "year_match": true,
-      "image_path": "images/kitsu-5857.jpg"
+      "image_path": "images/kitsu-5857.jpg",
+      "similarity": 0.67
     }
   },
   {
@@ -606,7 +582,8 @@
       ],
       "site_url": "https://kitsu.io/anime/ramayana-the-legend-of-prince-rama",
       "year_match": true,
-      "image_path": "images/kitsu-3849.jpg"
+      "image_path": "images/kitsu-3849.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -620,31 +597,7 @@
     "director": "Shigeyasu Yamauchi",
     "studio": "Toei Animation",
     "ref": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "8611",
-      "title_romaji": "Dragon Ball Z: Zenbu Misemasu Toshi Wasure Dragon Ball Z!",
-      "title_english": null,
-      "title_native": "全部見せます 年忘れドラゴンボールZ!",
-      "description": "In this film, which is believed to take place some time around the 25th World Martial Arts Tournament, Gohan and Goten are having a hot bath outside in the middle of winter. Goku (who is still dead) suddenly appears in front of his sons with the help of his Instant Transmission, and joins them in the tub. While there, the three Saiyans reflect back on the events that occurred during the Cell Games. Inside the house after Chi-Chi appeared, Goku tells his sons about Pikkon and the Other World Tournament. Later, the four members of the Son family appear dressed nicely. Gohan says that the adult division of the Tournament will begin this next year (in 1994), and the special comes to an end.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/8611/large.jpg",
-      "kitsu_year": 1993,
-      "format": "special",
-      "episodes": 1,
-      "genres": [
-        "Comedy",
-        "Super Power",
-        "Fantasy",
-        "Slice of Life",
-        "Action",
-        "Adventure",
-        "Martial Arts",
-        "Shounen"
-      ],
-      "site_url": "https://kitsu.io/anime/dragon-ball-z-zenbu-misemasu-toshi-wasure-dragon-ball-z",
-      "year_match": true,
-      "image_path": "images/kitsu-8611.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1993,
@@ -673,7 +626,8 @@
       ],
       "site_url": "https://kitsu.io/anime/doraemon-nobita-s-tin-plate-labyrinth",
       "year_match": true,
-      "image_path": "images/kitsu-2423.jpg"
+      "image_path": "images/kitsu-2423.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -703,7 +657,8 @@
       ],
       "site_url": "https://kitsu.io/anime/dorami-chan-hello-kyouryuu-kids",
       "year_match": true,
-      "image_path": "images/kitsu-2403.jpg"
+      "image_path": "images/kitsu-2403.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -734,7 +689,8 @@
       ],
       "site_url": "https://kitsu.io/anime/dr-slump-movie-6-arale-chan-ncha-pengin-mura-wa-hare-nochi-hare",
       "year_match": true,
-      "image_path": "images/kitsu-5133.jpg"
+      "image_path": "images/kitsu-5133.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -766,7 +722,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kappa-no-sanpei",
       "year_match": true,
-      "image_path": "images/kitsu-5798.jpg"
+      "image_path": "images/kitsu-5798.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -800,7 +757,8 @@
         "Comedy"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-5602.jpg"
+      "image_path": "images/kitsu-5602.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -833,7 +791,8 @@
       ],
       "site_url": "https://kitsu.io/anime/sangokushi-dainibu-choukou-moyu",
       "year_match": true,
-      "image_path": "images/kitsu-5085.jpg"
+      "image_path": "images/kitsu-5085.jpg",
+      "similarity": 0.6
     }
   },
   {
@@ -875,7 +834,8 @@
       ],
       "site_url": "https://kitsu.io/anime/juubee-ninpuuchou",
       "year_match": true,
-      "image_path": "images/kitsu-572.jpg"
+      "image_path": "images/kitsu-572.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -889,31 +849,7 @@
     "director": "Yoshihiro Ueda",
     "studio": "Toei Animation",
     "ref": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "8611",
-      "title_romaji": "Dragon Ball Z: Zenbu Misemasu Toshi Wasure Dragon Ball Z!",
-      "title_english": null,
-      "title_native": "全部見せます 年忘れドラゴンボールZ!",
-      "description": "In this film, which is believed to take place some time around the 25th World Martial Arts Tournament, Gohan and Goten are having a hot bath outside in the middle of winter. Goku (who is still dead) suddenly appears in front of his sons with the help of his Instant Transmission, and joins them in the tub. While there, the three Saiyans reflect back on the events that occurred during the Cell Games. Inside the house after Chi-Chi appeared, Goku tells his sons about Pikkon and the Other World Tournament. Later, the four members of the Son family appear dressed nicely. Gohan says that the adult division of the Tournament will begin this next year (in 1994), and the special comes to an end.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/8611/large.jpg",
-      "kitsu_year": 1993,
-      "format": "special",
-      "episodes": 1,
-      "genres": [
-        "Comedy",
-        "Super Power",
-        "Fantasy",
-        "Slice of Life",
-        "Action",
-        "Adventure",
-        "Martial Arts",
-        "Shounen"
-      ],
-      "site_url": "https://kitsu.io/anime/dragon-ball-z-zenbu-misemasu-toshi-wasure-dragon-ball-z",
-      "year_match": true,
-      "image_path": "images/kitsu-8611.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1993,
@@ -943,7 +879,8 @@
       ],
       "site_url": "https://kitsu.io/anime/dr-slump-movie-6-arale-chan-ncha-pengin-mura-wa-hare-nochi-hare",
       "year_match": true,
-      "image_path": "images/kitsu-5133.jpg"
+      "image_path": "images/kitsu-5133.jpg",
+      "similarity": 0.71
     }
   },
   {
@@ -982,7 +919,8 @@
       ],
       "site_url": "https://kitsu.io/anime/rail-of-the-star-a-true-story-of-children",
       "year_match": true,
-      "image_path": "images/kitsu-1186.jpg"
+      "image_path": "images/kitsu-1186.jpg",
+      "similarity": 0.67
     }
   },
   {
@@ -996,26 +934,7 @@
     "director": "Akinori Nagaoka",
     "studio": "Tokyo Movie Shinsha",
     "ref": "[ 9 ] [ better source needed ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "6013",
-      "title_romaji": "Sore Ike! Anpanman: Kyouryuu Nosshii no Daibouken",
-      "title_english": null,
-      "title_native": "それいけ! アンパンマン 恐竜ノッシーの大冒険",
-      "description": "5th Anpanman short movie.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/6013/large.jpg",
-      "kitsu_year": 1993,
-      "format": "movie",
-      "episodes": 1,
-      "genres": [
-        "Comedy",
-        "Fantasy",
-        "Kids"
-      ],
-      "site_url": "https://kitsu.io/anime/sore-ike-anpanman-kyouryuu-nosshii-no-daibouken",
-      "year_match": true,
-      "image_path": "images/kitsu-6013.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1993,
@@ -1061,7 +980,8 @@
       ],
       "site_url": "https://kitsu.io/anime/rokudenashi-blues-1993",
       "year_match": true,
-      "image_path": "images/kitsu-5597.jpg"
+      "image_path": "images/kitsu-5597.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1104,7 +1024,8 @@
       ],
       "site_url": "https://kitsu.io/anime/three-choume-no-tama-uchi-no-tama-shirimasenka",
       "year_match": true,
-      "image_path": "images/kitsu-2241.jpg"
+      "image_path": "images/kitsu-2241.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -1145,7 +1066,8 @@
       ],
       "site_url": "https://kitsu.io/anime/big-wars",
       "year_match": true,
-      "image_path": "images/kitsu-2386.jpg"
+      "image_path": "images/kitsu-2386.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1175,7 +1097,8 @@
       ],
       "site_url": "https://kitsu.io/anime/bonobono-movie",
       "year_match": true,
-      "image_path": "images/kitsu-9220.jpg"
+      "image_path": "images/kitsu-9220.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1225,7 +1148,8 @@
       ],
       "site_url": "https://kitsu.io/anime/aoi-kioku-manmou-kaitaku-to-shounen-tachi",
       "year_match": true,
-      "image_path": "images/kitsu-7587.jpg"
+      "image_path": "images/kitsu-7587.jpg",
+      "similarity": 0.6
     }
   },
   {
@@ -1264,7 +1188,8 @@
         "Space Opera"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-2726.jpg"
+      "image_path": "images/kitsu-2726.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1317,7 +1242,8 @@
       ],
       "site_url": "https://kitsu.io/anime/e-y-e-s-of-mars",
       "year_match": true,
-      "image_path": "images/kitsu-1035.jpg"
+      "image_path": "images/kitsu-1035.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1362,7 +1288,8 @@
       ],
       "site_url": "https://kitsu.io/anime/columbus-no-daibouken",
       "year_match": true,
-      "image_path": "images/kitsu-12337.jpg"
+      "image_path": "images/kitsu-12337.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -1395,7 +1322,8 @@
       ],
       "site_url": "https://kitsu.io/anime/offside-ova",
       "year_match": true,
-      "image_path": "images/kitsu-14228.jpg"
+      "image_path": "images/kitsu-14228.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1426,7 +1354,8 @@
       ],
       "site_url": "https://kitsu.io/anime/aru-kararu-no-isan",
       "year_match": true,
-      "image_path": "images/kitsu-4418.jpg"
+      "image_path": "images/kitsu-4418.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -1468,7 +1397,8 @@
       ],
       "site_url": "https://kitsu.io/anime/aa-megami-sama-ova",
       "year_match": true,
-      "image_path": "images/kitsu-7780.jpg"
+      "image_path": "images/kitsu-7780.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1509,7 +1439,8 @@
       ],
       "site_url": "https://kitsu.io/anime/moldiver",
       "year_match": true,
-      "image_path": "images/kitsu-528.jpg"
+      "image_path": "images/kitsu-528.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1549,7 +1480,8 @@
       ],
       "site_url": "https://kitsu.io/anime/dragon-half",
       "year_match": true,
-      "image_path": "images/kitsu-771.jpg"
+      "image_path": "images/kitsu-771.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1602,7 +1534,8 @@
       ],
       "site_url": "https://kitsu.io/anime/desert-rose",
       "year_match": true,
-      "image_path": "images/kitsu-3397.jpg"
+      "image_path": "images/kitsu-3397.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1654,7 +1587,8 @@
       ],
       "site_url": "https://kitsu.io/anime/giant-robo-the-animation-chikyuu-ga-seishi-suru-hi",
       "year_match": true,
-      "image_path": "images/kitsu-2102.jpg"
+      "image_path": "images/kitsu-2102.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1686,7 +1620,8 @@
       ],
       "site_url": "https://kitsu.io/anime/mellow",
       "year_match": true,
-      "image_path": "images/kitsu-9442.jpg"
+      "image_path": "images/kitsu-9442.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1741,7 +1676,8 @@
       ],
       "site_url": "https://kitsu.io/anime/mermaid-s-scar",
       "year_match": true,
-      "image_path": "images/kitsu-1816.jpg"
+      "image_path": "images/kitsu-1816.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1780,7 +1716,8 @@
       ],
       "site_url": "https://kitsu.io/anime/youseiki-suikoden",
       "year_match": true,
-      "image_path": "images/kitsu-1586.jpg"
+      "image_path": "images/kitsu-1586.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1795,31 +1732,7 @@
     "director": "Norubu Furuse",
     "studio": "J.C.Staff",
     "ref": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "2102",
-      "title_romaji": "Giant Robo the Animation: Chikyuu ga Seishi Suru Hi",
-      "title_english": "Giant Robo the Animation: The Day the Earth Stood Still",
-      "title_native": "ジャイアントロボ THE ANIMATION 地球が静止する日",
-      "description": "In a future to come humanity enjoys a new age of prosperity thanks to Dr. Shizuma's invention of a revolutionary renewable energy source: the Shizuma Drive. But this peace is threatened by Big Fire, a cabal seeking world domination. Against Big Fire the International Police Organisation dispatches a collection of superpowered warriors and martial artists, together with Daisaku Kusama, inheritor and master of Earth's most powerful robot, Giant Robo. By capturing an abnormal Shizuma Drive which is essential to Big Fire's plans the IPO ignites a desperate conflict between the two groups. The coming battle will test Daisaku's resolve to the utmost, reveal the ghastly truth behind the creation of the Shizuma Drive, and bring human civilization to its knees! Giant Robo is a character-driven adventure in a retro-futuristic setting, drawing on influences from opera, kung-fu cinema, wuxia stories and classic mecha anime. It incorporates characters from the works of the manga author Mitsuteru Yokoyama but it is designed to be a stand-alone story.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/2102/large.jpg",
-      "kitsu_year": 1992,
-      "format": "OVA",
-      "episodes": 7,
-      "genres": [
-        "Earth",
-        "Action",
-        "Mecha",
-        "Steampunk",
-        "Science Fiction",
-        "Special Squads",
-        "Plot Continuity",
-        "Super Power"
-      ],
-      "site_url": "https://kitsu.io/anime/giant-robo-the-animation-chikyuu-ga-seishi-suru-hi",
-      "year_match": true,
-      "image_path": "images/kitsu-2102.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1993,
@@ -1857,7 +1770,8 @@
       ],
       "site_url": "https://kitsu.io/anime/jojo-s-bizarre-adventure-1993",
       "year_match": true,
-      "image_path": "images/kitsu-610.jpg"
+      "image_path": "images/kitsu-610.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1902,7 +1816,8 @@
       ],
       "site_url": "https://kitsu.io/anime/boku-no-chikyuu-wo-mamotte",
       "year_match": true,
-      "image_path": "images/kitsu-485.jpg"
+      "image_path": "images/kitsu-485.jpg",
+      "similarity": 1.0
     }
   },
   {

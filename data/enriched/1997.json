@@ -35,7 +35,8 @@
       ],
       "site_url": "https://kitsu.io/anime/agent-aika",
       "year_match": true,
-      "image_path": "images/kitsu-333.jpg"
+      "image_path": "images/kitsu-333.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -49,31 +50,7 @@
     "type": "OVA",
     "demographic": "",
     "regions": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "1896",
-      "title_romaji": "Tokumu Sentai Shinesman",
-      "title_english": "Special Duty Combat Unit Shinesman",
-      "title_native": "特務戦隊シャインズマン",
-      "description": "Hiroya Matsumoto, hoping to become a great employee as his late father, has just been hired at Raito (Right) Trading Company. Little does he know that he has been recruited for a very mysterious department within the company - the Special Duty Combat Unit, known as SHINESMAN. Their purpose, to fight the terrible (often times hilarious) alien forces that threaten the earth. Like most corporate employees, Matsumoto still has meetings to attend and deadlines to meet. But when the Shinesman rage war against the alien race from Planet Voice, led by their Prince Sasaki, Matsumoto and his co-workers don their office-coloured comat Pro-suits and become: Shinesman Red, Sepia, Salmon Pink, Grey, and Moss Green. If you thought you'd seen it all in Power Rangers, Kamen Rider, or even Dynaman, wait until you take a look at the zaney but corporate world of SHINESMAN!",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/1896/large.jpg",
-      "kitsu_year": 1996,
-      "format": "OVA",
-      "episodes": 2,
-      "site_url": "https://kitsu.io/anime/tokumu-sentai-shinesman",
-      "genres": [
-        "Earth",
-        "Power Suit",
-        "Parody",
-        "Japan",
-        "Asia",
-        "Action",
-        "Science Fiction",
-        "Comedy"
-      ],
-      "year_match": true,
-      "image_path": "images/kitsu-1896.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1997,
@@ -131,7 +108,8 @@
       ],
       "site_url": "https://kitsu.io/anime/armitage-iii-polymatrix",
       "year_match": true,
-      "image_path": "images/kitsu-454.jpg"
+      "image_path": "images/kitsu-454.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -167,7 +145,8 @@
       ],
       "site_url": "https://kitsu.io/anime/battle-athletes-ova",
       "year_match": true,
-      "image_path": "images/kitsu-1065.jpg"
+      "image_path": "images/kitsu-1065.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -183,27 +162,29 @@
     "regions": "",
     "enrichment": {
       "source": "kitsu",
-      "source_id": "1065",
-      "title_romaji": "Battle Athletess Daiundoukai",
-      "title_english": "Battle Athletes",
+      "source_id": "1066",
+      "title_romaji": "Battle Athletess Daiundoukai (TV)",
+      "title_english": "Battle Athletes Victory",
       "title_native": "バトルアスリーテス大運動会",
-      "description": "It is the year 4999 - mankind has long abandoned war in favor of intergalactic competition through athletic events. One of which is an all-female contest for the coveted \"Cosmo Beauty\" title. Akari Kanzaki has just entered the University Satellite in hopes of becoming the latest Cosmic Beauty - a title held by her mother long ago. On her first few days in the university, she meets new friends, encounters fierce rivals, and struggles to become the best of all the Battle Athletes.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/1065/large.jpg",
+      "description": "Akari Kanzaki has just joined an all-girls academy in hopes of entering the University Satellite, an elite sports training facility. She wants to win the title of Cosmo Beauty - a title held years ago by her mother. It's not an easy task for her as fear, doubt and peer pressure get in her way, but friends, rivals and fans slowly encourage her to overcome her obstacles and become the best of the Battle Athletes.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1066/large.jpg",
       "kitsu_year": 1997,
-      "format": "OVA",
-      "episodes": 6,
+      "format": "TV",
+      "episodes": 26,
+      "site_url": "https://kitsu.io/anime/battle-athletes-victory",
       "genres": [
-        "Science Fiction",
-        "Ecchi",
-        "Sports",
         "Future",
-        "Space",
+        "Shoujo Ai",
         "Action",
-        "Comedy"
+        "Science Fiction",
+        "Adventure",
+        "Comedy",
+        "School Life",
+        "Sports"
       ],
-      "site_url": "https://kitsu.io/anime/battle-athletes-ova",
       "year_match": true,
-      "image_path": "images/kitsu-1065.jpg"
+      "similarity": 1.0,
+      "image_path": "images/kitsu-1066.jpg"
     }
   },
   {
@@ -242,7 +223,8 @@
         "Plot Continuity"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-24.jpg"
+      "image_path": "images/kitsu-24.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -282,7 +264,8 @@
       ],
       "site_url": "https://kitsu.io/anime/detective-conan-movie-01-the-timed-skyscraper",
       "year_match": true,
-      "image_path": "images/kitsu-696.jpg"
+      "image_path": "images/kitsu-696.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -298,29 +281,30 @@
     "regions": "",
     "enrichment": {
       "source": "kitsu",
-      "source_id": "1323",
-      "title_romaji": "City Hunter: The Secret Service",
-      "title_english": "City Hunter: The Secret Service",
-      "title_native": "シティーハンタースペシャル ザ・シークレット・サービス",
-      "description": "James McGuire has a dream. He wants to become the president of Guinam and free his people from the military rulers who have been in power up until now. However, one thing stands in McGuire's way: his past. And it's beginning to catch up with him, endangering not only his career, but the life of his long lost daughter. McGuire hires the City Hunter, Ryo Saeba and his partner Kaori to protect his daughter Anna, who herself is a Secret Service agent assigned to bodyguard the presidential hopeful.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/1323/large.jpg",
-      "kitsu_year": 1996,
+      "source_id": "1324",
+      "title_romaji": "City Hunter: Goodbye My Sweetheart",
+      "title_english": "City Hunter: The Motion Picture",
+      "title_native": "シティーハンタースペシャル グッド・バイ・マイ・スイート・ハート",
+      "description": "Ryo Saeba (aka the City Hunter), is a private detective in the city of Tokyo. Together with sidekick Kaori Makimura, Ryo is hired by actress Emi Makaze to find her long lost brother. The woman's brother turns out to be \"The Professor\", a dillusional ex-soldier who's planing to destroy the Shinjuku district of Tokyo. Kaori is assigned to guard Emi, but they both get caught up in the Professor's scheme. The City Hunter must save them, without allowing downtown Tokyo to be destroyed.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1324/large.jpg",
+      "kitsu_year": 1997,
       "format": "special",
       "episodes": 1,
-      "site_url": "https://kitsu.io/anime/city-hunter-the-secret-service",
+      "site_url": "https://kitsu.io/anime/city-hunter-goodbye-my-sweetheart",
       "genres": [
-        "Gunfights",
         "Present",
         "Earth",
         "Japan",
         "Violent Retribution For Accidental Infringement",
         "Asia",
         "Action",
-        "Comedy",
-        "Mystery"
+        "Adventure",
+        "Thriller",
+        "Comedy"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-1323.jpg"
+      "similarity": 1.0,
+      "image_path": "images/kitsu-1324.jpg"
     }
   },
   {
@@ -354,7 +338,8 @@
       ],
       "site_url": "https://kitsu.io/anime/clamp-gakuen-tanteidan",
       "year_match": true,
-      "image_path": "images/kitsu-1661.jpg"
+      "image_path": "images/kitsu-1661.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -387,7 +372,8 @@
       ],
       "site_url": "https://kitsu.io/anime/yume-no-crayon-oukoku",
       "year_match": true,
-      "image_path": "images/kitsu-3723.jpg"
+      "image_path": "images/kitsu-3723.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -401,28 +387,7 @@
     "type": "Movie",
     "demographic": "",
     "regions": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "4568",
-      "title_romaji": "Crayon Shin-chan Movie 05: Ankoku Tamatama Daitsuiseki",
-      "title_english": null,
-      "title_native": "映画 クレヨンしんちゃん　暗黒タマタマ大追跡",
-      "description": "An action comedy film depicting the Nohara family who get caught in a fight between two clans, Tamayura and Tamayomi. Set in Tokyo and Aomori (northern end of Japan's main island). The Tamayomi clan had plotted to revive the evil genie Jarke and to conquer the world. To stop Tamayomi's plot, the three gay brothers (Rose, Lavender and Lemon) from Tamayura clan wrested Jarke's ball, which was a key to revive Jarke, from the bar girl gang of Tamayomi clan, but Shinnosuke's younger sister Himawari swallowed down the ball. The Nohara family, with the three gay brothers and a female detective Yone Higashimatsuyama, fights a fierce battle against the Tamayomi gang chasing them.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/4568/large.jpg",
-      "kitsu_year": 1997,
-      "format": "movie",
-      "episodes": 1,
-      "genres": [
-        "Comedy",
-        "Ecchi",
-        "Slice of Life",
-        "School Life",
-        "Kids"
-      ],
-      "site_url": "https://kitsu.io/anime/crayon-shin-chan-movie-05-ankoku-tamatama-daitsuiseki",
-      "year_match": true,
-      "image_path": "images/kitsu-4568.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1997,
@@ -457,7 +422,8 @@
       ],
       "site_url": "https://kitsu.io/anime/cutey-honey-f",
       "year_match": true,
-      "image_path": "images/kitsu-1670.jpg"
+      "image_path": "images/kitsu-1670.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -491,7 +457,8 @@
       ],
       "site_url": "https://kitsu.io/anime/chikyuu-ga-ugoita-hi",
       "year_match": true,
-      "image_path": "images/kitsu-2642.jpg"
+      "image_path": "images/kitsu-2642.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -505,28 +472,7 @@
     "type": "OVA",
     "demographic": "",
     "regions": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "7394",
-      "title_romaji": "Shinkai no Kantai: Submarine 707",
-      "title_english": null,
-      "title_native": "深海の艦隊 サブマリン707",
-      "description": "A mysterious object attacks and destroys any ship or submarine. Submarine 707 has the mission to search for that mysterious object, when summoned by a whale to follow it. The whale leads them to the world of Mu. But on their way they meet the mysterious object. They find out , it is Commander Red Silver, who had attacked the world of Mu to get Mu's magma sources. Submarine takes up the battle to defeat Red Silver and save Mu, and the world for that matter.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/7394/large.jpg",
-      "kitsu_year": 1997,
-      "format": "OVA",
-      "episodes": 1,
-      "site_url": "https://kitsu.io/anime/shinkai-no-kantai-submarine-707",
-      "genres": [
-        "Action",
-        "Science Fiction",
-        "Adventure",
-        "Military",
-        "Navy"
-      ],
-      "year_match": true,
-      "image_path": "images/kitsu-7394.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1997,
@@ -561,7 +507,8 @@
       ],
       "site_url": "https://kitsu.io/anime/detatoko-princess",
       "year_match": true,
-      "image_path": "images/kitsu-2455.jpg"
+      "image_path": "images/kitsu-2455.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -593,7 +540,8 @@
       ],
       "site_url": "https://kitsu.io/anime/doraemon-nobita-s-adventure-in-clockwork-city",
       "year_match": true,
-      "image_path": "images/kitsu-2441.jpg"
+      "image_path": "images/kitsu-2441.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -627,7 +575,8 @@
       ],
       "site_url": "https://kitsu.io/anime/dr-slump",
       "year_match": true,
-      "image_path": "images/kitsu-2928.jpg"
+      "image_path": "images/kitsu-2928.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -663,7 +612,8 @@
       ],
       "site_url": "https://kitsu.io/anime/dragon-ball-gt-goku-gaiden-yuuki-no-akashi-wa-suushinchuu",
       "year_match": true,
-      "image_path": "images/kitsu-877.jpg"
+      "image_path": "images/kitsu-877.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -698,7 +648,8 @@
       ],
       "site_url": "https://kitsu.io/anime/eat-man",
       "year_match": true,
-      "image_path": "images/kitsu-1530.jpg"
+      "image_path": "images/kitsu-1530.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -730,7 +681,8 @@
       ],
       "site_url": "https://kitsu.io/anime/elmer-no-bouken-my-father-s-dragon",
       "year_match": true,
-      "image_path": "images/kitsu-4629.jpg"
+      "image_path": "images/kitsu-4629.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -772,7 +724,8 @@
       ],
       "site_url": "https://kitsu.io/anime/neon-genesis-evangelion-the-end-of-evangelion",
       "year_match": true,
-      "image_path": "images/kitsu-23.jpg"
+      "image_path": "images/kitsu-23.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -788,27 +741,27 @@
     "regions": "",
     "enrichment": {
       "source": "kitsu",
-      "source_id": "1876",
-      "title_romaji": "Kindaichi Shounen no Jikenbo Movie 1: Operazakan - Aratanaru Satsujin",
+      "source_id": "1875",
+      "title_romaji": "Kindaichi Shounen no Jikenbo",
       "title_english": null,
-      "title_native": "金田一少年の事件簿・オペラ座館・新たなる殺人",
-      "description": "Invited for a anniversary celebration, Kindaichi, Miyuki and inspector Kenmochi re-visit the Opera House. There they discover that a play of \"The Phantom of the Opera\" is being rehearsed again. However, it doesn't take long when members of the acting troupe are killed by the \"Phantom\". Kindaichi will once again have to solve a murder series in the Opera House.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/1876/large.jpg",
-      "kitsu_year": 1996,
-      "format": "movie",
-      "episodes": 1,
-      "site_url": "https://kitsu.io/anime/kindaichi-shounen-no-jikenbo",
+      "title_native": "金田一少年の事件簿",
+      "description": "Kindaichi Hajime may look dumb, but he is one of the smartest detectives that you will ever see. He encounters mysteries after mysteries with his good friend, Miyuki, and he swears to solve them in the name of his grandfather, who was a great detective.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1875/large.jpg",
+      "kitsu_year": 1997,
+      "format": "TV",
+      "episodes": 148,
+      "site_url": "https://kitsu.io/anime/kindaichi-shounen-no-jikenbo-tv",
       "genres": [
         "Present",
         "Earth",
         "Japan",
         "Asia",
-        "School Life",
         "Detective",
         "Mystery"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-1876.jpg"
+      "similarity": 0.67,
+      "image_path": "images/kitsu-1875.jpg"
     }
   },
   {
@@ -847,7 +800,8 @@
       ],
       "site_url": "https://kitsu.io/anime/flame-of-recca",
       "year_match": true,
-      "image_path": "images/kitsu-213.jpg"
+      "image_path": "images/kitsu-213.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -882,7 +836,8 @@
       ],
       "site_url": "https://kitsu.io/anime/fujimi-orchestra",
       "year_match": true,
-      "image_path": "images/kitsu-2009.jpg"
+      "image_path": "images/kitsu-2009.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -922,7 +877,8 @@
       ],
       "site_url": "https://kitsu.io/anime/hakugei-legend-of-the-moby-dick",
       "year_match": true,
-      "image_path": "images/kitsu-1313.jpg"
+      "image_path": "images/kitsu-1313.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -952,7 +908,8 @@
       ],
       "site_url": "https://kitsu.io/anime/hermes-winds-of-love",
       "year_match": true,
-      "image_path": "images/kitsu-4793.jpg"
+      "image_path": "images/kitsu-4793.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -984,7 +941,8 @@
       ],
       "site_url": "https://kitsu.io/anime/donguri-no-ie",
       "year_match": true,
-      "image_path": "images/kitsu-4334.jpg"
+      "image_path": "images/kitsu-4334.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1030,7 +988,8 @@
       ],
       "site_url": "https://kitsu.io/anime/hyper-police",
       "year_match": true,
-      "image_path": "images/kitsu-1060.jpg"
+      "image_path": "images/kitsu-1060.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1063,7 +1022,8 @@
       ],
       "site_url": "https://kitsu.io/anime/in-the-beginning-the-bible-stories",
       "year_match": true,
-      "image_path": "images/kitsu-2067.jpg"
+      "image_path": "images/kitsu-2067.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1079,31 +1039,28 @@
     "regions": "",
     "enrichment": {
       "source": "kitsu",
-      "source_id": "1811",
-      "title_romaji": "Jigoku Sensei Nube",
-      "title_english": "Hell Teacher Nube",
-      "title_native": "地獄先生ぬ～べ～",
-      "description": "Nube is a clumsy, easygoing, and very kind teacher, but he has a secret under his glove on the left hand. He has a monster hand, and he also has the ability to sense ghosts and evil spirits. So he protects his dear students from these evil spirits with his monster hand, proving to be very powerful.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/1811/large.jpg",
-      "kitsu_year": 1996,
-      "format": "TV",
-      "episodes": 49,
+      "source_id": "5253",
+      "title_romaji": "Jigoku Sensei Nube: Gozen 0 Ji Nube Shisu!",
+      "title_english": "Hell Teacher Nube: 0 a.m. Nube Dead",
+      "title_native": "地獄先生ぬ～べ～　午前0時ぬ～べ～死す！！",
+      "description": "New student comes to Nube class. His name is Jun and he's a lonely boy who loves clowns very much. His only friend is a Pierre - clown in the mirror. And one night Pierre gives Jun a mask with strange abilities. At that point Jun starts to act strange and lot of accidents occur in the school.",
+      "cover_large": "https://media.kitsu.app/anime/5253/poster_image/large-83a8313d84f8217db0ff593af0eb2abe.jpeg",
+      "kitsu_year": 1997,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/jigoku-sensei-nube-gozen-0-toki-nube-shisu",
       "genres": [
-        "Fantasy",
-        "Japan",
         "Elementary School",
-        "Comedy",
-        "Horror",
-        "School Life",
-        "Violence",
         "Present",
-        "Super Power",
+        "Japan",
         "Adventure",
-        "Romance"
+        "Horror",
+        "Comedy",
+        "School Life"
       ],
-      "site_url": "https://kitsu.io/anime/jigoku-sensei-nube",
       "year_match": true,
-      "image_path": "images/kitsu-1811.jpg"
+      "similarity": 0.8,
+      "image_path": "images/kitsu-5253.jpg"
     }
   },
   {
@@ -1144,7 +1101,8 @@
       ],
       "site_url": "https://kitsu.io/anime/jungle-de-ikou",
       "year_match": true,
-      "image_path": "images/kitsu-2289.jpg"
+      "image_path": "images/kitsu-2289.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1177,7 +1135,8 @@
       ],
       "site_url": "https://kitsu.io/anime/jungle-taitei-1997",
       "year_match": true,
-      "image_path": "images/kitsu-8901.jpg"
+      "image_path": "images/kitsu-8901.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1208,7 +1167,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kigyou-senshi-yamazaki-long-distance-call",
       "year_match": true,
-      "image_path": "images/kitsu-4345.jpg"
+      "image_path": "images/kitsu-4345.jpg",
+      "similarity": 0.8
     }
   },
   {
@@ -1249,7 +1209,8 @@
       ],
       "site_url": "https://kitsu.io/anime/vs-knight-lamune-40-fresh",
       "year_match": true,
-      "image_path": "images/kitsu-1264.jpg"
+      "image_path": "images/kitsu-1264.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1263,25 +1224,7 @@
     "type": "Movie",
     "demographic": "",
     "regions": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "2468",
-      "title_romaji": "Bakusou Kyoudai Let's & Go WGP",
-      "title_english": null,
-      "title_native": "爆走兄弟レッツ＆ゴー!!　ＷＧＰ",
-      "description": "After the first season, Retsu and Go have now formed a team called \"TRF Victorys\" which Tokichi Mikuni, J, and Ryo Takaba are part of. Together, they aim for the World Cup. In this cup, teams from all over the globe enter. Some of the teams are, NA Astrorangers (Americans), Eisen Wofl (Germans), Rosso Estrada (Italians).",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/2468/large.jpg",
-      "kitsu_year": 1997,
-      "format": "TV",
-      "episodes": 51,
-      "site_url": "https://kitsu.io/anime/bakusou-kyoudai-let-s-go-wgp",
-      "genres": [
-        "Motorsport",
-        "Sports"
-      ],
-      "year_match": true,
-      "image_path": "images/kitsu-2468.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1997,
@@ -1296,23 +1239,23 @@
     "regions": "",
     "enrichment": {
       "source": "kitsu",
-      "source_id": "6017",
-      "title_romaji": "Sore Ike! Anpanman: Sora Tobu Ehon to Glass no Kutsu",
+      "source_id": "5738",
+      "title_romaji": "Sore Ike! Anpanman: Niji no Pyramid",
       "title_english": null,
-      "title_native": "それいけ!アンパンマン「空とぶ絵本とガラスの靴」",
-      "description": "8th Anpanman short movie.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/6017/large.jpg",
-      "kitsu_year": 1996,
+      "title_native": "それいけ！アンパンマン 虹のピラミッド",
+      "description": "9th Anpanman short movie.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/5738/large.jpg",
+      "kitsu_year": 1997,
       "format": "movie",
       "episodes": 1,
-      "site_url": "https://kitsu.io/anime/sore-ike-anpanman-sora-tobu-ehon-to-glass-no-kutsu",
+      "site_url": "https://kitsu.io/anime/sore-ike-anpanman-niji-no-pyramid",
       "genres": [
-        "Fantasy",
         "Comedy",
         "Kids"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-6017.jpg"
+      "similarity": 0.5,
+      "image_path": "images/kitsu-5738.jpg"
     }
   },
   {
@@ -1347,7 +1290,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kikansha-sensei",
       "year_match": true,
-      "image_path": "images/kitsu-9383.jpg"
+      "image_path": "images/kitsu-9383.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1380,7 +1324,8 @@
       ],
       "site_url": "https://kitsu.io/anime/licca-chan-to-yamaneko-hoshi-no-tabi",
       "year_match": true,
-      "image_path": "images/kitsu-5915.jpg"
+      "image_path": "images/kitsu-5915.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1418,7 +1363,8 @@
         "Mystery"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-1292.jpg"
+      "image_path": "images/kitsu-1292.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1457,7 +1403,8 @@
       ],
       "site_url": "https://kitsu.io/anime/neon-genesis-evangelion-death-rebirth",
       "year_match": true,
-      "image_path": "images/kitsu-22.jpg"
+      "image_path": "images/kitsu-22.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1495,7 +1442,8 @@
       ],
       "site_url": "https://kitsu.io/anime/vampire-hunter",
       "year_match": true,
-      "image_path": "images/kitsu-1758.jpg"
+      "image_path": "images/kitsu-1758.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1536,7 +1484,8 @@
       ],
       "site_url": "https://kitsu.io/anime/perfect-blue",
       "year_match": true,
-      "image_path": "images/kitsu-400.jpg"
+      "image_path": "images/kitsu-400.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1586,7 +1535,8 @@
       ],
       "site_url": "https://kitsu.io/anime/princess-mononoke",
       "year_match": true,
-      "image_path": "images/kitsu-142.jpg"
+      "image_path": "images/kitsu-142.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1622,7 +1572,8 @@
       ],
       "site_url": "https://kitsu.io/anime/psycho-diver-masei-rakuryu",
       "year_match": true,
-      "image_path": "images/kitsu-1587.jpg"
+      "image_path": "images/kitsu-1587.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1666,7 +1617,8 @@
       ],
       "site_url": "https://kitsu.io/anime/shoujo-kakumei-utena",
       "year_match": true,
-      "image_path": "images/kitsu-403.jpg"
+      "image_path": "images/kitsu-403.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1705,7 +1657,8 @@
       ],
       "site_url": "https://kitsu.io/anime/sakura-diaries",
       "year_match": true,
-      "image_path": "images/kitsu-725.jpg"
+      "image_path": "images/kitsu-725.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1744,7 +1697,8 @@
         "Science Fiction"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-1046.jpg"
+      "image_path": "images/kitsu-1046.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1779,7 +1733,8 @@
       ],
       "site_url": "https://kitsu.io/anime/slayers-great",
       "year_match": true,
-      "image_path": "images/kitsu-769.jpg"
+      "image_path": "images/kitsu-769.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1820,7 +1775,8 @@
       ],
       "site_url": "https://kitsu.io/anime/slayers-try",
       "year_match": true,
-      "image_path": "images/kitsu-1053.jpg"
+      "image_path": "images/kitsu-1053.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1858,7 +1814,8 @@
       ],
       "site_url": "https://kitsu.io/anime/bakumatsu-no-spasibo",
       "year_match": true,
-      "image_path": "images/kitsu-5192.jpg"
+      "image_path": "images/kitsu-5192.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1891,7 +1848,8 @@
         "Sports"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-9257.jpg"
+      "image_path": "images/kitsu-9257.jpg",
+      "similarity": 0.75
     }
   },
   {
@@ -1936,7 +1894,8 @@
       ],
       "site_url": "https://kitsu.io/anime/soreyuke-uchuu-senkan-yamamoto-yohko-ii",
       "year_match": true,
-      "image_path": "images/kitsu-1501.jpg"
+      "image_path": "images/kitsu-1501.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1976,7 +1935,8 @@
       ],
       "site_url": "https://kitsu.io/anime/tenchi-muyo-manatsu-no-eve",
       "year_match": true,
-      "image_path": "images/kitsu-986.jpg"
+      "image_path": "images/kitsu-986.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2010,7 +1970,8 @@
       ],
       "site_url": "https://kitsu.io/anime/flanders-no-inu-movie",
       "year_match": true,
-      "image_path": "images/kitsu-2387.jpg"
+      "image_path": "images/kitsu-2387.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2056,7 +2017,8 @@
       ],
       "site_url": "https://kitsu.io/anime/gaogaigar",
       "year_match": true,
-      "image_path": "images/kitsu-790.jpg"
+      "image_path": "images/kitsu-790.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2094,7 +2056,8 @@
       ],
       "site_url": "https://kitsu.io/anime/those-who-hunt-elves",
       "year_match": true,
-      "image_path": "images/kitsu-935.jpg"
+      "image_path": "images/kitsu-935.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2133,7 +2096,8 @@
       ],
       "site_url": "https://kitsu.io/anime/twilight-of-the-dark-master",
       "year_match": true,
-      "image_path": "images/kitsu-1120.jpg"
+      "image_path": "images/kitsu-1120.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2173,7 +2137,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kyuuketsuki-miyu-tv",
       "year_match": true,
-      "image_path": "images/kitsu-7754.jpg"
+      "image_path": "images/kitsu-7754.jpg",
+      "similarity": 1.0
     }
   },
   {

@@ -26,7 +26,8 @@
       ],
       "site_url": "https://kitsu.io/anime/osomatsu-kun",
       "year_match": true,
-      "image_path": "images/kitsu-5921.jpg"
+      "image_path": "images/kitsu-5921.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -58,7 +59,8 @@
       ],
       "site_url": "https://kitsu.io/anime/rainbow-sentai-robin",
       "year_match": true,
-      "image_path": "images/kitsu-5734.jpg"
+      "image_path": "images/kitsu-5734.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -72,24 +74,7 @@
     "type": "TV",
     "demographic": "",
     "regions": "JA",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "9869",
-      "title_romaji": "Kaizoku Ouji",
-      "title_english": null,
-      "title_native": "海賊王子",
-      "description": "Kid was brought up on a small island which floats on the Carribean Sea. He lives a pleasant life with many animals as his companions. However, this changes when he learns that his dying father is not his real father. Before he passes away, his foster father reveals to Kid that his real father is actually Captain Morgan, the pirate who rules the seven seas. Kid decides to set off in search of his real father, only to learn about his death. Other pirates began to hunger for the title of ruler, one of them being the notorious pirate Tiger Hook. In order to protect the seas, Kid became the pirate king of his father's ship.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/9869/large.jpg",
-      "kitsu_year": 1966,
-      "format": "TV",
-      "episodes": 31,
-      "genres": [
-        "Adventure"
-      ],
-      "site_url": "https://kitsu.io/anime/kaizoku-ouji",
-      "year_match": true,
-      "image_path": "images/kitsu-9869.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1966,
@@ -115,24 +100,7 @@
     "type": "TV",
     "demographic": "",
     "regions": "JA",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "6808",
-      "title_romaji": "Yuusei Kamen",
-      "title_english": null,
-      "title_native": "遊星仮面",
-      "description": "Donning a special mask, a young man defends the planet.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/6808/large.jpg",
-      "kitsu_year": 1966,
-      "format": "TV",
-      "episodes": 39,
-      "genres": [
-        "Science Fiction"
-      ],
-      "site_url": "https://kitsu.io/anime/yuusei-kamen",
-      "year_match": true,
-      "image_path": "images/kitsu-6808.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1966,
@@ -163,7 +131,8 @@
         "Adventure"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-7869.jpg"
+      "image_path": "images/kitsu-7869.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -195,7 +164,8 @@
       ],
       "site_url": "https://kitsu.io/anime/jungle-taitei-movie",
       "year_match": true,
-      "image_path": "images/kitsu-9355.jpg"
+      "image_path": "images/kitsu-9355.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -226,7 +196,8 @@
       ],
       "site_url": "https://kitsu.io/anime/tv-1966",
       "year_match": true,
-      "image_path": "images/kitsu-13185.jpg"
+      "image_path": "images/kitsu-13185.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -272,7 +243,8 @@
       ],
       "site_url": "https://kitsu.io/anime/ganbare-marine-kid",
       "year_match": true,
-      "image_path": "images/kitsu-5524.jpg"
+      "image_path": "images/kitsu-5524.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -302,7 +274,8 @@
       ],
       "site_url": "https://kitsu.io/anime/tenrankai-no-e",
       "year_match": true,
-      "image_path": "images/kitsu-3034.jpg"
+      "image_path": "images/kitsu-3034.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -316,26 +289,7 @@
     "type": "TV",
     "demographic": "",
     "regions": "JA",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "9942",
-      "title_romaji": "Tobidase! Bacchiri",
-      "title_english": null,
-      "title_native": "とびだせ! バッチリ",
-      "description": "A young detective solves mysterious cases. The 10 minutes episodes aired daily, Monday through Saturday.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/9942/large.jpg",
-      "kitsu_year": 1966,
-      "format": "TV",
-      "episodes": 132,
-      "genres": [
-        "Comedy",
-        "Mystery",
-        "Kids"
-      ],
-      "site_url": "https://kitsu.io/anime/tobidase-bacchiri",
-      "year_match": true,
-      "image_path": "images/kitsu-9942.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1966,
@@ -372,7 +326,8 @@
       ],
       "site_url": "https://kitsu.io/anime/mahoutsukai-sally",
       "year_match": true,
-      "image_path": "images/kitsu-2953.jpg"
+      "image_path": "images/kitsu-2953.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -404,7 +359,8 @@
       ],
       "site_url": "https://kitsu.io/anime/chim-chim-cher-ee",
       "year_match": true,
-      "image_path": "images/kitsu-5425.jpg"
+      "image_path": "images/kitsu-5425.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -431,26 +387,7 @@
     "type": "Short",
     "demographic": "",
     "regions": "JA",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "6878",
-      "title_romaji": "Kitsutsuki Keikaku",
-      "title_english": null,
-      "title_native": "キツツキ計画",
-      "description": "Puppet animation by Tadanari Okamoto.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/6878/large.jpg",
-      "kitsu_year": 1966,
-      "format": "movie",
-      "episodes": 1,
-      "genres": [
-        "Japan",
-        "Crime",
-        "Slice of Life"
-      ],
-      "site_url": "https://kitsu.io/anime/kitsutsuki-keikaku",
-      "year_match": true,
-      "image_path": "images/kitsu-6878.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1966,
@@ -463,26 +400,6 @@
     "type": "Short",
     "demographic": "",
     "regions": "JA",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "6879",
-      "title_romaji": "Youkoso Uchuujin",
-      "title_english": null,
-      "title_native": "ようこそ宇宙人",
-      "description": "Stop motion animation of aliens on a guided tour around an amusement park.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/6879/large.jpg",
-      "kitsu_year": 1966,
-      "format": "movie",
-      "episodes": 1,
-      "genres": [
-        "Japan",
-        "Performance",
-        "Music",
-        "Comedy"
-      ],
-      "site_url": "https://kitsu.io/anime/youkoso-uchuujin",
-      "year_match": true,
-      "image_path": "images/kitsu-6879.jpg"
-    }
+    "enrichment": null
   }
 ]

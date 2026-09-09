@@ -35,7 +35,8 @@
         "Action"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-277.jpg"
+      "image_path": "images/kitsu-277.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -74,7 +75,8 @@
         "Action"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-342.jpg"
+      "image_path": "images/kitsu-342.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -88,31 +90,7 @@
     "type": "Movie",
     "demographic": "",
     "regions": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "3912",
-      "title_romaji": "Beast Wars Second Chou Seimeitai Transformers",
-      "title_english": null,
-      "title_native": "ビーストウォーズⅡ（セカンド） 超生命体トランスフォーマー",
-      "description": "Beast Wars II tells the story of a battle waging between Lio Convoy's team of Cybertrons (Maximals) and Galvatrons army of Destrons (Predacon) on the planet Gaia. As LioConvoy and Galvatron fight over the mysterious energy source known as Angolmois energy, many strange occurrences and mysterious properties of Angolmois begin to arise.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/3912/large.jpg",
-      "kitsu_year": 1998,
-      "format": "TV",
-      "episodes": 43,
-      "genres": [
-        "Transforming Craft",
-        "Science Fiction",
-        "Mecha",
-        "Action",
-        "Other Planet",
-        "Future",
-        "Slapstick",
-        "Space"
-      ],
-      "site_url": "https://kitsu.io/anime/beast-wars-second-chou-seimeitai-transformers",
-      "year_match": true,
-      "image_path": "images/kitsu-3912.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1998,
@@ -142,7 +120,8 @@
       ],
       "site_url": "https://kitsu.io/anime/bomberman-b-daman-bakugaiden",
       "year_match": true,
-      "image_path": "images/kitsu-1502.jpg"
+      "image_path": "images/kitsu-1502.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -185,7 +164,8 @@
       ],
       "site_url": "https://kitsu.io/anime/brain-powerd",
       "year_match": true,
-      "image_path": "images/kitsu-1383.jpg"
+      "image_path": "images/kitsu-1383.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -227,7 +207,8 @@
       ],
       "site_url": "https://kitsu.io/anime/burn-up-excess",
       "year_match": true,
-      "image_path": "images/kitsu-337.jpg"
+      "image_path": "images/kitsu-337.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -267,7 +248,8 @@
       ],
       "site_url": "https://kitsu.io/anime/ao-no-6-gou",
       "year_match": true,
-      "image_path": "images/kitsu-941.jpg"
+      "image_path": "images/kitsu-941.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -308,7 +290,8 @@
       ],
       "site_url": "https://kitsu.io/anime/bubblegum-crisis-tokyo-2040",
       "year_match": true,
-      "image_path": "images/kitsu-525.jpg"
+      "image_path": "images/kitsu-525.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -356,7 +339,8 @@
       ],
       "site_url": "https://kitsu.io/anime/cardcaptor-sakura",
       "year_match": true,
-      "image_path": "images/kitsu-207.jpg"
+      "image_path": "images/kitsu-207.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -396,7 +380,8 @@
       ],
       "site_url": "https://kitsu.io/anime/detective-conan-movie-02-the-fourteenth-target",
       "year_match": true,
-      "image_path": "images/kitsu-697.jpg"
+      "image_path": "images/kitsu-697.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -439,7 +424,8 @@
       ],
       "site_url": "https://kitsu.io/anime/cowboy-bebop",
       "year_match": true,
-      "image_path": "images/kitsu-1.jpg"
+      "image_path": "images/kitsu-1.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -453,28 +439,7 @@
     "type": "Movie",
     "demographic": "Seinen",
     "regions": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "5309",
-      "title_romaji": "Crayon Shin-chan Movie 06: Dengeki! Buta no Hizume Daisakusen",
-      "title_english": null,
-      "title_native": "映画 クレヨンしんちゃん　電撃！ブタのヒヅメ大作戦",
-      "description": "A full-scale action film with tastes of the \"'007\" series and Jackie Chan's movies. The members of the secret organization for world peace 'SML', code-named 'Oiroke' (sexual attractiveness) and 'Kinniku' (muscle), who join hands with the Nohara family and Kasukabe Defense Forces (Shinnosuke Nohara and his mates: Kazama-kun, Nene-chan, Masao-kun and Bo-chan), and fight against the evil organization 'Buta no Hizume' (Pig's Hoof), who tries to conquer the world by using a computer virus.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/5309/large.jpg",
-      "kitsu_year": 1998,
-      "format": "movie",
-      "episodes": 1,
-      "genres": [
-        "Comedy",
-        "Ecchi",
-        "Slice of Life",
-        "School Life",
-        "Kids"
-      ],
-      "site_url": "https://kitsu.io/anime/crayon-shin-chan-movie-06-dengeki-buta-no-hizume-daisakusen",
-      "year_match": true,
-      "image_path": "images/kitsu-5309.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1998,
@@ -487,34 +452,7 @@
     "type": "TV",
     "demographic": "",
     "regions": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "2073",
-      "title_romaji": "Akihabara Dennou-gumi",
-      "title_english": null,
-      "title_native": "アキハバラ電脳組",
-      "description": "A \"patapi\" is a cute mechanical creature which is like a cyber pet. It can eat, sleep, play, and even help out its owners with some stuff. When Hibari Hanakoganei receives a patapi from a prince in her dreams, she is thrilled and names it \"Densuke\". When mysterious forces try to steal Densuke, Hibari discovers that Densuke is not just an ordinary patapi. Densuke has magical powers that allows it to transform into a powerful cyber-fighter who looks like Hibari. Hibari's friends also receive similar patapis, and together they form the Cyber Team in Akihabara.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/2073/large.jpg",
-      "kitsu_year": 1998,
-      "format": "TV",
-      "episodes": 26,
-      "genres": [
-        "Science Fiction",
-        "Mecha",
-        "Japan",
-        "Earth",
-        "Action",
-        "Asia",
-        "Alternative Present",
-        "Plot Continuity",
-        "Present",
-        "Super Power",
-        "Adventure"
-      ],
-      "site_url": "https://kitsu.io/anime/akihabara-dennou-gumi",
-      "year_match": true,
-      "image_path": "images/kitsu-2073.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1998,
@@ -552,7 +490,8 @@
         "Horror"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-1464.jpg"
+      "image_path": "images/kitsu-1464.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -586,7 +525,8 @@
       ],
       "site_url": "https://kitsu.io/anime/doraemon-nobita-s-south-sea-adventure",
       "year_match": true,
-      "image_path": "images/kitsu-2427.jpg"
+      "image_path": "images/kitsu-2427.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -621,7 +561,8 @@
       ],
       "site_url": "https://kitsu.io/anime/el-hazard-the-alternative-world",
       "year_match": true,
-      "image_path": "images/kitsu-94.jpg"
+      "image_path": "images/kitsu-94.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -637,23 +578,28 @@
     "regions": "",
     "enrichment": {
       "source": "kitsu",
-      "source_id": "50356",
-      "title_romaji": "Kakunaru Ue wa",
-      "title_english": "Now That We Draw",
-      "title_native": "描くなるうえは",
-      "description": "Opposites attract in this hysterical rom-com about two high school manga artists who can’t catch a break! Dweeby high schooler Uehara Yuuki has created the perfect romantic comedy heroine—she’s bashful, airheaded, and completely chaste. When an editor at Uehara’s dream publisher coldly dismisses his manga story as trite and lacking realism, it sends Uehara into a spiral of despair that pushes him into the path of his bubbly, gorgeous classmate, Miyamoto Niina—an aspiring manga artist herself! Having gotten similar feedback on her own manga, Miyamoto proposes she and Uehara engage in a fake relationship, since neither of them have any romantic experience. But Miyamoto is far from the perfect heroine Uehara’s concocted, and he certainly isn’t the cocky hero from her story either. Can their wacky relationship turn their manga dreams into reality, or will it lead to even more comic disasters?",
-      "cover_large": "https://media.kitsu.app/anime/50356/poster_image/large-849be4883f946ad3ba79420fbd004405.jpeg",
-      "kitsu_year": null,
-      "format": "TV",
-      "episodes": null,
+      "source_id": "332",
+      "title_romaji": "Fake",
+      "title_english": null,
+      "title_native": "FAKE",
+      "description": "Dee Laytner and Randy \"Ryo\" Maclane are two New York cops taking a needed vacation in England. Dee has very strong feelings for Ryo and wants to take this chance to advance their relationship (and if he's lucky, maybe seduce Ryo). Ryo doesn't understand his own feelings for Dee, and doesn't know if he wants to (or should) acknowledge them. Their vacation and relationship is suddenly disturbed when murders and missing person reports keep surfacing around their hotel. The only common tie the cases have is that all of the victims were Japanese or Japanese descent. Dee and Ryo have to solve the case before Ryo, who is half Japanese, becomes the next victim.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/332/large.jpg",
+      "kitsu_year": 1998,
+      "format": "OVA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/fake",
       "genres": [
-        "Ecchi",
+        "Shounen Ai",
+        "Action",
         "Comedy",
-        "Romance"
+        "Romance",
+        "Cops",
+        "Detective",
+        "Mystery"
       ],
-      "site_url": "https://kitsu.io/anime/kakunaru-ue-wa",
-      "year_match": null,
-      "image_path": "images/kitsu-50356.jpg"
+      "year_match": true,
+      "similarity": 1.0,
+      "image_path": "images/kitsu-332.jpg"
     }
   },
   {
@@ -667,37 +613,7 @@
     "type": "OVA",
     "demographic": "",
     "regions": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "1818",
-      "title_romaji": "DNA Sights 999.9",
-      "title_english": null,
-      "title_native": "火聖旅団[ファイアーフォース]ダナサイト９９９．９[フォーナイン]",
-      "description": "After a meteor hits Earth, traitor forces have (for all intents and purposes) taken over, and the people are suffering. In the chaos, a boy named Tetsuro Daiba, who had lost his parents in the meteor hit, is paid a visit by Mello, a mysterious woman appearing in a bright light. When Daiba comes to, he finds itself in a spaceship infirmary under observation. Stealing a fighter that he didn`t know how to pilot (until he tried it), he breaks out, flying like a total pro. He was able to remember how to pilot from his DNA memory... and to find out more, his doctor friend takes him to his secret underground lab, in which he acts as a professor to find out ways to stop the traitor regime. When the forces invade to take him back, a girl named Rei Yuuki mysteriously shoots down their entire carrier with only a fighter jet! Apparently, both have mysterious powers that the enemies want, which may or may not be connected to their being the only two known survivors of the meteor impact. While looking for a third survivor (which turned out to be a cat), the two are taken by force to Queen Photon (ruler of the traitor regime), who claims that she is out to SAVE the Earth from those who sent the Meteor. The two don't know whether to believe her or Mello until the (telepathic) cat breaks them out of the Queen's sealed chamber, and Mello comes to straighten things out. That's when the two (er, three) of them make a choice... Stay on a planet that can't support their advanced race, or strike out into the unknown of space?",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/1818/large.jpg",
-      "kitsu_year": 1998,
-      "format": "OVA",
-      "episodes": 1,
-      "genres": [
-        "Science Fiction",
-        "Post Apocalypse",
-        "Japan",
-        "Adventure",
-        "Action",
-        "Asia",
-        "Earth",
-        "Tokyo",
-        "Conspiracy",
-        "Coming Of Age",
-        "Dystopia",
-        "Drama",
-        "Future",
-        "Disaster"
-      ],
-      "site_url": "https://kitsu.io/anime/dna-sights-999-9",
-      "year_match": true,
-      "image_path": "images/kitsu-1818.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1998,
@@ -734,7 +650,8 @@
       ],
       "site_url": "https://kitsu.io/anime/flint-the-time-detective",
       "year_match": true,
-      "image_path": "images/kitsu-2066.jpg"
+      "image_path": "images/kitsu-2066.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -770,7 +687,8 @@
         "Science Fiction"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-3135.jpg"
+      "image_path": "images/kitsu-3135.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -808,7 +726,8 @@
       ],
       "site_url": "https://kitsu.io/anime/gasaraki",
       "year_match": true,
-      "image_path": "images/kitsu-699.jpg"
+      "image_path": "images/kitsu-699.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -848,7 +767,8 @@
       ],
       "site_url": "https://kitsu.io/anime/geobreeders-file-x-chibi-neko-dakkan",
       "year_match": true,
-      "image_path": "images/kitsu-1039.jpg"
+      "image_path": "images/kitsu-1039.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -890,7 +810,8 @@
       ],
       "site_url": "https://kitsu.io/anime/golgo-13-queen-bee",
       "year_match": true,
-      "image_path": "images/kitsu-1581.jpg"
+      "image_path": "images/kitsu-1581.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -927,7 +848,8 @@
       ],
       "site_url": "https://kitsu.io/anime/mobile-suit-gundam-wing-endless-waltz",
       "year_match": true,
-      "image_path": "images/kitsu-7964.jpg"
+      "image_path": "images/kitsu-7964.jpg",
+      "similarity": 0.8
     }
   },
   {
@@ -967,7 +889,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kareshi-kanojo-no-jijou",
       "year_match": true,
-      "image_path": "images/kitsu-123.jpg"
+      "image_path": "images/kitsu-123.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1003,7 +926,8 @@
       ],
       "site_url": "https://kitsu.io/anime/yume-de-aetara-tv",
       "year_match": true,
-      "image_path": "images/kitsu-648.jpg"
+      "image_path": "images/kitsu-648.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1043,7 +967,8 @@
       ],
       "site_url": "https://kitsu.io/anime/initial-d-first-stage",
       "year_match": true,
-      "image_path": "images/kitsu-162.jpg"
+      "image_path": "images/kitsu-162.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1070,26 +995,7 @@
     "type": "Movie",
     "demographic": "",
     "regions": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "9606",
-      "title_romaji": "Sore Ike! Anpanman: Anpanman to Tanoshii Nakama-tachi",
-      "title_english": null,
-      "title_native": "それいけ! アンパンマン アンパンマンとたのしい仲間たち",
-      "description": null,
-      "cover_large": "https://media.kitsu.app/anime/poster_images/9606/large.jpg",
-      "kitsu_year": 1999,
-      "format": "movie",
-      "episodes": 1,
-      "site_url": "https://kitsu.io/anime/sore-ike-anpanman-anpanman-to-tanoshii-nakama-tachi",
-      "genres": [
-        "Fantasy",
-        "Adventure",
-        "Kids"
-      ],
-      "year_match": true,
-      "image_path": "images/kitsu-9606.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1998,
@@ -1124,7 +1030,8 @@
       ],
       "site_url": "https://kitsu.io/anime/lost-universe",
       "year_match": true,
-      "image_path": "images/kitsu-1064.jpg"
+      "image_path": "images/kitsu-1064.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1140,29 +1047,31 @@
     "regions": "",
     "enrichment": {
       "source": "kitsu",
-      "source_id": "1284",
-      "title_romaji": "Lupin III: Ai no Da Capo - Fujiko's Unlucky Days",
-      "title_english": "Lupin the Third:  The Columbus Files",
-      "title_native": "ルパン三世『愛のダ・カーポ ～Fujiko's Unlucky Days』",
-      "description": "When Fujiko secures a file that documents the location of the fabled Columbus Egg– a mystical relic found by Christopher Columbus which can be harnessed to control the weather– she quickly recruits Lupin and the gang to track down the long-lost treasure. To prevent a sinister villain from finding the Egg, Fujiko memorizes the file and destroys it. Unfortunately, in the process, she contracts amnesia, changing her personality and wiping her memory of Lupin and his friends almost entirely. Can they restore Fujiko back to normal before the Egg falls into the hands of a madman?",
-      "cover_large": "https://media.kitsu.app/anime/1284/poster_image/large-7cd1ae5f8c75a33f3ae1500e9af38669.jpeg",
-      "kitsu_year": 1999,
+      "source_id": "1290",
+      "title_romaji": "Lupin III: Honoo no Kioku - Tokyo Crisis",
+      "title_english": "Lupin the Third: Crisis in Tokyo",
+      "title_native": "ルパン三世『炎の記憶 ~Tokyo Crisis~』",
+      "description": "Master cat burglar Lupin the Third tries every trick in the book to intercept two old glass photographic plates from being delivered to a mysterious art dealer, named Mr. Suzuki. Lupin's plan misfires, and it doesn't help matters that Goemon and Jigen are suffering from...efficiency problems. And we can't forget the dogged Inspector Zenigata, who has a new tagalong in the Lupin chase: the beautiful young reporter Maria. But what is Maria's connection to the mysterious Mr. Suzuki?",
+      "cover_large": "https://media.kitsu.app/anime/1290/poster_image/large-b7c93c54789d097586ca119d3f8c051f.jpeg",
+      "kitsu_year": 1998,
       "format": "special",
       "episodes": 1,
-      "site_url": "https://kitsu.io/anime/lupin-iii-ai-no-da-capo-fujiko-s-unlucky-days",
+      "site_url": "https://kitsu.io/anime/lupin-iii-honou-no-kioku-tokyo-crisis",
       "genres": [
+        "Gunfights",
         "Present",
         "Earth",
-        "Europe",
+        "Japan",
+        "Asia",
         "Action",
-        "Science Fiction",
         "Adventure",
         "Comedy",
         "Crime",
         "Thievery"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-1284.jpg"
+      "similarity": 1.0,
+      "image_path": "images/kitsu-1290.jpg"
     }
   },
   {
@@ -1203,7 +1112,8 @@
       ],
       "site_url": "https://kitsu.io/anime/master-keaton",
       "year_match": true,
-      "image_path": "images/kitsu-1329.jpg"
+      "image_path": "images/kitsu-1329.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1244,7 +1154,8 @@
       ],
       "site_url": "https://kitsu.io/anime/maze-bakunetsu-jikuu-tv",
       "year_match": true,
-      "image_path": "images/kitsu-1042.jpg"
+      "image_path": "images/kitsu-1042.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1278,7 +1189,8 @@
       ],
       "site_url": "https://kitsu.io/anime/mobile-suit-gundam-the-08th-ms-team-miller-s-report",
       "year_match": true,
-      "image_path": "images/kitsu-62.jpg"
+      "image_path": "images/kitsu-62.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1321,7 +1233,8 @@
       ],
       "site_url": "https://kitsu.io/anime/neo-ranga",
       "year_match": true,
-      "image_path": "images/kitsu-1044.jpg"
+      "image_path": "images/kitsu-1044.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1362,7 +1275,8 @@
       ],
       "site_url": "https://kitsu.io/anime/night-walker-mayonaka-no-tantei",
       "year_match": true,
-      "image_path": "images/kitsu-576.jpg"
+      "image_path": "images/kitsu-576.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1397,7 +1311,8 @@
       ],
       "site_url": "https://kitsu.io/anime/ninja-resurrection",
       "year_match": true,
-      "image_path": "images/kitsu-1305.jpg"
+      "image_path": "images/kitsu-1305.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1439,7 +1354,8 @@
       ],
       "site_url": "https://kitsu.io/anime/outlaw-star",
       "year_match": true,
-      "image_path": "images/kitsu-7726.jpg"
+      "image_path": "images/kitsu-7726.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1453,31 +1369,7 @@
     "type": "Movie",
     "demographic": "",
     "regions": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "487",
-      "title_romaji": "Pokemon: Mewtwo no Gyakushuu",
-      "title_english": "Pokemon: The First Movie",
-      "title_native": "ポケットモンスター ミュウツーの逆襲",
-      "description": "It was a successful science experiment gone horribly wrong. When a team of scientists discovers the DNA of the ancient Pokémon Mew, they harnessed the potential within it in an attempt to create the ultimate living weapon. With advanced cloning techniques and resources provided to them by Team Rocket crime syndicate leader Giovanni, the scientists succeed in creating the powerful psychic Pokémon, Mewtwo.Pokemon: Mewtwo no Gyakushuu reveals the terrifying power of Mewtwo as he learns that not only was he created to be an experiment, but also to be a tool for Giovanni’s sinister dealings. Breaking free of his control, Mewtwo creates his own island fortress and reconstructs the cloning technology that gave life to him. Under the guise of being a master Pokémon trainer, Mewtwo lures the best trainers in the world to his base. Among these trainers are Ash Ketchum, his loyal Pokémon Pikachu, and their friends Brock and Misty. United together, human and Pokémon alike, they must not only discover the hidden secret of Mewtwo's plans, but stand against his terrifying might. If they fail, Mewtwo’s vengeance will not only lead to tyranny over all the Pokemon, but also the extinction of the human race.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/487/large.jpg",
-      "kitsu_year": 1998,
-      "format": "movie",
-      "episodes": 1,
-      "genres": [
-        "Present",
-        "Action",
-        "Fantasy World",
-        "Proxy Battles",
-        "Fantasy",
-        "Adventure",
-        "Comedy",
-        "Kids"
-      ],
-      "site_url": "https://kitsu.io/anime/pokemon-the-first-movie",
-      "year_match": true,
-      "image_path": "images/kitsu-487.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1998,
@@ -1514,7 +1406,8 @@
         "Romance"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-182.jpg"
+      "image_path": "images/kitsu-182.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1555,7 +1448,8 @@
       ],
       "site_url": "https://kitsu.io/anime/serial-experiments-lain",
       "year_match": true,
-      "image_path": "images/kitsu-306.jpg"
+      "image_path": "images/kitsu-306.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1569,31 +1463,7 @@
     "type": "TV",
     "demographic": "",
     "regions": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "620",
-      "title_romaji": "Shadow Skill: Eigi",
-      "title_english": null,
-      "title_native": "影技 SHADOW SKILL",
-      "description": "In the land of Kuruda, warriors with magical powers and incredible fighting skills battle for the ultimate prize: the title of Sevaar, the strongest warrior in the land. Elle Ragu, nicknamed Shadow Skill, is the newest Sevaar to emerge, but that doesn't make her life any easier. Teaching her \"little brother,\" Gau, how to be a warrior, fending off assassins from other kingdoms and thwarting enemy invasions is hard enough, but her biggest challenge will be paying off her drinking debts.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/620/large.jpg",
-      "kitsu_year": 1998,
-      "format": "TV",
-      "episodes": 26,
-      "site_url": "https://kitsu.io/anime/shadow-skill-eigi",
-      "genres": [
-        "Magic",
-        "Martial Arts",
-        "Super Power",
-        "Violence",
-        "Action",
-        "Fantasy",
-        "Adventure",
-        "Friendship"
-      ],
-      "year_match": true,
-      "image_path": "images/kitsu-620.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1998,
@@ -1639,7 +1509,8 @@
       ],
       "site_url": "https://kitsu.io/anime/silent-mobius",
       "year_match": true,
-      "image_path": "images/kitsu-1362.jpg"
+      "image_path": "images/kitsu-1362.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1675,7 +1546,8 @@
       ],
       "site_url": "https://kitsu.io/anime/slayers-gorgeous",
       "year_match": true,
-      "image_path": "images/kitsu-768.jpg"
+      "image_path": "images/kitsu-768.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1718,7 +1590,8 @@
       ],
       "site_url": "https://kitsu.io/anime/spriggan",
       "year_match": true,
-      "image_path": "images/kitsu-384.jpg"
+      "image_path": "images/kitsu-384.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1753,7 +1626,8 @@
       ],
       "site_url": "https://kitsu.io/anime/steam-detectives",
       "year_match": true,
-      "image_path": "images/kitsu-2466.jpg"
+      "image_path": "images/kitsu-2466.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1789,7 +1663,8 @@
       ],
       "site_url": "https://kitsu.io/anime/super-milk-chan",
       "year_match": true,
-      "image_path": "images/kitsu-1563.jpg"
+      "image_path": "images/kitsu-1563.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1803,25 +1678,7 @@
     "type": "TV",
     "demographic": "",
     "regions": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "9527",
-      "title_romaji": "Otoko wa Tsurai yo: Torajirou Wasurenagusa",
-      "title_english": null,
-      "title_native": "男はつらいよ 寅次郎忘れな草",
-      "description": "Anime adaptation of the \"Otoko wa Tsurai yo (It's tough being a man)\" film series by Youji Yamada. Kuruma Torajirou (or Tora-san), a traveling salesman whose sole possessions include only the contents of a small suitcase, the clothes on his back and some pocket money, wanders from town to town peddling his wares.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/9527/large.jpg",
-      "kitsu_year": 1998,
-      "format": "special",
-      "episodes": 1,
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "site_url": "https://kitsu.io/anime/otoko-wa-tsurai-yo-torajirou-wasurenagusa",
-      "year_match": true,
-      "image_path": "images/kitsu-9527.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1998,
@@ -1857,7 +1714,8 @@
       ],
       "site_url": "https://kitsu.io/anime/touch-are-kara-kimi-wa-miss-lonely-yesterday",
       "year_match": true,
-      "image_path": "images/kitsu-1381.jpg"
+      "image_path": "images/kitsu-1381.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1903,7 +1761,8 @@
       ],
       "site_url": "https://kitsu.io/anime/trigun",
       "year_match": true,
-      "image_path": "images/kitsu-3.jpg"
+      "image_path": "images/kitsu-3.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1941,7 +1800,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kyoukasho-ni-nai",
       "year_match": true,
-      "image_path": "images/kitsu-1146.jpg"
+      "image_path": "images/kitsu-1146.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1978,7 +1838,8 @@
       ],
       "site_url": "https://kitsu.io/anime/yu-gi-oh-1999",
       "year_match": true,
-      "image_path": "images/kitsu-1805.jpg"
+      "image_path": "images/kitsu-1805.jpg",
+      "similarity": 0.65
     }
   },
   {
@@ -2027,7 +1888,8 @@
       ],
       "site_url": "https://kitsu.io/anime/yokohama-kaidashi-kikou",
       "year_match": true,
-      "image_path": "images/kitsu-865.jpg"
+      "image_path": "images/kitsu-865.jpg",
+      "similarity": 1.0
     }
   }
 ]

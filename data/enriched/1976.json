@@ -28,7 +28,8 @@
       ],
       "site_url": "https://kitsu.io/anime/huckleberry-no-bouken",
       "year_match": true,
-      "image_path": "images/kitsu-2310.jpg"
+      "image_path": "images/kitsu-2310.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -42,27 +43,7 @@
     "type": "TV",
     "demographic": "Family",
     "regions": "Italy, Japan, Spain, Arabia, Germany, Philippines, China (Taiwan), Korea, Portugal, Russia",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "1494",
-      "title_romaji": "Haha wo Tazunete Sanzenri",
-      "title_english": null,
-      "title_native": "母をたずねて三千里",
-      "description": "Based on a short section of the novel Cuore by the Italian Edmondo de Amicis, Marco is a young boy living in Genoa, Italy, together with his father Pietro. But the family is not complete, for Marco`s mother left for Argentina around a year earlier in order to find work. Letters from her arrive regularly until one day they suddenly stop. Worry for his mother and what might have happened to her overcomes the young boy. Marco thus decides to embark upon a journey to Argentina in the hope of being reunited with his mother. At first, Pietro is opposed to Marco`s plan, but moved by his son*s enthusiasm, he eventually allows the boy to go. So begins Marco`s long journey of the heart. Marco encounters many people throughout his travels, and finds maturity and self-acceptance as a result of his experiences.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/1494/large.jpg",
-      "kitsu_year": 1976,
-      "format": "TV",
-      "episodes": 52,
-      "genres": [
-        "Historical",
-        "Slice of Life",
-        "Drama",
-        "Adventure"
-      ],
-      "site_url": "https://kitsu.io/anime/haha-wo-tazunete-sanzenri",
-      "year_match": true,
-      "image_path": "images/kitsu-1494.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1976,
@@ -94,7 +75,8 @@
       ],
       "site_url": "https://kitsu.io/anime/groizer-x",
       "year_match": true,
-      "image_path": "images/kitsu-3941.jpg"
+      "image_path": "images/kitsu-3941.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -108,25 +90,7 @@
     "type": "TV",
     "demographic": "Family",
     "regions": "Japan",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "4504",
-      "title_romaji": "Manga Nippon Mukashibanashi (1976)",
-      "title_english": null,
-      "title_native": "まんが日本昔ばなし（第2期）",
-      "description": "An omnibus-format TV series consisting of anime adaptations of Japanese folk tales, this is one of Japan's longest-running TV series, and Group Tac's second TV series (the first was The Road to Munich, a documentary anime about the 1972 Olympics). The governing rule of the series was that the creative staff change from episode to episode. While later other anime series like Nippon Animation's Famous Works of Japanese Literature would attempt the same, none would be as long-lived or successful. The rotation idea was that of director Sugii Gisaburo, a visual visionary unequaled in Japanese film history who has revolutionized anime several times in his career, be it in the 1967 TV series Goku's Big Adventure, in which he sought to shake anime free from the dominance of story development by yanking it back to a more cartoonish form, or The Belladonna of Sadness, where he broke the Disney full-animation mold, creating a full-length animated film in a completely new style that was a hybrid of still drawings and animation. The reason for rotating the staff each episode was so that each episode would have a completely different look and feel from its predecessor, and in this it was eminently successful. This is a series that is genuinely rewarding to watch, and is visually one of the richest in anime history. While this system also meant that quality varied, there were also occasionally superb episodes, as on the staff were many veterans like Group Tac founder SUGII Gisaburo himself, SHIBAYAMA Tsutomu, FURUZAWA Hideo, RIN Taro, and HIKONE Norio. Old episodes started being repeated more and more frequently as the years went on, and production of new episodes finally ceased completely in late 1995, but the series is still widely broadcast.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/4504/large.jpg",
-      "kitsu_year": 1976,
-      "format": "TV",
-      "episodes": 1471,
-      "genres": [
-        "Historical",
-        "Fantasy"
-      ],
-      "site_url": "https://kitsu.io/anime/manga-nippon-mukashibanashi-1976",
-      "year_match": true,
-      "image_path": "images/kitsu-4504.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1976,
@@ -139,26 +103,7 @@
     "type": "TV",
     "demographic": "Children",
     "regions": "Poland, Italy, Spain, Japan, Korea",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "3411",
-      "title_romaji": "Paul no Miracle Daisakusen",
-      "title_english": "Paul in Fantasy Island",
-      "title_native": "ポールのミラクル大作戦",
-      "description": "Paul is a young boy whose friend Nina is kidnapped by Belt Satan, the demonic ruler of another world. He daringly goes on a mission to rescue his friend. Pakkun, a plush doll with magic powers, aids him as they plunge into Belt Satan's dimension of living toys. Paul's journey is beset by many difficulties, but he also encounters a variety of delightful wonders.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/3411/large.jpg",
-      "kitsu_year": 1976,
-      "format": "TV",
-      "episodes": 51,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Kids"
-      ],
-      "site_url": "https://kitsu.io/anime/paul-no-miracle-daisakusen",
-      "year_match": true,
-      "image_path": "images/kitsu-3411.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1976,
@@ -191,7 +136,8 @@
       ],
       "site_url": "https://kitsu.io/anime/ufo-robo-grendizer-tai-great-mazinger",
       "year_match": true,
-      "image_path": "images/kitsu-3583.jpg"
+      "image_path": "images/kitsu-3583.jpg",
+      "similarity": 0.75
     }
   },
   {
@@ -238,7 +184,8 @@
         "Super Robot"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-846.jpg"
+      "image_path": "images/kitsu-846.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -270,7 +217,8 @@
       ],
       "site_url": "https://kitsu.io/anime/machine-hayabusa",
       "year_match": true,
-      "image_path": "images/kitsu-6241.jpg"
+      "image_path": "images/kitsu-6241.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -303,7 +251,8 @@
       ],
       "site_url": "https://kitsu.io/anime/youkaiden-nekome-kozou",
       "year_match": true,
-      "image_path": "images/kitsu-9706.jpg"
+      "image_path": "images/kitsu-9706.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -317,29 +266,7 @@
     "type": "TV",
     "demographic": "Shōnen",
     "regions": "Japan, Italy",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "5027",
-      "title_romaji": "Gowapper 5 Gordam",
-      "title_english": "Goliath the Super Fighter",
-      "title_native": "ゴワッパー5ゴーダム",
-      "description": "Five youths from Edo City explore a strange rocky island and discover the mecha that Doctor Hoarai had been creating in order to resist the impending attack by a race of subterranean rock people. Doctor Hoarai was ridiculed by the scientific community for his predictions that such an attack would take place. The youths decide to join the doctor (who was dead but had transferred his mind into a computer) in piloting the vehicles and protecting Earth. The Gowapper 5 Gordam team is born! With the aid of the giant fighting robot Gordam, the Gowapper team under the leadership of Youko Misaki must face the hordes of the inhuman subterranean people.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/5027/large.jpg",
-      "kitsu_year": 1976,
-      "format": "TV",
-      "episodes": 36,
-      "genres": [
-        "Science Fiction",
-        "Mecha",
-        "Super Robot",
-        "Robot",
-        "Action",
-        "Adventure"
-      ],
-      "site_url": "https://kitsu.io/anime/gowappa-5-gordam",
-      "year_match": true,
-      "image_path": "images/kitsu-5027.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1976,
@@ -372,7 +299,8 @@
       ],
       "site_url": "https://kitsu.io/anime/ufo-senshi-dai-apolon",
       "year_match": true,
-      "image_path": "images/kitsu-2956.jpg"
+      "image_path": "images/kitsu-2956.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -412,7 +340,8 @@
       ],
       "site_url": "https://kitsu.io/anime/combattler-v",
       "year_match": true,
-      "image_path": "images/kitsu-955.jpg"
+      "image_path": "images/kitsu-955.jpg",
+      "similarity": 0.67
     }
   },
   {
@@ -443,7 +372,8 @@
       ],
       "site_url": "https://kitsu.io/anime/piccolino-no-bouken",
       "year_match": true,
-      "image_path": "images/kitsu-2332.jpg"
+      "image_path": "images/kitsu-2332.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -477,7 +407,8 @@
       ],
       "site_url": "https://kitsu.io/anime/blocker-gundan-iv-machine-blaster",
       "year_match": true,
-      "image_path": "images/kitsu-4292.jpg"
+      "image_path": "images/kitsu-4292.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -513,7 +444,8 @@
       ],
       "site_url": "https://kitsu.io/anime/grendizer-getter-robo-g-great-mazinger-kessen-daikaijuu",
       "year_match": true,
-      "image_path": "images/kitsu-3041.jpg"
+      "image_path": "images/kitsu-3041.jpg",
+      "similarity": 0.71
     }
   },
   {
@@ -527,30 +459,7 @@
     "type": "TV",
     "demographic": "Shōnen",
     "regions": "Spain, Italy, Japan, Poland, Arabia, China (Taiwan)",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "3359",
-      "title_romaji": "Magnerobo Ga-Keen",
-      "title_english": null,
-      "title_native": "マグネロボ・ガ・キーン",
-      "description": "Dr. Kazuki, who perceived of an invasion of Earth by the Izaru people builds a robot based on the science of magnetism and sphere joint theory. Undergoing a dangerous augmentation process, Dr. Kazuki's daughter Mai becomes the pilot of \"Mighty\" or \"Magnetman Minus\". Takeshi Houjou becomes the pilot of \"Puraiza\" or \"Magnetman Plus\". The pilots would hold each other and then physically trasform their joint bodies in a metallic plate locking itself on the Gakeen (Short for \"Gathering Keen\") robot's frame thus enabling the super robot to move and fight. This sequence was notable, to an adult's eye, for its almost-sexual connotation.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/3359/large.jpg",
-      "kitsu_year": 1976,
-      "format": "TV",
-      "episodes": 39,
-      "genres": [
-        "Transforming Craft",
-        "Science Fiction",
-        "Mecha",
-        "Super Robot",
-        "Piloted Robot",
-        "Robot",
-        "Action"
-      ],
-      "site_url": "https://kitsu.io/anime/magne-robo-gakeen",
-      "year_match": true,
-      "image_path": "images/kitsu-3359.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1976,
@@ -579,7 +488,8 @@
       ],
       "site_url": "https://kitsu.io/anime/hoka-hoka-kazoku",
       "year_match": true,
-      "image_path": "images/kitsu-5245.jpg"
+      "image_path": "images/kitsu-5245.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -618,7 +528,8 @@
         "Slice of Life"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-2556.jpg"
+      "image_path": "images/kitsu-2556.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -649,7 +560,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kyouryuu-tankentai-born-free",
       "year_match": true,
-      "image_path": "images/kitsu-5976.jpg"
+      "image_path": "images/kitsu-5976.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -680,7 +592,8 @@
       ],
       "site_url": "https://kitsu.io/anime/hana-no-kakarichou",
       "year_match": true,
-      "image_path": "images/kitsu-9297.jpg"
+      "image_path": "images/kitsu-9297.jpg",
+      "similarity": 0.0
     }
   },
   {
@@ -712,7 +625,8 @@
       ],
       "site_url": "https://kitsu.io/anime/little-lulu-to-chicchai-nakama",
       "year_match": true,
-      "image_path": "images/kitsu-3277.jpg"
+      "image_path": "images/kitsu-3277.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -745,7 +659,8 @@
       ],
       "site_url": "https://kitsu.io/anime/dokaben",
       "year_match": true,
-      "image_path": "images/kitsu-3279.jpg"
+      "image_path": "images/kitsu-3279.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -778,7 +693,8 @@
       ],
       "site_url": "https://kitsu.io/anime/manga-sekai-mukashi-banashi",
       "year_match": true,
-      "image_path": "images/kitsu-4494.jpg"
+      "image_path": "images/kitsu-4494.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -811,7 +727,8 @@
       ],
       "site_url": "https://kitsu.io/anime/robokko-beeton",
       "year_match": true,
-      "image_path": "images/kitsu-9557.jpg"
+      "image_path": "images/kitsu-9557.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -847,7 +764,8 @@
       ],
       "site_url": "https://kitsu.io/anime/grendizer-getter-robo-g-great-mazinger-kessen-daikaijuu",
       "year_match": true,
-      "image_path": "images/kitsu-3041.jpg"
+      "image_path": "images/kitsu-3041.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -879,7 +797,8 @@
       ],
       "site_url": "https://kitsu.io/anime/dojoji-temple",
       "year_match": true,
-      "image_path": "images/kitsu-4661.jpg"
+      "image_path": "images/kitsu-4661.jpg",
+      "similarity": 1.0
     }
   }
 ]

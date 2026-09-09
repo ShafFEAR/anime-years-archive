@@ -10,25 +10,7 @@
     "type": "Movie",
     "demographic": "Family, Children",
     "regions": "JA",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "2587",
-      "title_romaji": "Gulliver no Uchuu Ryokou",
-      "title_english": null,
-      "title_native": "ガリバーの宇宙旅行",
-      "description": "Ted meets the aged professor Gulliver in a deep, dark forest. Accompanied by Mack the dog, a toy soldier called The General, and the Crow, the two set off on a journey to the Planet of Blue Hope in their spaceship the Gulliver.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/2587/large.jpg",
-      "kitsu_year": 1965,
-      "format": "movie",
-      "episodes": 1,
-      "genres": [
-        "Science Fiction",
-        "Adventure"
-      ],
-      "site_url": "https://kitsu.io/anime/gulliver-no-uchuu-ryokou",
-      "year_match": true,
-      "image_path": "images/kitsu-2587.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1965,
@@ -43,24 +25,25 @@
     "regions": "JA",
     "enrichment": {
       "source": "kitsu",
-      "source_id": "5524",
-      "title_romaji": "Ganbare! Marine Kid",
-      "title_english": "Marine Boy",
-      "title_native": "がんばれ！マリンキッド",
-      "description": "An expansion of the original Dolphin Ouji series. Character names were altered, (changing 'Dolphin Prince' to 'Marine Kid' and 'Neptuna' to 'Neptina'), characters were added and concepts expanded. In order to distance the new series from the original trial episodes, the series was re-titled Ganbare! Marine Kid.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/5524/large.jpg",
-      "kitsu_year": 1966,
+      "source_id": "5516",
+      "title_romaji": "Dolphin Ouji",
+      "title_english": null,
+      "title_native": "ドルフィン王子",
+      "description": "Produced as a short experimental trial series of only 3 episodes and filmed in black and white, Dolphin Prince aired on Fuji TV on Sundays at 7.30pm. The episodes featured young Dolphin Prince, his mermaid friend Neptuna and Dr. Mariner, with stories entitled \"Secret Of The Red Vortex\", \"Call Of The Sea\" and \"Attack Of The Sea-Star People\".",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/5516/large.jpg",
+      "kitsu_year": 1965,
       "format": "TV",
-      "episodes": 13,
+      "episodes": 3,
+      "site_url": "https://kitsu.io/anime/dolphin-ouji",
       "genres": [
-        "Science Fiction",
         "Action",
+        "Science Fiction",
         "Adventure",
         "Kids"
       ],
-      "site_url": "https://kitsu.io/anime/ganbare-marine-kid",
       "year_match": true,
-      "image_path": "images/kitsu-5524.jpg"
+      "similarity": 0.5,
+      "image_path": "images/kitsu-5516.jpg"
     }
   },
   {
@@ -90,7 +73,8 @@
       ],
       "site_url": "https://kitsu.io/anime/uchuujin-pipi",
       "year_match": true,
-      "image_path": "images/kitsu-9684.jpg"
+      "image_path": "images/kitsu-9684.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -123,7 +107,8 @@
         "Adventure"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-4825.jpg"
+      "image_path": "images/kitsu-4825.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -154,7 +139,8 @@
       ],
       "site_url": "https://kitsu.io/anime/uchuu-patrol-hopper",
       "year_match": true,
-      "image_path": "images/kitsu-6841.jpg"
+      "image_path": "images/kitsu-6841.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -187,7 +173,8 @@
       ],
       "site_url": "https://kitsu.io/anime/mirai-kara-kita-shounen-super-jetter",
       "year_match": true,
-      "image_path": "images/kitsu-7380.jpg"
+      "image_path": "images/kitsu-7380.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -218,7 +205,8 @@
       ],
       "site_url": "https://kitsu.io/anime/shin-takarajima",
       "year_match": true,
-      "image_path": "images/kitsu-7319.jpg"
+      "image_path": "images/kitsu-7319.jpg",
+      "similarity": 0.0
     }
   },
   {
@@ -249,7 +237,8 @@
       ],
       "site_url": "https://kitsu.io/anime/yokoo-s-3-animation-films",
       "year_match": true,
-      "image_path": "images/kitsu-5426.jpg"
+      "image_path": "images/kitsu-5426.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -265,21 +254,23 @@
     "regions": "JA",
     "enrichment": {
       "source": "kitsu",
-      "source_id": "4839",
-      "title_romaji": "Mado",
-      "title_english": null,
-      "title_native": "窓",
-      "description": "Short experimental animation from 1965 by Yoji Kuri.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/4839/large.jpg",
+      "source_id": "4842",
+      "title_romaji": "Tonari no Yarou",
+      "title_english": "The Man Next Door",
+      "title_native": "隣の野郎",
+      "description": "For the man living next door, a quiet and restful sleep seems to be an elusive wish. Experimental short animation from 1965 from pioneer Yoji Kuri.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/4842/large.jpg",
       "kitsu_year": 1965,
       "format": "movie",
       "episodes": 1,
-      "site_url": "https://kitsu.io/anime/the-window",
+      "site_url": "https://kitsu.io/anime/the-man-next-door",
       "genres": [
+        "Slapstick",
         "Comedy"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-4839.jpg"
+      "similarity": 1.0,
+      "image_path": "images/kitsu-4842.jpg"
     }
   },
   {
@@ -310,7 +301,8 @@
         "Slice of Life"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-6877.jpg"
+      "image_path": "images/kitsu-6877.jpg",
+      "similarity": 0.0
     }
   },
   {
@@ -340,7 +332,8 @@
         "Comedy"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-4839.jpg"
+      "image_path": "images/kitsu-4839.jpg",
+      "similarity": 0.0
     }
   },
   {
@@ -373,7 +366,8 @@
         "Adventure"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-4825.jpg"
+      "image_path": "images/kitsu-4825.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -406,7 +400,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kaitou-pride",
       "year_match": true,
-      "image_path": "images/kitsu-9868.jpg"
+      "image_path": "images/kitsu-9868.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -439,7 +434,8 @@
         "Science Fiction"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-4566.jpg"
+      "image_path": "images/kitsu-4566.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -472,7 +468,8 @@
       ],
       "site_url": "https://kitsu.io/anime/the-amazing-3",
       "year_match": true,
-      "image_path": "images/kitsu-3459.jpg"
+      "image_path": "images/kitsu-3459.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -505,7 +502,8 @@
         "Adventure"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-4825.jpg"
+      "image_path": "images/kitsu-4825.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -538,7 +536,8 @@
       ],
       "site_url": "https://kitsu.io/anime/obake-no-q-taro",
       "year_match": true,
-      "image_path": "images/kitsu-1388.jpg"
+      "image_path": "images/kitsu-1388.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -576,7 +575,8 @@
         "Kids"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-1412.jpg"
+      "image_path": "images/kitsu-1412.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -608,7 +608,8 @@
         "Comedy"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-1790.jpg"
+      "image_path": "images/kitsu-1790.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -622,24 +623,7 @@
     "type": "Short",
     "demographic": "General",
     "regions": "JA",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "6703",
-      "title_romaji": "Tobacco to Hai",
-      "title_english": null,
-      "title_native": "たばこと灰",
-      "description": "In the summer of 2000 in Hollywood, Spielberg's Dreamworks Film Corp. made the film \"Chicken Run\" with Nick Park, the great master of clay-figure animation, and it became a big hit. A chicken was the main character, and the story unfolded like the masterpiece \"The Great Escape.\" Thirty-five years ago, Mushi Production created an animated work in which a chicken was the main character and a rebellion between the rulers and the ruled eventually escalated into a great war. Despite the scale of the story, the film ran for only three minutes. The ability to depict the endless repetition of war in human history in just three minutes is a unique feature of short animation, relying on exaggeration and great imagination.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/6703/large.jpg",
-      "kitsu_year": 1965,
-      "format": "movie",
-      "episodes": 1,
-      "site_url": "https://kitsu.io/anime/tabako-to-hai",
-      "genres": [
-        "Adventure"
-      ],
-      "year_match": true,
-      "image_path": "images/kitsu-6703.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1965,
@@ -670,7 +654,8 @@
       ],
       "site_url": "https://kitsu.io/anime/hustle-punch",
       "year_match": true,
-      "image_path": "images/kitsu-9330.jpg"
+      "image_path": "images/kitsu-9330.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -701,7 +686,8 @@
       ],
       "site_url": "https://kitsu.io/anime/tatakae-osper",
       "year_match": true,
-      "image_path": "images/kitsu-9661.jpg"
+      "image_path": "images/kitsu-9661.jpg",
+      "similarity": 1.0
     }
   }
 ]

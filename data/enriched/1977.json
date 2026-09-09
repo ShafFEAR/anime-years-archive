@@ -28,7 +28,8 @@
       ],
       "site_url": "https://kitsu.io/anime/joou-heika-no-petite-angie",
       "year_match": true,
-      "image_path": "images/kitsu-3008.jpg"
+      "image_path": "images/kitsu-3008.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -61,7 +62,8 @@
       ],
       "site_url": "https://kitsu.io/anime/arrow-emblem-grand-prix-no-taka",
       "year_match": true,
-      "image_path": "images/kitsu-3258.jpg"
+      "image_path": "images/kitsu-3258.jpg",
+      "similarity": 0.8
     }
   },
   {
@@ -94,7 +96,8 @@
       ],
       "site_url": "https://kitsu.io/anime/ashita-e-attack",
       "year_match": true,
-      "image_path": "images/kitsu-3560.jpg"
+      "image_path": "images/kitsu-3560.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -108,28 +111,7 @@
     "type": "TV",
     "demographic": "Shōnen",
     "regions": "Japan, Italy, Philippine",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "4811",
-      "title_romaji": "Choujin Sentai Baratack",
-      "title_english": null,
-      "title_native": "超人戦隊バラタック",
-      "description": "Late at night, at a lake surrounded by a peaceful forest, a mysterious spaceship landed on the water. The group that emerged from that ship kidnapped the head of space engineering, Professor Katou, and his family. The Professor's second son, American football player Yuuji, who had run away from home was in the middle of a game and knew nothing of what had happened. The four young people watching him were Mark, Dickey, Franco, and Yuri. They were a team of four psychics who had been training in a secret base. They had seen the previous night's events and believed them to be an alien attack. Believing their only option to be the transforming robot Baratack, they used their psychic powers to kidnap Yuuji. Baratack could only move by combining the powers of Yuuji and the other four acting as one. When all five, including the astonished Yuuji, cried \"Pentagoras Unite!” Baratack emerged. Yuuji was overcome with a violent rage, his fighting spirit burning to defeat the Golteus reptile army.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/4811/large.jpg",
-      "kitsu_year": 1977,
-      "format": "TV",
-      "episodes": 31,
-      "genres": [
-        "Science Fiction",
-        "Mecha",
-        "Super Robot",
-        "Robot",
-        "Adventure"
-      ],
-      "site_url": "https://kitsu.io/anime/choujin-sentai-baratack",
-      "year_match": true,
-      "image_path": "images/kitsu-4811.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1977,
@@ -162,7 +144,8 @@
       ],
       "site_url": "https://kitsu.io/anime/wakakusa-no-charlotte",
       "year_match": true,
-      "image_path": "images/kitsu-2851.jpg"
+      "image_path": "images/kitsu-2851.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -195,7 +178,8 @@
       ],
       "site_url": "https://kitsu.io/anime/wakusei-robo-danguard-ace",
       "year_match": true,
-      "image_path": "images/kitsu-1788.jpg"
+      "image_path": "images/kitsu-1788.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -226,7 +210,8 @@
       ],
       "site_url": "https://kitsu.io/anime/wakusei-robo-danguard-ace-tai-konchuu-robot-gundan",
       "year_match": true,
-      "image_path": "images/kitsu-5451.jpg"
+      "image_path": "images/kitsu-5451.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -240,27 +225,7 @@
     "type": "TV",
     "demographic": "Shōnen",
     "regions": "Arabia, Spain, Italy, Japan, United States",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "3448",
-      "title_romaji": "Kyouryuu Daisensou Aizenborg",
-      "title_english": null,
-      "title_native": "恐竜大戦争アイゼンボーグ",
-      "description": "Japan is being besieged by evil Dinosaurs that humanity have long thought extinct, they are back and are creating disaster. To counter the threat, a special team of expert warriors called Aizenborg were created. Lamees and Kamal use their special powers to combine into Super Aizenborg to battle the evil Satola and his Dinosaur army.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/3448/large.jpg",
-      "kitsu_year": 1977,
-      "format": "TV",
-      "episodes": 39,
-      "genres": [
-        "Science Fiction",
-        "Super Power",
-        "Mecha",
-        "Action"
-      ],
-      "site_url": "https://kitsu.io/anime/kyouryuu-daisensou-aizenborg",
-      "year_match": true,
-      "image_path": "images/kitsu-3448.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1977,
@@ -290,7 +255,8 @@
         "Sports"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-9276.jpg"
+      "image_path": "images/kitsu-9276.jpg",
+      "similarity": 0.0
     }
   },
   {
@@ -324,7 +290,8 @@
       ],
       "site_url": "https://kitsu.io/anime/chogattai-majutsu-robot-ginguiser",
       "year_match": true,
-      "image_path": "images/kitsu-5321.jpg"
+      "image_path": "images/kitsu-5321.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -356,7 +323,8 @@
       ],
       "site_url": "https://kitsu.io/anime/hyouga-senshi-gaislugger",
       "year_match": true,
-      "image_path": "images/kitsu-5864.jpg"
+      "image_path": "images/kitsu-5864.jpg",
+      "similarity": 0.0
     }
   },
   {
@@ -391,7 +359,8 @@
       ],
       "site_url": "https://kitsu.io/anime/ippatsu-kanta-kun",
       "year_match": true,
-      "image_path": "images/kitsu-4034.jpg"
+      "image_path": "images/kitsu-4034.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -405,32 +374,7 @@
     "type": "TV",
     "demographic": "Shōnen",
     "regions": "Japan, Italy, Korea",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "1991",
-      "title_romaji": "Muteki Choujin Zanbot 3",
-      "title_english": "Invincible Superman Zanbot 3",
-      "title_native": "無敵超人サンボット３",
-      "description": "There once existed a planet named Beal, until it was wiped out by the mysterious entity known as Gaizok. The few remaining survivors escaped to Earth and split into three families, named Jin, Kamie, and Kamikita respectively. While attempting to start a new life, the collectively known \"Jin Family\" prepared for the inevitable Gaizok invasion on Earth and its giant mechanical beasts known as \"Mecha Boosts\". In order to defend their new home, they have built three vehicles which when combined form the mighty Zambot 3. The Jin Family must not only defend against Gaizok attacks, but also harsh criticisms from the very people they protect, who blame the Jin Family for the invasion in the first place.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/1991/large.jpg",
-      "kitsu_year": 1977,
-      "format": "TV",
-      "episodes": 23,
-      "site_url": "https://kitsu.io/anime/muteki-choujin-zanbot-3",
-      "genres": [
-        "Present",
-        "Mecha",
-        "Transforming Craft",
-        "Piloted Robot",
-        "Japan",
-        "Humanoid Alien",
-        "Action",
-        "Science Fiction",
-        "Drama"
-      ],
-      "year_match": true,
-      "image_path": "images/kitsu-1991.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1977,
@@ -463,7 +407,8 @@
       ],
       "site_url": "https://kitsu.io/anime/jetter-mars",
       "year_match": true,
-      "image_path": "images/kitsu-4419.jpg"
+      "image_path": "images/kitsu-4419.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -495,7 +440,8 @@
       ],
       "site_url": "https://kitsu.io/anime/tobidase-machine-hiryuu",
       "year_match": true,
-      "image_path": "images/kitsu-9672.jpg"
+      "image_path": "images/kitsu-9672.jpg",
+      "similarity": 0.33
     }
   },
   {
@@ -528,7 +474,8 @@
       ],
       "site_url": "https://kitsu.io/anime/chiisana-jumbo",
       "year_match": true,
-      "image_path": "images/kitsu-5116.jpg"
+      "image_path": "images/kitsu-5116.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -567,7 +514,8 @@
         "Thievery"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-1278.jpg"
+      "image_path": "images/kitsu-1278.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -603,7 +551,8 @@
       ],
       "site_url": "https://kitsu.io/anime/gasshin-sentai-mechander-robo",
       "year_match": true,
-      "image_path": "images/kitsu-2914.jpg"
+      "image_path": "images/kitsu-2914.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -635,7 +584,8 @@
       ],
       "site_url": "https://kitsu.io/anime/seton-doubutsuki-kuma-no-ko-jacky",
       "year_match": true,
-      "image_path": "images/kitsu-3659.jpg"
+      "image_path": "images/kitsu-3659.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -666,7 +616,8 @@
       ],
       "site_url": "https://kitsu.io/anime/shin-kyojin-no-hoshi",
       "year_match": true,
-      "image_path": "images/kitsu-7329.jpg"
+      "image_path": "images/kitsu-7329.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -705,7 +656,8 @@
         "Slice of Life"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-2582.jpg"
+      "image_path": "images/kitsu-2582.jpg",
+      "similarity": 0.0
     }
   },
   {
@@ -735,7 +687,8 @@
         "Comedy"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-4840.jpg"
+      "image_path": "images/kitsu-4840.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -765,7 +718,8 @@
         "Historical"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-5903.jpg"
+      "image_path": "images/kitsu-5903.jpg",
+      "similarity": 0.33
     }
   },
   {
@@ -795,7 +749,8 @@
       ],
       "site_url": "https://kitsu.io/anime/manga-ijin-monogatari",
       "year_match": true,
-      "image_path": "images/kitsu-9432.jpg"
+      "image_path": "images/kitsu-9432.jpg",
+      "similarity": 0.33
     }
   },
   {
@@ -827,7 +782,8 @@
         "Drama"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-2341.jpg"
+      "image_path": "images/kitsu-2341.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -861,7 +817,8 @@
       ],
       "site_url": "https://kitsu.io/anime/bara-no-hana-to-joe",
       "year_match": true,
-      "image_path": "images/kitsu-5653.jpg"
+      "image_path": "images/kitsu-5653.jpg",
+      "similarity": 0.0
     }
   },
   {
@@ -913,7 +870,8 @@
         "Space Opera"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-1484.jpg"
+      "image_path": "images/kitsu-1484.jpg",
+      "similarity": 0.33
     }
   },
   {
@@ -929,30 +887,24 @@
     "regions": "Italy, Japan",
     "enrichment": {
       "source": "kitsu",
-      "source_id": "956",
-      "title_romaji": "Chou Denji Machine Voltes V",
+      "source_id": "5918",
+      "title_romaji": "Chou Supercar Gattiger",
       "title_english": null,
-      "title_native": "超電磁マシーン ボルテスV",
-      "description": "From out of nowhere, a mysterious alien race known as the Boazan Forces has invaded the Earth. A group of individuals specially trained to handle this kind of situation has been unleashed. Kenichi, Ippei, Daijirou, Hiyoshi &amp; Megumi are the pilots of the Choudenji Machine Voltes V (5), Earth's defense against the Boazan and their terrible Beast Warriors. The plot thickens as the Go Brothers discover their true heritage and the truth behind their father's disappearance. Conflicts and mixed emotions hinder the Go Brothers at times but due to their unwavering desire to find their dad, they must go to the place where it all started. With the help of the rebels based on Earth and on the aliens' homeworld, the Voltes Team has another mission, remove the tyrant Zu Zanbajil and liberate the people of Boazan.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/956/large.jpg",
+      "title_native": "超スーパーカー ガッタイガー",
+      "description": "A scientist invents 5 special solar powered cars that can be joined into one supercar. The cars are given to the scientists son and his friends to compete in the racing circuit, but they are pursued by an evil organization that wants the secret of solar power.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/5918/large.jpg",
       "kitsu_year": 1977,
       "format": "TV",
-      "episodes": 40,
-      "site_url": "https://kitsu.io/anime/voltes-v",
+      "episodes": 25,
+      "site_url": "https://kitsu.io/anime/chou-supercar-gattiger",
       "genres": [
-        "Alien",
-        "Robot",
-        "Future",
-        "Earth",
-        "Mecha",
-        "Transforming Craft",
-        "Piloted Robot",
-        "Humanoid Alien",
+        "Motorsport",
         "Action",
         "Science Fiction"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-956.jpg"
+      "similarity": 1.0,
+      "image_path": "images/kitsu-5918.jpg"
     }
   },
   {
@@ -984,7 +936,8 @@
       ],
       "site_url": "https://kitsu.io/anime/fuusen-shoujo-temple-chan",
       "year_match": true,
-      "image_path": "images/kitsu-2564.jpg"
+      "image_path": "images/kitsu-2564.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1021,7 +974,8 @@
       ],
       "site_url": "https://kitsu.io/anime/ore-wa-teppei",
       "year_match": true,
-      "image_path": "images/kitsu-3281.jpg"
+      "image_path": "images/kitsu-3281.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1057,7 +1011,8 @@
       ],
       "site_url": "https://kitsu.io/anime/sougen-no-ko-tenguri",
       "year_match": true,
-      "image_path": "images/kitsu-6537.jpg"
+      "image_path": "images/kitsu-6537.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -1088,7 +1043,8 @@
       ],
       "site_url": "https://kitsu.io/anime/niji-ni-mukatte",
       "year_match": true,
-      "image_path": "images/kitsu-3530.jpg"
+      "image_path": "images/kitsu-3530.jpg",
+      "similarity": 0.0
     }
   },
   {
@@ -1129,7 +1085,8 @@
       ],
       "site_url": "https://kitsu.io/anime/voltes-v",
       "year_match": true,
-      "image_path": "images/kitsu-956.jpg"
+      "image_path": "images/kitsu-956.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1160,7 +1117,8 @@
       ],
       "site_url": "https://kitsu.io/anime/sekai-meisaku-douwa-hakuchou-no-ouji",
       "year_match": true,
-      "image_path": "images/kitsu-3299.jpg"
+      "image_path": "images/kitsu-3299.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1193,7 +1151,8 @@
         "Ecchi"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-2719.jpg"
+      "image_path": "images/kitsu-2719.jpg",
+      "similarity": 1.0
     }
   }
 ]

@@ -56,7 +56,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kageyama-tamio-no-double-fantasy",
       "year_match": true,
-      "image_path": "images/kitsu-45275.jpg"
+      "image_path": "images/kitsu-45275.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -98,7 +99,8 @@
       ],
       "site_url": "https://kitsu.io/anime/akazukin-chacha",
       "year_match": true,
-      "image_path": "images/kitsu-82.jpg"
+      "image_path": "images/kitsu-82.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -129,7 +131,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kibun-wa-uaa-jitsuzai-ol-kouza",
       "year_match": true,
-      "image_path": "images/kitsu-10118.jpg"
+      "image_path": "images/kitsu-10118.jpg",
+      "similarity": 0.67
     }
   },
   {
@@ -161,7 +164,8 @@
         "Slice of Life"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-2852.jpg"
+      "image_path": "images/kitsu-2852.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -203,7 +207,8 @@
       ],
       "site_url": "https://kitsu.io/anime/dirty-pair-flash",
       "year_match": true,
-      "image_path": "images/kitsu-1621.jpg"
+      "image_path": "images/kitsu-1621.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -235,7 +240,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kattobase-dreamers-carp-tanjou-monogatari",
       "year_match": true,
-      "image_path": "images/kitsu-9370.jpg"
+      "image_path": "images/kitsu-9370.jpg",
+      "similarity": 0.75
     }
   },
   {
@@ -250,35 +256,7 @@
     "director": "Shinji Takamatsu",
     "studio": "Sunrise",
     "ref": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "3916",
-      "title_romaji": "Yuusha Keisatsu J-Decker",
-      "title_english": null,
-      "title_native": "勇者警察ジェイデッカー",
-      "description": "Grade schooler Yuuta Tominaga stumbles upon Deckerd, a humanoid robot under construction by the Japanese police, built to fight advanced forms of crime. Yuuta's constant contact with Deckerd gives the robot a \"heart\", or personality; when Yuuta is recruited as the \"boss\" of the \"Brave Police\" as a result, a true human/robot partnership occurs.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/3916/large.jpg",
-      "kitsu_year": 1994,
-      "format": "TV",
-      "episodes": 48,
-      "genres": [
-        "Earth",
-        "Transforming Craft",
-        "Science Fiction",
-        "Mecha",
-        "Action",
-        "Thievery",
-        "Special Squads",
-        "Gunfights",
-        "Crime",
-        "Law And Order",
-        "Adventure",
-        "Cops"
-      ],
-      "site_url": "https://kitsu.io/anime/yuusha-keisatsu-j-decker",
-      "year_match": true,
-      "image_path": "images/kitsu-3916.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1994,
@@ -292,33 +270,7 @@
     "director": "Hideki Takayama",
     "studio": "West Cape , Team Mu",
     "ref": "[ 6 ] [ better source needed ] [ 7 ] [ better source needed ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "2726",
-      "title_romaji": "Ginga Eiyuu Densetsu: Arata Naru Tatakai no Overture",
-      "title_english": "Legend of the Galactic Heroes: Overture to a New War",
-      "title_native": "銀河英雄伝説外伝　新たなる戦いの序曲[オーヴァチュア]",
-      "description": "Based on a series of sci-fi novels, this series tells the story of a massive conflict between the Prussia-like Galactic Empire and the Free Planets Alliance. It describes all levels of the war, from the tactical to the strategic, but focuses most on the two opposing militaries' leaders: Reinhard Von Lohengramm and Yang Wen-Li.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/2726/large.jpg",
-      "kitsu_year": 1993,
-      "format": "movie",
-      "episodes": 1,
-      "site_url": "https://kitsu.io/anime/ginga-eiyuu-densetsu-arata-naru-tatakai-no-overture",
-      "genres": [
-        "Future",
-        "Space",
-        "Space Travel",
-        "Shipboard",
-        "Action",
-        "Science Fiction",
-        "Politics",
-        "Military",
-        "Space Battles",
-        "Space Opera"
-      ],
-      "year_match": true,
-      "image_path": "images/kitsu-2726.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1994,
@@ -351,7 +303,8 @@
       ],
       "site_url": "https://kitsu.io/anime/doraemon-nobita-s-fantastical-three-musketeers",
       "year_match": true,
-      "image_path": "images/kitsu-2439.jpg"
+      "image_path": "images/kitsu-2439.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -390,7 +343,8 @@
       ],
       "site_url": "https://kitsu.io/anime/dragon-ball-z-movie-10-kiken-na-futari-super-senshi-wa-nemurenai",
       "year_match": true,
-      "image_path": "images/kitsu-803.jpg"
+      "image_path": "images/kitsu-803.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -429,7 +383,8 @@
       ],
       "site_url": "https://kitsu.io/anime/marmalade-boy",
       "year_match": true,
-      "image_path": "images/kitsu-301.jpg"
+      "image_path": "images/kitsu-301.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -472,7 +427,8 @@
       ],
       "site_url": "https://kitsu.io/anime/bishoujo-senshi-sailor-moon-s",
       "year_match": true,
-      "image_path": "images/kitsu-491.jpg"
+      "image_path": "images/kitsu-491.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -512,7 +468,8 @@
       ],
       "site_url": "https://kitsu.io/anime/final-fantasy",
       "year_match": true,
-      "image_path": "images/kitsu-390.jpg"
+      "image_path": "images/kitsu-390.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -552,7 +509,8 @@
       ],
       "site_url": "https://kitsu.io/anime/plastic-little",
       "year_match": true,
-      "image_path": "images/kitsu-2112.jpg"
+      "image_path": "images/kitsu-2112.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -588,7 +546,8 @@
       ],
       "site_url": "https://kitsu.io/anime/montana-jones",
       "year_match": true,
-      "image_path": "images/kitsu-2929.jpg"
+      "image_path": "images/kitsu-2929.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -637,7 +596,8 @@
       ],
       "site_url": "https://kitsu.io/anime/red-baron",
       "year_match": true,
-      "image_path": "images/kitsu-2068.jpg"
+      "image_path": "images/kitsu-2068.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -652,34 +612,7 @@
     "director": "Seiji Okuda",
     "studio": "Easy Film",
     "ref": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "3338",
-      "title_romaji": "Ginga Sengoku Gunyuuden Rai",
-      "title_english": "Galaxy Warring State Chronicle Rai",
-      "title_native": "銀河戦国群雄伝ライ",
-      "description": "Rai is a space opera that fuses feudal Chinese and Japanese customs with vast galaxy spanning empires and space-going societies. The story follows the life and times of the samurai Rai, and the quest of several spacefaring factions for control of territory and, of course, the Empire.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/3338/large.jpg",
-      "kitsu_year": 1994,
-      "format": "TV",
-      "episodes": 52,
-      "genres": [
-        "Swordplay",
-        "Conspiracy",
-        "War",
-        "Science Fiction",
-        "Action",
-        "Romance",
-        "Plot Continuity",
-        "Military",
-        "Samurai",
-        "Space",
-        "Adventure"
-      ],
-      "site_url": "https://kitsu.io/anime/ginga-sengoku-yuuden-rai",
-      "year_match": true,
-      "image_path": "images/kitsu-3338.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1994,
@@ -714,7 +647,8 @@
       ],
       "site_url": "https://kitsu.io/anime/yu-yu-hakusho-meikai-shitou-hen-honoo-no-kizuna",
       "year_match": true,
-      "image_path": "images/kitsu-783.jpg"
+      "image_path": "images/kitsu-783.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -755,7 +689,8 @@
       ],
       "site_url": "https://kitsu.io/anime/shin-cutey-honey",
       "year_match": true,
-      "image_path": "images/kitsu-2266.jpg"
+      "image_path": "images/kitsu-2266.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -795,7 +730,8 @@
         "Science Fiction"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-75.jpg"
+      "image_path": "images/kitsu-75.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -810,32 +746,7 @@
     "director": "Hiro Yūki",
     "studio": "Shin-Ei Animation",
     "ref": "[ 13 ] [ better source needed ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "3226",
-      "title_romaji": "Crayon Shin-chan Movie 02: Buriburi Oukoku no Hihou",
-      "title_english": null,
-      "title_native": "クレヨンしんちゃん ブリブリ王国の秘宝",
-      "description": "An action adventure film set in a imaginary southern island in the Indian Ocean. The evil secret society, \"White Snake\" abducted Shinnosuke and Prince Sunnokeshi of the Buri Buri Kingdom, who looks very much like Shinnosuke, in order to get the kingdom's hidden treasure in the golden palace underground. Shinnosuke's parents, Hiroshi and Misae fight with Lulu, the major of the palace guard of the kingdom, against White Snake, trying to recapture Shinnosuke and the prince.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/3226/large.jpg",
-      "kitsu_year": 1994,
-      "format": "movie",
-      "episodes": 1,
-      "genres": [
-        "Earth",
-        "Asia",
-        "Comedy",
-        "Present",
-        "Ecchi",
-        "Slice of Life",
-        "School Life",
-        "Kids",
-        "Family"
-      ],
-      "site_url": "https://kitsu.io/anime/crayon-shin-chan-movie-02-buriburi-oukoku-no-hihou",
-      "year_match": true,
-      "image_path": "images/kitsu-3226.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1994,
@@ -866,7 +777,8 @@
       ],
       "site_url": "https://kitsu.io/anime/dohyou-no-oni-tachi",
       "year_match": true,
-      "image_path": "images/kitsu-9243.jpg"
+      "image_path": "images/kitsu-9243.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -897,7 +809,8 @@
       ],
       "site_url": "https://kitsu.io/anime/dosukoi-wanpaku-dohyou",
       "year_match": true,
-      "image_path": "images/kitsu-9251.jpg"
+      "image_path": "images/kitsu-9251.jpg",
+      "similarity": 0.67
     }
   },
   {
@@ -938,7 +851,8 @@
       ],
       "site_url": "https://kitsu.io/anime/dengeki-oshioki-musume-gootaman-gootaman-tanjou-hen",
       "year_match": true,
-      "image_path": "images/kitsu-3889.jpg"
+      "image_path": "images/kitsu-3889.jpg",
+      "similarity": 0.6
     }
   },
   {
@@ -971,7 +885,8 @@
       ],
       "site_url": "https://kitsu.io/anime/j-league-wo-100-bai-tanoshiku-miru-houhou",
       "year_match": true,
-      "image_path": "images/kitsu-9749.jpg"
+      "image_path": "images/kitsu-9749.jpg",
+      "similarity": 0.75
     }
   },
   {
@@ -1014,7 +929,8 @@
       ],
       "site_url": "https://kitsu.io/anime/iria-zeiram-the-animation",
       "year_match": true,
-      "image_path": "images/kitsu-396.jpg"
+      "image_path": "images/kitsu-396.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1065,7 +981,8 @@
       ],
       "site_url": "https://kitsu.io/anime/dragon-ball-z-movie-11-super-senshi-gekiha-katsu-no-wa-ore-da",
       "year_match": true,
-      "image_path": "images/kitsu-804.jpg"
+      "image_path": "images/kitsu-804.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1108,7 +1025,8 @@
       ],
       "site_url": "https://kitsu.io/anime/slam-dunk",
       "year_match": true,
-      "image_path": "images/kitsu-148.jpg"
+      "image_path": "images/kitsu-148.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1141,7 +1059,8 @@
         "Three Kingdoms"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-5086.jpg"
+      "image_path": "images/kitsu-5086.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1177,7 +1096,8 @@
       ],
       "site_url": "https://kitsu.io/anime/fatal-fury-the-motion-picture",
       "year_match": true,
-      "image_path": "images/kitsu-463.jpg"
+      "image_path": "images/kitsu-463.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1214,7 +1134,8 @@
       ],
       "site_url": "https://kitsu.io/anime/pom-poko",
       "year_match": true,
-      "image_path": "images/kitsu-920.jpg"
+      "image_path": "images/kitsu-920.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1259,7 +1180,8 @@
         "Drama"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-5340.jpg"
+      "image_path": "images/kitsu-5340.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1276,16 +1198,16 @@
     "ref": "[ 30 ] [ better source needed ] [ 31 ] [ better source needed ]",
     "enrichment": {
       "source": "kitsu",
-      "source_id": "1287",
-      "title_romaji": "Lupin III: Harimao no Zaihou wo Oe!!",
-      "title_english": "Lupin the Third: The Pursuit of Harimao's Treasure",
-      "title_native": "ルパン三世『ハリマオの財宝を追え!!』",
-      "description": "The infamous bandit Harimao hid a treasure, and to retrieve it, Lupin and the gang must gather three lost statues. When the Nazi-like group Neo-Himmel make a run for the goods, Lupin reluctantly partners with the aging \"double-O\" MI-6 agent Sir Archer and his granddaughter Diana to gather he statues first. Can this unorthodox team bond well enough to see this mission through? Find out in the Pursuit of Harimao's Treasure!",
-      "cover_large": "https://media.kitsu.app/anime/1287/poster_image/large-83fe23079a1ced5058b7bb25e7dee9f3.jpeg",
-      "kitsu_year": 1995,
+      "source_id": "1270",
+      "title_romaji": "Lupin Sansei: Moeyo Zantetsuken!",
+      "title_english": "Lupin the Third: Dragon of Doom",
+      "title_native": "ルパン三世『燃えよ斬鉄剣』",
+      "description": "The Lupin gang is once again dragged onto a wild treasure hunt! This time, the objective is a mysterious, small dragon statue that even Goemon's steel-rendering blade Zantetsuken cannot cut. The artifact, which once eluded even Lupin the Third's esteemed grandfather, rests deep undersea inside the infamous Titanic, and is the key to unlocking the mystery of Zantetsuken's almighty strength. A wealthy gangster, Lupin, and Goemon all want the statue for themselves!",
+      "cover_large": "https://media.kitsu.app/anime/1270/poster_image/large-03c7502accc03644af142baf67bc7971.jpeg",
+      "kitsu_year": 1994,
       "format": "special",
       "episodes": 1,
-      "site_url": "https://kitsu.io/anime/lupin-iii-the-pursuit-of-harimao-s-treasure",
+      "site_url": "https://kitsu.io/anime/lupin-iii-moeyo-zantetsuken",
       "genres": [
         "Action",
         "Adventure",
@@ -1294,7 +1216,8 @@
         "Thievery"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-1287.jpg"
+      "similarity": 1.0,
+      "image_path": "images/kitsu-1270.jpg"
     }
   },
   {
@@ -1330,7 +1253,8 @@
       ],
       "site_url": "https://kitsu.io/anime/street-fighter-ii-the-movie",
       "year_match": true,
-      "image_path": "images/kitsu-1216.jpg"
+      "image_path": "images/kitsu-1216.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1366,7 +1290,8 @@
       ],
       "site_url": "https://kitsu.io/anime/ghost-sweeper-gs-mikami",
       "year_match": true,
-      "image_path": "images/kitsu-2177.jpg"
+      "image_path": "images/kitsu-2177.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1406,7 +1331,8 @@
         "Sports"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-1676.jpg"
+      "image_path": "images/kitsu-1676.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1421,29 +1347,7 @@
     "director": "Yoriyasu Kogawa",
     "studio": "J.C.Staff",
     "ref": "[ 36 ] [ better source needed ] [ 37 ] [ better source needed ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "1504",
-      "title_romaji": "Captain Tsubasa J",
-      "title_english": null,
-      "title_native": "キャプテン翼Ｊ",
-      "description": "The first 33 episodes are a summary of the previous series. In the first new episodes a new character, Shingo Aoi, (playing in Italy) is introduced. After that the world cup begins, this time with extraordinary, new countries like Sweden, Thailand or Uzbekistan. Unfortunately the Anime ends in the middle of the world cup after the match Japan-Uzbekistan.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/1504/large.jpg",
-      "kitsu_year": 1994,
-      "format": "TV",
-      "episodes": 47,
-      "site_url": "https://kitsu.io/anime/captain-tsubasa-j",
-      "genres": [
-        "Present",
-        "Earth",
-        "Alternative Present",
-        "Action",
-        "Sports",
-        "Soccer"
-      ],
-      "year_match": true,
-      "image_path": "images/kitsu-1504.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1994,
@@ -1457,31 +1361,7 @@
     "director": "Kazuhiro Ochi",
     "studio": "Tokuma Shoten",
     "ref": "[ 38 ] [ better source needed ] [ 39 ] [ better source needed ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "4374",
-      "title_romaji": "Cosmic Fantasy: Ginga Mehyou no Wana",
-      "title_english": null,
-      "title_native": "コズミック・ファンタジー　銀河女豹の罠",
-      "description": "Yuu and Saya are two of the top Cosmic Hunters in the galaxy, and Yuu is enjoying a bit of fame after his most recent adventure. The two are on a date when they are interrupted from a distress signal from their \"ally\", the feline pervert Nyan. In the meantime, the space pirate Belga begins attacking space freighters in an attempt to lure out Yuu, so she can take him to bed with her. Of course, when he spurns her, she decides that if she can't have him, then no one can.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/4374/large.jpg",
-      "kitsu_year": 1994,
-      "format": "OVA",
-      "episodes": 1,
-      "genres": [
-        "Comedy",
-        "Science Fiction",
-        "Space",
-        "Fantasy",
-        "Romance",
-        "Action",
-        "Ecchi",
-        "Adventure"
-      ],
-      "site_url": "https://kitsu.io/anime/cosmic-fantasy-ginga-mehyou-no-wana",
-      "year_match": true,
-      "image_path": "images/kitsu-4374.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1994,
@@ -1513,7 +1393,8 @@
       ],
       "site_url": "https://kitsu.io/anime/samurai-spirits",
       "year_match": true,
-      "image_path": "images/kitsu-2355.jpg"
+      "image_path": "images/kitsu-2355.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1551,7 +1432,8 @@
       ],
       "site_url": "https://kitsu.io/anime/tenshi-nanka-ja-nai",
       "year_match": true,
-      "image_path": "images/kitsu-3063.jpg"
+      "image_path": "images/kitsu-3063.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1591,7 +1473,8 @@
       ],
       "site_url": "https://kitsu.io/anime/you-re-under-arrest",
       "year_match": true,
-      "image_path": "images/kitsu-1417.jpg"
+      "image_path": "images/kitsu-1417.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1643,7 +1526,8 @@
       ],
       "site_url": "https://kitsu.io/anime/blue-seed",
       "year_match": true,
-      "image_path": "images/kitsu-888.jpg"
+      "image_path": "images/kitsu-888.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1680,7 +1564,8 @@
       ],
       "site_url": "https://kitsu.io/anime/dna",
       "year_match": true,
-      "image_path": "images/kitsu-520.jpg"
+      "image_path": "images/kitsu-520.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1719,7 +1604,8 @@
       ],
       "site_url": "https://kitsu.io/anime/darkside-blues",
       "year_match": true,
-      "image_path": "images/kitsu-1340.jpg"
+      "image_path": "images/kitsu-1340.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1765,7 +1651,8 @@
       ],
       "site_url": "https://kitsu.io/anime/macross-7",
       "year_match": true,
-      "image_path": "images/kitsu-1250.jpg"
+      "image_path": "images/kitsu-1250.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1801,7 +1688,8 @@
       ],
       "site_url": "https://kitsu.io/anime/mahoujin-guru-guru",
       "year_match": true,
-      "image_path": "images/kitsu-298.jpg"
+      "image_path": "images/kitsu-298.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1843,7 +1731,8 @@
       ],
       "site_url": "https://kitsu.io/anime/magic-knight-rayearth",
       "year_match": true,
-      "image_path": "images/kitsu-399.jpg"
+      "image_path": "images/kitsu-399.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1879,7 +1768,8 @@
       ],
       "site_url": "https://kitsu.io/anime/captain-tsubasa-j",
       "year_match": true,
-      "image_path": "images/kitsu-1504.jpg"
+      "image_path": "images/kitsu-1504.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1918,7 +1808,8 @@
       ],
       "site_url": "https://kitsu.io/anime/dengeki-oshioki-musume-gootaman-r-ai-to-kanashimi-no-final-battle",
       "year_match": true,
-      "image_path": "images/kitsu-4152.jpg"
+      "image_path": "images/kitsu-4152.jpg",
+      "similarity": 0.86
     }
   },
   {
@@ -1947,7 +1838,8 @@
       "genres": [],
       "site_url": "https://kitsu.io/anime/susume-godzilland",
       "year_match": true,
-      "image_path": "images/kitsu-40618.jpg"
+      "image_path": "images/kitsu-40618.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1992,7 +1884,8 @@
       ],
       "site_url": "https://kitsu.io/anime/bishoujo-senshi-sailor-moon-s-kaguya-hime-no-koibito",
       "year_match": true,
-      "image_path": "images/kitsu-887.jpg"
+      "image_path": "images/kitsu-887.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2035,7 +1928,8 @@
       ],
       "site_url": "https://kitsu.io/anime/key-the-metal-idol",
       "year_match": true,
-      "image_path": "images/kitsu-1307.jpg"
+      "image_path": "images/kitsu-1307.jpg",
+      "similarity": 1.0
     }
   }
 ]

@@ -62,7 +62,8 @@
         "Mecha"
       ],
       "site_url": "https://kitsu.io/anime/patlabor-ezy",
-      "year_match": true
+      "year_match": true,
+      "similarity": 1.0
     }
   },
   {
@@ -122,7 +123,8 @@
       ],
       "site_url": "https://kitsu.io/anime/one-piece-film-GOD-VALLEY",
       "year_match": true,
-      "image_path": "images/kitsu-50922.jpg"
+      "image_path": "images/kitsu-50922.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -160,7 +162,8 @@
       ],
       "site_url": "https://kitsu.io/anime/Kage-no-Jitsuryokusha-ni-Naritakute-Zankyouhen",
       "year_match": null,
-      "image_path": "images/kitsu-48346.jpg"
+      "image_path": "images/kitsu-48346.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -209,7 +212,8 @@
       ],
       "site_url": "https://kitsu.io/anime/Akanebanashi",
       "year_match": true,
-      "image_path": "images/kitsu-50076.jpg"
+      "image_path": "images/kitsu-50076.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -288,7 +292,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kekkaishi-no-ichirinka",
       "year_match": null,
-      "image_path": "images/kitsu-50103.jpg"
+      "image_path": "images/kitsu-50103.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -382,7 +387,8 @@
       ],
       "site_url": "https://kitsu.io/anime/hirayasumi",
       "year_match": true,
-      "image_path": "images/kitsu-50050.jpg"
+      "image_path": "images/kitsu-50050.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -421,7 +427,8 @@
       ],
       "site_url": "https://kitsu.io/anime/historie",
       "year_match": true,
-      "image_path": "images/kitsu-50449.jpg"
+      "image_path": "images/kitsu-50449.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -468,7 +475,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kaze-wo-tsugumono",
       "year_match": null,
-      "image_path": "images/kitsu-50150.jpg"
+      "image_path": "images/kitsu-50150.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -502,7 +510,8 @@
         "Supernatural"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-49361.jpg"
+      "image_path": "images/kitsu-49361.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -539,7 +548,8 @@
       ],
       "site_url": "https://kitsu.io/anime/isshiki-san-wa-koi-wo-shiritai",
       "year_match": true,
-      "image_path": "images/kitsu-50725.jpg"
+      "image_path": "images/kitsu-50725.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -573,7 +583,8 @@
       ],
       "site_url": "https://kitsu.io/anime/love-live-hasu-no-sora-jogakuin-school-idol-club-bloom-garden-party",
       "year_match": true,
-      "image_path": "images/kitsu-50645.jpg"
+      "image_path": "images/kitsu-50645.jpg",
+      "similarity": 0.62
     }
   },
   {
@@ -623,7 +634,8 @@
       ],
       "site_url": "https://kitsu.io/anime/marriagetoxin",
       "year_match": true,
-      "image_path": "images/kitsu-50218.jpg"
+      "image_path": "images/kitsu-50218.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -660,7 +672,8 @@
         "Shounen"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-48903.jpg"
+      "image_path": "images/kitsu-48903.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -711,7 +724,8 @@
         "School Life"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-49744.jpg"
+      "image_path": "images/kitsu-49744.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -727,26 +741,7 @@
     "director": "Kunihisa Sugishima",
     "original_title": "Kaketa Tsuki no Mercedes: Kyūketsuki no Kizoku ni Tensei Shitakedo Suterare Sōnanode Dungeon o Seiha Suru",
     "ref": "[ 35 ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "50924",
-      "title_romaji": "Zi Chuan 3rd Season",
-      "title_english": "Purple River 3",
-      "title_native": null,
-      "description": "Once, they swore to protect this land; later, they buried that era with their own hands. This season, we witness Bataan's rebirth from the brink of death, the gleaming armor of the expedition, and the fateful judgment known as the \"Rebellion of the Three Heroes.\" When the threat of the demons recedes, the demons within people awaken. Torn between loyalty and ambition, the Three Heroes face the longest winter of their lives. The stars will never fall, Zichuan will endure forever—but can you afford the price?",
-      "cover_large": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/poster_image/289dd23da6e6fd25f0ca44aa5f01e280.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20260909%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20260909T131433Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=0ab4eb1130a9cf056a19d627ba20307006a1ba3bb7f839b71f519f38b98e393c",
-      "kitsu_year": 2027,
-      "format": "ONA",
-      "episodes": null,
-      "genres": [
-        "Fantasy",
-        "Action",
-        "Adventure",
-        "Military"
-      ],
-      "site_url": "https://kitsu.io/anime/zi-chuan-3rd-season",
-      "year_match": true
-    }
+    "enrichment": null
   },
   {
     "year": 2027,
@@ -761,27 +756,7 @@
     "director": "Hiroaki Sakurai",
     "original_title": "Isekai Tensei Sōdōki",
     "ref": "[ 36 ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "50605",
-      "title_romaji": "Isekai Tensei Soudouki",
-      "title_english": null,
-      "title_native": "異世界転生騒動記",
-      "description": "Bard Cornelius: the son of a nobleman of Mauricia, an empire located in a parallel universe. But Bard is no ordinary boy―he's got three souls packed into one body! Aside from his own consciousness, he's got Oka Sanai, a miserly samurai, and Masaharu Oka, a high school otaku who loves animal ears. With his extra knowledge of military tactics and business acumen, Bard's ready to cheat his way to the top!",
-      "cover_large": "https://media.kitsu.app/anime/50605/poster_image/large-54319e3e78b1dbcc41f485803f49b39b.jpeg",
-      "kitsu_year": null,
-      "format": "TV",
-      "episodes": null,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy",
-        "Isekai"
-      ],
-      "site_url": "https://kitsu.io/anime/isekai-tensei-soudouki",
-      "year_match": null,
-      "image_path": "images/kitsu-50605.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 2027,
@@ -860,7 +835,8 @@
       ],
       "site_url": "https://kitsu.io/anime/game-sekai-tensei-dankatsu-gamer-wa-dungeon-shuukatsu-no-susume-wo-hajime-kara-play-suru",
       "year_match": null,
-      "image_path": "images/kitsu-50609.jpg"
+      "image_path": "images/kitsu-50609.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -897,7 +873,8 @@
         "Shounen"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-50401.jpg"
+      "image_path": "images/kitsu-50401.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -933,7 +910,8 @@
         "Comedy"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-49778.jpg"
+      "image_path": "images/kitsu-49778.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -949,29 +927,7 @@
     "director": "Keisuke Ōnishi",
     "original_title": "Yūkyū no Gusha Asley no, Kenja no Susume",
     "ref": "[ 43 ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "47759",
-      "title_romaji": "Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
-      "title_english": "Sentenced to Be a Hero",
-      "title_native": "勇者刑に処す　懲罰勇者9004隊刑務記録",
-      "description": "In a world where heroism is a punishment, Xylo Forbartz, a condemned goddess killer, battles endless hordes of monstrous abominations as part of Penal Hero Unit 9004. Death is no escape, only a cycle of resurrection and relentless combat. But when Xylo encounters a mysterious new goddess, their unlikely alliance sparks a rebellion that could shatter the chains of eternal punishment. (Source: Crunchyroll) Notes: - The first episode aired with a runtime of ~58 minutes as opposed to the standard 24 minute long episode. - Initially scheduled to air in October, 2025",
-      "cover_large": "https://media.kitsu.app/anime/47759/poster_image/large-fadac60d40bf1a14768ec6c52dd6c43b.jpeg",
-      "kitsu_year": 2026,
-      "format": "TV",
-      "episodes": 12,
-      "site_url": "https://kitsu.io/anime/yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku",
-      "genres": [
-        "Deity",
-        "Action",
-        "Fantasy",
-        "Comedy",
-        "Conspiracy",
-        "Drama"
-      ],
-      "year_match": true,
-      "image_path": "images/kitsu-47759.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 2027,
@@ -1017,7 +973,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kininatteru-hito-ga-otoko-ja-nakatta",
       "year_match": null,
-      "image_path": "images/kitsu-50340.jpg"
+      "image_path": "images/kitsu-50340.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1053,7 +1010,8 @@
       ],
       "site_url": "https://kitsu.io/anime/himekishi-sama-no-himo",
       "year_match": null,
-      "image_path": "images/kitsu-49566.jpg"
+      "image_path": "images/kitsu-49566.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1142,7 +1100,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kagurabachi",
       "year_match": true,
-      "image_path": "images/kitsu-50686.jpg"
+      "image_path": "images/kitsu-50686.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1192,7 +1151,8 @@
         "Seinen"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-49424.jpg"
+      "image_path": "images/kitsu-49424.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1227,7 +1187,8 @@
       ],
       "site_url": "https://kitsu.io/anime/tenkaichi",
       "year_match": true,
-      "image_path": "images/kitsu-49849.jpg"
+      "image_path": "images/kitsu-49849.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1263,7 +1224,8 @@
         "Mystery",
         "Seinen"
       ],
-      "year_match": true
+      "year_match": true,
+      "similarity": 1.0
     }
   },
   {
@@ -1304,7 +1266,8 @@
         "Comedy"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-48948.jpg"
+      "image_path": "images/kitsu-48948.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1342,7 +1305,8 @@
         "Drama"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-49240.jpg"
+      "image_path": "images/kitsu-49240.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1353,30 +1317,7 @@
     "wiki_url": null,
     "redlink": null,
     "air_dates": "KochiKame: Tokyo Beat Cops",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "49983",
-      "title_romaji": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season",
-      "title_english": "The Beginning After the End Season 2",
-      "title_native": "最強の王様、二度目の人生は 何をする? 第2期",
-      "description": "The second season of Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Arthur faces one last mission with Jasmine, but the quest unleashes a tragedy no one saw coming.",
-      "cover_large": "https://media.kitsu.app/anime/49983/poster_image/large-5d101a3de0c67a47c50e18f770b3cd0a.jpeg",
-      "kitsu_year": 2026,
-      "format": "TV",
-      "episodes": 12,
-      "site_url": "https://kitsu.io/anime/the-beginning-after-the-end-season-2",
-      "genres": [
-        "Elf",
-        "Magic",
-        "Dragon",
-        "Action",
-        "Fantasy",
-        "Adventure",
-        "Isekai"
-      ],
-      "year_match": true,
-      "image_path": "images/kitsu-49983.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 2027,

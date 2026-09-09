@@ -42,7 +42,8 @@
       ],
       "site_url": "https://kitsu.io/anime/maple-town-monogatari",
       "year_match": true,
-      "image_path": "images/kitsu-2014.jpg"
+      "image_path": "images/kitsu-2014.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -110,7 +111,8 @@
       ],
       "site_url": "https://kitsu.io/anime/gakuen-tokusou-hikaruon",
       "year_match": true,
-      "image_path": "images/kitsu-1737.jpg"
+      "image_path": "images/kitsu-1737.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -146,7 +148,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kikou-senki-dragonar",
       "year_match": true,
-      "image_path": "images/kitsu-766.jpg"
+      "image_path": "images/kitsu-766.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -188,7 +191,8 @@
       ],
       "site_url": "https://kitsu.io/anime/bubblegum-crisis",
       "year_match": true,
-      "image_path": "images/kitsu-1202.jpg"
+      "image_path": "images/kitsu-1202.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -228,7 +232,8 @@
       ],
       "site_url": "https://kitsu.io/anime/twilight-q",
       "year_match": true,
-      "image_path": "images/kitsu-1783.jpg"
+      "image_path": "images/kitsu-1783.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -266,7 +271,8 @@
         "Drama"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-1210.jpg"
+      "image_path": "images/kitsu-1210.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -300,7 +306,8 @@
       ],
       "site_url": "https://kitsu.io/anime/doraemon-nobita-and-the-dragon-rider",
       "year_match": true,
-      "image_path": "images/kitsu-2421.jpg"
+      "image_path": "images/kitsu-2421.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -334,7 +341,8 @@
       ],
       "site_url": "https://kitsu.io/anime/batsu-terry",
       "year_match": true,
-      "image_path": "images/kitsu-7447.jpg"
+      "image_path": "images/kitsu-7447.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -366,7 +374,8 @@
       ],
       "site_url": "https://kitsu.io/anime/maple-town-monogatari",
       "year_match": true,
-      "image_path": "images/kitsu-2014.jpg"
+      "image_path": "images/kitsu-2014.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -404,7 +413,8 @@
       ],
       "site_url": "https://kitsu.io/anime/ouritsu-uchuugun-honneamise-no-tsubasa",
       "year_match": true,
-      "image_path": "images/kitsu-924.jpg"
+      "image_path": "images/kitsu-924.jpg",
+      "similarity": 0.8
     }
   },
   {
@@ -435,7 +445,8 @@
       ],
       "site_url": "https://kitsu.io/anime/cream-lemon-lemon-angel",
       "year_match": true,
-      "image_path": "images/kitsu-2856.jpg"
+      "image_path": "images/kitsu-2856.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -472,7 +483,8 @@
       ],
       "site_url": "https://kitsu.io/anime/warau-hyouteki",
       "year_match": true,
-      "image_path": "images/kitsu-1817.jpg"
+      "image_path": "images/kitsu-1817.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -505,7 +517,8 @@
       ],
       "site_url": "https://kitsu.io/anime/hiatari-ryoukou-yume-no-naka-ni-kimi-ga-ita",
       "year_match": true,
-      "image_path": "images/kitsu-1392.jpg"
+      "image_path": "images/kitsu-1392.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -549,7 +562,8 @@
       ],
       "site_url": "https://kitsu.io/anime/digital-devil-monogatari-megami-tensei",
       "year_match": true,
-      "image_path": "images/kitsu-2698.jpg"
+      "image_path": "images/kitsu-2698.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -587,7 +601,8 @@
       ],
       "site_url": "https://kitsu.io/anime/minna-agechau",
       "year_match": true,
-      "image_path": "images/kitsu-3739.jpg"
+      "image_path": "images/kitsu-3739.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -618,7 +633,8 @@
         "Kids"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-6214.jpg"
+      "image_path": "images/kitsu-6214.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -660,7 +676,8 @@
       ],
       "site_url": "https://kitsu.io/anime/city-hunter",
       "year_match": true,
-      "image_path": "images/kitsu-1316.jpg"
+      "image_path": "images/kitsu-1316.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -703,7 +720,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kimagure-orange-road",
       "year_match": true,
-      "image_path": "images/kitsu-972.jpg"
+      "image_path": "images/kitsu-972.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -739,7 +757,8 @@
       ],
       "site_url": "https://kitsu.io/anime/esper-mami",
       "year_match": true,
-      "image_path": "images/kitsu-2731.jpg"
+      "image_path": "images/kitsu-2731.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -771,7 +790,8 @@
       ],
       "site_url": "https://kitsu.io/anime/geragera-boes-monogatari",
       "year_match": true,
-      "image_path": "images/kitsu-2569.jpg"
+      "image_path": "images/kitsu-2569.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -856,7 +876,8 @@
       ],
       "site_url": "https://kitsu.io/anime/wicked-city",
       "year_match": true,
-      "image_path": "images/kitsu-992.jpg"
+      "image_path": "images/kitsu-992.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -901,7 +922,8 @@
       ],
       "site_url": "https://kitsu.io/anime/project-a-ko-2-daitokuji-zaibatsu-no-inbou",
       "year_match": true,
-      "image_path": "images/kitsu-1168.jpg"
+      "image_path": "images/kitsu-1168.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -916,28 +938,7 @@
     "director": "Osamu Yamazaki",
     "studio": "J.C.Staff",
     "ref": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "3134",
-      "title_romaji": "Sengoku Kitan Youtouden",
-      "title_english": "Yotoden: Chronicle of the Warlord Period",
-      "title_native": "戦国奇譚妖刀伝",
-      "description": "In the year 1580, a man named Lord Nobunaga Oda sends hoards of unholy armies across Japan, slaying all who stand in their way. A young ninja escapes her villages' destruction with a short sword, one of the three mystical weapons that can end Oda's rule. During her quest, she is joined by two other ninjas who wield the other two weapons of legend, the sacred sword and spear.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/3134/large.jpg",
-      "kitsu_year": 1987,
-      "format": "OVA",
-      "episodes": 3,
-      "site_url": "https://kitsu.io/anime/sengoku-kitan-youtouden",
-      "genres": [
-        "Martial Arts",
-        "Ninja",
-        "Demon",
-        "Sengoku Period",
-        "Action"
-      ],
-      "year_match": true,
-      "image_path": "images/kitsu-3134.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1987,
@@ -969,7 +970,8 @@
       ],
       "site_url": "https://kitsu.io/anime/machine-robo-butchigiri-battle-hackers",
       "year_match": true,
-      "image_path": "images/kitsu-7376.jpg"
+      "image_path": "images/kitsu-7376.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -984,25 +986,7 @@
     "director": "",
     "studio": "",
     "ref": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "7611",
-      "title_romaji": "Shin Kabukichou Story Hana no Asukagumi!",
-      "title_english": null,
-      "title_native": "新歌舞伎町ストーリー 花のあすか組!",
-      "description": "Based on the popular girl's manga Hana no Asukagumi! (The Glorious Asuka Gang!) by Takaguchi Satosumi.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/7611/large.jpg",
-      "kitsu_year": 1987,
-      "format": "OVA",
-      "episodes": 1,
-      "site_url": "https://kitsu.io/anime/shin-kabukichou-story-hana-no-asukagumi",
-      "genres": [
-        "Adventure",
-        "Drama"
-      ],
-      "year_match": true,
-      "image_path": "images/kitsu-7611.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1987,
@@ -1037,7 +1021,8 @@
       ],
       "site_url": "https://kitsu.io/anime/space-fantasia-2001-nights",
       "year_match": true,
-      "image_path": "images/kitsu-1493.jpg"
+      "image_path": "images/kitsu-1493.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1090,7 +1075,8 @@
         "Military"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-1145.jpg"
+      "image_path": "images/kitsu-1145.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1131,7 +1117,8 @@
       ],
       "site_url": "https://kitsu.io/anime/transformers-headmasters",
       "year_match": true,
-      "image_path": "images/kitsu-823.jpg"
+      "image_path": "images/kitsu-823.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1148,22 +1135,25 @@
     "ref": "",
     "enrichment": {
       "source": "kitsu",
-      "source_id": "6843",
-      "title_romaji": "TWD Express Rolling Takeoff",
+      "source_id": "2844",
+      "title_romaji": "MAPS: Densetsu no Samayoeru Seijin-tachi",
       "title_english": null,
-      "title_native": "TWD EXPRESS ローリングテイクオフ",
-      "description": "Based on a manga by Hijiri Yuki, serialised in Comic Nora. Note: Shown in theaters as a double bill with the anime feature MAPS: Densetsu no Samayoeru Seijin-tachi.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/6843/large.jpg",
+      "title_native": "マップス 伝説のさまよえる星人たち",
+      "description": "While looking for the ledgendary Mapman, the last surviving member of the Nomad Star tribe, Lipumira finds him in Tokyo. His name is Gen Tokishima and he is the only one able to get one part of the starmap hidden within the Earth. After retrieving the piece, Gen must make a decision to follow Lipumira in her foolhardy search to find the remaining pieces of the starmap or stay on Earth. He makes his decision, only to find his girlfriend has beaten him to the spaceship as she wants to come as well. Unfortunately, as Gen learns the secret of the starmap, Lipumira's sisters have plans to stop her and will stop her at any cost.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2844/large.jpg",
       "kitsu_year": 1987,
-      "format": "movie",
+      "format": "OVA",
       "episodes": 1,
+      "site_url": "https://kitsu.io/anime/maps-1987",
       "genres": [
+        "Space",
+        "Action",
         "Science Fiction",
         "Adventure"
       ],
-      "site_url": "https://kitsu.io/anime/twd-express-rolling-takeoff",
       "year_match": true,
-      "image_path": "images/kitsu-6843.jpg"
+      "similarity": 0.5,
+      "image_path": "images/kitsu-2844.jpg"
     }
   },
   {
@@ -1202,7 +1192,8 @@
       ],
       "site_url": "https://kitsu.io/anime/dragon-ball-movie-2-majinjou-no-nemuri-hime",
       "year_match": true,
-      "image_path": "images/kitsu-791.jpg"
+      "image_path": "images/kitsu-791.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1254,7 +1245,8 @@
       ],
       "site_url": "https://kitsu.io/anime/saint-seiya-the-battle-with-eris",
       "year_match": true,
-      "image_path": "images/kitsu-1131.jpg"
+      "image_path": "images/kitsu-1131.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1292,7 +1284,8 @@
       ],
       "site_url": "https://kitsu.io/anime/robot-carnival",
       "year_match": true,
-      "image_path": "images/kitsu-1976.jpg"
+      "image_path": "images/kitsu-1976.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1331,7 +1324,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kindan-no-mokushiroku-crystal-triangle",
       "year_match": true,
-      "image_path": "images/kitsu-2689.jpg"
+      "image_path": "images/kitsu-2689.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1399,7 +1393,8 @@
       ],
       "site_url": "https://kitsu.io/anime/lily-c-a-t",
       "year_match": true,
-      "image_path": "images/kitsu-2888.jpg"
+      "image_path": "images/kitsu-2888.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1442,38 +1437,7 @@
     "director": "Toshiki Hirano",
     "studio": "AIC , Artmic",
     "ref": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "458",
-      "title_romaji": "Haja Taisei Dangaiou",
-      "title_english": "Great Planet Evil-Destroyer Dangaio",
-      "title_native": "破邪大星弾劾凰 [ダンガイオー]",
-      "description": "Four psychic teenagers—Mia Alice, Roll Kran, Lamba Nom and Pai Thunder—are brainwashed by the scientist Dr. Tarsan as pilots of his greatest experiment—the giant robot Dangaioh. But as their memories slowly return, these pilots use their abilities and Dangaioh to combat the tyranny of Captain Galimos and the Bunker Space Pirates.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/458/large.jpg",
-      "kitsu_year": 1987,
-      "format": "OVA",
-      "episodes": 3,
-      "genres": [
-        "Space Travel",
-        "Science Fiction",
-        "Mecha",
-        "Action",
-        "Super Robot",
-        "Cyborg",
-        "Angst",
-        "Other Planet",
-        "Shipboard",
-        "Alien",
-        "Drama",
-        "Future",
-        "Robot",
-        "Super Power",
-        "Adventure"
-      ],
-      "site_url": "https://kitsu.io/anime/haja-taisei-dangaiou",
-      "year_match": true,
-      "image_path": "images/kitsu-458.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1987,
@@ -1518,7 +1482,8 @@
       ],
       "site_url": "https://kitsu.io/anime/oraa-guzura-dado",
       "year_match": true,
-      "image_path": "images/kitsu-6623.jpg"
+      "image_path": "images/kitsu-6623.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1551,7 +1516,8 @@
       ],
       "site_url": "https://kitsu.io/anime/mister-ajikko",
       "year_match": true,
-      "image_path": "images/kitsu-3010.jpg"
+      "image_path": "images/kitsu-3010.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1587,7 +1553,8 @@
       ],
       "site_url": "https://kitsu.io/anime/anime-sanjushi",
       "year_match": true,
-      "image_path": "images/kitsu-2113.jpg"
+      "image_path": "images/kitsu-2113.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1618,7 +1585,8 @@
       ],
       "site_url": "https://kitsu.io/anime/tsuideni-tonchinkan",
       "year_match": true,
-      "image_path": "images/kitsu-4784.jpg"
+      "image_path": "images/kitsu-4784.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -1650,7 +1618,8 @@
       ],
       "site_url": "https://kitsu.io/anime/bikkuriman",
       "year_match": true,
-      "image_path": "images/kitsu-3340.jpg"
+      "image_path": "images/kitsu-3340.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1682,7 +1651,8 @@
       ],
       "site_url": "https://kitsu.io/anime/oraa-guzura-dado",
       "year_match": true,
-      "image_path": "images/kitsu-6623.jpg"
+      "image_path": "images/kitsu-6623.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1729,7 +1699,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kamen-no-ninja-akakage",
       "year_match": true,
-      "image_path": "images/kitsu-7025.jpg"
+      "image_path": "images/kitsu-7025.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1766,7 +1737,8 @@
       ],
       "site_url": "https://kitsu.io/anime/grimm-masterpiece-theater",
       "year_match": true,
-      "image_path": "images/kitsu-8210.jpg"
+      "image_path": "images/kitsu-8210.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1802,7 +1774,8 @@
         "Sports"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-2018.jpg"
+      "image_path": "images/kitsu-2018.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1840,7 +1813,8 @@
         "Horror"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-2133.jpg"
+      "image_path": "images/kitsu-2133.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1876,7 +1850,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kaze-to-ki-no-uta-sanctus-sei-naru-kana",
       "year_match": true,
-      "image_path": "images/kitsu-1472.jpg"
+      "image_path": "images/kitsu-1472.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1922,7 +1897,8 @@
       ],
       "site_url": "https://kitsu.io/anime/gall-force-1-eternal-story",
       "year_match": true,
-      "image_path": "images/kitsu-1859.jpg"
+      "image_path": "images/kitsu-1859.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1957,7 +1933,8 @@
       ],
       "site_url": "https://kitsu.io/anime/gokiburi-tachi-no-tasogare",
       "year_match": true,
-      "image_path": "images/kitsu-3526.jpg"
+      "image_path": "images/kitsu-3526.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2000,7 +1977,8 @@
       ],
       "site_url": "https://kitsu.io/anime/battle-royal-high-school",
       "year_match": true,
-      "image_path": "images/kitsu-3149.jpg"
+      "image_path": "images/kitsu-3149.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2015,29 +1993,7 @@
     "director": "Toshihiro Hirano",
     "studio": "AIC",
     "ref": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "1636",
-      "title_romaji": "Daimajuu Gekitou: Hagane no Oni",
-      "title_english": null,
-      "title_native": "大魔獣激闘　鋼の鬼",
-      "description": "In the year 1999, a team of UN scientists in an attempt to tap into a new energy resource on a deserted island called Sansara, unknownigly open a portal to another universe, unleashing dormant biomechanical entities. Three years later, Takuya Goroza returns to the island of Sansara urged by a mysterious request by college chum Haruka Alford. Little does he know, his old friend isn't what he appears to be...",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/1636/large.jpg",
-      "kitsu_year": 1987,
-      "format": "OVA",
-      "episodes": 1,
-      "genres": [
-        "Science Fiction",
-        "Mecha",
-        "Earth",
-        "Piloted Robot",
-        "Future",
-        "Horror"
-      ],
-      "site_url": "https://kitsu.io/anime/daimajuu-gekitou-hagane-no-oni",
-      "year_match": true,
-      "image_path": "images/kitsu-1636.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1987,
@@ -2076,7 +2032,8 @@
         "Adventure"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-3520.jpg"
+      "image_path": "images/kitsu-3520.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2091,27 +2048,6 @@
     "director": "Masayuki Ōzeki",
     "studio": "TMS Entertainment",
     "ref": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "1285",
-      "title_romaji": "Lupin III: Fuuma Ichizoku no Inbou",
-      "title_english": "Lupin the Third:  The Fuma Conspiracy",
-      "title_native": "ルパン三世　風魔一族の陰謀",
-      "description": "Goemon's wedding to Murasaki Inabe, daughter of a samurai clan's leader, is interrupted when the Fuma ninjas attack, kidnapping the bride-to-be and demanding her family's ancient treasure as ransom. Lupin, Jigen, Goemon and Fujiko work together once again to try to save Murasaki and get to the treasure before the Fuma can steal it.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/1285/large.jpg",
-      "kitsu_year": 1987,
-      "format": "movie",
-      "episodes": 1,
-      "genres": [
-        "Comedy",
-        "Action",
-        "Thievery",
-        "Adventure",
-        "Crime"
-      ],
-      "site_url": "https://kitsu.io/anime/lupin-iii-the-fuma-conspiracy",
-      "year_match": true,
-      "image_path": "images/kitsu-1285.jpg"
-    }
+    "enrichment": null
   }
 ]

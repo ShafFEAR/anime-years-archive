@@ -27,7 +27,8 @@
         "Adventure"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-1496.jpg"
+      "image_path": "images/kitsu-1496.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -59,7 +60,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kerokko-demetan",
       "year_match": true,
-      "image_path": "images/kitsu-9016.jpg"
+      "image_path": "images/kitsu-9016.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -91,7 +93,8 @@
       ],
       "site_url": "https://kitsu.io/anime/yama-nezumi-rocky-chuck",
       "year_match": true,
-      "image_path": "images/kitsu-3712.jpg"
+      "image_path": "images/kitsu-3712.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -122,7 +125,8 @@
       ],
       "site_url": "https://kitsu.io/anime/jungle-kurobee",
       "year_match": true,
-      "image_path": "images/kitsu-6395.jpg"
+      "image_path": "images/kitsu-6395.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -155,7 +159,8 @@
         "Science Fiction"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-2041.jpg"
+      "image_path": "images/kitsu-2041.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -189,7 +194,8 @@
       ],
       "site_url": "https://kitsu.io/anime/panda-no-daibouken",
       "year_match": true,
-      "image_path": "images/kitsu-3234.jpg"
+      "image_path": "images/kitsu-3234.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -228,7 +234,8 @@
       ],
       "site_url": "https://kitsu.io/anime/doraemon",
       "year_match": true,
-      "image_path": "images/kitsu-8898.jpg"
+      "image_path": "images/kitsu-8898.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -258,7 +265,8 @@
       ],
       "site_url": "https://kitsu.io/anime/wansa-kun",
       "year_match": true,
-      "image_path": "images/kitsu-4761.jpg"
+      "image_path": "images/kitsu-4761.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -272,31 +280,7 @@
     "type": "TV",
     "demographic": "Shōnen",
     "regions": "Japan, Korea, French, Italy",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "3701",
-      "title_romaji": "Kouya no Shounen Isamu",
-      "title_english": null,
-      "title_native": "荒野の少年イサム",
-      "description": "The adventures of Isamu, a young boy living in the Far West, searching for his real father.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/3701/large.jpg",
-      "kitsu_year": 1973,
-      "format": "TV",
-      "episodes": 52,
-      "genres": [
-        "Earth",
-        "Action",
-        "Gunfights",
-        "United States",
-        "Coming Of Age",
-        "Law And Order",
-        "Historical",
-        "Adventure"
-      ],
-      "site_url": "https://kitsu.io/anime/kouya-no-shounen-isamu",
-      "year_match": true,
-      "image_path": "images/kitsu-3701.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1973,
@@ -309,28 +293,7 @@
     "type": "TV",
     "demographic": "Shōnen",
     "regions": "Japan, Italy",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "3298",
-      "title_romaji": "Microid S",
-      "title_english": null,
-      "title_native": "ミクロイドＳ",
-      "description": "This work focuses on environmental issues from the viewpoint of insects. In a refreshing twist, the central character miniaturizes, unlike the conventional hero who grows ever larger. From this perspective, the world looks different and unfamiliar. This work enables the reader to see that the world around is quickly moving towards destruction.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/3298/large.jpg",
-      "kitsu_year": 1973,
-      "format": "TV",
-      "episodes": 26,
-      "genres": [
-        "Science Fiction",
-        "Action",
-        "Shounen",
-        "Adventure",
-        "Violence"
-      ],
-      "site_url": "https://kitsu.io/anime/microid-s",
-      "year_match": true,
-      "image_path": "images/kitsu-3298.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1973,
@@ -376,7 +339,8 @@
       ],
       "site_url": "https://kitsu.io/anime/mazinger-z-vs-devilman",
       "year_match": true,
-      "image_path": "images/kitsu-3332.jpg"
+      "image_path": "images/kitsu-3332.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -412,7 +376,8 @@
       ],
       "site_url": "https://kitsu.io/anime/miracle-shoujo-limit-chan",
       "year_match": true,
-      "image_path": "images/kitsu-3153.jpg"
+      "image_path": "images/kitsu-3153.jpg",
+      "similarity": 0.75
     }
   },
   {
@@ -445,7 +410,8 @@
       ],
       "site_url": "https://kitsu.io/anime/zero-tester",
       "year_match": true,
-      "image_path": "images/kitsu-5770.jpg"
+      "image_path": "images/kitsu-5770.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -478,7 +444,8 @@
         "Science Fiction"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-3799.jpg"
+      "image_path": "images/kitsu-3799.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -513,7 +480,8 @@
       ],
       "site_url": "https://kitsu.io/anime/karate-baka-ichidai",
       "year_match": true,
-      "image_path": "images/kitsu-4994.jpg"
+      "image_path": "images/kitsu-4994.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -550,7 +518,8 @@
       ],
       "site_url": "https://kitsu.io/anime/dororon-enma-kun",
       "year_match": true,
-      "image_path": "images/kitsu-1192.jpg"
+      "image_path": "images/kitsu-1192.jpg",
+      "similarity": 0.0
     }
   },
   {
@@ -564,28 +533,7 @@
     "type": "TV",
     "demographic": "Shōjo",
     "regions": "Japan, France, Spain, Italy, Russia",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "281",
-      "title_romaji": "Ace wo Nerae!",
-      "title_english": null,
-      "title_native": "エースをねらえ!",
-      "description": "On her first day at Nishi High School, 15-year-old Hiromi Oka is inspired by top player Reika \"Ochoufujin\" Ryuuzaki to take up tennis. Shortly after joining the school's tennis club, she encounters Jin Munakata, the club's new coach. Munakata puts everyone under rigorous training that even puts Ochoufujin to shame. Despite the hardships, Hiromi's determination prompts the coach to select her as part of the club's main players. Because of this, Hiromi must endure the peer pressure from her seniors to become an ace tennis player.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/281/large.jpg",
-      "kitsu_year": 1973,
-      "format": "TV",
-      "episodes": 26,
-      "genres": [
-        "High School",
-        "Tennis",
-        "Sports",
-        "Romance",
-        "School Life"
-      ],
-      "site_url": "https://kitsu.io/anime/ace-wo-nerae",
-      "year_match": true,
-      "image_path": "images/kitsu-281.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1973,
@@ -614,7 +562,8 @@
       ],
       "site_url": "https://kitsu.io/anime/bouken-korobokkuru",
       "year_match": true,
-      "image_path": "images/kitsu-5232.jpg"
+      "image_path": "images/kitsu-5232.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -646,7 +595,8 @@
       ],
       "site_url": "https://kitsu.io/anime/samurai-giants",
       "year_match": true,
-      "image_path": "images/kitsu-5938.jpg"
+      "image_path": "images/kitsu-5938.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -678,7 +628,8 @@
       ],
       "site_url": "https://kitsu.io/anime/cutey-honey",
       "year_match": true,
-      "image_path": "images/kitsu-1492.jpg"
+      "image_path": "images/kitsu-1492.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -709,7 +660,8 @@
       ],
       "site_url": "https://kitsu.io/anime/nanmu-ichibyou-sokusai",
       "year_match": true,
-      "image_path": "images/kitsu-3464.jpg"
+      "image_path": "images/kitsu-3464.jpg",
+      "similarity": 0.0
     }
   },
   {
@@ -740,7 +692,8 @@
         "Psychological"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-4916.jpg"
+      "image_path": "images/kitsu-4916.jpg",
+      "similarity": 0.0
     }
   }
 ]

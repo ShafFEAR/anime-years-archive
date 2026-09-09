@@ -1,0 +1,8 @@
+...checked 100: kept 79, fixed 8, reverted 13
+...checked 1200: kept 1039, fixed 32, reverted 129
+...checked 1500: kept 1299, fixed 46, reverted 155
+...checked 3400: kept 3049, fixed 68, reverted 283
+...checked 4300: kept 3877, fixed 78, reverted 345
+...checked 5600: kept 5101, fixed 86, reverted 413
+
+Revalidation done. Checked 7459: kept 6842, fixed-to-different-entry 96, reverted-to-unmatched 521.

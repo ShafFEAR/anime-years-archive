@@ -11,33 +11,7 @@
     "director": "Fumio Kurokawa",
     "studio": "Nippon Animation , Aniplex",
     "ref": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "2312",
-      "title_romaji": "Princess Sara",
-      "title_english": "A Little Princess Sara",
-      "title_native": "小公女セーラ",
-      "description": "Sara, a pretty girl born into a rich British family in India, is treated like a little princess at a dormitory school in London. Sara's sweet school life turns to tragedy when she learns of her father's death and the family's bankruptcy. However, Sara endures her hard luck with kindness and imagination and escapes from her misery through fantasies.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/2312/large.jpg",
-      "kitsu_year": 1985,
-      "format": "TV",
-      "episodes": 46,
-      "genres": [
-        "United Kingdom",
-        "Earth",
-        "Slice of Life",
-        "Europe",
-        "Coming Of Age",
-        "All Girls School",
-        "Drama",
-        "Past",
-        "Plot Continuity",
-        "Historical"
-      ],
-      "site_url": "https://kitsu.io/anime/princess-sara",
-      "year_match": true,
-      "image_path": "images/kitsu-2312.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1985,
@@ -86,7 +60,8 @@
       ],
       "site_url": "https://kitsu.io/anime/area-88",
       "year_match": true,
-      "image_path": "images/kitsu-1334.jpg"
+      "image_path": "images/kitsu-1334.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -103,30 +78,31 @@
     "ref": "",
     "enrichment": {
       "source": "kitsu",
-      "source_id": "1294",
-      "title_romaji": "Ginga Tetsudou no Yoru",
-      "title_english": "Night on the Galactic Railroad",
-      "title_native": "銀河鉄道の夜",
-      "description": "Based on a short story by the popular children's writer Kenji Miyazawa, Galactic Railroad offers viewers a slow-paced, dreamlike journey through space and time. When Giovanni, a lonely boy in a hill town, goes to get milk for his ailing mother, he finds himself crossing the Milky Way on a faster-than-light steam railroad. The stations he visits in various constellations, like the planets explored by St. Exupery's Little Prince, offer curious adventures and an assortment of human \"types.\" Reality and fantasy blur aboard the train, and its travels across the light-years sometimes suggests the journey through life. The characters are depicted as cats, presumably to avoid the problems of animating humans.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/1294/large.jpg",
+      "source_id": "5715",
+      "title_romaji": "Ginga Hyouryuu Vifam: Kieta 12-nin",
+      "title_english": null,
+      "title_native": "銀河漂流バイファム 消えた12人",
+      "description": "This episode is a sidestory and can be inserted somewhere between episodes #18 and #21. This is a \"mystery\" and so the present writer does not tell the whole story. The Janus is sailing towards Taut when something unexpected happens.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/5715/large.jpg",
       "kitsu_year": 1985,
-      "format": "movie",
+      "format": "OVA",
       "episodes": 1,
-      "site_url": "https://kitsu.io/anime/night-on-the-galactic-railroad",
+      "site_url": "https://kitsu.io/anime/ginga-hyouryuu-vifam-kieta-12-nin",
       "genres": [
-        "Past",
-        "Historical",
-        "Plot Continuity",
-        "Parallel Universe",
-        "Fantasy",
-        "Adventure",
-        "Anthropomorphism",
-        "Drama",
-        "Coming Of Age",
-        "Mystery"
+        "Alien",
+        "Robot",
+        "Future",
+        "Space",
+        "Mecha",
+        "Space Travel",
+        "Piloted Robot",
+        "Shipboard",
+        "Humanoid Alien",
+        "Action"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-1294.jpg"
+      "similarity": 0.67,
+      "image_path": "images/kitsu-5715.jpg"
     }
   },
   {
@@ -169,7 +145,8 @@
       ],
       "site_url": "https://kitsu.io/anime/genmu-senki-leda",
       "year_match": true,
-      "image_path": "images/kitsu-1989.jpg"
+      "image_path": "images/kitsu-1989.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -215,7 +192,8 @@
       ],
       "site_url": "https://kitsu.io/anime/mobile-suit-zeta-gundam",
       "year_match": true,
-      "image_path": "images/kitsu-64.jpg"
+      "image_path": "images/kitsu-64.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -258,7 +236,8 @@
       ],
       "site_url": "https://kitsu.io/anime/megazone-23",
       "year_match": true,
-      "image_path": "images/kitsu-1744.jpg"
+      "image_path": "images/kitsu-1744.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -294,7 +273,8 @@
       ],
       "site_url": "https://kitsu.io/anime/arei-no-kagami",
       "year_match": true,
-      "image_path": "images/kitsu-4883.jpg"
+      "image_path": "images/kitsu-4883.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -334,7 +314,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kamui-no-ken",
       "year_match": true,
-      "image_path": "images/kitsu-456.jpg"
+      "image_path": "images/kitsu-456.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -375,7 +356,8 @@
       ],
       "site_url": "https://kitsu.io/anime/doraemon-nobita-s-little-star-wars",
       "year_match": true,
-      "image_path": "images/kitsu-2432.jpg"
+      "image_path": "images/kitsu-2432.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -411,7 +393,8 @@
       ],
       "site_url": "https://kitsu.io/anime/gu-gu-ganmo",
       "year_match": true,
-      "image_path": "images/kitsu-2728.jpg"
+      "image_path": "images/kitsu-2728.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -426,33 +409,7 @@
     "director": "",
     "studio": "Toei Animation",
     "ref": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "2312",
-      "title_romaji": "Princess Sara",
-      "title_english": "A Little Princess Sara",
-      "title_native": "小公女セーラ",
-      "description": "Sara, a pretty girl born into a rich British family in India, is treated like a little princess at a dormitory school in London. Sara's sweet school life turns to tragedy when she learns of her father's death and the family's bankruptcy. However, Sara endures her hard luck with kindness and imagination and escapes from her misery through fantasies.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/2312/large.jpg",
-      "kitsu_year": 1985,
-      "format": "TV",
-      "episodes": 46,
-      "site_url": "https://kitsu.io/anime/princess-sara",
-      "genres": [
-        "All Girls School",
-        "Past",
-        "Earth",
-        "Historical",
-        "Plot Continuity",
-        "United Kingdom",
-        "Europe",
-        "Slice of Life",
-        "Drama",
-        "Coming Of Age"
-      ],
-      "year_match": true,
-      "image_path": "images/kitsu-2312.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1985,
@@ -466,28 +423,7 @@
     "director": "Masuji Harada",
     "studio": "Shin-Ei Animation",
     "ref": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "10295",
-      "title_romaji": "Ninja Hattori-kun Plus Perman: Ninja Kaijuu Jippou tai Miracle Tamago",
-      "title_english": null,
-      "title_native": "忍者ハットリくん＋パーマン 忍者怪獣ジッポウVSミラクル卵",
-      "description": "Crossover film featuring both of Motoo Abiko's work. Both casts gets wrapped up when an alien egg falls from the sky that becomes a monster seeking destruction of the Earth. It was screened as a double feature with Doraemon: Nobita no Little Star Wars.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/10295/large.jpg",
-      "kitsu_year": 1985,
-      "format": "movie",
-      "episodes": 1,
-      "genres": [
-        "Comedy",
-        "Science Fiction",
-        "Super Power",
-        "Adventure",
-        "Martial Arts"
-      ],
-      "site_url": "https://kitsu.io/anime/ninja-hattori-kun-plus-perman-ninja-kaijuu-jippou-tai-miracle-tamago",
-      "year_match": true,
-      "image_path": "images/kitsu-10295.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1985,
@@ -524,7 +460,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kinnikuman-seigi-choujin-vs-kodai-choujin",
       "year_match": true,
-      "image_path": "images/kitsu-2901.jpg"
+      "image_path": "images/kitsu-2901.jpg",
+      "similarity": 0.67
     }
   },
   {
@@ -567,31 +504,7 @@
     "director": "Seiji Okuda",
     "studio": "Ashi Productions",
     "ref": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "2043",
-      "title_romaji": "Choujuu Kishin Dancougar",
-      "title_english": "Super Bestial Machine God Dancougar",
-      "title_native": "超獣機神ダンクーガ",
-      "description": "Emperor Muge Zarbados and his Empire of Death decide that their next conquest will be the faraway planet of Earth. Muge becomes even more fearsome because of Shapiro Keats, a power-hungry Earthling-turned-traitor. It's up to Shinobu, Sara (Shapiro's old girldfriend), Masato, and Ryo of the Jyusenkitai/Cyber Beast Force to pilot the four Jyusenki/Beast Mecha (Eagle Fighter, Land Cougar, Land Liger, and Big Moth [a mammoth mecha]), which can combine into the giant mech Dancougar.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/2043/large.jpg",
-      "kitsu_year": 1985,
-      "format": "TV",
-      "episodes": 38,
-      "genres": [
-        "Science Fiction",
-        "Mecha",
-        "Earth",
-        "Action",
-        "Super Robot",
-        "Piloted Robot",
-        "Future",
-        "Robot"
-      ],
-      "site_url": "https://kitsu.io/anime/choujuu-kishin-dancougar",
-      "year_match": true,
-      "image_path": "images/kitsu-2043.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1985,
@@ -630,7 +543,8 @@
       ],
       "site_url": "https://kitsu.io/anime/musashi-no-ken",
       "year_match": true,
-      "image_path": "images/kitsu-3440.jpg"
+      "image_path": "images/kitsu-3440.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -645,32 +559,7 @@
     "director": "Kunihiko Yuyama",
     "studio": "Ashi Productions",
     "ref": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "2277",
-      "title_romaji": "Sengoku Majin Goushougun: Toki no Etranger",
-      "title_english": "Time Stranger",
-      "title_native": "戦国魔人ゴーショーグン 時の異邦人[ÉTRANGER[エトランゼ]]",
-      "description": "Remy Shimoda is in a hurry. She's on her way to a reunion with the other members of the Go Shogun team, and she's late. A police action with some robbers gets in her way, so she runs the robbers off the road. Her vision blurs and she gets into an accident. The movie splits into two with one plot following Remy's slow decline at the hospital with the Go Shogun members and former enemies at her side, and her experience in a strange city where she, and the rest of the team have their deaths foretold. Remy, herself, is plagued by visions of her death, and visitations from a threatening girl and her panther-like cat. The temple at the center of the city is the key, so the team sets out to battle their way into it. Based on the giant robot series \"Go Shogun\", this is a story focusing on Remy, the female member of the team.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/2277/large.jpg",
-      "kitsu_year": 1985,
-      "format": "movie",
-      "episodes": 1,
-      "site_url": "https://kitsu.io/anime/sengoku-majin-goushougun-toki-no-etranger",
-      "genres": [
-        "Future",
-        "Fantasy World",
-        "Other Planet",
-        "Violence",
-        "Action",
-        "Angst",
-        "Science Fiction",
-        "Dystopia",
-        "Drama"
-      ],
-      "year_match": true,
-      "image_path": "images/kitsu-2277.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1985,
@@ -718,7 +607,8 @@
         "Kids"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-5168.jpg"
+      "image_path": "images/kitsu-5168.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -756,7 +646,8 @@
       ],
       "site_url": "https://kitsu.io/anime/onegai-samia-don",
       "year_match": true,
-      "image_path": "images/kitsu-2561.jpg"
+      "image_path": "images/kitsu-2561.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -790,7 +681,8 @@
       ],
       "site_url": "https://kitsu.io/anime/hey-bumboo",
       "year_match": true,
-      "image_path": "images/kitsu-3007.jpg"
+      "image_path": "images/kitsu-3007.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -805,29 +697,7 @@
     "director": "Hideto Ueda",
     "studio": "Tatsunoko",
     "ref": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "3263",
-      "title_romaji": "Honoo no Alpenrose: Judy & Randy",
-      "title_english": "Alpenrose",
-      "title_native": "炎のアルペンローゼ・ジュディ＆ランディ",
-      "description": "While Randy was walking through the Swiss countryside he finds a small girl, who seemed to be the only survived person from an airplane crash. The little girl didn’t remember anything, and Randy decided to take care of her and he called her Judy. The both go their childhood together. A few years later, Judy, now 16 years old, wants to find her past. With the help of Randy, she leaves to research her origins. Her single clue is a song that she keeps hearing in her head, the song is called Alpine Rose. At a time of world war, these two young people will have to overcome many obstacles to arrive at their goal in this time of war, with having only each other to comfort and support. the depth of their love. (Source : ANN)",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/3263/large.jpg",
-      "kitsu_year": 1985,
-      "format": "TV",
-      "episodes": 20,
-      "genres": [
-        "Romance",
-        "World War II",
-        "Earth",
-        "Europe",
-        "Past",
-        "Historical"
-      ],
-      "site_url": "https://kitsu.io/anime/honoo-no-alpen-rose-judy-randy",
-      "year_match": true,
-      "image_path": "images/kitsu-3263.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1985,
@@ -841,26 +711,7 @@
     "director": "Osama Tezuka",
     "studio": "Tezuka Productions",
     "ref": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "7103",
-      "title_romaji": "Lunn wa Kaze no Naka",
-      "title_english": null,
-      "title_native": "るんは風の中",
-      "description": "This is the third episode in the Lion Books Series, in which a boy who has fallen in love with a girl on a poster on the wall starts to look for her. This story depicts the heartache of adolescent first love in a low-key manner.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/7103/large.jpg",
-      "kitsu_year": 1985,
-      "format": "OVA",
-      "episodes": 1,
-      "genres": [
-        "Romance",
-        "Japan",
-        "Present"
-      ],
-      "site_url": "https://kitsu.io/anime/lunn-wa-kaze-no-naka",
-      "year_match": true,
-      "image_path": "images/kitsu-7103.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1985,
@@ -895,7 +746,8 @@
       ],
       "site_url": "https://kitsu.io/anime/mahou-no-star-magical-emi",
       "year_match": true,
-      "image_path": "images/kitsu-1837.jpg"
+      "image_path": "images/kitsu-1837.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -939,7 +791,8 @@
       ],
       "site_url": "https://kitsu.io/anime/dream-hunter-rem",
       "year_match": true,
-      "image_path": "images/kitsu-3405.jpg"
+      "image_path": "images/kitsu-3405.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -973,7 +826,8 @@
         "Adventure"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-2058.jpg"
+      "image_path": "images/kitsu-2058.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1019,7 +873,8 @@
         "Sports"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-1915.jpg"
+      "image_path": "images/kitsu-1915.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1051,7 +906,8 @@
         "Comedy"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-4390.jpg"
+      "image_path": "images/kitsu-4390.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1086,7 +942,8 @@
       ],
       "site_url": "https://kitsu.io/anime/lupin-iii-the-legend-of-the-gold-of-babylon",
       "year_match": true,
-      "image_path": "images/kitsu-1286.jpg"
+      "image_path": "images/kitsu-1286.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1127,7 +984,8 @@
       ],
       "site_url": "https://kitsu.io/anime/night-on-the-galactic-railroad",
       "year_match": true,
-      "image_path": "images/kitsu-1294.jpg"
+      "image_path": "images/kitsu-1294.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1170,7 +1028,8 @@
       ],
       "site_url": "https://kitsu.io/anime/dirty-pair",
       "year_match": true,
-      "image_path": "images/kitsu-388.jpg"
+      "image_path": "images/kitsu-388.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1206,7 +1065,8 @@
       ],
       "site_url": "https://kitsu.io/anime/area-88",
       "year_match": true,
-      "image_path": "images/kitsu-1334.jpg"
+      "image_path": "images/kitsu-1334.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1242,7 +1102,8 @@
       ],
       "site_url": "https://kitsu.io/anime/cosmo-police-justy",
       "year_match": true,
-      "image_path": "images/kitsu-1855.jpg"
+      "image_path": "images/kitsu-1855.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1276,7 +1137,8 @@
         "Adventure"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-2058.jpg"
+      "image_path": "images/kitsu-2058.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1311,7 +1173,8 @@
       ],
       "site_url": "https://kitsu.io/anime/odin-koushi-hansen-starlight",
       "year_match": true,
-      "image_path": "images/kitsu-1161.jpg"
+      "image_path": "images/kitsu-1161.jpg",
+      "similarity": 0.67
     }
   },
   {
@@ -1351,7 +1214,8 @@
         "Military"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-2348.jpg"
+      "image_path": "images/kitsu-2348.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1397,7 +1261,8 @@
       ],
       "site_url": "https://kitsu.io/anime/chocolate-panic-picture-show",
       "year_match": true,
-      "image_path": "images/kitsu-4207.jpg"
+      "image_path": "images/kitsu-4207.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1430,7 +1295,8 @@
         "Action"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-3183.jpg"
+      "image_path": "images/kitsu-3183.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1447,30 +1313,31 @@
     "ref": "",
     "enrichment": {
       "source": "kitsu",
-      "source_id": "1294",
-      "title_romaji": "Ginga Tetsudou no Yoru",
-      "title_english": "Night on the Galactic Railroad",
-      "title_native": "銀河鉄道の夜",
-      "description": "Based on a short story by the popular children's writer Kenji Miyazawa, Galactic Railroad offers viewers a slow-paced, dreamlike journey through space and time. When Giovanni, a lonely boy in a hill town, goes to get milk for his ailing mother, he finds himself crossing the Milky Way on a faster-than-light steam railroad. The stations he visits in various constellations, like the planets explored by St. Exupery's Little Prince, offer curious adventures and an assortment of human \"types.\" Reality and fantasy blur aboard the train, and its travels across the light-years sometimes suggests the journey through life. The characters are depicted as cats, presumably to avoid the problems of animating humans.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/1294/large.jpg",
+      "source_id": "5715",
+      "title_romaji": "Ginga Hyouryuu Vifam: Kieta 12-nin",
+      "title_english": null,
+      "title_native": "銀河漂流バイファム 消えた12人",
+      "description": "This episode is a sidestory and can be inserted somewhere between episodes #18 and #21. This is a \"mystery\" and so the present writer does not tell the whole story. The Janus is sailing towards Taut when something unexpected happens.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/5715/large.jpg",
       "kitsu_year": 1985,
-      "format": "movie",
+      "format": "OVA",
       "episodes": 1,
-      "site_url": "https://kitsu.io/anime/night-on-the-galactic-railroad",
+      "site_url": "https://kitsu.io/anime/ginga-hyouryuu-vifam-kieta-12-nin",
       "genres": [
-        "Past",
-        "Historical",
-        "Plot Continuity",
-        "Parallel Universe",
-        "Fantasy",
-        "Adventure",
-        "Anthropomorphism",
-        "Drama",
-        "Coming Of Age",
-        "Mystery"
+        "Alien",
+        "Robot",
+        "Future",
+        "Space",
+        "Mecha",
+        "Space Travel",
+        "Piloted Robot",
+        "Shipboard",
+        "Humanoid Alien",
+        "Action"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-1294.jpg"
+      "similarity": 0.67,
+      "image_path": "images/kitsu-5715.jpg"
     }
   },
   {
@@ -1508,7 +1375,8 @@
       ],
       "site_url": "https://kitsu.io/anime/dream-dimension-hunter-fandora",
       "year_match": true,
-      "image_path": "images/kitsu-4330.jpg"
+      "image_path": "images/kitsu-4330.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1561,7 +1429,8 @@
       ],
       "site_url": "https://kitsu.io/anime/aoki-ryuusei-spt-layzner",
       "year_match": true,
-      "image_path": "images/kitsu-7983.jpg"
+      "image_path": "images/kitsu-7983.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1603,7 +1472,8 @@
       ],
       "site_url": "https://kitsu.io/anime/ninja-senshi-tobikage",
       "year_match": true,
-      "image_path": "images/kitsu-2758.jpg"
+      "image_path": "images/kitsu-2758.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1637,7 +1507,8 @@
         "Comedy"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-5220.jpg"
+      "image_path": "images/kitsu-5220.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -1673,7 +1544,8 @@
       ],
       "site_url": "https://kitsu.io/anime/high-school-kimengumi",
       "year_match": true,
-      "image_path": "images/kitsu-647.jpg"
+      "image_path": "images/kitsu-647.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1706,7 +1578,8 @@
       ],
       "site_url": "https://kitsu.io/anime/yume-no-hoshi-no-button-nose",
       "year_match": true,
-      "image_path": "images/kitsu-3268.jpg"
+      "image_path": "images/kitsu-3268.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1753,7 +1626,8 @@
       ],
       "site_url": "https://kitsu.io/anime/iczer-one",
       "year_match": true,
-      "image_path": "images/kitsu-2076.jpg"
+      "image_path": "images/kitsu-2076.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1768,26 +1642,7 @@
     "director": "Masami Hata",
     "studio": "Sanrio",
     "ref": "",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "3863",
-      "title_romaji": "Yousei Florence",
-      "title_english": "Fairy Florence",
-      "title_native": "妖精フローレンス",
-      "description": "A gentle and talented boy named Michael played beautiful music on his oboe, and his greatest love was to play for and tend to the flowers in the greenhouse at the school of music where he attended. Unfortunately, his gardening made him constantly late for orchestra practice and resulted in his dismissal from the school. When Michael fell asleep that same night, he was awakened by a dainty Flower Fairy named Florence, who would take him on an enchanted journey to a land where flowers came alive, treble notes were mischievous, and adventure beckoned. There, he would soon come to realize that his love of flowers and desire to become a great musician could go hand-in-hand and help him to become focused in life and discover himself.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/3863/large.jpg",
-      "kitsu_year": 1985,
-      "format": "movie",
-      "episodes": 1,
-      "genres": [
-        "Fantasy",
-        "Music",
-        "Adventure"
-      ],
-      "site_url": "https://kitsu.io/anime/yousei-florence",
-      "year_match": true,
-      "image_path": "images/kitsu-3863.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1985,
@@ -1819,7 +1674,8 @@
       ],
       "site_url": "https://kitsu.io/anime/chuuhai-lemon-love-30s",
       "year_match": true,
-      "image_path": "images/kitsu-5986.jpg"
+      "image_path": "images/kitsu-5986.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -1851,7 +1707,8 @@
         "Drama"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-2981.jpg"
+      "image_path": "images/kitsu-2981.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1882,7 +1739,8 @@
       ],
       "site_url": "https://kitsu.io/anime/what-s-michael",
       "year_match": true,
-      "image_path": "images/kitsu-6642.jpg"
+      "image_path": "images/kitsu-6642.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1917,7 +1775,8 @@
       ],
       "site_url": "https://kitsu.io/anime/angel-s-egg",
       "year_match": true,
-      "image_path": "images/kitsu-785.jpg"
+      "image_path": "images/kitsu-785.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1955,7 +1814,8 @@
       ],
       "site_url": "https://kitsu.io/anime/fire-tripper",
       "year_match": true,
-      "image_path": "images/kitsu-2690.jpg"
+      "image_path": "images/kitsu-2690.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1987,7 +1847,8 @@
         "Sports"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-1915.jpg"
+      "image_path": "images/kitsu-1915.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2020,7 +1881,8 @@
         "Drama"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-4215.jpg"
+      "image_path": "images/kitsu-4215.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2059,7 +1921,8 @@
       ],
       "site_url": "https://kitsu.io/anime/vampire-hunter-d",
       "year_match": true,
-      "image_path": "images/kitsu-659.jpg"
+      "image_path": "images/kitsu-659.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2102,7 +1965,8 @@
       ],
       "site_url": "https://kitsu.io/anime/dirty-pair",
       "year_match": true,
-      "image_path": "images/kitsu-388.jpg"
+      "image_path": "images/kitsu-388.jpg",
+      "similarity": 1.0
     }
   }
 ]

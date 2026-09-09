@@ -46,7 +46,8 @@
       ],
       "site_url": "https://kitsu.io/anime/all-you-need-is-kill",
       "year_match": true,
-      "image_path": "images/kitsu-49673.jpg"
+      "image_path": "images/kitsu-49673.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -79,7 +80,8 @@
       ],
       "site_url": "https://kitsu.io/anime/chou-kaguya-hime",
       "year_match": true,
-      "image_path": "images/kitsu-50322.jpg"
+      "image_path": "images/kitsu-50322.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -111,7 +113,8 @@
       ],
       "site_url": "https://kitsu.io/anime/girls-panzer-motto-love-love-sakusen-desu",
       "year_match": true,
-      "image_path": "images/kitsu-49934.jpg"
+      "image_path": "images/kitsu-49934.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -140,7 +143,8 @@
       "genres": [],
       "site_url": "https://kitsu.io/anime/kusunoki-no-bannin",
       "year_match": true,
-      "image_path": "images/kitsu-49831.jpg"
+      "image_path": "images/kitsu-49831.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -177,7 +181,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kidou-senshi-gundam-senkou-no-hathaway-2",
       "year_match": true,
-      "image_path": "images/kitsu-44536.jpg"
+      "image_path": "images/kitsu-44536.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -206,28 +211,7 @@
     "director": "Hiroaki Akagi (Chief) Chen Dali",
     "running_time": "102",
     "ref": "[ 8 ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "49249",
-      "title_romaji": "Boku no Kokoro no Yabai Yatsu Movie",
-      "title_english": null,
-      "title_native": "僕の心のヤバイやつ 劇場版",
-      "description": "A re-edit of both anime seasons featuring newly added footage and will depict the story of Ichikawa and Yamada after the events of the TV series.",
-      "cover_large": "https://media.kitsu.app/anime/49249/poster_image/large-d5ab94636bd64438df410d697c35714b.jpeg",
-      "kitsu_year": 2026,
-      "format": "movie",
-      "episodes": 1,
-      "site_url": "https://kitsu.io/anime/boku-no-kokoro-no-yabai-yatsu-movie",
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Slice of Life",
-        "Coming Of Age",
-        "Shounen"
-      ],
-      "year_match": true,
-      "image_path": "images/kitsu-49249.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 2026,
@@ -289,7 +273,8 @@
       ],
       "site_url": "https://kitsu.io/anime/tensei-shitara-slime-datta-ken-movie-2-soukai-no-namida-hen",
       "year_match": true,
-      "image_path": "images/kitsu-49236.jpg"
+      "image_path": "images/kitsu-49236.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -304,22 +289,7 @@
     "director": "Yoshitoshi Shinomiya",
     "running_time": "76",
     "ref": "[ 12 ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "50569",
-      "title_romaji": "Hanarokushou ga Akeru Hi ni",
-      "title_english": null,
-      "title_native": "花緑青が明ける日に",
-      "description": "The Obinata Fireworks Shop factory is getting prepared for an administrative action for confiscation tomorrow. It has been six years since Keitaro has been holed up in a closed-down factory creating fireworks by himself, chasing after an illusion of his father who vanished. It is a story about three young people who overcome the extreme weather conditions, disasters and environmental problems imposed on them and establish their own identities. (Source: Marché du Film Festival de Cannes) *The film was selected for the 77th Cannes Film Festival’s 2024 Annecy Animation Showcase. *Note: Initially slated for a 2025 release, on May 20th of the same year the movie was delayed to 2026.",
-      "cover_large": "https://media.kitsu.app/anime/50569/poster_image/large-d6a9aae4459b571696193ea73c81d264.jpeg",
-      "kitsu_year": 2026,
-      "format": "movie",
-      "episodes": 1,
-      "site_url": "https://kitsu.io/anime/hanarokushou-ga-akeru-hi-ni",
-      "genres": [],
-      "year_match": true,
-      "image_path": "images/kitsu-50569.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 2026,
@@ -350,7 +320,8 @@
       ],
       "site_url": "https://kitsu.io/anime/girls-panzer-motto-love-love-sakusen-desu",
       "year_match": true,
-      "image_path": "images/kitsu-49934.jpg"
+      "image_path": "images/kitsu-49934.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -383,7 +354,8 @@
       ],
       "site_url": "https://kitsu.io/anime/paris-ni-saku-etoile",
       "year_match": true,
-      "image_path": "images/kitsu-50082.jpg"
+      "image_path": "images/kitsu-50082.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -398,29 +370,7 @@
     "director": "Masaki Kitamura",
     "running_time": "87",
     "ref": "[ 14 ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "50568",
-      "title_romaji": "Ansatsu Kyoushitsu: Minna no Jikan",
-      "title_english": null,
-      "title_native": "暗殺教室 みんなの時間",
-      "description": "A new movie to commemorate Assassination Classroom's 10th anniversary of the TV anime. It adapts episodes previously omitted in the original anime series.",
-      "cover_large": "https://media.kitsu.app/anime/50568/poster_image/large-eec13e6eead2a1fd9177bcf893499651.jpeg",
-      "kitsu_year": 2026,
-      "format": "movie",
-      "episodes": 1,
-      "site_url": "https://kitsu.io/anime/ansatsu-kyoushitsu-minna-no-jikan",
-      "genres": [
-        "Assassin",
-        "Action",
-        "Science Fiction",
-        "Comedy",
-        "Supernatural",
-        "Shounen"
-      ],
-      "year_match": true,
-      "image_path": "images/kitsu-50568.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 2026,
@@ -450,7 +400,8 @@
         "Fantasy"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-50577.jpg"
+      "image_path": "images/kitsu-50577.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -483,7 +434,8 @@
       ],
       "site_url": "https://kitsu.io/anime/meitantei-conan-movie-29-highway-no-datenshi",
       "year_match": true,
-      "image_path": "images/kitsu-50660.jpg"
+      "image_path": "images/kitsu-50660.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -515,7 +467,8 @@
       ],
       "site_url": "https://kitsu.io/anime/girls-panzer-motto-love-love-sakusen-desu",
       "year_match": true,
-      "image_path": "images/kitsu-49934.jpg"
+      "image_path": "images/kitsu-49934.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -562,7 +515,8 @@
       ],
       "site_url": "https://kitsu.io/anime/love-live-hasu-no-sora-jogakuin-school-idol-club-bloom-garden-party",
       "year_match": true,
-      "image_path": "images/kitsu-50645.jpg"
+      "image_path": "images/kitsu-50645.jpg",
+      "similarity": 0.62
     }
   },
   {
@@ -577,28 +531,7 @@
     "director": "Jimmy Stone",
     "running_time": "103",
     "ref": "[ 19 ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "50601",
-      "title_romaji": "Mahouka Koukou no Rettousei: Yotsuba Keishou-hen",
-      "title_english": null,
-      "title_native": "劇場版 魔法科高校の劣等生 四葉継承編",
-      "description": "Movie adaptation of Mahouka Koukou no Rettousei's Yotsuba Succession Arc. The invitation has arrived. It is time for the New Year’s Reception at the Yotsuba family residence. This year, Miyuki and other candidates will gather there to decide who will be the next leader of their powerful clan. If chosen as the successor, she would never have to see her brother live as a pariah ever again. At the same time, such a position surely entails a political marriage, plunging her mind into complete turmoil. Complicating matters, the current head of their family sows doubt with the shocking claim that Miyuki is not Tatsuya’s sister. When the new year comes, their relationship may be changed forever...",
-      "cover_large": "https://media.kitsu.app/anime/50601/poster_image/large-b72a6eaa5f593512ff94598b4f9756d6.jpeg",
-      "kitsu_year": 2026,
-      "format": "movie",
-      "episodes": 1,
-      "site_url": "https://kitsu.io/anime/mahouka-koukou-no-rettousei-yotsuba-keishou-hen",
-      "genres": [
-        "Magic",
-        "Action",
-        "Science Fiction",
-        "Romance",
-        "Supernatural"
-      ],
-      "year_match": true,
-      "image_path": "images/kitsu-50601.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 2026,
@@ -632,7 +565,8 @@
       ],
       "site_url": "https://kitsu.io/anime/Mononoke-Hebigami",
       "year_match": true,
-      "image_path": "images/kitsu-49675.jpg"
+      "image_path": "images/kitsu-49675.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -647,27 +581,7 @@
     "director": "Yūichi Fukuda (Chief) Fumitoshi Oizaki",
     "running_time": "109",
     "ref": "[ 21 ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "50446",
-      "title_romaji": "Kaguya-sama wa Kokurasetai Movie",
-      "title_english": "Kaguya-sama: Love is War Movie",
-      "title_native": "劇場版 かぐや様は告らせたい",
-      "description": "The final chapters of Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen as a completely new theatrical movie based on an original story written by the original creator.",
-      "cover_large": "https://media.kitsu.app/anime/50446/poster_image/large-59f078dfcf3d2a2e085a073c1c7a7153.jpeg",
-      "kitsu_year": null,
-      "format": "movie",
-      "episodes": 1,
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Romance",
-        "Seinen"
-      ],
-      "site_url": "https://kitsu.io/anime/kaguya-sama-wa-kokurasetai-movie",
-      "year_match": null,
-      "image_path": "images/kitsu-50446.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 2026,
@@ -699,7 +613,8 @@
       ],
       "site_url": "https://kitsu.io/anime/shibou-yuugi-de-meshi-wo-kuu",
       "year_match": true,
-      "image_path": "images/kitsu-50337.jpg"
+      "image_path": "images/kitsu-50337.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -730,7 +645,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kimi-to-hanabi-to-yakusoku-to",
       "year_match": true,
-      "image_path": "images/kitsu-50774.jpg"
+      "image_path": "images/kitsu-50774.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -745,25 +661,7 @@
     "director": "Kei Oikawa",
     "running_time": "99",
     "ref": "[ 24 ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "50806",
-      "title_romaji": "Chiikawa: Ningyo no Shima no Himitsu",
-      "title_english": null,
-      "title_native": "映画ちいかわ 人魚の島のひみつ",
-      "description": "Based on a series of Chiikawa comics posted on X by Nagano from March to November 2023, known as the \"Siren Arc\". One day, while Chiikawa and Hachiware were relaxing in the square, Usagi suddenly appeared with a flyer stuck to its face. When Hachiware checked the flyer, it was an invitation reading “Special Invitation to a Special Island.” Lured by promises like “Get 100x rewards for simple island quests!” and “Limited-edition island ramen, exclusive sweets—sweet and spicy treats all practically free!”, Chiikawa and the others decided to go on the island retreat. Boarding the ship alongside Rakko, who was suspicious of the flyer's contents, the group landed on the island... only to find something waiting for them there...!?",
-      "cover_large": "https://media.kitsu.app/anime/50806/poster_image/large-030e6e4e8a960e9dc0de0d152eda7be2.jpeg",
-      "kitsu_year": 2026,
-      "format": "movie",
-      "episodes": 1,
-      "genres": [
-        "Comedy",
-        "Slice of Life"
-      ],
-      "site_url": "https://kitsu.io/anime/chiikawa-ningyo-no-shima-no-himitsu",
-      "year_match": true,
-      "image_path": "images/kitsu-50806.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 2026,
@@ -810,7 +708,8 @@
       ],
       "site_url": "https://kitsu.io/anime/the-ribbon-hero",
       "year_match": true,
-      "image_path": "images/kitsu-50765.jpg"
+      "image_path": "images/kitsu-50765.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -860,7 +759,8 @@
       ],
       "site_url": "https://kitsu.io/anime/sekiro-no-defeat",
       "year_match": true,
-      "image_path": "images/kitsu-50104.jpg"
+      "image_path": "images/kitsu-50104.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -920,7 +820,8 @@
       ],
       "site_url": "https://kitsu.io/anime/doko-yori-mo-tooi-basho-ni-iru-kimi-e",
       "year_match": true,
-      "image_path": "images/kitsu-50652.jpg"
+      "image_path": "images/kitsu-50652.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -951,7 +852,8 @@
         "Sports"
       ],
       "site_url": "https://kitsu.io/anime/girls-und-panzer-saishuushou-5",
-      "year_match": true
+      "year_match": true,
+      "similarity": 0.67
     }
   },
   {
@@ -983,7 +885,8 @@
         "Idol"
       ],
       "site_url": "https://kitsu.io/anime/bang-dream-ave-mujica-prima-aurora",
-      "year_match": true
+      "year_match": true,
+      "similarity": 1.0
     }
   },
   {
@@ -998,27 +901,7 @@
     "director": "Sōichi Masui",
     "running_time": "",
     "ref": "[ 34 ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "50192",
-      "title_romaji": "Seishun Buta Yarou wa Dear Friend no Yume wo Minai",
-      "title_english": null,
-      "title_native": "青春ブタ野郎はディアフレンドの夢を見ない",
-      "description": "Theatrical follow-up to Seishun Buta Yarou wa Santa Claus no Yume wo Minai.",
-      "cover_large": "https://media.kitsu.app/anime/50192/poster_image/large-aec098e5246fbc7d5e4825062119693e.jpeg",
-      "kitsu_year": 2026,
-      "format": "movie",
-      "episodes": 1,
-      "genres": [
-        "Drama",
-        "Psychological",
-        "Romance",
-        "Supernatural"
-      ],
-      "site_url": "https://kitsu.io/anime/seishun-buta-yarou-wa-dear-friend-no-yume-wo-minai",
-      "year_match": true,
-      "image_path": "images/kitsu-50192.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 2026,
@@ -1053,7 +936,8 @@
       ],
       "site_url": "https://kitsu.io/anime/Made-in-Abyss-Mezameru-Shinpi",
       "year_match": true,
-      "image_path": "images/kitsu-47017.jpg"
+      "image_path": "images/kitsu-47017.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1086,7 +970,8 @@
       ],
       "site_url": "https://kitsu.io/anime/maebashi-witches",
       "year_match": true,
-      "image_path": "images/kitsu-49182.jpg"
+      "image_path": "images/kitsu-49182.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1121,7 +1006,8 @@
         "Slice of Life"
       ],
       "site_url": "https://kitsu.io/anime/grotesqqque",
-      "year_match": true
+      "year_match": true,
+      "similarity": 1.0
     }
   },
   {
@@ -1136,26 +1022,7 @@
     "director": "Seiji Mizushima",
     "running_time": "",
     "ref": "[ 38 ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "48469",
-      "title_romaji": "Rakuen Tsuihou: Kokoro no Resonance",
-      "title_english": null,
-      "title_native": "楽園追放 心のレゾナンス",
-      "description": "A sequel movie to the 2014 movie Rakuen Tsuihou: Expelled From Paradise.",
-      "cover_large": "https://media.kitsu.app/anime/48469/poster_image/large-cc18dabbe41204b3a751278d87baa8ca.jpeg",
-      "kitsu_year": null,
-      "format": "movie",
-      "episodes": 1,
-      "genres": [
-        "Science Fiction",
-        "Action",
-        "Mecha"
-      ],
-      "site_url": "https://kitsu.io/anime/rakuen-tsuihou-kokoro-no-resonance",
-      "year_match": null,
-      "image_path": "images/kitsu-48469.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 2026,
@@ -1202,7 +1069,8 @@
       ],
       "site_url": "https://kitsu.io/anime/mahoutsukai-no-yoru",
       "year_match": true,
-      "image_path": "images/kitsu-45666.jpg"
+      "image_path": "images/kitsu-45666.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1217,26 +1085,7 @@
     "director": "Shinya Iino",
     "running_time": "",
     "ref": "[ 41 ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "50726",
-      "title_romaji": "Takopii no Genzai: Arigatou Mata Ashita",
-      "title_english": null,
-      "title_native": "タコピーの原罪 -ありがとう、また明日-",
-      "description": "Theatrical compilation of all six episodes of the anime series Takopii no Genzai, including newly added scenes.",
-      "cover_large": "https://media.kitsu.app/anime/50726/poster_image/large-e25ca72b9e5244367db443f3a8cdef00.jpeg",
-      "kitsu_year": null,
-      "format": "movie",
-      "episodes": 1,
-      "genres": [
-        "Drama",
-        "Psychological",
-        "Science Fiction"
-      ],
-      "site_url": "https://kitsu.io/anime/takopii-no-genzai-arigatou-mata-ashita",
-      "year_match": null,
-      "image_path": "images/kitsu-50726.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 2026,
@@ -1270,7 +1119,8 @@
         "Mystery"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-48649.jpg"
+      "image_path": "images/kitsu-48649.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1308,7 +1158,8 @@
       ],
       "site_url": "https://kitsu.io/anime/fate-strange-fake-tv",
       "year_match": true,
-      "image_path": "images/kitsu-47682.jpg"
+      "image_path": "images/kitsu-47682.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1345,7 +1196,8 @@
       ],
       "site_url": "https://kitsu.io/anime/yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku",
       "year_match": true,
-      "image_path": "images/kitsu-47759.jpg"
+      "image_path": "images/kitsu-47759.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1384,7 +1236,8 @@
       ],
       "site_url": "https://kitsu.io/anime/hanazakari-no-kimitachi-e",
       "year_match": true,
-      "image_path": "images/kitsu-48870.jpg"
+      "image_path": "images/kitsu-48870.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1435,7 +1288,8 @@
       ],
       "site_url": "https://kitsu.io/anime/jack-of-all-trades-party-of-none",
       "year_match": true,
-      "image_path": "images/kitsu-50423.jpg"
+      "image_path": "images/kitsu-50423.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1470,7 +1324,8 @@
       ],
       "site_url": "https://kitsu.io/anime/ikoku-nikki",
       "year_match": true,
-      "image_path": "images/kitsu-48830.jpg"
+      "image_path": "images/kitsu-48830.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1504,7 +1359,8 @@
       ],
       "site_url": "https://kitsu.io/anime/majutsushi-kunon-wa-mieteiru",
       "year_match": true,
-      "image_path": "images/kitsu-50424.jpg"
+      "image_path": "images/kitsu-50424.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1538,7 +1394,8 @@
         "Seinen"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-49441.jpg"
+      "image_path": "images/kitsu-49441.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1574,7 +1431,8 @@
       ],
       "site_url": "https://kitsu.io/anime/tamon-kun-ima-docchi",
       "year_match": true,
-      "image_path": "images/kitsu-48944.jpg"
+      "image_path": "images/kitsu-48944.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1606,7 +1464,8 @@
       ],
       "site_url": "https://kitsu.io/anime/goumon-baito-kun-no-nichijou",
       "year_match": true,
-      "image_path": "images/kitsu-50426.jpg"
+      "image_path": "images/kitsu-50426.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1643,7 +1502,8 @@
         "Seinen"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-47655.jpg"
+      "image_path": "images/kitsu-47655.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1681,7 +1541,8 @@
       ],
       "site_url": "https://kitsu.io/anime/Vigilante-Boku-no-Hero-Academia-ILLEGALS-2nd-Season",
       "year_match": true,
-      "image_path": "images/kitsu-50007.jpg"
+      "image_path": "images/kitsu-50007.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1731,7 +1592,8 @@
       ],
       "site_url": "https://kitsu.io/anime/saioshi-no-gikei-mederu-tame-nagaikishimasu",
       "year_match": true,
-      "image_path": "images/kitsu-50484.jpg"
+      "image_path": "images/kitsu-50484.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1767,7 +1629,8 @@
       ],
       "site_url": "https://kitsu.io/anime/isekai-no-sata-wa-shachiku-shidai",
       "year_match": true,
-      "image_path": "images/kitsu-50425.jpg"
+      "image_path": "images/kitsu-50425.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1803,7 +1666,8 @@
       ],
       "site_url": "https://kitsu.io/anime/yuusha-party-ni-kawaii-ko-ga-ita-no-de-kokuhaku-shitemita",
       "year_match": true,
-      "image_path": "images/kitsu-50437.jpg"
+      "image_path": "images/kitsu-50437.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1838,7 +1702,8 @@
       ],
       "site_url": "https://kitsu.io/anime/mayonaka-heart-tune",
       "year_match": true,
-      "image_path": "images/kitsu-49680.jpg"
+      "image_path": "images/kitsu-49680.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1875,7 +1740,8 @@
       ],
       "site_url": "https://kitsu.io/anime/yoroi-shinden-samurai-troopers",
       "year_match": true,
-      "image_path": "images/kitsu-50427.jpg"
+      "image_path": "images/kitsu-50427.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1908,7 +1774,8 @@
       ],
       "site_url": "https://kitsu.io/anime/osananajimi-to-wa-love-comedy-ni-naranai",
       "year_match": true,
-      "image_path": "images/kitsu-50352.jpg"
+      "image_path": "images/kitsu-50352.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1943,7 +1810,8 @@
       ],
       "site_url": "https://kitsu.io/anime/odayaka-kizoku-no-kyuuka-no-susume",
       "year_match": true,
-      "image_path": "images/kitsu-50442.jpg"
+      "image_path": "images/kitsu-50442.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1977,7 +1845,8 @@
       ],
       "site_url": "https://kitsu.io/anime/29-sai-dokushin-chuuken-boukensha-no-nichijou",
       "year_match": true,
-      "image_path": "images/kitsu-49903.jpg"
+      "image_path": "images/kitsu-49903.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2026,7 +1895,8 @@
       ],
       "site_url": "https://kitsu.io/anime/shibou-yuugi-de-meshi-wo-kuu",
       "year_match": true,
-      "image_path": "images/kitsu-50337.jpg"
+      "image_path": "images/kitsu-50337.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2059,7 +1929,8 @@
       ],
       "site_url": "https://kitsu.io/anime/arne-no-jikenbo",
       "year_match": true,
-      "image_path": "images/kitsu-49323.jpg"
+      "image_path": "images/kitsu-49323.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2093,7 +1964,8 @@
       ],
       "site_url": "https://kitsu.io/anime/darwin-jihen",
       "year_match": true,
-      "image_path": "images/kitsu-48884.jpg"
+      "image_path": "images/kitsu-48884.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2147,7 +2019,8 @@
         "Special Squads"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-48639.jpg"
+      "image_path": "images/kitsu-48639.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2163,26 +2036,7 @@
     "director": "Michio Fukuda",
     "original_title": "Kizoku Tensei: Megumareta Umare kara Saikyō no Chikara o Eru",
     "ref": "[ 70 ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "49867",
-      "title_romaji": "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru",
-      "title_english": null,
-      "title_native": "貴族転生 ～恵まれた生まれから最強の力を得る～",
-      "description": "Noah, the world’s strongest six-year-old, has been privileged enough to be reborn as the emperor’s 13th child. What’s more, he’s been overpowered with an infinite level cap and a cheat that stacks the powers of anyone who serves him. But even privilege has its problems—the glittering facade of high society hides a world of conspiracies, schemes, and power struggles.",
-      "cover_large": "https://media.kitsu.app/anime/49867/poster_image/large-8c18bf94eb421eaae77b1dfb6b2a5d09.jpeg",
-      "kitsu_year": 2026,
-      "format": "TV",
-      "episodes": 12,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "site_url": "https://kitsu.io/anime/kizoku-tensei-megumareta-umare-kara-saikyou-no-chikara-wo-eru",
-      "year_match": true,
-      "image_path": "images/kitsu-49867.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 2026,
@@ -2218,7 +2072,8 @@
       ],
       "site_url": "https://kitsu.io/anime/eris-no-seihai",
       "year_match": true,
-      "image_path": "images/kitsu-49296.jpg"
+      "image_path": "images/kitsu-49296.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2252,7 +2107,8 @@
       ],
       "site_url": "https://kitsu.io/anime/toumei-otoko-to-ningen-onna-sonouchi-fuufu-ni-naru-futari",
       "year_match": true,
-      "image_path": "images/kitsu-49375.jpg"
+      "image_path": "images/kitsu-49375.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2286,7 +2142,8 @@
       ],
       "site_url": "https://kitsu.io/anime/douse-koishite-shimaunda",
       "year_match": true,
-      "image_path": "images/kitsu-48575.jpg"
+      "image_path": "images/kitsu-48575.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2322,7 +2179,8 @@
       ],
       "site_url": "https://kitsu.io/anime/Champignon-no-Majo",
       "year_match": true,
-      "image_path": "images/kitsu-49401.jpg"
+      "image_path": "images/kitsu-49401.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2355,7 +2213,8 @@
         "Romance",
         "Shounen"
       ],
-      "year_match": true
+      "year_match": true,
+      "similarity": 1.0
     }
   },
   {
@@ -2406,7 +2265,8 @@
       ],
       "site_url": "https://kitsu.io/anime/omae-gotoki-ga-maou-ni-kateru-to-omou-na-to-yuusha-party-wo-tsuihou-sareta-node-outo-de-kimama-ni-kurashitai",
       "year_match": true,
-      "image_path": "images/kitsu-50334.jpg"
+      "image_path": "images/kitsu-50334.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2440,7 +2300,8 @@
       ],
       "site_url": "https://kitsu.io/anime/dark-moon-kuro-no-tsuki-tsuki-no-saidan",
       "year_match": true,
-      "image_path": "images/kitsu-50325.jpg"
+      "image_path": "images/kitsu-50325.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2474,7 +2335,8 @@
       ],
       "site_url": "https://kitsu.io/anime/dead-account",
       "year_match": true,
-      "image_path": "images/kitsu-49672.jpg"
+      "image_path": "images/kitsu-49672.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2512,7 +2374,8 @@
       ],
       "site_url": "https://kitsu.io/anime/android-wa-keiken-ninzuu-ni-hairimasu-ka",
       "year_match": true,
-      "image_path": "images/kitsu-49915.jpg"
+      "image_path": "images/kitsu-49915.jpg",
+      "similarity": 0.83
     }
   },
   {
@@ -2549,7 +2412,8 @@
       ],
       "site_url": "https://kitsu.io/anime/okiraku-ryoushu-no-tanoshii-ryouchi-bouei",
       "year_match": true,
-      "image_path": "images/kitsu-50432.jpg"
+      "image_path": "images/kitsu-50432.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2587,7 +2451,8 @@
         "Shounen"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-46119.jpg"
+      "image_path": "images/kitsu-46119.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2622,7 +2487,8 @@
       ],
       "site_url": "https://kitsu.io/anime/hell-mode-the-hardcore-gamer-dominates-in-another-world-with-garbage-balancing",
       "year_match": true,
-      "image_path": "images/kitsu-50444.jpg"
+      "image_path": "images/kitsu-50444.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2658,7 +2524,8 @@
       ],
       "site_url": "https://kitsu.io/anime/tensei-shitara-dragon-no-tamago-datta",
       "year_match": true,
-      "image_path": "images/kitsu-50466.jpg"
+      "image_path": "images/kitsu-50466.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2705,7 +2572,8 @@
         "Comedy"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-50353.jpg"
+      "image_path": "images/kitsu-50353.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -2744,7 +2612,8 @@
       ],
       "site_url": "https://kitsu.io/anime/jingai-kyoushitsu-no-ningengirai-kyoushi",
       "year_match": true,
-      "image_path": "images/kitsu-50393.jpg"
+      "image_path": "images/kitsu-50393.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2785,7 +2654,8 @@
         "Buddhism"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-47679.jpg"
+      "image_path": "images/kitsu-47679.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2834,7 +2704,8 @@
       ],
       "site_url": "https://kitsu.io/anime/uruwashi-no-yoi-no-tsuki",
       "year_match": true,
-      "image_path": "images/kitsu-49910.jpg"
+      "image_path": "images/kitsu-49910.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2871,7 +2742,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kaya-chan-wa-kowakunai",
       "year_match": true,
-      "image_path": "images/kitsu-50335.jpg"
+      "image_path": "images/kitsu-50335.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2907,7 +2779,8 @@
       ],
       "site_url": "https://kitsu.io/anime/yuusha-no-kuzu",
       "year_match": true,
-      "image_path": "images/kitsu-49681.jpg"
+      "image_path": "images/kitsu-49681.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2942,7 +2815,8 @@
       ],
       "site_url": "https://kitsu.io/anime/akuyaku-reijou-wa-ringoku-no-outaishi-ni-dekiai-sareru",
       "year_match": true,
-      "image_path": "images/kitsu-50439.jpg"
+      "image_path": "images/kitsu-50439.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2978,7 +2852,8 @@
       ],
       "site_url": "https://kitsu.io/anime/seihantai-na-kimi-to-boku",
       "year_match": true,
-      "image_path": "images/kitsu-49372.jpg"
+      "image_path": "images/kitsu-49372.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3014,7 +2889,8 @@
         "Comedy"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-48667.jpg"
+      "image_path": "images/kitsu-48667.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3067,7 +2943,8 @@
         "Drama"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-49240.jpg"
+      "image_path": "images/kitsu-49240.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3101,7 +2978,8 @@
       ],
       "site_url": "https://kitsu.io/anime/medalist",
       "year_match": true,
-      "image_path": "images/kitsu-47454.jpg"
+      "image_path": "images/kitsu-47454.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3137,7 +3015,8 @@
       ],
       "site_url": "https://kitsu.io/anime/meitantei-precure",
       "year_match": true,
-      "image_path": "images/kitsu-50362.jpg"
+      "image_path": "images/kitsu-50362.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -3176,7 +3055,8 @@
       ],
       "site_url": "https://kitsu.io/anime/niwatori-fighter",
       "year_match": true,
-      "image_path": "images/kitsu-49071.jpg"
+      "image_path": "images/kitsu-49071.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3209,7 +3089,8 @@
         "Romance"
       ],
       "site_url": "https://kitsu.io/anime/shunkashuutou-daikousha-haru-no-mai",
-      "year_match": true
+      "year_match": true,
+      "similarity": 1.0
     }
   },
   {
@@ -3244,7 +3125,8 @@
         "Psychological"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-49194.jpg"
+      "image_path": "images/kitsu-49194.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3285,7 +3167,8 @@
         "Mystery"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-48410.jpg"
+      "image_path": "images/kitsu-48410.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3321,7 +3204,8 @@
       ],
       "site_url": "https://kitsu.io/anime/ganbare-nakamura-kun",
       "year_match": true,
-      "image_path": "images/kitsu-49123.jpg"
+      "image_path": "images/kitsu-49123.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3358,7 +3242,8 @@
         "Isekai"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-47968.jpg"
+      "image_path": "images/kitsu-47968.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3394,7 +3279,8 @@
         "Isekai"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-49294.jpg"
+      "image_path": "images/kitsu-49294.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3410,25 +3296,7 @@
     "director": "Akira Oguro",
     "original_title": "Nigashita Sakana wa Ōkikatta ga Tsuriageta Sakana ga Ōkisugita Ken",
     "ref": "[ 108 ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "50320",
-      "title_romaji": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
-      "title_english": null,
-      "title_native": "逃がした魚は大きかったが釣りあげた魚が大きすぎた件",
-      "description": "From a very young age, people noticed that Maria, the youngest daughter of a duke, was filled with potential. She was raised as the heiress of her house, until the birth of her baby brother relieves her of her duties. She scrambles to find a husband, but all the eligible bachelors in her duchy are taken! At this rate, she's doomed to the life of a spinster! Maria decides to study abroad in Rubini in hopes of finding a husband, with the help of her distant relative, Aida. But in a twist of fate, the Crown Prince breaks off his engagement with Maria, even though they've never met before! \"Huh?! I don't remember getting engaged!?\" Enjoy this fluffy romcom with a late-blooming villainess!",
-      "cover_large": "https://media.kitsu.app/anime/50320/poster_image/large-b5a4499d4cdeb85db01016964365560e.jpeg",
-      "kitsu_year": 2026,
-      "format": "TV",
-      "episodes": 12,
-      "genres": [
-        "Fantasy",
-        "Romance"
-      ],
-      "site_url": "https://kitsu.io/anime/nigashita-sakana-wa-ookikatta-ga-tsuriageta-sakana-ga-ookisugita-ken",
-      "year_match": true,
-      "image_path": "images/kitsu-50320.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 2026,
@@ -3463,7 +3331,8 @@
       ],
       "site_url": "https://kitsu.io/anime/dr-stone-science-future",
       "year_match": true,
-      "image_path": "images/kitsu-48342.jpg"
+      "image_path": "images/kitsu-48342.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3498,7 +3367,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kirio-fanclub",
       "year_match": true,
-      "image_path": "images/kitsu-49503.jpg"
+      "image_path": "images/kitsu-49503.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -3533,7 +3403,8 @@
       ],
       "site_url": "https://kitsu.io/anime/koori-no-joheki",
       "year_match": true,
-      "image_path": "images/kitsu-50465.jpg"
+      "image_path": "images/kitsu-50465.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3567,7 +3438,8 @@
       ],
       "site_url": "https://kitsu.io/anime/haibara-kun-no-tsuyokute-seishun-new-game",
       "year_match": true,
-      "image_path": "images/kitsu-50374.jpg"
+      "image_path": "images/kitsu-50374.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3583,26 +3455,7 @@
     "director": "Takashi Naoya",
     "original_title": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
     "ref": "[ 113 ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "50554",
-      "title_romaji": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
-      "title_english": null,
-      "title_native": "また殺されてしまったのですね、探偵様",
-      "description": "Sakuya Otsuki is the son of a legendary detective, working to follow in his father's footsteps with his assistant, Lilithea. However, something's different about this high-school sleuth. Wherever he goes, he always manages to get himself entangled in his cases—as a murder victim! When Sakuya is tasked to infiltrate a luxury cruise ship, he finds himself killed once again. But every time he reopens his eyes, Lilithea is there by his side, ready to help him get to the bottom of the mystery…",
-      "cover_large": "https://media.kitsu.app/anime/50554/poster_image/large-0a9d8c0bd78ba1cd7a3529346b3d752d.jpeg",
-      "kitsu_year": 2026,
-      "format": "TV",
-      "episodes": 12,
-      "genres": [
-        "Mystery",
-        "Psychological",
-        "Supernatural"
-      ],
-      "site_url": "https://kitsu.io/anime/mata-korosarete-shimatta-no-desu-ne-tantei-sama",
-      "year_match": true,
-      "image_path": "images/kitsu-50554.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 2026,
@@ -3635,7 +3488,8 @@
       ],
       "site_url": "https://kitsu.io/anime/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru",
       "year_match": true,
-      "image_path": "images/kitsu-50570.jpg"
+      "image_path": "images/kitsu-50570.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3669,7 +3523,8 @@
       ],
       "site_url": "https://kitsu.io/anime/reincarnation-no-kaben",
       "year_match": true,
-      "image_path": "images/kitsu-49118.jpg"
+      "image_path": "images/kitsu-49118.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3704,7 +3559,8 @@
       ],
       "site_url": "https://kitsu.io/anime/snowball-earth",
       "year_match": true,
-      "image_path": "images/kitsu-50041.jpg"
+      "image_path": "images/kitsu-50041.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3740,7 +3596,8 @@
         "Isekai"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-49236.jpg"
+      "image_path": "images/kitsu-49236.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3773,7 +3630,8 @@
         "Romance",
         "School Life"
       ],
-      "year_match": true
+      "year_match": true,
+      "similarity": 1.0
     }
   },
   {
@@ -3807,7 +3665,8 @@
       ],
       "site_url": "https://kitsu.io/anime/Akanebanashi",
       "year_match": true,
-      "image_path": "images/kitsu-50076.jpg"
+      "image_path": "images/kitsu-50076.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3843,7 +3702,8 @@
         "Isekai"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-48293.jpg"
+      "image_path": "images/kitsu-48293.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3881,7 +3741,8 @@
       ],
       "site_url": "https://kitsu.io/anime/daemons-of-the-shadow-realm",
       "year_match": true,
-      "image_path": "images/kitsu-50023.jpg"
+      "image_path": "images/kitsu-50023.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -3912,29 +3773,7 @@
     "director": "Makoto Hoshino",
     "original_title": "Saikyō no Shokugyō wa Yūsha demo Kenja demo naku Kanteishi (Kari) Rashii Desu yo?",
     "ref": "[ 123 ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "49059",
-      "title_romaji": "Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru",
-      "title_english": "Even Given the Worthless \"Appraiser\" Class, I'm Actually the Strongest",
-      "title_native": "不遇職【鑑定士】が実は最強だった～奈落で鍛えた最強の【神眼】で無双する～",
-      "description": "In a fantasy world where \"jobs\" are god-given from birth, heroes are born, not made... and Ein's job of \"Appraiser\" has put him about as far from the \"hero\" pedestal as possible. Used, abused, and eventually abandoned by his fellow adventurers, Ein decides it just isn't worth going on... Lucky for Ein, though, the end may just be the beginning... and a new lease on life. Turns out, his \"worthless\" job may just be the key to becoming a hero after all...",
-      "cover_large": "https://media.kitsu.app/anime/49059/poster_image/large-1436e3ecb00c3969160c53032d19462d.jpeg",
-      "kitsu_year": 2025,
-      "format": "TV",
-      "episodes": 12,
-      "site_url": "https://kitsu.io/anime/fuguushoku-kanteishi-ga-jitsu-wa-saikyou-datta-naraku-de-kitaeta-saikyou-no-shingan-de-musou-suru",
-      "genres": [
-        "Action",
-        "Fantasy",
-        "Adventure",
-        "Comedy",
-        "Romance",
-        "Drama"
-      ],
-      "year_match": true,
-      "image_path": "images/kitsu-49059.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 2026,
@@ -3967,7 +3806,8 @@
         "Supernatural"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-49361.jpg"
+      "image_path": "images/kitsu-49361.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4001,7 +3841,8 @@
         "Shounen"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-50822.jpg"
+      "image_path": "images/kitsu-50822.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4037,7 +3878,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kami-no-niwatsuki-kusunoki-tei",
       "year_match": true,
-      "image_path": "images/kitsu-50171.jpg"
+      "image_path": "images/kitsu-50171.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4053,24 +3895,7 @@
     "director": "Shintarō Dōge",
     "original_title": "Mahō no Shimai LuluttoLilly",
     "ref": "[ 127 ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "50996",
-      "title_romaji": "Mahou no Shimai LuluttoLilly Part 2",
-      "title_english": null,
-      "title_native": "魔法の姉妹ルルットリリィ 第2クール",
-      "description": "The second half of Mahou no Shimai LuluttoLilly.",
-      "cover_large": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/poster_image/6ba458d9a815e333ae0ab6b9f056a8c9.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20260909%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20260909T131120Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=658f1589e043ca433145dce0faf1f7d35abb776d840956f223293d5ad0f5fa90",
-      "kitsu_year": 2026,
-      "format": "TV",
-      "episodes": null,
-      "genres": [
-        "Magical Girl",
-        "Magic"
-      ],
-      "site_url": "https://kitsu.io/anime/mahou-no-shimai-luluttolilly-part-2",
-      "year_match": true
-    }
+    "enrichment": null
   },
   {
     "year": 2026,
@@ -4106,7 +3931,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kanan-sama-wa-akumade-choroi",
       "year_match": true,
-      "image_path": "images/kitsu-49854.jpg"
+      "image_path": "images/kitsu-49854.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4122,27 +3948,7 @@
     "director": "Masaoki Nakashima",
     "original_title": "",
     "ref": "[ 129 ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "50341",
-      "title_romaji": "NEEDY GIRL OVERDOSE",
-      "title_english": null,
-      "title_native": null,
-      "description": "A multi-ending adventure about a girl with quite a need for approval who wants to become the bestest streamer = Internet Angel",
-      "cover_large": "https://media.kitsu.app/anime/50341/poster_image/large-c621fcea6dcd2e2eb88d3876bdf80f93.jpeg",
-      "kitsu_year": 2026,
-      "format": "TV",
-      "episodes": 13,
-      "genres": [
-        "Adventure",
-        "Drama",
-        "Psychological",
-        "Slice of Life"
-      ],
-      "site_url": "https://kitsu.io/anime/needy-girl-overdose",
-      "year_match": true,
-      "image_path": "images/kitsu-50341.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 2026,
@@ -4190,7 +3996,8 @@
       ],
       "site_url": "https://kitsu.io/anime/maid-san-wa-taberu-dake",
       "year_match": true,
-      "image_path": "images/kitsu-50119.jpg"
+      "image_path": "images/kitsu-50119.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4225,7 +4032,8 @@
       ],
       "site_url": "https://kitsu.io/anime/jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
       "year_match": true,
-      "image_path": "images/kitsu-49912.jpg"
+      "image_path": "images/kitsu-49912.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4241,26 +4049,7 @@
     "director": "Sōta Warai",
     "original_title": "Ōkī Onnanoko wa Suki desu ka?",
     "ref": "[ 133 ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "50752",
-      "title_romaji": "Kanojo no Tomodachi",
-      "title_english": "My Girlfriend's Friend",
-      "title_native": "彼女の友達",
-      "description": "For the first time in my life, I have a girlfriend. But her friend tempts me with a body that's so seductive... What would you do if your girlfriend's friend came on to you like this?",
-      "cover_large": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/50752/poster_image/73f0d499dd508338b8474461a090999a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20260909%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20260909T220146Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=7daab9ed695785eb81a19829ce693c0b7253b9e1a3e9c5990542b582ba58f77e",
-      "kitsu_year": 2026,
-      "format": "TV",
-      "episodes": null,
-      "site_url": "https://kitsu.io/anime/kanojo-no-tomodachi",
-      "genres": [
-        "Ecchi",
-        "Romance",
-        "Drama",
-        "Seinen"
-      ],
-      "year_match": true
-    }
+    "enrichment": null
   },
   {
     "year": 2026,
@@ -4293,7 +4082,8 @@
         "Isekai"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-50117.jpg"
+      "image_path": "images/kitsu-50117.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4327,7 +4117,8 @@
       ],
       "site_url": "https://kitsu.io/anime/ghost-concert-missing-songs",
       "year_match": true,
-      "image_path": "images/kitsu-50579.jpg"
+      "image_path": "images/kitsu-50579.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4360,7 +4151,8 @@
       ],
       "site_url": "https://kitsu.io/anime/ingoku-danchi",
       "year_match": true,
-      "image_path": "images/kitsu-50651.jpg"
+      "image_path": "images/kitsu-50651.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4395,7 +4187,8 @@
       ],
       "site_url": "https://kitsu.io/anime/marika-chan-no-koukando-wa-bukkowareteiru",
       "year_match": true,
-      "image_path": "images/kitsu-50580.jpg"
+      "image_path": "images/kitsu-50580.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4429,7 +4222,8 @@
       ],
       "site_url": "https://kitsu.io/anime/ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi",
       "year_match": true,
-      "image_path": "images/kitsu-49834.jpg"
+      "image_path": "images/kitsu-49834.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4466,7 +4260,8 @@
       ],
       "site_url": "https://kitsu.io/anime/tongari-boushi-no-atelier",
       "year_match": true,
-      "image_path": "images/kitsu-46043.jpg"
+      "image_path": "images/kitsu-46043.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4482,27 +4277,7 @@
     "director": "Saya Fukase",
     "original_title": "Hyakki Yakōshō",
     "ref": "[ 140 ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "50614",
-      "title_romaji": "Hyakki Yakoushou",
-      "title_english": null,
-      "title_native": "百鬼夜行抄",
-      "description": "Ritsu inherited his sixth sense from his grandfather, along with a demon guardian named Blue Storm. Strange things just seem to happen around these two, and it's left to them to get to the bottom of all these mysterious events. Each story is independent but features recurring characters you'll come to know and appreciate as they, each in their own way, try to deal with things 'not of this world'.",
-      "cover_large": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/50614/poster_image/16ed7dee5833bcf8bb65c92cd458ebd3.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20260909%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20260909T131134Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=508f733bb406e83b520353685088c9c1c8318c7f5eec6d9384e2ecab998ce12f",
-      "kitsu_year": 2026,
-      "format": "TV",
-      "episodes": 12,
-      "genres": [
-        "Horror",
-        "Mystery",
-        "Supernatural",
-        "Josei",
-        "Romance"
-      ],
-      "site_url": "https://kitsu.io/anime/hyakki-yakoushou",
-      "year_match": true
-    }
+    "enrichment": null
   },
   {
     "year": 2026,
@@ -4535,7 +4310,8 @@
       ],
       "site_url": "https://kitsu.io/anime/replica-datte-koi-wo-suru",
       "year_match": true,
-      "image_path": "images/kitsu-49592.jpg"
+      "image_path": "images/kitsu-49592.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4568,7 +4344,8 @@
       ],
       "site_url": "https://kitsu.io/anime/class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
       "year_match": true,
-      "image_path": "images/kitsu-47987.jpg"
+      "image_path": "images/kitsu-47987.jpg",
+      "similarity": 0.71
     }
   },
   {
@@ -4601,7 +4378,8 @@
       ],
       "site_url": "https://kitsu.io/anime/liar-game",
       "year_match": true,
-      "image_path": "images/kitsu-50108.jpg"
+      "image_path": "images/kitsu-50108.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4636,7 +4414,8 @@
       ],
       "site_url": "https://kitsu.io/anime/marriagetoxin",
       "year_match": true,
-      "image_path": "images/kitsu-50218.jpg"
+      "image_path": "images/kitsu-50218.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4672,7 +4451,8 @@
       ],
       "site_url": "https://kitsu.io/anime/nippon-sangoku-the-three-nations-of-the-crimson-sun",
       "year_match": true,
-      "image_path": "images/kitsu-50550.jpg"
+      "image_path": "images/kitsu-50550.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4706,7 +4486,8 @@
         "Isekai"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-50073.jpg"
+      "image_path": "images/kitsu-50073.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4738,7 +4519,8 @@
       ],
       "site_url": "https://kitsu.io/anime/hidarikiki-no-eren",
       "year_match": true,
-      "image_path": "images/kitsu-46806.jpg"
+      "image_path": "images/kitsu-46806.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4774,7 +4556,8 @@
       ],
       "site_url": "https://kitsu.io/anime/otaku-ni-yasashii-gal-wa-inai",
       "year_match": true,
-      "image_path": "images/kitsu-50216.jpg"
+      "image_path": "images/kitsu-50216.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4808,7 +4591,8 @@
       ],
       "site_url": "https://kitsu.io/anime/megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de",
       "year_match": true,
-      "image_path": "images/kitsu-50642.jpg"
+      "image_path": "images/kitsu-50642.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4842,7 +4626,8 @@
       ],
       "site_url": "https://kitsu.io/anime/tadaima-ojamasaremasu",
       "year_match": true,
-      "image_path": "images/kitsu-50643.jpg"
+      "image_path": "images/kitsu-50643.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4880,7 +4665,8 @@
       ],
       "site_url": "https://kitsu.io/anime/re-zero-kara-hajimeru-isekai-seikatsu-4",
       "year_match": true,
-      "image_path": "images/kitsu-49746.jpg"
+      "image_path": "images/kitsu-49746.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4930,7 +4716,8 @@
       ],
       "site_url": "https://kitsu.io/anime/hime-kishi-wa-barbaroi-no-yome",
       "year_match": true,
-      "image_path": "images/kitsu-49930.jpg"
+      "image_path": "images/kitsu-49930.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -4965,7 +4752,8 @@
       ],
       "site_url": "https://kitsu.io/anime/awajima-hyakkei",
       "year_match": true,
-      "image_path": "images/kitsu-48846.jpg"
+      "image_path": "images/kitsu-48846.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5000,7 +4788,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kami-no-shizuku",
       "year_match": true,
-      "image_path": "images/kitsu-50354.jpg"
+      "image_path": "images/kitsu-50354.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5034,7 +4823,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kamiina-botan-yoeru-sugata-wa-yuri-no-hana",
       "year_match": true,
-      "image_path": "images/kitsu-49671.jpg"
+      "image_path": "images/kitsu-49671.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5082,7 +4872,8 @@
         "Assassin"
       ],
       "site_url": "https://kitsu.io/anime/kill-ao",
-      "year_match": true
+      "year_match": true,
+      "similarity": 1.0
     }
   },
   {
@@ -5116,7 +4907,8 @@
       ],
       "site_url": "https://kitsu.io/anime/Kanojo-Okarishimasu-4th-Season",
       "year_match": true,
-      "image_path": "images/kitsu-49033.jpg"
+      "image_path": "images/kitsu-49033.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5152,7 +4944,8 @@
       ],
       "site_url": "https://kitsu.io/anime/yowa-yowa-sensei",
       "year_match": true,
-      "image_path": "images/kitsu-49402.jpg"
+      "image_path": "images/kitsu-49402.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5186,7 +4979,8 @@
       ],
       "site_url": "https://kitsu.io/anime/ichijouma-mankitsu-gurashi",
       "year_match": true,
-      "image_path": "images/kitsu-50659.jpg"
+      "image_path": "images/kitsu-50659.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5220,7 +5014,8 @@
       ],
       "site_url": "https://kitsu.io/anime/mission-yozakura-family-season-2-part-2",
       "year_match": true,
-      "image_path": "images/kitsu-50823.jpg"
+      "image_path": "images/kitsu-50823.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5253,7 +5048,8 @@
         "Slice of Life"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-48836.jpg"
+      "image_path": "images/kitsu-48836.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5301,7 +5097,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kuroneko-to-majo-no-kyoushitsu",
       "year_match": true,
-      "image_path": "images/kitsu-50079.jpg"
+      "image_path": "images/kitsu-50079.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5337,7 +5134,8 @@
       ],
       "site_url": "https://kitsu.io/anime/tsue-to-tsurugi-no-wistoria-2nd-season",
       "year_match": true,
-      "image_path": "images/kitsu-49241.jpg"
+      "image_path": "images/kitsu-49241.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5370,7 +5168,8 @@
       ],
       "site_url": "https://kitsu.io/anime/aishiteru-game-wo-owarasetai",
       "year_match": true,
-      "image_path": "images/kitsu-49984.jpg"
+      "image_path": "images/kitsu-49984.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5404,7 +5203,8 @@
       ],
       "site_url": "https://kitsu.io/anime/mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu",
       "year_match": true,
-      "image_path": "images/kitsu-50048.jpg"
+      "image_path": "images/kitsu-50048.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5439,7 +5239,8 @@
       ],
       "site_url": "https://kitsu.io/anime/heroine-seijo-iie-all-works-maid-desu-ko",
       "year_match": true,
-      "image_path": "images/kitsu-49913.jpg"
+      "image_path": "images/kitsu-49913.jpg",
+      "similarity": 0.6
     }
   },
   {
@@ -5471,7 +5272,8 @@
       ],
       "site_url": "https://kitsu.io/anime/bang-dream-yume-mita",
       "year_match": true,
-      "image_path": "images/kitsu-50137.jpg"
+      "image_path": "images/kitsu-50137.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5505,7 +5307,8 @@
         "Supernatural"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-50328.jpg"
+      "image_path": "images/kitsu-50328.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5540,7 +5343,8 @@
         "Ecchi"
       ],
       "site_url": "https://kitsu.io/anime/reiwa-no-dara-san",
-      "year_match": true
+      "year_match": true,
+      "similarity": 1.0
     }
   },
   {
@@ -5575,7 +5379,8 @@
       ],
       "site_url": "https://kitsu.io/anime/rakudai-kenja-no-gakuin-musou-nidome-no-tensei-s-rank-cheat-majutsushi-boukenroku",
       "year_match": true,
-      "image_path": "images/kitsu-50793.jpg"
+      "image_path": "images/kitsu-50793.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5614,7 +5419,8 @@
       ],
       "site_url": "https://kitsu.io/anime/hanazakari-no-kimitachi-e",
       "year_match": true,
-      "image_path": "images/kitsu-48870.jpg"
+      "image_path": "images/kitsu-48870.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5649,7 +5455,8 @@
       ],
       "site_url": "https://kitsu.io/anime/lv999-no-murabito",
       "year_match": true,
-      "image_path": "images/kitsu-50109.jpg"
+      "image_path": "images/kitsu-50109.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5683,7 +5490,8 @@
       ],
       "site_url": "https://kitsu.io/anime/world-is-dancing",
       "year_match": true,
-      "image_path": "images/kitsu-50690.jpg"
+      "image_path": "images/kitsu-50690.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5716,7 +5524,8 @@
       ],
       "site_url": "https://kitsu.io/anime/yani-neko",
       "year_match": true,
-      "image_path": "images/kitsu-50551.jpg"
+      "image_path": "images/kitsu-50551.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5749,7 +5558,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kore-kaite-shine",
       "year_match": true,
-      "image_path": "images/kitsu-50244.jpg"
+      "image_path": "images/kitsu-50244.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5786,7 +5596,8 @@
       ],
       "site_url": "https://kitsu.io/anime/otome-kaiju-caramelise",
       "year_match": true,
-      "image_path": "images/kitsu-50411.jpg"
+      "image_path": "images/kitsu-50411.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5822,7 +5633,8 @@
         "Isekai"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-49236.jpg"
+      "image_path": "images/kitsu-49236.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5838,26 +5650,7 @@
     "director": "Shingo Suzuki (Chief) Tetsuichi Yamagishi (Chief) Katsumasa Yokomine",
     "original_title": "Tsuihō Sareta Tensei Jū Kishi wa Game Chishiki de Musō Suru",
     "ref": "[ 181 ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "49183",
-      "title_romaji": "Tsuihou Sareta Tensei Juukishi wa Game Sashiki de Musou Suru",
-      "title_english": null,
-      "title_native": "追放された転生重騎士はゲーム知識で無双する",
-      "description": "The day a child turns fifteen, they undergo the Ritual of Divine Blessing. Already descended from a line of master swordsman, Elymas was supposed to succeed his father. However, he pulls the defective class, the Heavy Knight, and not only loses his status as future head of the household, but he's also exiled. With their unbalanced stats and seemingly useless skills, Heavy Knights are spoked of as a class for cowards and the lazy. However, Elymas knows the truth. The world he lives in is the same as the one of the game he used to play... It is the Heavy Knight that is the most powerful class of them all. Using memories from his past life, Elymas has set out to effectively conquer this entire world.",
-      "cover_large": "https://media.kitsu.app/anime/49183/poster_image/large-a887475817aaf512873b3818518510f3.jpeg",
-      "kitsu_year": 2026,
-      "format": "TV",
-      "episodes": 26,
-      "genres": [
-        "Isekai",
-        "Fantasy",
-        "Action"
-      ],
-      "site_url": "https://kitsu.io/anime/tsuihou-sareta-tensei-juukishi-wa-game-sashiki-de-musou-suru",
-      "year_match": true,
-      "image_path": "images/kitsu-49183.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 2026,
@@ -5892,7 +5685,8 @@
       ],
       "site_url": "https://kitsu.io/anime/black-torch",
       "year_match": true,
-      "image_path": "images/kitsu-49656.jpg"
+      "image_path": "images/kitsu-49656.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5927,7 +5721,8 @@
       ],
       "site_url": "https://kitsu.io/anime/hell-mode-the-hardcore-gamer-dominates-in-another-world-with-garbage-balancing",
       "year_match": true,
-      "image_path": "images/kitsu-50444.jpg"
+      "image_path": "images/kitsu-50444.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -5970,7 +5765,8 @@
       ],
       "site_url": "https://kitsu.io/anime/tenmaku-no-jaadugar",
       "year_match": true,
-      "image_path": "images/kitsu-49851.jpg"
+      "image_path": "images/kitsu-49851.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -6020,7 +5816,8 @@
       ],
       "site_url": "https://kitsu.io/anime/rakudai-kenja-no-gakuin-musou-nidome-no-tensei-s-rank-cheat-majutsushi-boukenroku",
       "year_match": true,
-      "image_path": "images/kitsu-50793.jpg"
+      "image_path": "images/kitsu-50793.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -6054,7 +5851,8 @@
       ],
       "site_url": "https://kitsu.io/anime/uchi-no-otouto-domo-ga-sumimasen",
       "year_match": true,
-      "image_path": "images/kitsu-50797.jpg"
+      "image_path": "images/kitsu-50797.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -6087,7 +5885,8 @@
       ],
       "site_url": "https://kitsu.io/anime/iwamoto-senpai-no-suisen",
       "year_match": true,
-      "image_path": "images/kitsu-50483.jpg"
+      "image_path": "images/kitsu-50483.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -6123,7 +5922,8 @@
         "Isekai"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-49410.jpg"
+      "image_path": "images/kitsu-49410.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -6156,7 +5956,8 @@
       ],
       "site_url": "https://kitsu.io/anime/neko-to-ryuu",
       "year_match": true,
-      "image_path": "images/kitsu-49585.jpg"
+      "image_path": "images/kitsu-49585.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -6188,7 +5989,8 @@
       ],
       "site_url": "https://kitsu.io/anime/grow-up-show-himawari-no-circus-dan",
       "year_match": true,
-      "image_path": "images/kitsu-50694.jpg"
+      "image_path": "images/kitsu-50694.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -6222,7 +6024,8 @@
       ],
       "site_url": "https://kitsu.io/anime/tetsunabe-no-jan",
       "year_match": true,
-      "image_path": "images/kitsu-50801.jpg"
+      "image_path": "images/kitsu-50801.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -6238,26 +6041,7 @@
     "director": "Yutaka Hirata",
     "original_title": "Rettsu Gō Kaikigumi",
     "ref": "[ 193 ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "50258",
-      "title_romaji": "Let's Go Kaiki-gumi",
-      "title_english": null,
-      "title_native": "レッツゴー怪奇組",
-      "description": "The story of Let's Go Kaiki-gumi follows a nameless protagonist who is six times more vulnerable to spiritual phenomena than the average human being. One day, the protagonist encounters Mechako, a mysterious girl who runs the Kaiki-gumi, an organization that polices the behavior of the ghosts and monsters that threaten human beings, and he somehow gets roped into helping the Kaiki-gumi re-establish itself, resulting in all sorts of strange events and spooky shenanigans.",
-      "cover_large": "https://media.kitsu.app/anime/50258/poster_image/large-ec67f6e584389d87995bfafa976083cf.jpeg",
-      "kitsu_year": 2026,
-      "format": "TV",
-      "episodes": null,
-      "genres": [
-        "Comedy",
-        "Supernatural",
-        "School Life"
-      ],
-      "site_url": "https://kitsu.io/anime/let-s-go-kaiki-gumi",
-      "year_match": true,
-      "image_path": "images/kitsu-50258.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 2026,
@@ -6293,7 +6077,8 @@
       ],
       "site_url": "https://kitsu.io/anime/magical-girl-lyrical-nanoha-exceeds-gun-blaze-vengeance",
       "year_match": true,
-      "image_path": "images/kitsu-49449.jpg"
+      "image_path": "images/kitsu-49449.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -6330,7 +6115,8 @@
         "Henshin"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-49427.jpg"
+      "image_path": "images/kitsu-49427.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -6364,7 +6150,8 @@
       ],
       "site_url": "https://kitsu.io/anime/ONE-PIECE-HEROINES",
       "year_match": true,
-      "image_path": "images/kitsu-50089.jpg"
+      "image_path": "images/kitsu-50089.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -6397,7 +6184,8 @@
       ],
       "site_url": "https://kitsu.io/anime/saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita",
       "year_match": true,
-      "image_path": "images/kitsu-50761.jpg"
+      "image_path": "images/kitsu-50761.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -6433,7 +6221,8 @@
       ],
       "site_url": "https://kitsu.io/anime/nijusseiki-denki-mokuroku",
       "year_match": true,
-      "image_path": "images/kitsu-41923.jpg"
+      "image_path": "images/kitsu-41923.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -6471,7 +6260,8 @@
         "School Life"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-48348.jpg"
+      "image_path": "images/kitsu-48348.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -6487,25 +6277,7 @@
     "director": "Hitoyuki Matsui",
     "original_title": "\"Kimi o Koi Suru Ki wa Nai\" to Itta Jiki Kōshaku-sama ga Nazeka Dekiai Shitekimasu",
     "ref": "[ 200 ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "50767",
-      "title_romaji": "\"Kimi wo Aisuru Ki wa nai\" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu",
-      "title_english": null,
-      "title_native": "「きみを愛する気はない」と言った次期公爵様がなぜか溺愛してきます",
-      "description": "Elsa, the daughter of a fallen aristocrat, receives news. It was a marriage proposal from Julius, a very elite nobleman. Elsa is wondering,\" Why would such a distinguished man marry me\"? But after the wedding, Julius, who had been kind and gentle up to that point, changed completely! In a cold voice, he tells her,\" I have no intention of loving you\".",
-      "cover_large": "https://media.kitsu.app/anime/50767/poster_image/large-a8747d399d6b9acd541efcd657bedc35.jpeg",
-      "kitsu_year": 2026,
-      "format": "TV",
-      "episodes": null,
-      "genres": [
-        "Fantasy",
-        "Romance"
-      ],
-      "site_url": "https://kitsu.io/anime/kimi-wo-aisuru-ki-wa-nai-to-itta-jiki-koushaku-sama-ga-naze-ka-dekiai-shitekimasu",
-      "year_match": true,
-      "image_path": "images/kitsu-50767.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 2026,
@@ -6538,7 +6310,8 @@
       ],
       "site_url": "https://kitsu.io/anime/oni-no-hanayome",
       "year_match": true,
-      "image_path": "images/kitsu-49978.jpg"
+      "image_path": "images/kitsu-49978.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -6572,7 +6345,8 @@
       ],
       "site_url": "https://kitsu.io/anime/sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha",
       "year_match": true,
-      "image_path": "images/kitsu-50139.jpg"
+      "image_path": "images/kitsu-50139.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -6608,7 +6382,8 @@
       ],
       "site_url": "https://kitsu.io/anime/seihantai-na-kimi-to-boku",
       "year_match": true,
-      "image_path": "images/kitsu-49372.jpg"
+      "image_path": "images/kitsu-49372.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -6641,7 +6416,8 @@
       ],
       "site_url": "https://kitsu.io/anime/buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tataki-tsubushimasu",
       "year_match": true,
-      "image_path": "images/kitsu-50766.jpg"
+      "image_path": "images/kitsu-50766.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -6673,7 +6449,8 @@
       ],
       "site_url": "https://kitsu.io/anime/azur-lane-bisoku-zenshin-2nd-season",
       "year_match": true,
-      "image_path": "images/kitsu-47929.jpg"
+      "image_path": "images/kitsu-47929.jpg",
+      "similarity": 0.67
     }
   },
   {
@@ -6708,7 +6485,8 @@
       ],
       "site_url": "https://kitsu.io/anime/sayonara-lara",
       "year_match": true,
-      "image_path": "images/kitsu-48880.jpg"
+      "image_path": "images/kitsu-48880.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -6739,26 +6517,7 @@
     "director": "Hiroyuki Kanbe",
     "original_title": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita",
     "ref": "[ 208 ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "50555",
-      "title_romaji": "Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita.",
-      "title_english": null,
-      "title_native": "ここは俺に任せて先に行けと言ってから１０年がたったら伝説になっていた。",
-      "description": "With no other options, Luck makes the choice to hold the line against the unending demonic hordes alone, to make sure his comrades can escape with their lives. However, through a combination of fortune, skill, and ingenuity, he holds that line for ten straight years, eventually coming out on top single handedly. Now he has to tackle the dilemma of how to occupy himself in a world where he holds a myriad of roles: that of a legend, that of a veteran, and that of a brand new face. (Source: Comikey) Note: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita is streaming 3 days in advance of the TV broadcast on Prime Video beginning July 3rd, 2026. Regular broadcasting begins on July 6th, 2026.",
-      "cover_large": "https://media.kitsu.app/anime/50555/poster_image/large-cadd8af9f2a970609a0aaadd5acfd268.jpeg",
-      "kitsu_year": 2026,
-      "format": "TV",
-      "episodes": null,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "site_url": "https://kitsu.io/anime/koko-wa-ore-ni-makasete-saki-ni-ike-to-ittekara-10-nen-ga-tattara-densetsu-ni-natteita",
-      "year_match": true,
-      "image_path": "images/kitsu-50555.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 2026,
@@ -6790,7 +6549,8 @@
       ],
       "site_url": "https://kitsu.io/anime/tomei-na-yoru-ni-kakeru-kun-to-menimienai-koi-wo-shita",
       "year_match": true,
-      "image_path": "images/kitsu-50350.jpg"
+      "image_path": "images/kitsu-50350.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -6823,7 +6583,8 @@
         "High School"
       ],
       "site_url": "https://kitsu.io/anime/tenkousaki-no-seiso-karen-na-bishoujo-ga-mukashi-danshi-to-omotte-issho-ni-asonda-osananajimi-datta-ken",
-      "year_match": true
+      "year_match": true,
+      "similarity": 1.0
     }
   },
   {
@@ -6859,7 +6620,8 @@
       ],
       "site_url": "https://kitsu.io/anime/suterare-seijo-no-isekai-gohantabi-kakure-skill-de-camping-car-wo-shoukan-shimashita",
       "year_match": true,
-      "image_path": "images/kitsu-50768.jpg"
+      "image_path": "images/kitsu-50768.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -6895,7 +6657,8 @@
       ],
       "site_url": "https://kitsu.io/anime/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-munou-wo-enjiru-ss-rank-ouji-wa-koui-keishou-sen-wo-kage-kara-shihai-suru",
       "year_match": true,
-      "image_path": "images/kitsu-47989.jpg"
+      "image_path": "images/kitsu-47989.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -6929,7 +6692,8 @@
         "Seinen"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-49247.jpg"
+      "image_path": "images/kitsu-49247.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -6965,7 +6729,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kimi-ga-shinu-made-koi-wo-shitai",
       "year_match": true,
-      "image_path": "images/kitsu-49607.jpg"
+      "image_path": "images/kitsu-49607.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -6998,7 +6763,8 @@
       ],
       "site_url": "https://kitsu.io/anime/migawari-reijou-wo-sukutta-no-wa-reikoku-mujihi-na-koori-no-ouji-no-ai-deshita",
       "year_match": null,
-      "image_path": "images/kitsu-50649.jpg"
+      "image_path": "images/kitsu-50649.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -7037,7 +6803,8 @@
       ],
       "site_url": "https://kitsu.io/anime/The-Ghost-in-the-Shell",
       "year_match": true,
-      "image_path": "images/kitsu-48899.jpg"
+      "image_path": "images/kitsu-48899.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -7074,7 +6841,8 @@
       ],
       "site_url": "https://kitsu.io/anime/yoroi-shinden-samurai-troopers",
       "year_match": true,
-      "image_path": "images/kitsu-50427.jpg"
+      "image_path": "images/kitsu-50427.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -7109,7 +6877,8 @@
       ],
       "site_url": "https://kitsu.io/anime/tai-ari-deshita-ojou-sama-wa-kakutou-game-nante-shinai",
       "year_match": true,
-      "image_path": "images/kitsu-44021.jpg"
+      "image_path": "images/kitsu-44021.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -7146,7 +6915,8 @@
       ],
       "site_url": "https://kitsu.io/anime/clevatess-majuu-no-ou-to-akago-to-kabane-no-yuusha",
       "year_match": true,
-      "image_path": "images/kitsu-49061.jpg"
+      "image_path": "images/kitsu-49061.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -7185,7 +6955,8 @@
       ],
       "site_url": "https://kitsu.io/anime/katainaka-no-ossan-kensei-ni-naru",
       "year_match": true,
-      "image_path": "images/kitsu-49119.jpg"
+      "image_path": "images/kitsu-49119.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -7201,26 +6972,7 @@
     "director": "Keisuke Inoue",
     "original_title": "Ibitte Konai Gibo to Gishi",
     "ref": "[ 221 ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "50055",
-      "title_romaji": "Ibitte Konai Gibo to Gishi",
-      "title_english": "My Mother-in-Law and Sister-in-Law Who Don't Bully Me.",
-      "title_native": "いびってこない義母と義姉",
-      "description": "Miya is the illegitimate child of a certain prominent family. When her mother dies, she's convinced she knows what awaits her in her new home: a life of servitude and misery at the hands of her wicked stepmother and stepsisters! Yet when she finally meets the women she expects to treat her like dirt, they actually end up being...sweet?!",
-      "cover_large": "https://media.kitsu.app/anime/50055/poster_image/large-e24901e50a0e2d8255bc6fab9d765185.jpeg",
-      "kitsu_year": 2026,
-      "format": "TV",
-      "episodes": null,
-      "genres": [
-        "Comedy",
-        "Historical",
-        "Family"
-      ],
-      "site_url": "https://kitsu.io/anime/ibitte-konai-gibo-to-gishi",
-      "year_match": true,
-      "image_path": "images/kitsu-50055.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 2026,
@@ -7253,7 +7005,8 @@
       ],
       "site_url": "https://kitsu.io/anime/perfect-addiction",
       "year_match": true,
-      "image_path": "images/kitsu-50769.jpg"
+      "image_path": "images/kitsu-50769.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -7289,7 +7042,8 @@
       ],
       "site_url": "https://kitsu.io/anime/sora-wa-akai-kawa-no-hotori",
       "year_match": true,
-      "image_path": "images/kitsu-50562.jpg"
+      "image_path": "images/kitsu-50562.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -7327,7 +7081,8 @@
       ],
       "site_url": "https://kitsu.io/anime/otomege-sekai-wa-mob-ni-kibishii-sekai-desu-2nd-season",
       "year_match": true,
-      "image_path": "images/kitsu-46925.jpg"
+      "image_path": "images/kitsu-46925.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -7362,7 +7117,8 @@
       ],
       "site_url": "https://kitsu.io/anime/tefuda-ga-oume-no-victoria",
       "year_match": true,
-      "image_path": "images/kitsu-50805.jpg"
+      "image_path": "images/kitsu-50805.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -7399,7 +7155,8 @@
         "Military"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-44778.jpg"
+      "image_path": "images/kitsu-44778.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -7432,7 +7189,8 @@
       ],
       "site_url": "https://kitsu.io/anime/mobius-dust",
       "year_match": true,
-      "image_path": "images/kitsu-42337.jpg"
+      "image_path": "images/kitsu-42337.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -7468,7 +7226,8 @@
       ],
       "site_url": "https://kitsu.io/anime/super-no-ura-de-yani-suu-futari",
       "year_match": true,
-      "image_path": "images/kitsu-50040.jpg"
+      "image_path": "images/kitsu-50040.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -7499,29 +7258,7 @@
     "director": "Kenichi Imaizumi",
     "original_title": "Ryōmin 0-nin Start no Henkyō Ryōshu-sama",
     "ref": "[ 230 ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "50049",
-      "title_romaji": "Ryoumin 0-Nin Start no Henkyou Ryoushu-sama",
-      "title_english": null,
-      "title_native": "領民0人スタートの辺境領主様",
-      "description": "Dias finally returns home after decades of war. He's hailed as a hero and promptly rewarded with his own domain...which turns out to be little more than empty plains. Population: zero. Dias, who has only ever known battle, finds himself at a loss. How is he supposed to survive, let alone cultivate his territory into a thriving, prosperous dominion when there's nothing but grass as far as can see? Fortunately for Dias, a horned girl by the name of Alna is about to show him there's more to the plains than meets the eye! (Source: J-Novel Club) Note: Ryoumin 0-Nin Start no Henkyou Ryoushu-sama is streaming a week advance of the TV broadcast on Prime Video beginning July 3rd, 2026. Regular broadcasting begins on July 10th, 2026.",
-      "cover_large": "https://media.kitsu.app/anime/50049/poster_image/large-eb6c1ca9046e15fd371cf44c25f0bff1.jpeg",
-      "kitsu_year": 2026,
-      "format": "TV",
-      "episodes": 12,
-      "genres": [
-        "Fantasy",
-        "Action",
-        "Comedy",
-        "Drama",
-        "Slice of Life",
-        "Romance"
-      ],
-      "site_url": "https://kitsu.io/anime/ryoumin-0-nin-start-no-henkyou-ryoushu-sama",
-      "year_match": true,
-      "image_path": "images/kitsu-50049.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 2026,
@@ -7536,26 +7273,7 @@
     "director": "Hideyo Yamamoto",
     "original_title": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai",
     "ref": "[ 231 ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "50179",
-      "title_romaji": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai",
-      "title_english": null,
-      "title_native": "花織さんは転生しても喧嘩がしたい",
-      "description": "Ryuusei Narukami spends his days cooped up in his room playing video games, but hides a secret past as an evil dark lord from a fantasy world reincarnated into our world. He has a fateful encounter with the belligerent Hanaori Meteor, the hero from Ryuusei's world who defeated him, now reincarnated as a high school girl.",
-      "cover_large": "https://media.kitsu.app/anime/50179/poster_image/large-1868b3657c84b05a38d1f05a25d5e680.jpeg",
-      "kitsu_year": 2026,
-      "format": "TV",
-      "episodes": null,
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Supernatural"
-      ],
-      "site_url": "https://kitsu.io/anime/hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai",
-      "year_match": true,
-      "image_path": "images/kitsu-50179.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 2026,
@@ -7588,7 +7306,8 @@
       ],
       "site_url": "https://kitsu.io/anime/futsutsuka-na-akujo-de-wa-gozaimasu-ga-hinamiya-chou-nezumi-torikae-den",
       "year_match": true,
-      "image_path": "images/kitsu-49689.jpg"
+      "image_path": "images/kitsu-49689.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -7623,7 +7342,8 @@
         "Shounen"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-49265.jpg"
+      "image_path": "images/kitsu-49265.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -7667,7 +7387,8 @@
       ],
       "site_url": "https://kitsu.io/anime/bleach-sennen-kessen-hen-kashintan",
       "year_match": true,
-      "image_path": "images/kitsu-49444.jpg"
+      "image_path": "images/kitsu-49444.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -7705,7 +7426,8 @@
       ],
       "site_url": "https://kitsu.io/anime/re-zero-kara-hajimeru-isekai-seikatsu-4",
       "year_match": true,
-      "image_path": "images/kitsu-49746.jpg"
+      "image_path": "images/kitsu-49746.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -7753,7 +7475,8 @@
         "Seinen"
       ],
       "site_url": "https://kitsu.io/anime/fx-fighter-kurumi-chan",
-      "year_match": true
+      "year_match": true,
+      "similarity": 1.0
     }
   },
   {
@@ -7803,7 +7526,8 @@
       ],
       "site_url": "https://kitsu.io/anime/koori-no-joheki",
       "year_match": true,
-      "image_path": "images/kitsu-50465.jpg"
+      "image_path": "images/kitsu-50465.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -7819,27 +7543,7 @@
     "director": "Ayako Kōno",
     "original_title": "Tempal: Item no Chikara",
     "ref": "[ 239 ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "50743",
-      "title_romaji": "Temppal: Item no Chikara",
-      "title_english": null,
-      "title_native": "テムパル～アイテムの力～",
-      "description": "Sin Yeong-U (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game “Satisfy,” finds a powerful item that earns him a rare legendary class title: “Pagma’s Successor.” He’s now a skilled blacksmith who can forge unique weapons and equip the game’s most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for….",
-      "cover_large": "https://media.kitsu.app/anime/50743/poster_image/large-9b11a691c401e28dc5bba22ff268539f.jpeg",
-      "kitsu_year": 2026,
-      "format": "TV",
-      "episodes": null,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy",
-        "Comedy"
-      ],
-      "site_url": "https://kitsu.io/anime/temppal-item-no-chikara",
-      "year_match": true,
-      "image_path": "images/kitsu-50743.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 2026,
@@ -7874,7 +7578,8 @@
         "Mystery"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-48649.jpg"
+      "image_path": "images/kitsu-48649.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -7907,7 +7612,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kizu-darake-seijo-yori-houfuku-wo-komete",
       "year_match": true,
-      "image_path": "images/kitsu-50028.jpg"
+      "image_path": "images/kitsu-50028.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -7941,7 +7647,8 @@
       ],
       "site_url": "https://kitsu.io/anime/tensei-shita-dai-seijo-wa-seijo-de-aru-koto-wo-hita-kakusu",
       "year_match": true,
-      "image_path": "images/kitsu-50850.jpg"
+      "image_path": "images/kitsu-50850.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -7980,7 +7687,8 @@
         "Shounen"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-50024.jpg"
+      "image_path": "images/kitsu-50024.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -8011,25 +7719,7 @@
     "director": "Nobuhiro Kondo (Chief) Akihiko Sano",
     "original_title": "Keroro Gunsō☆",
     "ref": "[ 245 ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "48693",
-      "title_romaji": "Shin Keroro Gunsou Movie: Fukkatsushite Sokkou Chikyuu Metsubou no Kiki de Arimasu!",
-      "title_english": null,
-      "title_native": "新劇場版 ケロロ軍曹 復活して速攻地球滅亡の危機であります！",
-      "description": "The Keroro Platoon, living their lazy days as if an invasion were nothing. Then one day, they face a series of bizarre phenomena erupting across the nation. Feeling a sense of crisis, the Keroro Platoon rises up, staking their pride as invaders! What is the meaning of the mysterious symbols they encounter wherever they go. The largest-scale battle in the history of \"Sgt.Frog\" begins in the Reiwa era! (Source: Crunchyroll News, edited) Note: Relations are provisional and will be updated when more info is announced.",
-      "cover_large": "https://media.kitsu.app/anime/48693/poster_image/large-33d50213f1b6d35f272bc4a5b65cdf83.jpeg",
-      "kitsu_year": 2026,
-      "format": "movie",
-      "episodes": 1,
-      "genres": [
-        "Comedy",
-        "Science Fiction"
-      ],
-      "site_url": "https://kitsu.io/anime/Shin-Keroro-Gunsou-Movie-Fukkatsushite-Sokkou-Chikyuu-Metsubou-no-Kiki-de-Arimasu",
-      "year_match": true,
-      "image_path": "images/kitsu-48693.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 2026,
@@ -8044,25 +7734,7 @@
     "director": "Kiyoko Sayama",
     "original_title": "Marronnier Ōkoku no Shichinin no Kishi",
     "ref": "[ 246 ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "50853",
-      "title_romaji": "Soara to Mamono no Ie",
-      "title_english": null,
-      "title_native": "ソアラと魔物の家",
-      "description": "Soara is a young orphan girl who was raised by knights and trained to battle the monsters that constantly attacked their kingdom. But by the time Soara is ready to join the fight herself, peace has been declared and her blade is no longer needed. Searching for a new home and a new purpose, Soara stumbles across Krik the dwarf, leader of the Monster Architects. Suddenly, instead of fighting monsters, Soara finds herself working with Krik to build comfortable homes for them! In the process, will she discover a new home and family for herself?",
-      "cover_large": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/poster_image/c63bd210601a40a33d8e8eec0c700960.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20260909%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20260909T220217Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=36ac50e5ef2a75e566b729f02d90ff47ab65e3a5c5debdd78e74fb638fb9d016",
-      "kitsu_year": 2027,
-      "format": "TV",
-      "episodes": null,
-      "site_url": "https://kitsu.io/anime/soara-to-mamono-no-ie",
-      "genres": [
-        "Action",
-        "Fantasy",
-        "Adventure"
-      ],
-      "year_match": true
-    }
+    "enrichment": null
   },
   {
     "year": 2026,
@@ -8096,7 +7768,8 @@
         "Drama",
         "Supernatural"
       ],
-      "year_match": true
+      "year_match": true,
+      "similarity": 1.0
     }
   },
   {
@@ -8128,7 +7801,8 @@
       ],
       "site_url": "https://kitsu.io/anime/vertex-force",
       "year_match": true,
-      "image_path": "images/kitsu-50711.jpg"
+      "image_path": "images/kitsu-50711.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -8161,7 +7835,8 @@
         "Soccer"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-49883.jpg"
+      "image_path": "images/kitsu-49883.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -8225,7 +7900,8 @@
       ],
       "site_url": "https://kitsu.io/anime/hotel-inhumans",
       "year_match": true,
-      "image_path": "images/kitsu-49898.jpg"
+      "image_path": "images/kitsu-49898.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -8241,25 +7917,7 @@
     "director": "Takahiro Tamano",
     "original_title": "Kashita Maryoku wa \"Ribo-barai\" de Kyōsei Chōshū",
     "ref": "[ 253 ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "50993",
-      "title_romaji": "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu",
-      "title_english": null,
-      "title_native": "貸した魔力は【リボ払い】で強制徴収",
-      "description": "If there's one thing you can never have enough of in a world of RPG-style swords and sorcery, it's magic points! Whether you're fueling spells, techniques, or showing off an incredible ability, you've gotta spend those points to do real damage. But what if you run out? Lent is part of the up-and-coming party known as the “Skypiercers,” and thanks to his unique Gift, he can loan massive amounts of magic to others. No MP? No problem with Lent around! Except, now that his companions have become formidable heroes (thanks to his skill), his usefulness is questioned. Kicked out of the group, Lent is furious…until he discovers a hidden power to his Gift. Now, with his adorably devious fairy partner, he's going to claw back every last scrap of magic from his former party—with interest!",
-      "cover_large": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/poster_image/d090c516bf1023b23aa664c6c6a92cec.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20260909%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20260909T131314Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=559dd1c570449919324cf99b5227e0f810093084b8656461d16fb38d5afd4521",
-      "kitsu_year": 2026,
-      "format": "TV",
-      "episodes": null,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "site_url": "https://kitsu.io/anime/kashita-maryoku-wa-revo-barai-de-kyousei-choushuu",
-      "year_match": true
-    }
+    "enrichment": null
   },
   {
     "year": 2026,
@@ -8295,7 +7953,8 @@
       ],
       "site_url": "https://kitsu.io/anime/magical-explorer-eroge-no-yuujin-chara-ni-tensei-shitakedo-game-chishiki-tsukatte-jiyuu-ni-ikiru",
       "year_match": true,
-      "image_path": "images/kitsu-47985.jpg"
+      "image_path": "images/kitsu-47985.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -8311,24 +7970,7 @@
     "director": "Shintarō Dōge",
     "original_title": "Mahō no Shimai LuluttoLilly",
     "ref": "[ 255 ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "50996",
-      "title_romaji": "Mahou no Shimai LuluttoLilly Part 2",
-      "title_english": null,
-      "title_native": "魔法の姉妹ルルットリリィ 第2クール",
-      "description": "The second half of Mahou no Shimai LuluttoLilly.",
-      "cover_large": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/poster_image/6ba458d9a815e333ae0ab6b9f056a8c9.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20260909%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20260909T131120Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=658f1589e043ca433145dce0faf1f7d35abb776d840956f223293d5ad0f5fa90",
-      "kitsu_year": 2026,
-      "format": "TV",
-      "episodes": null,
-      "genres": [
-        "Magical Girl",
-        "Magic"
-      ],
-      "site_url": "https://kitsu.io/anime/mahou-no-shimai-luluttolilly-part-2",
-      "year_match": true
-    }
+    "enrichment": null
   },
   {
     "year": 2026,
@@ -8378,7 +8020,8 @@
       ],
       "site_url": "https://kitsu.io/anime/sensha-isu-tank-chair",
       "year_match": true,
-      "image_path": "images/kitsu-50640.jpg"
+      "image_path": "images/kitsu-50640.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -8394,24 +8037,7 @@
     "director": "Tommy Hino",
     "original_title": "",
     "ref": "[ 258 ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "49597",
-      "title_romaji": "Hitori no Yoru to Sekiryoku",
-      "title_english": null,
-      "title_native": "ひとりのよると赤緑",
-      "description": "\"I feel relieved when the soup is delicious.\"",
-      "cover_large": "https://media.kitsu.app/anime/49597/poster_image/large-0f4b95529b9c9df0f5839802d8e8934e.jpeg",
-      "kitsu_year": 2025,
-      "format": "ONA",
-      "episodes": 2,
-      "site_url": "https://kitsu.io/anime/hitori-no-yoru-to-sekiryoku",
-      "genres": [
-        "Slice of Life"
-      ],
-      "year_match": true,
-      "image_path": "images/kitsu-49597.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 2026,
@@ -8475,7 +8101,8 @@
         "Shoujo",
         "Isekai"
       ],
-      "year_match": true
+      "year_match": true,
+      "similarity": 1.0
     }
   },
   {
@@ -8510,7 +8137,8 @@
         "Comedy"
       ],
       "site_url": "https://kitsu.io/anime/dark-summoner-to-dekiteiru",
-      "year_match": true
+      "year_match": true,
+      "similarity": 1.0
     }
   },
   {
@@ -8544,7 +8172,8 @@
         "Seinen"
       ],
       "site_url": "https://kitsu.io/anime/kanojo-no-tomodachi",
-      "year_match": true
+      "year_match": true,
+      "similarity": 1.0
     }
   },
   {
@@ -8577,7 +8206,8 @@
       ],
       "site_url": "https://kitsu.io/anime/hitozukiai-ga-nigate-na-miboujin-no-yukionna-san-to-noroi-no-yubiwa",
       "year_match": true,
-      "image_path": "images/kitsu-50740.jpg"
+      "image_path": "images/kitsu-50740.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -8628,7 +8258,8 @@
         "Battle Royale"
       ],
       "site_url": "https://kitsu.io/anime/mahou-shoujo-ikusei-keikaku-restart",
-      "year_match": true
+      "year_match": true,
+      "similarity": 1.0
     }
   },
   {
@@ -8660,7 +8291,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kyouran-reijou-nia-liston",
       "year_match": true,
-      "image_path": "images/kitsu-50764.jpg"
+      "image_path": "images/kitsu-50764.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -8713,7 +8345,8 @@
         "Isekai"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-49008.jpg"
+      "image_path": "images/kitsu-49008.jpg",
+      "similarity": 0.67
     }
   },
   {
@@ -8746,26 +8379,25 @@
     "ref": "[ 271 ]",
     "enrichment": {
       "source": "kitsu",
-      "source_id": "49404",
-      "title_romaji": "Food Court de, Mata Ashita.",
-      "title_english": "See You Tomorrow at the Food Court",
-      "title_native": "フードコートで、また明日。",
-      "description": "Meet Wada, who gives off an unapproachable vibe, and Yamamoto, who strikes fear into those around her because of her looks. Though the two girls attend separate high schools, they meet up at a shopping center’s food court almost every day. Take a little peek at the laid-back afternoons Wada and Yamamoto share as they reflect on the ups and downs of high school life together.",
-      "cover_large": "https://media.kitsu.app/anime/49404/poster_image/large-cbdd6506d75918bc70952dd8f5a0713f.jpeg",
+      "source_id": "49920",
+      "title_romaji": "Shiye Mowang",
+      "title_english": "The Laid Off Demon",
+      "title_native": null,
+      "description": "He is the king of the demon world who has become unemployed because of impeachment. She was the brave hero who was laid off because of the failure of the expedition. The bond of destiny binds the two together as they embark on an journey full of unknown adventures.",
+      "cover_large": "https://media.kitsu.app/anime/49920/poster_image/large-6b98310111946e9342e8980906700860.jpeg",
       "kitsu_year": 2025,
-      "format": "TV",
-      "episodes": 6,
+      "format": "ONA",
+      "episodes": 26,
+      "site_url": "https://kitsu.io/anime/shiye-mowang",
       "genres": [
+        "Action",
+        "Fantasy",
         "Comedy",
-        "School Life",
-        "Slice of Life",
-        "Friendship",
-        "High School",
-        "Drama"
+        "Romance"
       ],
-      "site_url": "https://kitsu.io/anime/food-court-de-mata-ashita",
       "year_match": true,
-      "image_path": "images/kitsu-49404.jpg"
+      "similarity": 0.5,
+      "image_path": "images/kitsu-49920.jpg"
     }
   },
   {
@@ -8799,7 +8431,8 @@
       ],
       "site_url": "https://kitsu.io/anime/sekai-saikyou-no-majo-hajimemashita",
       "year_match": true,
-      "image_path": "images/kitsu-50697.jpg"
+      "image_path": "images/kitsu-50697.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -8850,7 +8483,8 @@
         "Isekai"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-46917.jpg"
+      "image_path": "images/kitsu-46917.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -8884,7 +8518,8 @@
         "Adventure"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-50723.jpg"
+      "image_path": "images/kitsu-50723.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -8918,7 +8553,8 @@
       ],
       "site_url": "https://kitsu.io/anime/hotaru-no-yomeiri",
       "year_match": true,
-      "image_path": "images/kitsu-50471.jpg"
+      "image_path": "images/kitsu-50471.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -8950,7 +8586,8 @@
       ],
       "site_url": "https://kitsu.io/anime/tetsuryou-meet-with-tetsudou-musume",
       "year_match": true,
-      "image_path": "images/kitsu-50217.jpg"
+      "image_path": "images/kitsu-50217.jpg",
+      "similarity": 0.6
     }
   },
   {
@@ -8999,7 +8636,8 @@
         "Shounen"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-50822.jpg"
+      "image_path": "images/kitsu-50822.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -9048,7 +8686,8 @@
       ],
       "site_url": "https://kitsu.io/anime/mission-yozakura-family-season-2-part-2",
       "year_match": true,
-      "image_path": "images/kitsu-50823.jpg"
+      "image_path": "images/kitsu-50823.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -9080,7 +8719,8 @@
         "Science Fiction"
       ],
       "site_url": "https://kitsu.io/anime/dark-machine-the-animation",
-      "year_match": true
+      "year_match": true,
+      "similarity": 1.0
     }
   },
   {
@@ -9114,7 +8754,8 @@
         "Supernatural"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-47969.jpg"
+      "image_path": "images/kitsu-47969.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -9150,7 +8791,8 @@
         "Adventure"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-48397.jpg"
+      "image_path": "images/kitsu-48397.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -9184,7 +8826,8 @@
       ],
       "site_url": "https://kitsu.io/anime/yasei-no-last-boss-ga-arawareta-2nd-season",
       "year_match": null,
-      "image_path": "images/kitsu-50404.jpg"
+      "image_path": "images/kitsu-50404.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -9219,7 +8862,8 @@
       ],
       "site_url": "https://kitsu.io/anime/chitose-kun-wa-ramune-bin-no-naka",
       "year_match": true,
-      "image_path": "images/kitsu-49122.jpg"
+      "image_path": "images/kitsu-49122.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -9253,7 +8897,8 @@
       ],
       "site_url": "https://kitsu.io/anime/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu",
       "year_match": null,
-      "image_path": "images/kitsu-50520.jpg"
+      "image_path": "images/kitsu-50520.jpg",
+      "similarity": 0.8
     }
   },
   {
@@ -9286,7 +8931,8 @@
         "Supernatural"
       ],
       "site_url": "https://kitsu.io/anime/kyoufu-collector",
-      "year_match": true
+      "year_match": true,
+      "similarity": 1.0
     }
   },
   {
@@ -9302,30 +8948,7 @@
     "director": "Shinya Une",
     "original_title": "#Zombie Sagashitemasu",
     "ref": "[ 289 ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "50170",
-      "title_romaji": "#Zombie Sagashitemasu",
-      "title_english": null,
-      "title_native": "#ゾンビさがしてます",
-      "description": null,
-      "cover_large": "https://media.kitsu.app/anime/50170/poster_image/large-474828fae85f9e2cf6b3c5693d0ab065.jpeg",
-      "kitsu_year": 2026,
-      "format": "TV",
-      "episodes": null,
-      "genres": [
-        "Zombie",
-        "Post Apocalypse",
-        "Comedy",
-        "Action",
-        "Horror",
-        "Mystery",
-        "Supernatural"
-      ],
-      "site_url": "https://kitsu.io/anime/zombie-sagashitemasu",
-      "year_match": true,
-      "image_path": "images/kitsu-50170.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 2026,
@@ -9360,7 +8983,8 @@
       ],
       "site_url": "https://kitsu.io/anime/psy-en",
       "year_match": true,
-      "image_path": "images/kitsu-50392.jpg"
+      "image_path": "images/kitsu-50392.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -9397,7 +9021,8 @@
         "Drama"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-51005.jpg"
+      "image_path": "images/kitsu-51005.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -9413,27 +9038,7 @@
     "director": "Hiroshi Shirai",
     "original_title": "Romelia Senki",
     "ref": "[ 292 ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "49196",
-      "title_romaji": "Romeria Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita",
-      "title_english": null,
-      "title_native": "ロメリア戦記 〜魔王を倒した後も人類やばそうだから軍隊組織した〜",
-      "description": null,
-      "cover_large": "https://media.kitsu.app/anime/49196/poster_image/large-122a77f227ca11a8836c27f968d17213.jpeg",
-      "kitsu_year": 2026,
-      "format": "TV",
-      "episodes": null,
-      "genres": [
-        "Military",
-        "Fantasy",
-        "Drama",
-        "Adventure"
-      ],
-      "site_url": "https://kitsu.io/anime/romeria-senki-maou-wo-taoshita-nochi-mo-jinrui-yabasou-dakara-guntai-soshiki-shita",
-      "year_match": true,
-      "image_path": "images/kitsu-49196.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 2026,
@@ -9470,7 +9075,8 @@
         "Isekai"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-48651.jpg"
+      "image_path": "images/kitsu-48651.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -9486,29 +9092,7 @@
     "director": "Ryūta Kawahara",
     "original_title": "Tensei Goblin dakedo Shitsumon Aru?",
     "ref": "[ 294 ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "50607",
-      "title_romaji": "Tensei Goblin Dakedo Shitsumon Aru?",
-      "title_english": null,
-      "title_native": "転生ゴブリンだけど質問ある？",
-      "description": "Office worker Akira Yagami’s altruistic nature usually gets him the short end of the stick. When he dies after saving a kid from oncoming traffic...he reincarnates in another world as a goblin?! Normally, goblins only live for seven days, but Akira’s newfound powers let him defy the species’ normal life span...and are the key to his path to becoming the strongest goblin ever!",
-      "cover_large": "https://media.kitsu.app/anime/50607/poster_image/large-47a4388092b7a2d90edb3f321942c858.jpeg",
-      "kitsu_year": 2026,
-      "format": "TV",
-      "episodes": null,
-      "genres": [
-        "Fantasy",
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Romance",
-        "Drama"
-      ],
-      "site_url": "https://kitsu.io/anime/tensei-goblin-dakedo-shitsumon-aru",
-      "year_match": true,
-      "image_path": "images/kitsu-50607.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 2026,
@@ -9541,7 +9125,8 @@
       ],
       "site_url": "https://kitsu.io/anime/gensou-suikoden",
       "year_match": true,
-      "image_path": "images/kitsu-50988.jpg"
+      "image_path": "images/kitsu-50988.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -9590,7 +9175,8 @@
       ],
       "site_url": "https://kitsu.io/anime/shuiro-no-kamen",
       "year_match": null,
-      "image_path": "images/kitsu-50336.jpg"
+      "image_path": "images/kitsu-50336.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -9627,7 +9213,8 @@
       ],
       "site_url": "https://kitsu.io/anime/Tougen-Anki-Legend-of-the-Cursed-Blood",
       "year_match": true,
-      "image_path": "images/kitsu-48834.jpg"
+      "image_path": "images/kitsu-48834.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -9689,7 +9276,8 @@
       ],
       "site_url": "https://kitsu.io/anime/prism-rondo",
       "year_match": true,
-      "image_path": "images/kitsu-50371.jpg"
+      "image_path": "images/kitsu-50371.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -9741,7 +9329,8 @@
         "Mystery"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-49606.jpg"
+      "image_path": "images/kitsu-49606.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -9784,7 +9373,8 @@
       ],
       "site_url": "https://kitsu.io/anime/steel-ball-run-jojo-no-kimyou-na-bouken",
       "year_match": true,
-      "image_path": "images/kitsu-49847.jpg"
+      "image_path": "images/kitsu-49847.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -9820,7 +9410,8 @@
       ],
       "site_url": "https://kitsu.io/anime/dandelion",
       "year_match": true,
-      "image_path": "images/kitsu-50657.jpg"
+      "image_path": "images/kitsu-50657.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -9873,7 +9464,8 @@
       ],
       "site_url": "https://kitsu.io/anime/star-wars-visions-presents-the-ninth-jedi",
       "year_match": true,
-      "image_path": "images/kitsu-49866.jpg"
+      "image_path": "images/kitsu-49866.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -9910,7 +9502,8 @@
         "Shounen"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-48994.jpg"
+      "image_path": "images/kitsu-48994.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -9926,26 +9519,7 @@
     "director": "",
     "original_title": "",
     "ref": "[ 309 ]",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "50445",
-      "title_romaji": "Umayuru: Pretty Gray",
-      "title_english": null,
-      "title_native": "うまゆる ぷりてぃ～ぐれい",
-      "description": "The Umamusume mini-anime is back with a new Golden Week series—Umayuru: Pretty Gray!",
-      "cover_large": "https://media.kitsu.app/anime/50445/poster_image/large-c8e01f477a5d1b394b7651d0dc5eb0ba.jpeg",
-      "kitsu_year": 2025,
-      "format": "ONA",
-      "episodes": 4,
-      "site_url": "https://kitsu.io/anime/umayuru-pretty-gray",
-      "genres": [
-        "Super Deformed",
-        "Comedy",
-        "Slice of Life"
-      ],
-      "year_match": true,
-      "image_path": "images/kitsu-50445.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 2026,
@@ -9979,7 +9553,8 @@
       ],
       "site_url": "https://kitsu.io/anime/Cyberpunk-Edgerunners-II",
       "year_match": true,
-      "image_path": "images/kitsu-50016.jpg"
+      "image_path": "images/kitsu-50016.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -10013,7 +9588,8 @@
       ],
       "site_url": "https://kitsu.io/anime/demons-crest",
       "year_match": true,
-      "image_path": "images/kitsu-50851.jpg"
+      "image_path": "images/kitsu-50851.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -10049,7 +9625,8 @@
       ],
       "site_url": "https://kitsu.io/anime/fool-night",
       "year_match": true,
-      "image_path": "images/kitsu-50792.jpg"
+      "image_path": "images/kitsu-50792.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -10082,7 +9659,8 @@
         "Isekai"
       ],
       "site_url": "https://kitsu.io/anime/disney-twisted-wonderland",
-      "year_match": true
+      "year_match": true,
+      "similarity": 1.0
     }
   }
 ]

@@ -2,7 +2,7 @@
 
 An archive of anime organized by year, built from Wikipedia's [List of years in anime](https://en.wikipedia.org/wiki/List_of_years_in_anime) index and each year's article, enriched with synopses and cover art from [AniList](https://anilist.co) and/or [Kitsu](https://kitsu.io).
 
-**8131 titles** across 68 years, **7459** with a matched synopsis/cover image.
+**8131 titles** across 68 years, **6916** with a matched synopsis/cover image.
 
 ## 1960s
 

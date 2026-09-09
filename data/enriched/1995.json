@@ -38,7 +38,8 @@
       ],
       "site_url": "https://kitsu.io/anime/armitage-iii",
       "year_match": true,
-      "image_path": "images/kitsu-964.jpg"
+      "image_path": "images/kitsu-964.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -54,21 +55,25 @@
     "regions": "JA",
     "enrichment": {
       "source": "kitsu",
-      "source_id": "5340",
-      "title_romaji": "Guskou Budori no Denki",
-      "title_english": "The Life of Guskou Budori",
-      "title_native": "グスコーブドリの伝記",
-      "description": "The Biography of Budori Gusko was the recipient of numerous awards including the Monbusho Selection. The original novella on which the film is based is one of Kenji Miyazawa's more famous works, alongside Matasaburo the Wind Imp, Gauche the Cellist and Night on the Galactic Railroad. The story follows the life of a young boy named Gusuko who lives in the countryside with his parents and little sister. A string of droughts and other natural disasters tear the family apart, and Gusuko is forced to leave home and seek his fortunes on his own. Driven by a desire to improve the quality of life of his poor countrymen, he eventually joins a group of scientists called the Iihatov Volcano Department, and there takes part in scientific projects to fight the natural disasters that drove him from his home.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/5340/large.jpg",
-      "kitsu_year": 1994,
-      "format": "movie",
+      "source_id": "9258",
+      "title_romaji": "Eiyuu Banka Koushi-den",
+      "title_english": null,
+      "title_native": "英雄挽歌 孔子傳",
+      "description": "Born in the Chinese state of Lu in 551 B.C., Confucius is raised by his mother after his father dies when he is only three. He marries at 19 and enters the service of the local nobility. At 32, he becomes tutor to the Prince of Lu's children, eventually becoming a politician at 51. His career peaks are the roles of Lu's justice minister and eventually prime minister. The land prospers for four years, but Confucius grows disenchanted with court intrigues. For the following 12 years, he wanders the neighboring states, offering advice to their rulers.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/9258/large.jpg",
+      "kitsu_year": 1996,
+      "format": "OVA",
       "episodes": 1,
+      "site_url": "https://kitsu.io/anime/eiyuu-banka-koushi-den",
       "genres": [
+        "Historical",
+        "Adventure",
+        "Romance",
         "Drama"
       ],
-      "site_url": "https://kitsu.io/anime/guskou-budori-no-denki",
       "year_match": true,
-      "image_path": "images/kitsu-5340.jpg"
+      "similarity": 0.0,
+      "image_path": "images/kitsu-9258.jpg"
     }
   },
   {
@@ -98,7 +103,8 @@
       ],
       "site_url": "https://kitsu.io/anime/totsuzen-neko-no-kuni-banipal-witt",
       "year_match": true,
-      "image_path": "images/kitsu-2476.jpg"
+      "image_path": "images/kitsu-2476.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -152,7 +158,8 @@
       ],
       "site_url": "https://kitsu.io/anime/crayon-shin-chan-movie-03-unkokusai-no-yabou",
       "year_match": true,
-      "image_path": "images/kitsu-4480.jpg"
+      "image_path": "images/kitsu-4480.jpg",
+      "similarity": 0.8
     }
   },
   {
@@ -189,7 +196,8 @@
       ],
       "site_url": "https://kitsu.io/anime/anne-no-nikki",
       "year_match": true,
-      "image_path": "images/kitsu-3283.jpg"
+      "image_path": "images/kitsu-3283.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -223,7 +231,8 @@
       ],
       "site_url": "https://kitsu.io/anime/doraemon-nobita-s-genesis-diary",
       "year_match": true,
-      "image_path": "images/kitsu-2437.jpg"
+      "image_path": "images/kitsu-2437.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -259,7 +268,8 @@
       ],
       "site_url": "https://kitsu.io/anime/dragon-ball-z-movie-12-fukkatsu-no-fusion-goku-to-vegeta",
       "year_match": true,
-      "image_path": "images/kitsu-805.jpg"
+      "image_path": "images/kitsu-805.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -295,7 +305,8 @@
       ],
       "site_url": "https://kitsu.io/anime/dragon-ball-z-movie-13-ryuuken-bakuhatsu-goku-ga-yaraneba-dare-ga-yaru",
       "year_match": true,
-      "image_path": "images/kitsu-806.jpg"
+      "image_path": "images/kitsu-806.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -361,7 +372,8 @@
       ],
       "site_url": "https://kitsu.io/anime/seirei-tsukai",
       "year_match": true,
-      "image_path": "images/kitsu-1683.jpg"
+      "image_path": "images/kitsu-1683.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -398,7 +410,8 @@
       ],
       "site_url": "https://kitsu.io/anime/elf-princess-rane",
       "year_match": true,
-      "image_path": "images/kitsu-1465.jpg"
+      "image_path": "images/kitsu-1465.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -437,7 +450,8 @@
       ],
       "site_url": "https://kitsu.io/anime/el-hazard-the-magnificent-world",
       "year_match": true,
-      "image_path": "images/kitsu-96.jpg"
+      "image_path": "images/kitsu-96.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -485,7 +499,8 @@
       ],
       "site_url": "https://kitsu.io/anime/fushigi-yuugi",
       "year_match": true,
-      "image_path": "images/kitsu-102.jpg"
+      "image_path": "images/kitsu-102.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -522,7 +537,8 @@
       ],
       "site_url": "https://kitsu.io/anime/galaxy-fraulein-yuna",
       "year_match": true,
-      "image_path": "images/kitsu-2246.jpg"
+      "image_path": "images/kitsu-2246.jpg",
+      "similarity": 0.67
     }
   },
   {
@@ -568,7 +584,8 @@
       ],
       "site_url": "https://kitsu.io/anime/ghost-in-the-shell",
       "year_match": true,
-      "image_path": "images/kitsu-25.jpg"
+      "image_path": "images/kitsu-25.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -617,7 +634,8 @@
         "Psychological"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-3150.jpg"
+      "image_path": "images/kitsu-3150.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -658,7 +676,8 @@
       ],
       "site_url": "https://kitsu.io/anime/gunsmith-cats",
       "year_match": true,
-      "image_path": "images/kitsu-598.jpg"
+      "image_path": "images/kitsu-598.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -690,7 +709,8 @@
       ],
       "site_url": "https://kitsu.io/anime/iczelion",
       "year_match": true,
-      "image_path": "images/kitsu-1648.jpg"
+      "image_path": "images/kitsu-1648.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -727,7 +747,8 @@
         "Comedy"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-1871.jpg"
+      "image_path": "images/kitsu-1871.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -758,7 +779,8 @@
       ],
       "site_url": "https://kitsu.io/anime/junkers-come-here",
       "year_match": true,
-      "image_path": "images/kitsu-1000.jpg"
+      "image_path": "images/kitsu-1000.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -791,7 +813,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kyouryuu-boukenki-jura-tripper",
       "year_match": true,
-      "image_path": "images/kitsu-2257.jpg"
+      "image_path": "images/kitsu-2257.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -824,7 +847,8 @@
       ],
       "site_url": "https://kitsu.io/anime/katta-kun-monogatari",
       "year_match": true,
-      "image_path": "images/kitsu-9369.jpg"
+      "image_path": "images/kitsu-9369.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -855,7 +879,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kazu-yasu-hero-tanjou",
       "year_match": true,
-      "image_path": "images/kitsu-9872.jpg"
+      "image_path": "images/kitsu-9872.jpg",
+      "similarity": 0.75
     }
   },
   {
@@ -889,7 +914,8 @@
       ],
       "site_url": "https://kitsu.io/anime/hajimari-no-boukenshatachi-legend-of-crystania",
       "year_match": true,
-      "image_path": "images/kitsu-474.jpg"
+      "image_path": "images/kitsu-474.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -903,31 +929,7 @@
     "type": "OVA",
     "demographic": "",
     "regions": "JA",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "2246",
-      "title_romaji": "Ginga Ojousama Densetsu Yuna: Kanashimi no Siren",
-      "title_english": "Galaxy Fraulein Yuna",
-      "title_native": "銀河お嬢様伝説ユナ ～哀しみのセイレーン～",
-      "description": "Yuna Kagurazaka won the interstellar Galaxy Fraulein contest to become the Guardian of the Light. After defeating several threats to galactic peace (As seen in the PC Engine games), old enemies have framed Yuna for attacking and demolishing her hometown. Yuna's friends now must attempt to rescue her from her pending execution, with comedic results.",
-      "cover_large": "https://media.kitsu.app/anime/2246/poster_image/large-cff7b6d60a5b32b25c61f33d981bf11f.jpeg",
-      "kitsu_year": 1995,
-      "format": "OVA",
-      "episodes": 2,
-      "site_url": "https://kitsu.io/anime/galaxy-fraulein-yuna",
-      "genres": [
-        "Magic",
-        "Mecha",
-        "Piloted Robot",
-        "Action",
-        "Science Fiction",
-        "Adventure",
-        "Comedy",
-        "Henshin"
-      ],
-      "year_match": true,
-      "image_path": "images/kitsu-2246.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1995,
@@ -970,7 +972,8 @@
       ],
       "site_url": "https://kitsu.io/anime/lesson-xx",
       "year_match": true,
-      "image_path": "images/kitsu-1718.jpg"
+      "image_path": "images/kitsu-1718.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -984,26 +987,7 @@
     "type": "Movie",
     "demographic": "",
     "regions": "JA",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "6017",
-      "title_romaji": "Sore Ike! Anpanman: Sora Tobu Ehon to Glass no Kutsu",
-      "title_english": null,
-      "title_native": "それいけ!アンパンマン「空とぶ絵本とガラスの靴」",
-      "description": "8th Anpanman short movie.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/6017/large.jpg",
-      "kitsu_year": 1996,
-      "format": "movie",
-      "episodes": 1,
-      "site_url": "https://kitsu.io/anime/sore-ike-anpanman-sora-tobu-ehon-to-glass-no-kutsu",
-      "genres": [
-        "Fantasy",
-        "Comedy",
-        "Kids"
-      ],
-      "year_match": true,
-      "image_path": "images/kitsu-6017.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1995,
@@ -1036,7 +1020,8 @@
       ],
       "site_url": "https://kitsu.io/anime/lupin-iii-kutabare-nostradamus",
       "year_match": true,
-      "image_path": "images/kitsu-1272.jpg"
+      "image_path": "images/kitsu-1272.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1070,7 +1055,8 @@
         "Thievery"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-1287.jpg"
+      "image_path": "images/kitsu-1287.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1112,7 +1098,8 @@
       ],
       "site_url": "https://kitsu.io/anime/macross-plus-movie-edition",
       "year_match": true,
-      "image_path": "images/kitsu-1089.jpg"
+      "image_path": "images/kitsu-1089.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1149,7 +1136,8 @@
       ],
       "site_url": "https://kitsu.io/anime/mahou-shoujo-pretty-sammy",
       "year_match": true,
-      "image_path": "images/kitsu-1728.jpg"
+      "image_path": "images/kitsu-1728.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1210,7 +1198,8 @@
       ],
       "site_url": "https://kitsu.io/anime/neon-genesis-evangelion",
       "year_match": true,
-      "image_path": "images/kitsu-21.jpg"
+      "image_path": "images/kitsu-21.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1250,7 +1239,8 @@
       ],
       "site_url": "https://kitsu.io/anime/ike-ina-chuu-takkyuubu",
       "year_match": true,
-      "image_path": "images/kitsu-814.jpg"
+      "image_path": "images/kitsu-814.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1288,7 +1278,8 @@
       ],
       "site_url": "https://kitsu.io/anime/romeo-no-aoi-sora",
       "year_match": true,
-      "image_path": "images/kitsu-2324.jpg"
+      "image_path": "images/kitsu-2324.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1325,7 +1316,8 @@
       ],
       "site_url": "https://kitsu.io/anime/hikyou-tanken-fam-ihrlie",
       "year_match": true,
-      "image_path": "images/kitsu-1061.jpg"
+      "image_path": "images/kitsu-1061.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1362,7 +1354,8 @@
         "School Life"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-5202.jpg"
+      "image_path": "images/kitsu-5202.jpg",
+      "similarity": 0.11
     }
   },
   {
@@ -1378,36 +1371,31 @@
     "regions": "",
     "enrichment": {
       "source": "kitsu",
-      "source_id": "530",
-      "title_romaji": "Saber Marionette J",
-      "title_english": "Saber Marionette J",
-      "title_native": "セイバーマリオネットJ",
-      "description": "In the distant future, since the Earth has become overpopulated, efforts to find and colonize on other planets have begun. However, one of the ships, the \"Mesopotamia\" malfunctions and all but 6 of its inhabitants are all killed. the remaining 6 manage to escape to a nearby planet named \"Terra ll \", which is similar to Earth in many respects. However, all of them are male. Therefore, as to not let their efforts go to waste, they begin to set up 6 countries and to reproduce through cloning and genetic engineering. however, there are still no women, and to make up for it they create lifelike advanced female androids called \"Marionettes\" which do everyday chores and work. However, they are all emotionless machines. But one day, a ordinary boy named Otaru finds and awakens 3 special battle type Marionettes that have emotions due to a \"Maiden Circuit\" within them. It's up to him then to teach them and allow their emotions to grow, and when a nearby country threatens with world domination, it's up to to Otaru and his \"human\" Marionettes to protect their country.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/530/large.jpg",
-      "kitsu_year": 1996,
-      "format": "TV",
-      "episodes": 25,
+      "source_id": "1108",
+      "title_romaji": "Saber Marionette R",
+      "title_english": "Saber Marionette R",
+      "title_native": "SMガールズ セイバーマリオネットR",
+      "description": "Jr., the heir of Romana and his battle sabers Cherry and Lime, who have girl circuits are enjoying their peaceful life in Romana. Suddenly, the evil Star-Face and his sexadolls attack Romana in order to take over so Star-Face can become the next High Official. In order to truly become the next High Official and ruler of Romana, he must first eliminate Jr. This begins a battle for, not only Jr.'s life, but for all of Romana.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1108/large.jpg",
+      "kitsu_year": 1995,
+      "format": "OVA",
+      "episodes": 3,
+      "site_url": "https://kitsu.io/anime/saber-marionette-r",
       "genres": [
-        "Science Fiction",
-        "Mecha",
-        "Post Apocalypse",
-        "Action",
-        "Comedy",
-        "Martial Arts",
-        "Anti War",
-        "Other Planet",
-        "Future",
-        "Robot Helper",
         "Android",
-        "Plot Continuity",
+        "Martial Arts",
+        "Future",
         "Space",
-        "Harem",
-        "Adventure",
-        "Romance"
+        "Mecha",
+        "Other Planet",
+        "Violence",
+        "Plot Continuity",
+        "Action",
+        "Science Fiction"
       ],
-      "site_url": "https://kitsu.io/anime/saber-marionette-j",
       "year_match": true,
-      "image_path": "images/kitsu-530.jpg"
+      "similarity": 1.0,
+      "image_path": "images/kitsu-1108.jpg"
     }
   },
   {
@@ -1442,7 +1430,8 @@
       ],
       "site_url": "https://kitsu.io/anime/bishoujo-senshi-sailor-moon-supers",
       "year_match": true,
-      "image_path": "images/kitsu-1115.jpg"
+      "image_path": "images/kitsu-1115.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1477,7 +1466,8 @@
       ],
       "site_url": "https://kitsu.io/anime/bishoujo-senshi-sailor-moon-supers-sailor-9-senshi-shuuketsu-black-dream-hole-no-kiseki",
       "year_match": true,
-      "image_path": "images/kitsu-1116.jpg"
+      "image_path": "images/kitsu-1116.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1516,7 +1506,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kaitou-saint-tail",
       "year_match": true,
-      "image_path": "images/kitsu-1407.jpg"
+      "image_path": "images/kitsu-1407.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1547,7 +1538,8 @@
       ],
       "site_url": "https://kitsu.io/anime/silent-service",
       "year_match": true,
-      "image_path": "images/kitsu-2618.jpg"
+      "image_path": "images/kitsu-2618.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1563,16 +1555,16 @@
     "regions": "JA",
     "enrichment": {
       "source": "kitsu",
-      "source_id": "1584",
-      "title_romaji": "Slam Dunk (Movie)",
+      "source_id": "2267",
+      "title_romaji": "Slam Dunk: Shouhoku Saidai no Kiki! Moero Sakuragi Hanamichi",
       "title_english": null,
-      "title_native": "スラムダンク",
-      "description": "Sakuragi and the Shohoko team takes on Oda and Takezono High School. This is Sakuragi's second match as he faces Oda, a basketball player who went to the same junior high.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/1584/large.jpg",
-      "kitsu_year": 1994,
+      "title_native": "スラムダンク 湘北最大の危機！燃えろ桜木花道",
+      "description": "After losing the titanic match against Kainan High, Team Shohoku and a newly shaven Hanamichi Sakuragi are challenged to an exhibition match by virtual basketball unknowns Ryoukufu High. Coach Anzai sees this as an opportunity for Shohoku to regain their confidence, but Ryoukufu are revealed to have a newly assembled championship calibre lineup and may give Sakuragi &amp; Co their toughest test yet.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2267/large.jpg",
+      "kitsu_year": 1995,
       "format": "movie",
       "episodes": 1,
-      "site_url": "https://kitsu.io/anime/slam-dunk-movie-1",
+      "site_url": "https://kitsu.io/anime/slam-dunk-movie-3",
       "genres": [
         "Basketball",
         "Action",
@@ -1583,7 +1575,8 @@
         "Shounen"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-1584.jpg"
+      "similarity": 0.5,
+      "image_path": "images/kitsu-2267.jpg"
     }
   },
   {
@@ -1599,16 +1592,16 @@
     "regions": "JA",
     "enrichment": {
       "source": "kitsu",
-      "source_id": "1584",
-      "title_romaji": "Slam Dunk (Movie)",
+      "source_id": "2268",
+      "title_romaji": "Slam Dunk: Hoero Basketman-damashii! Hanamichi to Rukawa no Atsuki Natsu",
       "title_english": null,
-      "title_native": "スラムダンク",
-      "description": "Sakuragi and the Shohoko team takes on Oda and Takezono High School. This is Sakuragi's second match as he faces Oda, a basketball player who went to the same junior high.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/1584/large.jpg",
-      "kitsu_year": 1994,
+      "title_native": "スラムダンク 吠えろバスケットマン魂!!花道と流川の熱き夏",
+      "description": "Ichiro Mizusawa, a player from Rukawa's old junior high school, Tomigoaka, is diagnosed with a crippling leg condition and wants to play one last game with Rukawa. Hanamichi sets out to help the boy and fulfill his wish.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2268/large.jpg",
+      "kitsu_year": 1995,
       "format": "movie",
       "episodes": 1,
-      "site_url": "https://kitsu.io/anime/slam-dunk-movie-1",
+      "site_url": "https://kitsu.io/anime/slam-dunk-movie-4",
       "genres": [
         "Basketball",
         "Action",
@@ -1619,7 +1612,8 @@
         "Shounen"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-1584.jpg"
+      "similarity": 0.62,
+      "image_path": "images/kitsu-2268.jpg"
     }
   },
   {
@@ -1656,7 +1650,8 @@
       ],
       "site_url": "https://kitsu.io/anime/slayers",
       "year_match": true,
-      "image_path": "images/kitsu-493.jpg"
+      "image_path": "images/kitsu-493.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1692,7 +1687,8 @@
       ],
       "site_url": "https://kitsu.io/anime/slayers-the-motion-picture",
       "year_match": true,
-      "image_path": "images/kitsu-495.jpg"
+      "image_path": "images/kitsu-495.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1727,7 +1723,8 @@
       ],
       "site_url": "https://kitsu.io/anime/tobe-isami",
       "year_match": true,
-      "image_path": "images/kitsu-2742.jpg"
+      "image_path": "images/kitsu-2742.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1764,7 +1761,8 @@
       ],
       "site_url": "https://kitsu.io/anime/bakuretsu-hunters",
       "year_match": true,
-      "image_path": "images/kitsu-7786.jpg"
+      "image_path": "images/kitsu-7786.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1814,7 +1812,8 @@
       ],
       "site_url": "https://kitsu.io/anime/tenchi-universe",
       "year_match": true,
-      "image_path": "images/kitsu-637.jpg"
+      "image_path": "images/kitsu-637.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -1847,7 +1846,8 @@
       ],
       "site_url": "https://kitsu.io/anime/tokyo-revelation",
       "year_match": true,
-      "image_path": "images/kitsu-1193.jpg"
+      "image_path": "images/kitsu-1193.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1880,7 +1880,8 @@
       ],
       "site_url": "https://kitsu.io/anime/twelve-senshi-bakuretsu-eto-ranger",
       "year_match": true,
-      "image_path": "images/kitsu-2517.jpg"
+      "image_path": "images/kitsu-2517.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1919,7 +1920,8 @@
       ],
       "site_url": "https://kitsu.io/anime/whisper-of-the-heart",
       "year_match": true,
-      "image_path": "images/kitsu-540.jpg"
+      "image_path": "images/kitsu-540.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -1960,7 +1962,8 @@
       ],
       "site_url": "https://kitsu.io/anime/juusenshi-gulkeeva",
       "year_match": true,
-      "image_path": "images/kitsu-2793.jpg"
+      "image_path": "images/kitsu-2793.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -1974,24 +1977,7 @@
     "type": "TV",
     "demographic": "",
     "regions": "JA",
-    "enrichment": {
-      "source": "kitsu",
-      "source_id": "4909",
-      "title_romaji": "Sekai Meisaku Douwa: Wow! Maerchen Oukoku",
-      "title_english": "The World's Most Famous Tales",
-      "title_native": "アニメ世界の童話 / メルヘン王国",
-      "description": "Based on Western tales from the usual suspects: 1001 Nights, C. Perrault, Beaumont, J. &amp; W. Grimm, H. C. Andersen, C. Collodi, English fairytale, H. Pyle, L. Carrol, J. Swift, A. Dumas, E. T. A Hoffman, L. F. Baum, and J. Spyri. Only 21 stories were broadcast, with the last five being released on VHS.",
-      "cover_large": "https://media.kitsu.app/anime/poster_images/4909/large.jpg",
-      "kitsu_year": 1995,
-      "format": "TV",
-      "episodes": 26,
-      "site_url": "https://kitsu.io/anime/sekai-meisaku-douwa-wow-maerchen-oukoku",
-      "genres": [
-        "Fantasy"
-      ],
-      "year_match": true,
-      "image_path": "images/kitsu-4909.jpg"
-    }
+    "enrichment": null
   },
   {
     "year": 1995,
@@ -2028,7 +2014,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kishin-douji-zenki",
       "year_match": true,
-      "image_path": "images/kitsu-1413.jpg"
+      "image_path": "images/kitsu-1413.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -2056,7 +2043,8 @@
       "genres": [],
       "site_url": "https://kitsu.io/anime/zukkoke-sanningumi-kusunoki-yashiki-no-guruguru-sama",
       "year_match": true,
-      "image_path": "images/kitsu-40970.jpg"
+      "image_path": "images/kitsu-40970.jpg",
+      "similarity": 0.67
     }
   }
 ]
