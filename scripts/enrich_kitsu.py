@@ -57,7 +57,7 @@ def clean_synopsis(text):
     return text.strip() or None
 
 
-def query_kitsu(title, expected_year=None, retries=3):
+def query_kitsu(title, retries=3):
     global DELAY
     params = {
         "filter[text]": title,
@@ -94,9 +94,6 @@ def query_kitsu(title, expected_year=None, retries=3):
         titles = attrs.get("titles") or {}
         start_date = attrs.get("startDate") or ""
         start_year = int(start_date[:4]) if start_date[:4].isdigit() else None
-        year_match = None
-        if expected_year and start_year:
-            year_match = abs(start_year - expected_year) <= 1
         categories = [
             c["attributes"]["title"]
             for c in (data.get("included") or [])
@@ -117,7 +114,6 @@ def query_kitsu(title, expected_year=None, retries=3):
             "episodes": attrs.get("episodeCount"),
             "genres": categories,
             "site_url": f"https://kitsu.io/anime/{attrs['slug']}" if attrs.get("slug") else None,
-            "year_match": year_match,
         }
     return None
 
@@ -169,7 +165,7 @@ def main(limit_years=None):
             if cache_key in cache:
                 result = cache[cache_key]
             else:
-                result = query_kitsu(search_title, expected_year=year)
+                result = query_kitsu(search_title)
                 total_queried += 1
                 if result is not None:
                     cache[cache_key] = result
@@ -181,18 +177,27 @@ def main(limit_years=None):
                 entry["enrichment"] = None
                 unmatched.append({"year": year, "title": entry["title"], "reason": "no_match"})
                 continue
-            if result.get("year_match") is False:
+            # A cached result is keyed by search text only, and the same text
+            # can legitimately refer to a different production in a different
+            # year (a remake/reboot reusing the original's title). So the
+            # year check must be recomputed against *this* entry's year every
+            # time, never trusted from when the cache entry was first written.
+            kitsu_year = result.get("kitsu_year")
+            year_match = abs(kitsu_year - year) <= 1 if kitsu_year else None
+            if year_match is False:
                 # Fuzzy text search returned something, but the release year is
-                # way off -- almost certainly the wrong anime. Reject rather
-                # than attach a plausible-looking but incorrect synopsis/cover.
+                # way off -- almost certainly the wrong anime (or the right
+                # franchise but a different production). Reject rather than
+                # attach a plausible-looking but incorrect synopsis/cover.
                 entry["enrichment"] = None
                 unmatched.append({
                     "year": year, "title": entry["title"], "reason": "year_mismatch",
                     "matched_to": result.get("title_english") or result.get("title_romaji"),
-                    "matched_year": result.get("kitsu_year"),
+                    "matched_year": kitsu_year,
                 })
                 continue
             entry["enrichment"] = {k: v for k, v in result.items() if k != "cover_small"}
+            entry["enrichment"]["year_match"] = year_match
             if result.get("cover_small"):
                 local_path = download_image(result["cover_small"], result["source_id"])
                 entry["enrichment"]["image_path"] = local_path

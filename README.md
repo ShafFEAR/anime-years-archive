@@ -1,8 +1,8 @@
 # List of Years in Anime
 
-An archive of anime organized by year, built from Wikipedia's [List of years in anime](https://en.wikipedia.org/wiki/List_of_years_in_anime) index and each year's article, enriched with synopses and cover art from the [AniList](https://anilist.co) API.
+An archive of anime organized by year, built from Wikipedia's [List of years in anime](https://en.wikipedia.org/wiki/List_of_years_in_anime) index and each year's article, enriched with synopses and cover art from [AniList](https://anilist.co) and/or [Kitsu](https://kitsu.io).
 
-**8131 titles** across 68 years, **0** with a matched synopsis/cover image.
+**8131 titles** across 68 years, **6196** with a matched synopsis/cover image.
 
 ## 1960s
 
@@ -35,6 +35,6 @@ An archive of anime organized by year, built from Wikipedia's [List of years in 
 ## Attribution & licensing
 
 - Year-by-year title listings are drawn from Wikipedia (text available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)).
-- Synopses and cover images are fetched from the AniList API (https://anilist.co), which is built for this kind of third-party display use.
-- Wikipedia's own cover art for anime articles is almost always non-free "fair use" content licensed only for use within that specific Wikipedia article, so it is intentionally **not** mirrored here -- entries without an AniList match simply have no image.
+- Synopses and cover images are fetched from the AniList and/or Kitsu APIs, which are built for this kind of third-party display use (each entry's page notes which one it came from).
+- Wikipedia's own cover art for anime articles is almost always non-free "fair use" content licensed only for use within that specific Wikipedia article, so it is intentionally **not** mirrored here -- entries without a match simply have no image.
 - This is an unofficial, non-commercial fan archive/index, not affiliated with Wikipedia, the Wikimedia Foundation, or AniList.

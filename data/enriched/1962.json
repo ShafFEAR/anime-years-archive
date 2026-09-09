@@ -1,0 +1,127 @@
+[
+  {
+    "year": 1962,
+    "section": "Releases",
+    "title": "Sindbad the Sailor",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "original_title": "アラビアンナイト・シンドバッドの冒険 ( Arabian Naito: Shindobatto no Bōken )",
+    "type": "Movie",
+    "demographic": "Family, Children",
+    "regions": "JA, NA, EU",
+    "enrichment": null
+  },
+  {
+    "year": 1962,
+    "section": "Releases",
+    "title": "Love",
+    "wiki_title": "Yōji Kuri#Selected filmography",
+    "wiki_url": "https://en.wikipedia.org/wiki/Y%C5%8Dji_Kuri#Selected_filmography",
+    "redlink": false,
+    "original_title": "愛 ( Ai )",
+    "type": "Short",
+    "demographic": "General",
+    "regions": "JA",
+    "enrichment": null
+  },
+  {
+    "year": 1962,
+    "section": "Releases",
+    "title": "Human Zoo",
+    "wiki_title": "Yōji Kuri#Selected filmography",
+    "wiki_url": "https://en.wikipedia.org/wiki/Y%C5%8Dji_Kuri#Selected_filmography",
+    "redlink": false,
+    "original_title": "人間動物園 ( Ningen Dōbutsuen )",
+    "type": "Short",
+    "demographic": "General",
+    "regions": "JA",
+    "enrichment": null
+  },
+  {
+    "year": 1962,
+    "section": "Releases",
+    "title": "Male",
+    "wiki_title": "List of Osamu Tezuka anime#Male",
+    "wiki_url": "https://en.wikipedia.org/wiki/List_of_Osamu_Tezuka_anime#Male",
+    "redlink": false,
+    "original_title": "おす ( Osu )",
+    "type": "Short",
+    "demographic": "General",
+    "regions": "JA",
+    "enrichment": null
+  },
+  {
+    "year": 1962,
+    "section": "Releases",
+    "title": "Manga Calendar",
+    "wiki_title": "Instant History#Otogi Manga Calendar",
+    "wiki_url": "https://en.wikipedia.org/wiki/Instant_History#Otogi_Manga_Calendar",
+    "redlink": false,
+    "original_title": "おとぎマンガカレンダー ( Otogi Manga Calendar )",
+    "type": "TV",
+    "demographic": "General",
+    "regions": "JA",
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "10113",
+      "title_romaji": "Instant History",
+      "title_english": null,
+      "title_native": "インスタントヒストリー",
+      "description": "Each three-minute short features characters learning about important historical events that occurred that day. Shown on Fuji Television, it often featured photographs and film footage taken from the Mainichi Shimbun newspaper, where Ryuuichi Yokoyama's comic strip was running at the time.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/10113/large.jpg",
+      "kitsu_year": 1961,
+      "format": "TV",
+      "episodes": 312,
+      "genres": [
+        "Historical"
+      ],
+      "site_url": "https://kitsu.io/anime/instant-history",
+      "year_match": true,
+      "image_path": "images/kitsu-10113.jpg"
+    }
+  },
+  {
+    "year": 1962,
+    "section": "Releases",
+    "title": "Otogi's Voyage Around the World",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "original_title": "おとぎの世界旅行 ( Otogi no Sekai Ryoko )",
+    "type": "Movie",
+    "demographic": "Family, Children",
+    "regions": "JA",
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "9525",
+      "title_romaji": "Otogi no Sekai Ryokou",
+      "title_english": null,
+      "title_native": "おとぎの世界旅行",
+      "description": "Seven short films combined in one theatrical movie telling the story of Otogi's Studio voyage around the world.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/9525/large.jpg",
+      "kitsu_year": 1962,
+      "format": "movie",
+      "episodes": 1,
+      "genres": [
+        "Adventure"
+      ],
+      "site_url": "https://kitsu.io/anime/otogi-no-sekai-ryokou",
+      "year_match": true,
+      "image_path": "images/kitsu-9525.jpg"
+    }
+  },
+  {
+    "year": 1962,
+    "section": "Releases",
+    "title": "Tales of the Street Corner",
+    "wiki_title": "List of Osamu Tezuka anime#Tales of the Street Corner",
+    "wiki_url": "https://en.wikipedia.org/wiki/List_of_Osamu_Tezuka_anime#Tales_of_the_Street_Corner",
+    "redlink": false,
+    "original_title": "ある街角の物語 ( Aru Machi Kado no Monogatari )",
+    "type": "Movie",
+    "demographic": "General",
+    "regions": "JA",
+    "enrichment": null
+  }
+]

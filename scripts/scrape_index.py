@@ -7,8 +7,8 @@ in this script.
 """
 import json
 import re
+import sys
 import time
-import unicodedata
 from pathlib import Path
 from urllib.parse import unquote
 
@@ -204,32 +204,44 @@ def parse_year(year):
     return entries
 
 
-def main():
+def load_json(path, default):
+    if path.exists():
+        return json.loads(path.read_text(encoding="utf-8"))
+    return default
+
+
+def main(years=None):
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     LOG_DIR.mkdir(parents=True, exist_ok=True)
-    summary = {}
-    missing_years = []
-    for year in range(START_YEAR, END_YEAR + 1):
+    summary_path = LOG_DIR / "index_summary.json"
+    missing_path = LOG_DIR / "missing_years.json"
+    summary = load_json(summary_path, {})
+    still_missing = set(load_json(missing_path, []))
+    for year in (years if years else range(START_YEAR, END_YEAR + 1)):
         try:
             entries = parse_year(year)
         except Exception as e:
             print(f"{year}: ERROR {e}")
-            missing_years.append(year)
+            still_missing.add(year)
             continue
         if entries is None:
             print(f"{year}: no article found, skipping")
-            missing_years.append(year)
+            still_missing.add(year)
             continue
         out_path = OUT_DIR / f"{year}.json"
         out_path.write_text(json.dumps(entries, indent=2, ensure_ascii=False), encoding="utf-8")
-        summary[year] = len(entries)
+        summary[str(year)] = len(entries)
+        still_missing.discard(year)
         print(f"{year}: {len(entries)} entries")
         time.sleep(0.3)
-    (LOG_DIR / "index_summary.json").write_text(json.dumps(summary, indent=2), encoding="utf-8")
-    (LOG_DIR / "missing_years.json").write_text(json.dumps(missing_years, indent=2), encoding="utf-8")
+    summary_path.write_text(json.dumps(summary, indent=2), encoding="utf-8")
+    missing_path.write_text(json.dumps(sorted(still_missing), indent=2), encoding="utf-8")
     total = sum(summary.values())
-    print(f"\nTotal entries across {len(summary)} years: {total}")
+    print(f"\nTotal entries across {len(summary)} years: {total}. Still missing: {sorted(still_missing)}")
 
 
 if __name__ == "__main__":
-    main()
+    years_arg = None
+    if len(sys.argv) > 1:
+        years_arg = [int(y) for y in sys.argv[1:]]
+    main(years_arg)

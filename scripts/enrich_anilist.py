@@ -93,7 +93,11 @@ def query_anilist(title, expected_year=None, retries=3):
             time.sleep(5)
             continue
         if resp.status_code != 200:
-            return {"not_found": True}
+            # Service-level failure (outage, auth, etc.) -- do NOT cache this
+            # as a real "no match", or an outage would poison the cache with
+            # false negatives for every title queried while it lasted.
+            print(f"  AniList returned {resp.status_code}: {resp.text[:200]}")
+            return None
         try:
             data = resp.json()
         except ValueError:

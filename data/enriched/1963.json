@@ -1,0 +1,219 @@
+[
+  {
+    "year": 1963,
+    "section": "Releases",
+    "title": "Astro Boy",
+    "wiki_title": "Astro Boy (1963 TV series)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Astro_Boy_(1963_TV_series)",
+    "redlink": false,
+    "original_title": "鉄腕アトム ( Tetsuwan Atomu )",
+    "type": "TV",
+    "demographic": "Shōnen",
+    "regions": "JA, NA",
+    "enrichment": null
+  },
+  {
+    "year": 1963,
+    "section": "Releases",
+    "title": "Gigantor",
+    "wiki_title": "Gigantor",
+    "wiki_url": "https://en.wikipedia.org/wiki/Gigantor",
+    "redlink": false,
+    "original_title": "鉄人28号 ( Tetsujin Nijūhachi-gō )",
+    "type": "TV",
+    "demographic": "Shōnen",
+    "regions": "JA, NA",
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2448",
+      "title_romaji": "Tetsujin 28-gou",
+      "title_english": "Gigantor",
+      "title_native": "鉄人２８号",
+      "description": "Dr.Haneda was developing experimental giant robot warriors to fight the allies during the Second World War, but before his creations could see action, Allied bombs destroyed the facility and killed him. A decade later criminals discovered two of the surviving prototypes, #26 and 27 in the series, and used the remote controlled robots to commit a number of crimes. Young Shotaro Haneda, the twelve year old son of Dr.Haneda, did some investigating and discovered that the mob were hunting for the twenty-eighth robot in the series, rumoured to be the most powerful of them all. Racing the villains, Shotaro discovers the robot first, along with Dr.Shikashima, a colleague of his father's who was also believed killed by the Allied bombing. Together the two prevent Tetusjin-28 (the robot's official designation) from falling into the hands of the bad guys, and decide to dedicate him to peace rather than war. Shotaro fought crime for a long time, supported by Dr.Shikashima, who would repair Tetsujin-28 when he was damaged, and by police officer Otsuka. Shotaro even battled the alien Magmans, invaders from the planet Magma, who came to Earth late in his career, bringing their own giant robots, Magma X and Gold Wolf, with them.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2448/large.jpg",
+      "kitsu_year": 1963,
+      "format": "TV",
+      "episodes": 96,
+      "genres": [
+        "Science Fiction",
+        "Mecha",
+        "Adventure"
+      ],
+      "site_url": "https://kitsu.io/anime/tetsujin-28-go",
+      "year_match": true,
+      "image_path": "images/kitsu-2448.jpg"
+    }
+  },
+  {
+    "year": 1963,
+    "section": "Releases",
+    "title": "8th Man",
+    "wiki_title": "8 Man",
+    "wiki_url": "https://en.wikipedia.org/wiki/8_Man",
+    "redlink": false,
+    "original_title": "エイトマン ( Eitoman )",
+    "type": "TV",
+    "demographic": "Shōnen",
+    "regions": "JA",
+    "enrichment": null
+  },
+  {
+    "year": 1963,
+    "section": "Releases",
+    "title": "Wolf Boy Ken",
+    "wiki_title": "Wolf Boy Ken",
+    "wiki_url": "https://en.wikipedia.org/wiki/Wolf_Boy_Ken",
+    "redlink": false,
+    "original_title": "狼少年ケン ( Ōkami Shōnen Ken )",
+    "type": "TV",
+    "demographic": "Children",
+    "regions": "JA",
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "9916",
+      "title_romaji": "Ookami Shounen Ken",
+      "title_english": null,
+      "title_native": "狼少年ケン",
+      "description": "Ken The Wolf Boy is about the adventures of Ken, who was brought up by wolves in the jungle and can be compared to Jungle Book. His main companions were two young wolves named Chi Chi and Po Po.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/9916/large.jpg",
+      "kitsu_year": 1963,
+      "format": "TV",
+      "episodes": 86,
+      "genres": [
+        "Adventure",
+        "Kids"
+      ],
+      "site_url": "https://kitsu.io/anime/ookami-shounen-ken",
+      "year_match": true,
+      "image_path": "images/kitsu-9916.jpg"
+    }
+  },
+  {
+    "year": 1963,
+    "section": "Releases",
+    "title": "Doggie March",
+    "wiki_title": "Doggie March",
+    "wiki_url": "https://en.wikipedia.org/wiki/Doggie_March",
+    "redlink": false,
+    "original_title": "わんわん忠臣蔵 ( Wanwan Chūshingura )",
+    "type": "Movie",
+    "demographic": "Family, Children",
+    "regions": "JA, EU",
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "5638",
+      "title_romaji": "Wan Wan Chuushingura",
+      "title_english": null,
+      "title_native": "わんわん忠臣蔵",
+      "description": "The homeless dog Rock swears to take to revenge on a tiger named Killer in the zoo, who had killed his mother. The dogs in town, troubled by the atrocities of Killer, join forces to support Rock. Changing the target of revenge to the murderer of the main character's mother made it easier for kids to empathize with the character.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/5638/large.jpg",
+      "kitsu_year": 1963,
+      "format": "movie",
+      "episodes": 1,
+      "genres": [
+        "Fantasy",
+        "Drama",
+        "Action",
+        "Adventure"
+      ],
+      "site_url": "https://kitsu.io/anime/wan-wan-chuushingura",
+      "year_match": true,
+      "image_path": "images/kitsu-5638.jpg"
+    }
+  },
+  {
+    "year": 1963,
+    "section": "Releases",
+    "title": "Prince Shisukon",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "original_title": "シスコン王子 ( Shisukon Ouji )",
+    "type": "TV",
+    "demographic": "Shōnen",
+    "regions": "JA",
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "9590",
+      "title_romaji": "Shisukon Ouji",
+      "title_english": null,
+      "title_native": "シスコン王子",
+      "description": "Based on a manga by Fujiko (A) Fujio and Fujiko (F) Fujio.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/9590/large.jpg",
+      "kitsu_year": 1963,
+      "format": "TV",
+      "episodes": 14,
+      "genres": [
+        "Adventure"
+      ],
+      "site_url": "https://kitsu.io/anime/shisukon-ouji",
+      "year_match": true,
+      "image_path": "images/kitsu-9590.jpg"
+    }
+  },
+  {
+    "year": 1963,
+    "section": "Releases",
+    "title": "Hermit Village",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "original_title": "仙人部落 ( Sennin Buraku )",
+    "type": "TV",
+    "demographic": "Seinen",
+    "regions": "JA",
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "5179",
+      "title_romaji": "Sennin Buraku",
+      "title_english": "Hermit Village",
+      "title_native": "仙人部落",
+      "description": "The ancient Chinese town of Taoyuan is populated exclusively by Taoist ascetics. The elder, Lao Shi, conducts research on magic and alchemy, while his pupil Zhi Huang is more interested in the pleasures of the flesh. He fell in love with three beautiful sisters who live close by.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/5179/large.jpg",
+      "kitsu_year": 1963,
+      "format": "TV",
+      "episodes": 23,
+      "genres": [
+        "Ecchi",
+        "Comedy"
+      ],
+      "site_url": "https://kitsu.io/anime/sennin-buraku",
+      "year_match": true,
+      "image_path": "images/kitsu-5179.jpg"
+    }
+  },
+  {
+    "year": 1963,
+    "section": "Releases",
+    "title": "The Little Prince and the Eight-Headed Dragon",
+    "wiki_title": "The Little Prince and the Eight-Headed Dragon",
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Little_Prince_and_the_Eight-Headed_Dragon",
+    "redlink": false,
+    "original_title": "わんぱく王子の大蛇退治 ( Wanpaku Ōji no Orochi Taiji )",
+    "type": "Movie",
+    "demographic": "Family, Children",
+    "regions": "JA",
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3336",
+      "title_romaji": "Wanpaku Ouji no Orochi Taiji",
+      "title_english": "Orochi",
+      "title_native": "わんぱく王子の大蛇退治",
+      "description": "This anime film tells the story of the god Susanoo (as a cute boy), whose mother Izanami had passed away. He was deeply hurt by the loss of his mother, but his father Izanagi told him that once she had died, she had gone to the heavens. Despite Izanagi's warnings, Susanoo eventually sets off to find her. Along with his companions Akahana (a little talking rabbit) and Taitanbo (a strong but friendly giant from the Land of Fire), Susanoo overcomes all obstacles in his long, wonderous voyage. He eventually comes to the Izumo Province, where he meets a little girl, Princess Kushinada, whom he becomes friends with (He also thought she was so beautiful that she looks like his mother Izanami). Kushinada's family tells Susanoo that their other seven daughters were sacrificed to the fearsome eight-headed serpent, the Orochi. Susanoo was so infatuated with Kushinada that he decided to help her family protect her and slay the Orochi once and for all, as he, Akahana and Taitanbo prepare for the spectacular showdown...",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3336/large.jpg",
+      "kitsu_year": 1963,
+      "format": "movie",
+      "episodes": 1,
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Earth",
+        "Asia",
+        "Past"
+      ],
+      "site_url": "https://kitsu.io/anime/wanpaku-ouji-no-orochi-taiji",
+      "year_match": true,
+      "image_path": "images/kitsu-3336.jpg"
+    }
+  }
+]
