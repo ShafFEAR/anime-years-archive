@@ -273,7 +273,25 @@
     "type": "TV",
     "demographic": "Shōnen",
     "regions": "Japan",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "9276",
+      "title_romaji": "Gekisou! Rubenkaiser",
+      "title_english": null,
+      "title_native": "激走! ルーベンカイザー",
+      "description": "A race car driver competes around the world in a race car left to him by his father.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/9276/large.jpg",
+      "kitsu_year": 1977,
+      "format": "TV",
+      "episodes": 17,
+      "site_url": "https://kitsu.io/anime/gekisou-rubenkaiser",
+      "genres": [
+        "Motorsport",
+        "Sports"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-9276.jpg"
+    }
   },
   {
     "year": 1977,
@@ -387,7 +405,32 @@
     "type": "TV",
     "demographic": "Shōnen",
     "regions": "Japan, Italy, Korea",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1991",
+      "title_romaji": "Muteki Choujin Zanbot 3",
+      "title_english": "Invincible Superman Zanbot 3",
+      "title_native": "無敵超人サンボット３",
+      "description": "There once existed a planet named Beal, until it was wiped out by the mysterious entity known as Gaizok. The few remaining survivors escaped to Earth and split into three families, named Jin, Kamie, and Kamikita respectively. While attempting to start a new life, the collectively known \"Jin Family\" prepared for the inevitable Gaizok invasion on Earth and its giant mechanical beasts known as \"Mecha Boosts\". In order to defend their new home, they have built three vehicles which when combined form the mighty Zambot 3. The Jin Family must not only defend against Gaizok attacks, but also harsh criticisms from the very people they protect, who blame the Jin Family for the invasion in the first place.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1991/large.jpg",
+      "kitsu_year": 1977,
+      "format": "TV",
+      "episodes": 23,
+      "site_url": "https://kitsu.io/anime/muteki-choujin-zanbot-3",
+      "genres": [
+        "Present",
+        "Mecha",
+        "Transforming Craft",
+        "Piloted Robot",
+        "Japan",
+        "Humanoid Alien",
+        "Action",
+        "Science Fiction",
+        "Drama"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1991.jpg"
+    }
   },
   {
     "year": 1977,
@@ -499,7 +542,33 @@
     "type": "TV",
     "demographic": "Seinen",
     "regions": "Japan, France, Spain, Italy, Philippines, United States",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1278",
+      "title_romaji": "Shin Lupin Sansei",
+      "title_english": "Lupin the Third: Part II",
+      "title_native": "新・ルパン三世",
+      "description": "Stealthy, smug, sharp, and silly. These words only begin to describe the greatest thief in the world, Lupin the Third. Ever at his side are the quick-draw sharpshooter Daisuke Jigen and the deadly, honor-bound swordsman Goemon Ishikawa Besides the countless fabulous treasures and priceless gems he pursues across the world, Lupin’s target is the heart of one Fujiko Mine, a buxom beauty who’s just as often Lupin’s rival as she is his girlfriend. But getting away with the gold and the girl is rarely as simple as it first seems. The clever Fujiko is eager to run off with the treasure for herself. And the dogged Tokyo Police Inspector Zenigata has transferred to Interpol just to chase Lupin and his globe-trotting gang across any and all borders! What’s an international master criminal to do?",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1278/large.jpg",
+      "kitsu_year": 1977,
+      "format": "TV",
+      "episodes": 155,
+      "site_url": "https://kitsu.io/anime/lupin-iii-part-ii",
+      "genres": [
+        "Gunfights",
+        "Swordplay",
+        "Present",
+        "Earth",
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Crime",
+        "Cops",
+        "Thievery"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1278.jpg"
+    }
   },
   {
     "year": 1977,
@@ -611,7 +680,33 @@
     "type": "TV",
     "demographic": "Family",
     "regions": "Netherlands, Italy, Japan, Spain, France, Russia, Arabia, China (Taiwan), Korea",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2582",
+      "title_romaji": "Ie Naki Ko",
+      "title_english": null,
+      "title_native": "家なき子",
+      "description": "Remi is a boy living happily with his mother in the French countryside. But everything changes when his estranged father comes home and, in desperate need of money, reveals that Remi is adopted, and sells him. Heartbroken, Remi ends up with Vitalis, a traveling musician, and his troupe of animal entertainers. Together, they travel the country in search for Remi's real parents, along the way learning the harsh lessons of life. A deeply moving story about friendship, loss and the pursuit of happiness.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2582/large.jpg",
+      "kitsu_year": 1977,
+      "format": "TV",
+      "episodes": 51,
+      "site_url": "https://kitsu.io/anime/ie-naki-ko",
+      "genres": [
+        "Past",
+        "Earth",
+        "Historical",
+        "Plot Continuity",
+        "Performance",
+        "France",
+        "Europe",
+        "Angst",
+        "Adventure",
+        "Slice of Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2582.jpg"
+    }
   },
   {
     "year": 1977,
@@ -624,7 +719,24 @@
     "type": "Short",
     "demographic": "Family",
     "regions": "Japan",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "4840",
+      "title_romaji": "Manga",
+      "title_english": null,
+      "title_native": "漫画",
+      "description": "Short experimental animation from Yoji Kuri.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/4840/large.jpg",
+      "kitsu_year": 1977,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/manga",
+      "genres": [
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-4840.jpg"
+    }
   },
   {
     "year": 1977,
@@ -637,7 +749,24 @@
     "type": "TV",
     "demographic": "Family",
     "regions": "Japan, Italy",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "5903",
+      "title_romaji": "Manga Nihon Emaki",
+      "title_english": null,
+      "title_native": "まんが日本絵巻",
+      "description": "Animated adaptations of traditional and historical Japanese stories. Each episode features 2 different stories.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/5903/large.jpg",
+      "kitsu_year": 1977,
+      "format": "TV",
+      "episodes": 46,
+      "site_url": "https://kitsu.io/anime/manga-nihon-emaki",
+      "genres": [
+        "Historical"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-5903.jpg"
+    }
   },
   {
     "year": 1977,
@@ -680,7 +809,26 @@
     "type": "TV",
     "demographic": "Family",
     "regions": "Japan, Germany, Spain, Italy, Arabia, Philippines, China (Taiwan)",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2341",
+      "title_romaji": "Araiguma Rascal",
+      "title_english": "Raccoon Rascal",
+      "title_native": "あらいぐまラスカル",
+      "description": "The 11 year old Robby North and his friend Oscar live in Wisconsin. During fishing they hear a shot. A racoon-mother was shot. Robby takes the baby of this racoon with him and cares for it. The boy names the racoon Rascal.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2341/large.jpg",
+      "kitsu_year": 1977,
+      "format": "TV",
+      "episodes": 52,
+      "site_url": "https://kitsu.io/anime/araiguma-rascal",
+      "genres": [
+        "Historical",
+        "Slice of Life",
+        "Drama"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2341.jpg"
+    }
   },
   {
     "year": 1977,
@@ -740,7 +888,33 @@
     "type": "Movie",
     "demographic": "Shōnen",
     "regions": "Spain, Italy, Japan, France, China (Taiwan), United Kingdom, United States, Canada",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1484",
+      "title_romaji": "Uchuu Senkan Yamato 2",
+      "title_english": "Star Blazers: The Comet Empire",
+      "title_native": "宇宙戦艦ヤマト2",
+      "description": "A year has passed since the Star Force returned to save the Earth but another danger now approaches from deep space. A gigantic White Comet hurtles toward our galaxy, obliterating everything in its path. But it is no ordinary comet—it is the deadly Comet Empire, conqueror of worlds... and Earth is the next target! Against orders, the Star Force blasts off to investigate, but even if they can get past the flagship Andromeda, they don't yet know the true nature of their new enemy!",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1484/large.jpg",
+      "kitsu_year": 1978,
+      "format": "TV",
+      "episodes": 26,
+      "site_url": "https://kitsu.io/anime/uchuu-senkan-yamato-2",
+      "genres": [
+        "Alien",
+        "Future",
+        "Space",
+        "Space Travel",
+        "Shipboard",
+        "Action",
+        "Science Fiction",
+        "Adventure",
+        "Military",
+        "Space Opera"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1484.jpg"
+    }
   },
   {
     "year": 1977,
@@ -753,7 +927,33 @@
     "type": "TV",
     "demographic": "Shōnen",
     "regions": "Italy, Japan",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "956",
+      "title_romaji": "Chou Denji Machine Voltes V",
+      "title_english": null,
+      "title_native": "超電磁マシーン ボルテスV",
+      "description": "From out of nowhere, a mysterious alien race known as the Boazan Forces has invaded the Earth. A group of individuals specially trained to handle this kind of situation has been unleashed. Kenichi, Ippei, Daijirou, Hiyoshi &amp; Megumi are the pilots of the Choudenji Machine Voltes V (5), Earth's defense against the Boazan and their terrible Beast Warriors. The plot thickens as the Go Brothers discover their true heritage and the truth behind their father's disappearance. Conflicts and mixed emotions hinder the Go Brothers at times but due to their unwavering desire to find their dad, they must go to the place where it all started. With the help of the rebels based on Earth and on the aliens' homeworld, the Voltes Team has another mission, remove the tyrant Zu Zanbajil and liberate the people of Boazan.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/956/large.jpg",
+      "kitsu_year": 1977,
+      "format": "TV",
+      "episodes": 40,
+      "site_url": "https://kitsu.io/anime/voltes-v",
+      "genres": [
+        "Alien",
+        "Robot",
+        "Future",
+        "Earth",
+        "Mecha",
+        "Transforming Craft",
+        "Piloted Robot",
+        "Humanoid Alien",
+        "Action",
+        "Science Fiction"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-956.jpg"
+    }
   },
   {
     "year": 1977,
@@ -974,6 +1174,26 @@
     "type": "TV",
     "demographic": "Shōnen",
     "regions": "Spain, Italy, Poland, Japan, Korea",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2719",
+      "title_romaji": "Time Bokan Series: Yatterman",
+      "title_english": null,
+      "title_native": "タイムボカンシリーズ ヤッターマン",
+      "description": "A mysterious gem called the \"Skull Stone\" is said to be able to reveal the location of the largest vein of gold in the world. This legend has entranced many people who wanted to get their hands on fame, power and wealth, including the trio of villains in this show: the \"Dorombo Gang.\" However, their hunt for the Skull Stone is not as easy as they imagined, mainly due to the faulty information they receive from their leader, and most of all, by a justical duo of pursuers called the \"Yatterman\"!",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2719/large.jpg",
+      "kitsu_year": 1977,
+      "format": "TV",
+      "episodes": 108,
+      "site_url": "https://kitsu.io/anime/time-bokan-series-yatterman",
+      "genres": [
+        "Mecha",
+        "Adventure",
+        "Comedy",
+        "Ecchi"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2719.jpg"
+    }
   }
 ]

@@ -595,7 +595,30 @@
     "type": "TV",
     "demographic": "",
     "regions": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3150",
+      "title_romaji": "Shin Kidou Senki Gundam Wing: Operation Meteor",
+      "title_english": "Mobile Suit Gundam Wing: Operation Meteor",
+      "title_native": "新機動戦記ガンダムＷ オペレーション・メテオ ODD＆EVEN NUMBERS",
+      "description": "Two video releases recapping events from the Gundam Wing TV series. Each Operation Meteor video contains an 'Odd' episode and an 'Even' episode. The 'Odd' episodes feature Heero, Trowa and Wufei, while the 'Even' episodes feature Duo and Quatre. The episodes also featured brief new footages of the characters after the final episode of the TV series.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3150/large.jpg",
+      "kitsu_year": 1996,
+      "format": "OVA",
+      "episodes": 4,
+      "site_url": "https://kitsu.io/anime/mobile-suit-gundam-wing-operation-meteor",
+      "genres": [
+        "Space",
+        "Mecha",
+        "Action",
+        "Science Fiction",
+        "Adventure",
+        "Military",
+        "Psychological"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3150.jpg"
+    }
   },
   {
     "year": 1995,
@@ -681,7 +704,31 @@
     "type": "OVA",
     "demographic": "",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1871",
+      "title_romaji": "Idol Project",
+      "title_english": null,
+      "title_native": "アイドルプロジェクト",
+      "description": "Mimu Emilton is a cute fourteen-year-old who has come to the annual Starland Festival to become an idol, just like her role model, Yuri. It is the most celebrated event on a united Earth, and Yuri, now the President of Earth, has encouraged people to join the ranks of Excellent Idols. Unfortunately for Mimu, she can never seem to make it to her audition on time, as misadventure after misadventure lands her in situations (usually involving undergarment exposure, I might add) that she escapes with the help of the current Excellent Idols, whom she befriends. Just as she makes her place on the stage and begins her audition, though, an unknown group of aliens kidnaps her and the Excellent Idols. It is only the beginning of a wild interdimensional goose-chase that places Mimu in the position to save the world, if only she can believe in herself.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1871/large.jpg",
+      "kitsu_year": 1995,
+      "format": "OVA",
+      "episodes": 4,
+      "site_url": "https://kitsu.io/anime/idol-project",
+      "genres": [
+        "Idol",
+        "Future",
+        "Stereotypes",
+        "Music",
+        "Action",
+        "Science Fiction",
+        "Adventure",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1871.jpg"
+    }
   },
   {
     "year": 1995,
@@ -856,7 +903,31 @@
     "type": "OVA",
     "demographic": "",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2246",
+      "title_romaji": "Ginga Ojousama Densetsu Yuna: Kanashimi no Siren",
+      "title_english": "Galaxy Fraulein Yuna",
+      "title_native": "銀河お嬢様伝説ユナ ～哀しみのセイレーン～",
+      "description": "Yuna Kagurazaka won the interstellar Galaxy Fraulein contest to become the Guardian of the Light. After defeating several threats to galactic peace (As seen in the PC Engine games), old enemies have framed Yuna for attacking and demolishing her hometown. Yuna's friends now must attempt to rescue her from her pending execution, with comedic results.",
+      "cover_large": "https://media.kitsu.app/anime/2246/poster_image/large-cff7b6d60a5b32b25c61f33d981bf11f.jpeg",
+      "kitsu_year": 1995,
+      "format": "OVA",
+      "episodes": 2,
+      "site_url": "https://kitsu.io/anime/galaxy-fraulein-yuna",
+      "genres": [
+        "Magic",
+        "Mecha",
+        "Piloted Robot",
+        "Action",
+        "Science Fiction",
+        "Adventure",
+        "Comedy",
+        "Henshin"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2246.jpg"
+    }
   },
   {
     "year": 1995,
@@ -913,7 +984,26 @@
     "type": "Movie",
     "demographic": "",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "6017",
+      "title_romaji": "Sore Ike! Anpanman: Sora Tobu Ehon to Glass no Kutsu",
+      "title_english": null,
+      "title_native": "それいけ!アンパンマン「空とぶ絵本とガラスの靴」",
+      "description": "8th Anpanman short movie.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/6017/large.jpg",
+      "kitsu_year": 1996,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/sore-ike-anpanman-sora-tobu-ehon-to-glass-no-kutsu",
+      "genres": [
+        "Fantasy",
+        "Comedy",
+        "Kids"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-6017.jpg"
+    }
   },
   {
     "year": 1995,
@@ -960,7 +1050,28 @@
     "type": "TV special",
     "demographic": "",
     "regions": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1287",
+      "title_romaji": "Lupin III: Harimao no Zaihou wo Oe!!",
+      "title_english": "Lupin the Third: The Pursuit of Harimao's Treasure",
+      "title_native": "ルパン三世『ハリマオの財宝を追え!!』",
+      "description": "The infamous bandit Harimao hid a treasure, and to retrieve it, Lupin and the gang must gather three lost statues. When the Nazi-like group Neo-Himmel make a run for the goods, Lupin reluctantly partners with the aging \"double-O\" MI-6 agent Sir Archer and his granddaughter Diana to gather he statues first. Can this unorthodox team bond well enough to see this mission through? Find out in the Pursuit of Harimao's Treasure!",
+      "cover_large": "https://media.kitsu.app/anime/1287/poster_image/large-83fe23079a1ced5058b7bb25e7dee9f3.jpeg",
+      "kitsu_year": 1995,
+      "format": "special",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/lupin-iii-the-pursuit-of-harimao-s-treasure",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Crime",
+        "Thievery"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1287.jpg"
+    }
   },
   {
     "year": 1995,
@@ -1228,7 +1339,31 @@
     "type": "Movie",
     "demographic": "",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "5202",
+      "title_romaji": "Gotou ni Naritai.",
+      "title_english": null,
+      "title_native": "５等になりたい。",
+      "description": "Story of a girl born with a bad leg. Ritsuko longs to go to school and make lots of friends but it is not so easy. Her mother is very protective of her and at school she is teased by her classmates for her strange way of walking. Will she manage to keep her smile?",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/5202/large.jpg",
+      "kitsu_year": 1995,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/five-tou-ni-naritai",
+      "genres": [
+        "Elementary School",
+        "Present",
+        "Earth",
+        "Japan",
+        "Plot Continuity",
+        "Asia",
+        "Slice of Life",
+        "School Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-5202.jpg"
+    }
   },
   {
     "year": 1995,
@@ -1426,7 +1561,30 @@
     "type": "Movie",
     "demographic": "",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1584",
+      "title_romaji": "Slam Dunk (Movie)",
+      "title_english": null,
+      "title_native": "スラムダンク",
+      "description": "Sakuragi and the Shohoko team takes on Oda and Takezono High School. This is Sakuragi's second match as he faces Oda, a basketball player who went to the same junior high.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1584/large.jpg",
+      "kitsu_year": 1994,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/slam-dunk-movie-1",
+      "genres": [
+        "Basketball",
+        "Action",
+        "Comedy",
+        "Slice of Life",
+        "School Life",
+        "Sports",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1584.jpg"
+    }
   },
   {
     "year": 1995,
@@ -1439,7 +1597,30 @@
     "type": "Movie",
     "demographic": "",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1584",
+      "title_romaji": "Slam Dunk (Movie)",
+      "title_english": null,
+      "title_native": "スラムダンク",
+      "description": "Sakuragi and the Shohoko team takes on Oda and Takezono High School. This is Sakuragi's second match as he faces Oda, a basketball player who went to the same junior high.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1584/large.jpg",
+      "kitsu_year": 1994,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/slam-dunk-movie-1",
+      "genres": [
+        "Basketball",
+        "Action",
+        "Comedy",
+        "Slice of Life",
+        "School Life",
+        "Sports",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1584.jpg"
+    }
   },
   {
     "year": 1995,
@@ -1793,7 +1974,24 @@
     "type": "TV",
     "demographic": "",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "4909",
+      "title_romaji": "Sekai Meisaku Douwa: Wow! Maerchen Oukoku",
+      "title_english": "The World's Most Famous Tales",
+      "title_native": "アニメ世界の童話 / メルヘン王国",
+      "description": "Based on Western tales from the usual suspects: 1001 Nights, C. Perrault, Beaumont, J. &amp; W. Grimm, H. C. Andersen, C. Collodi, English fairytale, H. Pyle, L. Carrol, J. Swift, A. Dumas, E. T. A Hoffman, L. F. Baum, and J. Spyri. Only 21 stories were broadcast, with the last five being released on VHS.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/4909/large.jpg",
+      "kitsu_year": 1995,
+      "format": "TV",
+      "episodes": 26,
+      "site_url": "https://kitsu.io/anime/sekai-meisaku-douwa-wow-maerchen-oukoku",
+      "genres": [
+        "Fantasy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-4909.jpg"
+    }
   },
   {
     "year": 1995,

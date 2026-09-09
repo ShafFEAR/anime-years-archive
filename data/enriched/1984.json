@@ -256,7 +256,33 @@
     "director": "Osamu Kasai",
     "studio": "Toei Animation",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2312",
+      "title_romaji": "Princess Sara",
+      "title_english": "A Little Princess Sara",
+      "title_native": "小公女セーラ",
+      "description": "Sara, a pretty girl born into a rich British family in India, is treated like a little princess at a dormitory school in London. Sara's sweet school life turns to tragedy when she learns of her father's death and the family's bankruptcy. However, Sara endures her hard luck with kindness and imagination and escapes from her misery through fantasies.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2312/large.jpg",
+      "kitsu_year": 1985,
+      "format": "TV",
+      "episodes": 46,
+      "site_url": "https://kitsu.io/anime/princess-sara",
+      "genres": [
+        "All Girls School",
+        "Past",
+        "Earth",
+        "Historical",
+        "Plot Continuity",
+        "United Kingdom",
+        "Europe",
+        "Slice of Life",
+        "Drama",
+        "Coming Of Age"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2312.jpg"
+    }
   },
   {
     "year": 1984,
@@ -270,7 +296,31 @@
     "director": "Yuzo Aoki , Osamu Nabeshima , Shigetsugu Yoshida",
     "studio": "TMS",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1279",
+      "title_romaji": "Lupin Sansei: Part III",
+      "title_english": "Lupin the Third: Part III",
+      "title_native": "ルパン三世 - Part III",
+      "description": "Lupin III chronicles the adventures of Arsene Lupin III, the world's greatest thief, and his partners in crime: master marksman Daisuke Jigen, beautiful and scheming Fujiko Mine and stoic samurai Goemon Ishikawa XIII. Lupin and his gang travel around the globe in search of the world's greatest treasures and riches and always keeping one step ahead of the tireless Inspector Zenigata, who has vowed to bring Lupin to justice.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1279/large.jpg",
+      "kitsu_year": 1984,
+      "format": "TV",
+      "episodes": 50,
+      "site_url": "https://kitsu.io/anime/lupin-iii-part-iii",
+      "genres": [
+        "Present",
+        "Earth",
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Crime",
+        "Cops",
+        "Thievery"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1279.jpg"
+    }
   },
   {
     "year": 1984,
@@ -321,7 +371,26 @@
     "director": "Hayao Miyazaki",
     "studio": "Nippon Animation",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2378",
+      "title_romaji": "Mirai Shounen Conan: Kyodaiki Gigant no Fukkatsu",
+      "title_english": null,
+      "title_native": "未来少年コナン特別篇　巨大機ギガントの復活",
+      "description": "Mirai Shounen Conan movie.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2378/large.jpg",
+      "kitsu_year": 1984,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/mirai-shounen-conan-tokubetsu-hen-kyodaiki-gigant-no-fukkatsu",
+      "genres": [
+        "Science Fiction",
+        "Adventure",
+        "Steampunk"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2378.jpg"
+    }
   },
   {
     "year": 1984,
@@ -408,7 +477,27 @@
     "director": "Tsutomu Shibayama",
     "studio": "Shin-Ei Animation",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2435",
+      "title_romaji": "Doraemon Movie 05: Nobita no Makai Daibouken",
+      "title_english": "Doraemon the Movie: Nobita's Great Adventure into the Underworld",
+      "title_native": "映画 ドラえもん のび太の魔界大冒険",
+      "description": "Having dreamed of being in a world of magic, Nobita and Doraemon used the what-if-telephone-booth gadget to turn the world into one that is based on magic instead of science. Little did they know that demons exist and threaten this magical world.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2435/large.jpg",
+      "kitsu_year": 1984,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/doraemon-nobita-s-great-adventure-in-the-world-of-magic",
+      "genres": [
+        "Earth",
+        "Japan",
+        "Asia",
+        "Fantasy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2435.jpg"
+    }
   },
   {
     "year": 1984,
@@ -539,7 +628,27 @@
     "director": "Gisaburō Sugii",
     "studio": "Eiken",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "465",
+      "title_romaji": "Glass no Kamen",
+      "title_english": null,
+      "title_native": "ガラスの仮面",
+      "description": "Kitajima Maya, a 13-year old girl with a talent for acting, was discovered by the reclusive actress Tsukikage. The story follows Maya's growing up, intense training, overcoming challenges, and evolving into the foremost actress of her generation (she is about 20 so far). Maya's greatest rival is Himekawa Ayumi, the beautiful daughter of a famous movie couple. They ultimately vied for the most sought-after role - the \"Crimson Goddess\". An equally important subplot Maya's relationship with the handsome and ruthless entertainment mogul Hayami Masumi, who secretly became her number one fan, but misunderstandings and bad-timing obstructed their romance...",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/465/large.jpg",
+      "kitsu_year": 1984,
+      "format": "TV",
+      "episodes": 23,
+      "site_url": "https://kitsu.io/anime/glass-no-kamen",
+      "genres": [
+        "Performance",
+        "Romance",
+        "The Arts",
+        "Shoujo"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-465.jpg"
+    }
   },
   {
     "year": 1984,
@@ -844,7 +953,27 @@
     "director": "Kimio Yabuki",
     "studio": "Toei Animation",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "5373",
+      "title_romaji": "The Kabocha Wine: Nita no Aijou Monogatari",
+      "title_english": null,
+      "title_native": "Ｔｈｅかぼちゃワイン ニタの愛情物語",
+      "description": "The sequel to The Kabocha Wine.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/5373/large.jpg",
+      "kitsu_year": 1984,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/the-kabocha-wine-nita-no-aijou-monogatari",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Slice of Life",
+        "School Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-5373.jpg"
+    }
   },
   {
     "year": 1984,
@@ -1305,7 +1434,33 @@
     "director": "Takeyuki Kanda",
     "studio": "Nippon Sunrise",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1294",
+      "title_romaji": "Ginga Tetsudou no Yoru",
+      "title_english": "Night on the Galactic Railroad",
+      "title_native": "銀河鉄道の夜",
+      "description": "Based on a short story by the popular children's writer Kenji Miyazawa, Galactic Railroad offers viewers a slow-paced, dreamlike journey through space and time. When Giovanni, a lonely boy in a hill town, goes to get milk for his ailing mother, he finds himself crossing the Milky Way on a faster-than-light steam railroad. The stations he visits in various constellations, like the planets explored by St. Exupery's Little Prince, offer curious adventures and an assortment of human \"types.\" Reality and fantasy blur aboard the train, and its travels across the light-years sometimes suggests the journey through life. The characters are depicted as cats, presumably to avoid the problems of animating humans.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1294/large.jpg",
+      "kitsu_year": 1985,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/night-on-the-galactic-railroad",
+      "genres": [
+        "Past",
+        "Historical",
+        "Plot Continuity",
+        "Parallel Universe",
+        "Fantasy",
+        "Adventure",
+        "Anthropomorphism",
+        "Drama",
+        "Coming Of Age",
+        "Mystery"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1294.jpg"
+    }
   },
   {
     "year": 1984,
@@ -1375,7 +1530,33 @@
     "director": "Takeyuki Kanda",
     "studio": "Nippon Sunrise",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1294",
+      "title_romaji": "Ginga Tetsudou no Yoru",
+      "title_english": "Night on the Galactic Railroad",
+      "title_native": "銀河鉄道の夜",
+      "description": "Based on a short story by the popular children's writer Kenji Miyazawa, Galactic Railroad offers viewers a slow-paced, dreamlike journey through space and time. When Giovanni, a lonely boy in a hill town, goes to get milk for his ailing mother, he finds himself crossing the Milky Way on a faster-than-light steam railroad. The stations he visits in various constellations, like the planets explored by St. Exupery's Little Prince, offer curious adventures and an assortment of human \"types.\" Reality and fantasy blur aboard the train, and its travels across the light-years sometimes suggests the journey through life. The characters are depicted as cats, presumably to avoid the problems of animating humans.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1294/large.jpg",
+      "kitsu_year": 1985,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/night-on-the-galactic-railroad",
+      "genres": [
+        "Past",
+        "Historical",
+        "Plot Continuity",
+        "Parallel Universe",
+        "Fantasy",
+        "Adventure",
+        "Anthropomorphism",
+        "Drama",
+        "Coming Of Age",
+        "Mystery"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1294.jpg"
+    }
   },
   {
     "year": 1984,
@@ -1389,7 +1570,25 @@
     "director": "Hiroki Shibata",
     "studio": "Toei Animation",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "4390",
+      "title_romaji": "Dr. Slump Movie 04: Arale-chan Hoyoyo! Nanaba Shiro no Hihou",
+      "title_english": "Dr. Slump and Arale-chan: Hoyoyo! The Treasure of Nanaba Castle",
+      "title_native": "Ｄｒ．スランプ アラレちゃん ほよよ！ナナバ城の秘宝",
+      "description": "Dr. Slump found the secret treasure named “Eye of Rainbow” of legendary Nanaba Castle in the mountain. This treasure makes every dream come true. When the robbery gang of Arale, Ga-chan tried to steal this treasure, Bisna who is the descendant of Nanaba Kingdom took the treasure. Bisna wanted to revive the devil and Nanaba Kingdom. Arale and her friends went towards the secret Nanaba Castle to get back the treasure.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/4390/large.jpg",
+      "kitsu_year": 1984,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/dr-slump-movie-4-arale-chan-hoyoyo-nanaba-shiro-no-hihou",
+      "genres": [
+        "Science Fiction",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-4390.jpg"
+    }
   },
   {
     "year": 1984,

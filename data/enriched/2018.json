@@ -48,7 +48,30 @@
     "running_time": "119",
     "notes": "",
     "ref": "[ 2 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "14151",
+      "title_romaji": "Macross Δ Movie: Gekijou no Walküre",
+      "title_english": null,
+      "title_native": "劇場版マクロスΔ 激情のワルキューレ",
+      "description": "The film will recompile scenes from the television anime with new scenes to tell a different story, to maximize the storytelling potential of the shorter runtime but larger medium. It will have at least one new song and enhanced battle sequences.",
+      "cover_large": "https://media.kitsu.app/anime/14151/poster_image/large-ad4cb281b5f9eaafd61a415dfb419855.jpeg",
+      "kitsu_year": 2018,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/macross-delta-gekijou-no-walkure",
+      "genres": [
+        "Space",
+        "Mecha",
+        "Music",
+        "Action",
+        "Science Fiction",
+        "Romance",
+        "Military"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-14151.jpg"
+    }
   },
   {
     "year": 2018,
@@ -63,7 +86,29 @@
     "running_time": "132",
     "notes": "",
     "ref": "[ 3 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "12767",
+      "title_romaji": "Code Geass: Fukkatsu no Lelouch",
+      "title_english": "Code Geass: Lelouch of the Re;surrection",
+      "title_native": "コードギアス 復活のルルーシュ",
+      "description": "The story takes place several years after Lelouch's \"Zero Requiem\" plan. Since the demise of the man believed to be Britannia's most wicked emperor one year ago, the world has enjoyed an unprecedented peace under the guidance of the United Federation of Nations. However, this fragile calm is shattered when armed militants successfully kidnap former princess Nunnally vi Britannia and Suzaku Kururugi, the chief advisor of the Black Knights, sparking an international crisis. The powerful and untrustworthy Kingdom of Zilkhstan is accused of orchestrating their capture. To investigate, world authorities send Kallen Stadtfeld and her associates on a covert operation into the country. There, they encounter the immortal witch C.C., who is on a mission to complete the resurrection of the man responsible for the greatest revolution in history—a legend who will rise up, take command, and save the world from peril once again.",
+      "cover_large": "https://media.kitsu.app/anime/12767/poster_image/large-e8752d2b5954df36ac81f4c840824a85.jpeg",
+      "kitsu_year": 2019,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/code-geass-fukkatsu-no-lelouch",
+      "genres": [
+        "Super Power",
+        "Mecha",
+        "Action",
+        "Science Fiction",
+        "Drama",
+        "Military"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-12767.jpg"
+    }
   },
   {
     "year": 2018,
@@ -214,7 +259,24 @@
     "running_time": "105",
     "notes": "",
     "ref": "[ 8 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "13960",
+      "title_romaji": "Crayon Shin-chan Movie 26: Bakumori! Kung Fu Boys - Ramen Tairan",
+      "title_english": null,
+      "title_native": "映画クレヨンしんちゃん 爆盛！カンフーボーイズ ～拉麺大乱～",
+      "description": "Kasukabe Team, including Shinnosuke, will be active in Kasukabe's Yokohama Street.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/13960/large.jpg",
+      "kitsu_year": 2018,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/crayon-shin-chan-movie-26-bakumori-kung-fu-boys-ramen-tairan",
+      "genres": [
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-13960.jpg"
+    }
   },
   {
     "year": 2018,
@@ -302,7 +364,29 @@
     "running_time": "98",
     "notes": "",
     "ref": "[ 11 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "11548",
+      "title_romaji": "Digimon Adventure tri. 4: Soushitsu",
+      "title_english": "Digimon Adventure tri. 4: Loss",
+      "title_native": "デジモンアドベンチャーtri.（トライ）第４章「喪失」",
+      "description": "Following Meicoomon's rampage and the Reboot, Taichi and the others leave behind a distressed Meiko and head to the Digital World. But the partner Digimon that they've reunited with have lost their memories. While Sora normally thinks of others even before herself, she now has distrust in her heart. A tearful Meicoomon appears and disappears again. For some reason, she has retained past memories, and is searching for Meiko. Upon seeing Meicoomon, the kids resolve to journey through the Digital World to save her, but a man with the Dark Masters at his command stands in their way. Meanwhile, in the real world, Nishijima receives a notice that Himekawa has disappeared. When he investigates, he learns that she has had a hidden goal behind all her actions thus far.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/11548/large.jpg",
+      "kitsu_year": 2017,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/digimon-adventure-tri-4",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Friendship",
+        "Proxy Battles",
+        "Drama"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-11548.jpg"
+    }
   },
   {
     "year": 2018,
@@ -353,7 +437,29 @@
     "running_time": "120",
     "notes": "",
     "ref": "[ 13 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "12767",
+      "title_romaji": "Code Geass: Fukkatsu no Lelouch",
+      "title_english": "Code Geass: Lelouch of the Re;surrection",
+      "title_native": "コードギアス 復活のルルーシュ",
+      "description": "The story takes place several years after Lelouch's \"Zero Requiem\" plan. Since the demise of the man believed to be Britannia's most wicked emperor one year ago, the world has enjoyed an unprecedented peace under the guidance of the United Federation of Nations. However, this fragile calm is shattered when armed militants successfully kidnap former princess Nunnally vi Britannia and Suzaku Kururugi, the chief advisor of the Black Knights, sparking an international crisis. The powerful and untrustworthy Kingdom of Zilkhstan is accused of orchestrating their capture. To investigate, world authorities send Kallen Stadtfeld and her associates on a covert operation into the country. There, they encounter the immortal witch C.C., who is on a mission to complete the resurrection of the man responsible for the greatest revolution in history—a legend who will rise up, take command, and save the world from peril once again.",
+      "cover_large": "https://media.kitsu.app/anime/12767/poster_image/large-e8752d2b5954df36ac81f4c840824a85.jpeg",
+      "kitsu_year": 2019,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/code-geass-fukkatsu-no-lelouch",
+      "genres": [
+        "Super Power",
+        "Mecha",
+        "Action",
+        "Science Fiction",
+        "Drama",
+        "Military"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-12767.jpg"
+    }
   },
   {
     "year": 2018,
@@ -752,7 +858,29 @@
     "running_time": "71",
     "notes": "",
     "ref": "[ 25 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "13535",
+      "title_romaji": "Non Non Biyori Movie: Vacation",
+      "title_english": null,
+      "title_native": "劇場版 のんのんびより ばけーしょん",
+      "description": "Summer vacation is drawing to an end. When Suguru wins a free trip to Okinawa, all of the five students of Asahigaoka branch school are excited to end their vacation with a bang. Along with Hikage, Konomi, and their teacher and the candy store owner, everyone goes to Okinawa for a fun three-day trip. There, Natsumi makes friends with Aoi, the girl who helps out at the hotel they stay in.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/13535/large.jpg",
+      "kitsu_year": 2018,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/non-non-biyori-vacation",
+      "genres": [
+        "Present",
+        "Japan",
+        "Comedy",
+        "Slice of Life",
+        "School Life",
+        "Summer"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-13535.jpg"
+    }
   },
   {
     "year": 2018,
@@ -910,7 +1038,28 @@
     "running_time": "82",
     "notes": "",
     "ref": "[ 29 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "41357",
+      "title_romaji": "Garo: Uzusumizakura",
+      "title_english": null,
+      "title_native": "薄墨桜 -GARO-",
+      "description": "Set during the Heian Period, Kyo is a beautiful city that is proud of its glory. Two beautiful onmyouji meet, and the sad and short-lived beautiful cherry blossom starts to stir after 1000 years.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/41357/large.jpg",
+      "kitsu_year": 2018,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/usuzumizakura-garo",
+      "genres": [
+        "Magic",
+        "Demon",
+        "Action",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-41357.jpg"
+    }
   },
   {
     "year": 2018,
@@ -962,7 +1111,29 @@
     "running_time": "111",
     "notes": "",
     "ref": "[ 30 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8274",
+      "title_romaji": "Mahou Shoujo Lyrical Nanoha: Reflection",
+      "title_english": "Magical Girl Lyrical Nanoha Reflection",
+      "title_native": "魔法少女リリカルなのは Reflection",
+      "description": "This film, unlike 1st and 2nd, have a brand new original story using elements from other media, such as the manga Nanoha Force (for Bardiche and Raising Heart new design) and the PsP game Gears of Destiny, as the Florian sisters are introduced here. It's the first part of a two-part story.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/8274/large.jpg",
+      "kitsu_year": 2017,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/mahou-shoujo-lyrical-nanoha-reflection",
+      "genres": [
+        "Magic",
+        "Magical Girl",
+        "Super Power",
+        "Action",
+        "Comedy",
+        "Drama"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8274.jpg"
+    }
   },
   {
     "year": 2018,
@@ -1721,7 +1892,29 @@
     "director": "Chizuru Miyawaki",
     "original_title": "",
     "ref": "[ 52 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "12553",
+      "title_romaji": "Gintama.",
+      "title_english": "Gintama Season 5",
+      "title_native": "銀魂。",
+      "description": "Fifth season of Gintama.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/12553/large.jpg",
+      "kitsu_year": 2017,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/gintama-2017",
+      "genres": [
+        "Samurai",
+        "Historical",
+        "Parody",
+        "Action",
+        "Science Fiction",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-12553.jpg"
+    }
   },
   {
     "year": 2018,
@@ -1823,7 +2016,27 @@
     "director": "Osamu Nabeshima",
     "original_title": "",
     "ref": "[ 56 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "11583",
+      "title_romaji": "Yowamushi Pedal: New Generation",
+      "title_english": null,
+      "title_native": "弱虫ペダル NEW GENERATION",
+      "description": "Third season of the Yowamushi Pedal series. With the team's combined strength, the Sohoku High bicycle racing club beat reigning champions Hakone Academy at the Interhigh national race and achieved an impressive overall victory. Now that their hot summer has ended and third-years Kinjou, Makishima, and Tadokoro have retired from the team, first-year participants in the Interhigh Onoda Sakamichi, Imaizumi Shunsuke, and Naruko Shoukichi, along with their new captain second-year Teshima Junta and vice-captain Aoyagi Hajime begin preparing as a \"new team\" for their second consecutive championship at the next Interhigh. In order to retake their throne, their rivals Hakone Academy have also incorporated new members and begun training as a new team. Kyoto Fushimi High is lead by the monstrous racer Midousuji Akira. The nation's top schools are all honing their skills to reach the top of the Interhigh.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/11583/large.jpg",
+      "kitsu_year": 2017,
+      "format": "TV",
+      "episodes": 25,
+      "site_url": "https://kitsu.io/anime/yowamushi-pedal-3rd-season",
+      "genres": [
+        "Motorsport",
+        "Comedy",
+        "Sports",
+        "Drama"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-11583.jpg"
+    }
   },
   {
     "year": 2018,
@@ -2064,7 +2277,30 @@
     "director": "Ayumu Watanabe",
     "original_title": "Koi wa Ameagari no You ni",
     "ref": "[ 64 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "13277",
+      "title_romaji": "Koi wa Ameagari no You ni",
+      "title_english": "After the Rain",
+      "title_native": "恋は雨上がりのように",
+      "description": "Akira Tachibana is a soft-spoken high school student who used to be a part of the track and field club but, due to an injury, she is no longer able to run as fast as she once could. Working part-time at a family restaurant as a recourse, she finds herself inexplicably falling love with her manager, a divorced 45-year-old man with a young son. Despite the age gap, Akira wholeheartedly embraces his mannerisms and kind nature, which is seen as spinelessness by the other employees, and little by little, the two begin to understand each other. Although unable to explain why exactly she is attracted to him, Akira believes that a concrete reason is not needed to truly love someone. On a rainy day, she decides to finally tell her manager about how she feels...but just how will he react?",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/13277/large.jpg",
+      "kitsu_year": 2018,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/koi-wa-ameagari-no-you-ni",
+      "genres": [
+        "Slow When It Comes To Love",
+        "Romance",
+        "Slice of Life",
+        "Drama",
+        "Coming Of Age",
+        "Working Life",
+        "Seinen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-13277.jpg"
+    }
   },
   {
     "year": 2018,
@@ -2148,7 +2384,31 @@
     "director": "Satoshi Kuwabara",
     "original_title": "",
     "ref": "[ 67 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "13701",
+      "title_romaji": "Dagashi Kashi 2",
+      "title_english": "Dagashi Kashi 2",
+      "title_native": "だがしかし2",
+      "description": "Second season of Dagashi Kashi.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/13701/large.jpg",
+      "kitsu_year": 2018,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/dagashi-kashi-2",
+      "genres": [
+        "Earth",
+        "Countryside",
+        "Parody",
+        "Japan",
+        "Slow When It Comes To Love",
+        "Asia",
+        "Comedy",
+        "Slice of Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-13701.jpg"
+    }
   },
   {
     "year": 2018,
@@ -2313,7 +2573,29 @@
     "director": "Takeshi Furuta",
     "original_title": "Nanatsu no Taizai: Imashime no Fukkatsu",
     "ref": "[ 72 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "42050",
+      "title_romaji": "Nanatsu no Taizai: Imashime no Fukkatsu OVA",
+      "title_english": "The Seven Deadly Sins: Revival of the Commandments OVA",
+      "title_native": "七つの大罪 戒めの復活 OVA",
+      "description": "OVA bundled with the 34th volume of the manga.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/42050/large.jpg",
+      "kitsu_year": 2018,
+      "format": "OVA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/nanatsu-no-taizai-imashime-no-fukkatsu-ova",
+      "genres": [
+        "Magic",
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Supernatural",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-42050.jpg"
+    }
   },
   {
     "year": 2018,
@@ -2328,7 +2610,29 @@
     "director": "Hiroaki Sakurai",
     "original_title": "Saiki Kusuo no Sai-nan",
     "ref": "[ 73 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "13477",
+      "title_romaji": "Saiki Kusuo no Ψ-nan (TV) 2",
+      "title_english": "The Disastrous Life of Saiki K. 2",
+      "title_native": "斉木楠雄のΨ難 2",
+      "description": "Sequel to Saiki Kusuo no Ψ-nan (TV).",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/13477/large.jpg",
+      "kitsu_year": 2018,
+      "format": "TV",
+      "episodes": 24,
+      "site_url": "https://kitsu.io/anime/saiki-kusuo-no-psi-nan-2",
+      "genres": [
+        "High School",
+        "Super Power",
+        "Absurdist Humour",
+        "Breaking The Fourth Wall",
+        "Comedy",
+        "School Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-13477.jpg"
+    }
   },
   {
     "year": 2018,
@@ -2525,7 +2829,27 @@
     "director": "Katsuhito Akiyama",
     "original_title": "Beyblade Burst Chōzetsu",
     "ref": "[ 79 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "13510",
+      "title_romaji": "Beyblade Burst God",
+      "title_english": null,
+      "title_native": "ベイブレードバースト 神〈ゴッド〉",
+      "description": "Second season of the Burst series and the ninth season of Beyblade.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/13510/large.jpg",
+      "kitsu_year": 2017,
+      "format": "TV",
+      "episodes": 51,
+      "site_url": "https://kitsu.io/anime/beyblade-burst-god",
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Adventure",
+        "Sports"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-13510.jpg"
+    }
   },
   {
     "year": 2018,
@@ -2540,7 +2864,32 @@
     "director": "Toshiyuki Kato",
     "original_title": "",
     "ref": "[ 80 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "14182",
+      "title_romaji": "Captain Tsubasa (2018)",
+      "title_english": null,
+      "title_native": "キャプテン翼",
+      "description": "Captain Tsubasa is the passionate story of an elementary school student whose thoughts and dreams revolve almost entirely around the love of soccer. 11-year-old Tsubasa Oozora started playing football at a very young age, and while it was mostly just a recreational sport for his friends, for him, it developed into something of an obsession. In order to pursue his dream to the best of his elementary school abilities, Tsubasa moves with his mother to Nankatsu city, which is well-known for its excellent elementary school soccer teams. But although he was easily the best in his old town, Nankatsu has a lot more competition, and he will need all of his skill and talent in order to stand out from this new crowd. He encounters not only rivals, but also new friends like the pretty girl Sanae Nakazawa and the talented goalkeeper, Genzo Wakabayashi, who shares the same passion as Tsubasa, and will prove to be a treasured friend in helping him push towards his dreams. Representing Japan in the FIFA World Cup is Tsubasa’s ultimate dream, but it will take a lot more than talent to reach it.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/14182/large.jpg",
+      "kitsu_year": 2018,
+      "format": "TV",
+      "episodes": 52,
+      "site_url": "https://kitsu.io/anime/captain-tsubasa-2018",
+      "genres": [
+        "Middle School",
+        "Elementary School",
+        "School Clubs",
+        "Japan",
+        "Plot Continuity",
+        "Action",
+        "Sports",
+        "Soccer",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-14182.jpg"
+    }
   },
   {
     "year": 2018,
@@ -2663,7 +3012,26 @@
     "director": "Yoshio Kazumi",
     "original_title": "",
     "ref": "[ 84 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "13983",
+      "title_romaji": "Souten no Ken Re:Genesis",
+      "title_english": "Fist of the Blue Sky: Regenesis",
+      "title_native": "蒼天の拳 RE:GENESIS",
+      "description": "It is just before WWII, Kasumi Kenshiro hides as a quiet, absent-minded professor teaching literature at a small women's college in Tokyo. Once the 62nd Grand Master of Hokuto Shinken, \"God Fist of the North Star,\" and known has Yan Wang, or \"the King of Death,\" who preserved the peace in the \"City of Devils.\" A fighter of thugs and drug dealers, Kasumi seeks anonymity and a quiet life until the death of his lover, and former brothers, forces him to return to Shanghai to fulfill his destiny and avenge the deaths of his associates.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/13983/large.jpg",
+      "kitsu_year": 2018,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/souten-no-ken-regenesis",
+      "genres": [
+        "Martial Arts",
+        "Historical",
+        "Action"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-13983.jpg"
+    }
   },
   {
     "year": 2018,
@@ -2815,7 +3183,29 @@
     "director": "Shunsuke Tada",
     "original_title": "",
     "ref": "[ 89 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "11331",
+      "title_romaji": "Ginga Eiyuu Densetsu: Die Neue These - Kaikou",
+      "title_english": "The Legend of the Galactic Heroes The New Thesis: Star-Crossed",
+      "title_native": "銀河英雄伝説 Die Neue These 邂逅",
+      "description": "In humanity's distant future, two interstellar states—the monarchic Galactic Empire and the democratic Free Planets Alliance—are embroiled in a never-ending war. The story focuses on the exploits of rivals Reinhard von Müsel and Yang Wen Li as they rise to power and fame in the Galactic Empire and the Free Planets Alliance.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/11331/large.jpg",
+      "kitsu_year": 2018,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/ginga-eiyuu-densetsu-die-neue-these-kaikou",
+      "genres": [
+        "Space",
+        "Action",
+        "Science Fiction",
+        "Politics",
+        "Drama",
+        "Military"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-11331.jpg"
+    }
   },
   {
     "year": 2018,
@@ -3417,7 +3807,29 @@
     "director": "Kenji Nagasaki",
     "original_title": "Boku no Hero Academia",
     "ref": "[ 108 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "12268",
+      "title_romaji": "Boku no Hero Academia 2",
+      "title_english": "My Hero Academia Season 2",
+      "title_native": "僕のヒーローアカデミア２",
+      "description": "Taking off right after the last episode of the first season. The school is temporarily closed due to security. When U.A. restarts, it is announced that the highly anticipated School Sports Festival will soon be taking place. All classes: Hero, Support, General and Business will be participating. Tournaments all around will decide who is the top Hero in training.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/12268/large.jpg",
+      "kitsu_year": 2017,
+      "format": "TV",
+      "episodes": 25,
+      "site_url": "https://kitsu.io/anime/boku-no-hero-academia-2nd-season",
+      "genres": [
+        "Super Power",
+        "Action",
+        "Comedy",
+        "School Life",
+        "Superhero",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-12268.jpg"
+    }
   },
   {
     "year": 2018,
@@ -3539,7 +3951,28 @@
     "director": "Shinji Takamatsu",
     "original_title": "",
     "ref": "[ 112 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "13651",
+      "title_romaji": "Binan Koukou Chikyuu Boueibu LOVE! LOVE! LOVE!",
+      "title_english": "Cute High Earth Defense Club LOVE! LOVE! LOVE!",
+      "title_native": "美男高校地球防衛部LOVE! LOVE! LOVE!",
+      "description": null,
+      "cover_large": "https://media.kitsu.app/anime/poster_images/13651/large.jpg",
+      "kitsu_year": 2017,
+      "format": "OVA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/binan-koukou-chikyuu-bouei-bu-love-love-love",
+      "genres": [
+        "Magic",
+        "Parody",
+        "Fantasy",
+        "Comedy",
+        "Henshin"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-13651.jpg"
+    }
   },
   {
     "year": 2018,
@@ -3629,7 +4062,26 @@
     "director": "Kazuhiro Yoneda",
     "original_title": "Hōzuki no Reitetsu",
     "ref": "[ 115 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "13226",
+      "title_romaji": "Hoozuki no Reitetsu 2nd Season",
+      "title_english": "Hozuki's Coolheadedness 2",
+      "title_native": "鬼灯の冷徹 第弐期",
+      "description": "Second season of Hoozuki no Reitetsu.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/13226/large.jpg",
+      "kitsu_year": 2017,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/hoozuki-no-reitetsu-2nd-season",
+      "genres": [
+        "Demon",
+        "Fantasy",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-13226.jpg"
+    }
   },
   {
     "year": 2018,
@@ -4407,7 +4859,33 @@
     "director": "Yusuke Yamamoto",
     "original_title": "Yama no Susume",
     "ref": "[ 138 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "13583",
+      "title_romaji": "Yama no Susume: Third Season",
+      "title_english": "Encouragement of Climb Season 3",
+      "title_native": "ヤマノススメ サードシーズン",
+      "description": "The third season of Yama no Susume. Aoi and Hinata are childhood friends. Aoi prefers staying indoors and is afraid of heights, whereas Hinata is outgoing and loves mountaineering. They both decide to climb a mountain in order to see a sunrise they saw together when they were younger. In the coming third season, they enjoy hiking beautiful mountains with colored leaves and the story gets even more colorful when they become friends with local school girls!!",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/13583/large.jpg",
+      "kitsu_year": 2018,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/yama-no-susume-3rd-season",
+      "genres": [
+        "Present",
+        "Countryside",
+        "Japan",
+        "Plot Continuity",
+        "Adventure",
+        "Comedy",
+        "Friendship",
+        "Slice of Life",
+        "Drama",
+        "Seinen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-13583.jpg"
+    }
   },
   {
     "year": 2018,
@@ -4889,7 +5367,26 @@
     "director": "Yukio Nishimoto",
     "original_title": "",
     "ref": "[ 152 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "41066",
+      "title_romaji": "Ongaku Shoujo (TV)",
+      "title_english": "Music Girls",
+      "title_native": "音楽少女",
+      "description": "Haru Chitose, Eri Kumagai, Sarasa Ryuoh, Kiri Mukae, Uori Mukae, Sasame Mitsukuri, Miku Nishio, Hiyo Yukino, Shupe Gushiken, Kotoko Kintoki, and Roro Morooka are the eleven members of \"Music Girls,\" an idol group produced by Pine Records. However, they're a third-rate idol group that can't seem to sell CDs at all. But even though they're obscure and constantly in debt, the members and their producer, Ikehashi, are all trying their hardest. Ikehashi gets the idea that Music Girls needs a new member—an idol who can light a fire under them so that they can grasp success!",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/41066/large.jpg",
+      "kitsu_year": 2018,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/ongaku-shoujo-tv",
+      "genres": [
+        "Idol",
+        "Music",
+        "Slice of Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-41066.jpg"
+    }
   },
   {
     "year": 2018,
@@ -5083,7 +5580,29 @@
     "director": "Chizuru Miyawaki",
     "original_title": "",
     "ref": "[ 158 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "12553",
+      "title_romaji": "Gintama.",
+      "title_english": "Gintama Season 5",
+      "title_native": "銀魂。",
+      "description": "Fifth season of Gintama.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/12553/large.jpg",
+      "kitsu_year": 2017,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/gintama-2017",
+      "genres": [
+        "Samurai",
+        "Historical",
+        "Parody",
+        "Action",
+        "Science Fiction",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-12553.jpg"
+    }
   },
   {
     "year": 2018,
@@ -5098,7 +5617,32 @@
     "director": "Yōhei Suzuki",
     "original_title": "",
     "ref": "[ 159 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "42148",
+      "title_romaji": "Kanata no Astra",
+      "title_english": "ASTRA LOST IN SPACE",
+      "title_native": "彼方のアストラ",
+      "description": "In the year 2063, eight high school students and a kid are flown out to Planet Camp, tasked with surviving on their own for a few days. But shortly after arriving, an ominous glowing orb warps them to an unknown quadrant of space, nearly 5,012 light years away. Now, the only way back home is a slow, dangerous trek across the universe—a journey that’ll test them in ways Planet Camp never could.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/42148/large.jpg",
+      "kitsu_year": 2019,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/kanata-no-astra",
+      "genres": [
+        "Space",
+        "Space Travel",
+        "Other Planet",
+        "Shipboard",
+        "Action",
+        "Science Fiction",
+        "Adventure",
+        "Conspiracy",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-42148.jpg"
+    }
   },
   {
     "year": 2018,
@@ -5256,7 +5800,33 @@
     "director": "Toru Hosokawa",
     "original_title": "",
     "ref": "[ 164 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "41189",
+      "title_romaji": "Shinya! Tensai Bakabon",
+      "title_english": "Late Night! Genius Bakabon",
+      "title_native": "深夜! 天才バカボン",
+      "description": "The pinnacle of gag manga as well as one of Akatsuka Fujio's most renowned works, \"Tensai Bakabon\" returns after 18 years since its last anime with Director Hosokawa Toru's new original story! Bakabon and his family, who made the phrase \"This is how it should be\" famous, are back along with the eccentric cast of Mr. Policeman, Rerere no Ojisan and Eel-Dog letting loose in a much more modern setting! The new frontier of \"Bakabon\" that'll take place in a late-night slot is about to begin, 10 years after Akatsuka Fujio's death.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/41189/large.jpg",
+      "kitsu_year": 2018,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/shinya-tensai-bakabon",
+      "genres": [
+        "Slapstick",
+        "Parody",
+        "Japan",
+        "Tokyo",
+        "Comedy",
+        "Slice of Life",
+        "Working Life",
+        "Tone Changes",
+        "Family",
+        "Seinen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-41189.jpg"
+    }
   },
   {
     "year": 2018,
@@ -5652,7 +6222,33 @@
     "director": "Tetsurō Araki Masashi Koizuka",
     "original_title": "Shingeki no Kyojin",
     "ref": "[ 176 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8671",
+      "title_romaji": "Shingeki no Kyojin Season 2",
+      "title_english": "Attack on Titan Season 2",
+      "title_native": "進撃の巨人 Season 2",
+      "description": "Eren Jaeger swore to wipe out every last Titan, but in a battle for his life he wound up becoming the thing he hates most. With his new powers, he fights for humanity's freedom facing the monsters that threaten his home. After a bittersweet victory against the Female Titan, Eren finds no time to rest—a horde of Titans is approaching Wall Rose and the battle for humanity continues!",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/8671/large.jpg",
+      "kitsu_year": 2017,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/shingeki-no-kyojin-2",
+      "genres": [
+        "Super Power",
+        "Fantasy World",
+        "Alternative Past",
+        "Violence",
+        "Action",
+        "Angst",
+        "Fantasy",
+        "Adventure",
+        "Drama",
+        "Military"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8671.jpg"
+    }
   },
   {
     "year": 2018,
@@ -5775,7 +6371,26 @@
     "director": "Yoshio Kazumi",
     "original_title": "",
     "ref": "[ 180 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "13983",
+      "title_romaji": "Souten no Ken Re:Genesis",
+      "title_english": "Fist of the Blue Sky: Regenesis",
+      "title_native": "蒼天の拳 RE:GENESIS",
+      "description": "It is just before WWII, Kasumi Kenshiro hides as a quiet, absent-minded professor teaching literature at a small women's college in Tokyo. Once the 62nd Grand Master of Hokuto Shinken, \"God Fist of the North Star,\" and known has Yan Wang, or \"the King of Death,\" who preserved the peace in the \"City of Devils.\" A fighter of thugs and drug dealers, Kasumi seeks anonymity and a quiet life until the death of his lover, and former brothers, forces him to return to Shanghai to fulfill his destiny and avenge the deaths of his associates.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/13983/large.jpg",
+      "kitsu_year": 2018,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/souten-no-ken-regenesis",
+      "genres": [
+        "Martial Arts",
+        "Historical",
+        "Action"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-13983.jpg"
+    }
   },
   {
     "year": 2018,
@@ -6255,7 +6870,28 @@
     "director": "Hiroshi Nishikiori",
     "original_title": "Toaru Majutsu no Index",
     "ref": "[ 194 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "13880",
+      "title_romaji": "Toaru Majutsu no Index III",
+      "title_english": "A Certain Magical Index III",
+      "title_native": "とある魔術の禁書目録III",
+      "description": "Third season of Toaru Majutsu no Index",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/13880/large.jpg",
+      "kitsu_year": 2018,
+      "format": "TV",
+      "episodes": 26,
+      "site_url": "https://kitsu.io/anime/toaru-majutsu-no-index-iii",
+      "genres": [
+        "Magic",
+        "Super Power",
+        "Action",
+        "Science Fiction",
+        "Fantasy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-13880.jpg"
+    }
   },
   {
     "year": 2018,
@@ -7240,7 +7876,25 @@
     "director": "Mankyū",
     "original_title": "",
     "ref": "[ 223 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "13755",
+      "title_romaji": "The iDOLM@STER SideM",
+      "title_english": "The iDOLM@STER Side M",
+      "title_native": "アイドルマスター SideM",
+      "description": "A group of young men leave their previous careers—including a lawyer and a doctor—behind to become male idols.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/13755/large.jpg",
+      "kitsu_year": 2017,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/the-idolmaster-side-m",
+      "genres": [
+        "Idol",
+        "Music"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-13755.jpg"
+    }
   },
   {
     "year": 2018,
@@ -7449,7 +8103,27 @@
     "director": "Tetsuya Yanagisawa",
     "original_title": "",
     "ref": "[ 230 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "13690",
+      "title_romaji": "Senran Kagura Shinovi Master: Tokyo Youma-hen",
+      "title_english": "Senran Kagura: Shinovi Master",
+      "title_native": "閃乱カグラ SHINOVI MASTER -東京妖魔篇-",
+      "description": "Girls study at schools for modern shinobi. They dedicate their entire young lives to learning to become true shinobi, battling each other to polish their skills. And then one day, Asuka, whose grandfather is a legendary shinobi, encounters an ancient evil being named a \"Youma\" in the back alleys of Tokyo at Christmastime. Where there is light, there is shadow. Over 28 of the strongest and most well-endowed ninjas in history, both good and evil, will collide in a battle to determine true justice. And this deadly battle begins... right now.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/13690/large.jpg",
+      "kitsu_year": 2018,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/senran-kagura-2",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Ecchi",
+        "School Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-13690.jpg"
+    }
   },
   {
     "year": 2018,
@@ -7585,7 +8259,26 @@
     "director": "Minoru Ashina Junichi Inaba",
     "original_title": "",
     "ref": "[ 235 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "41114",
+      "title_romaji": "Kaijuu Girls Kuro: Ultra Kaijuu Gijinka Keikaku",
+      "title_english": "Kaiju Girls Black",
+      "title_native": "怪獣娘（黒）～ウルトラ怪獣擬人化計画～",
+      "description": "After years of war against the monstrous kaiju, the world finally knows a time of prosperity and peace — but the presence of the kaiju can still be felt. Girls with the souls of kaiju are born every so often, and each is gifted with the unusual abilities of kaiju! An organization called GIRLS has collected the Kaiju Girls to defend the earth, but rising from the shadows comes BLACK STARS, a troupe of evil Kaiju Girls who just recruited their latest — and somewhat bewildered — new member…",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/41114/large.jpg",
+      "kitsu_year": 2018,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/kaijuu-girls-kuro-ultra-kaijuu-gijinka-keikaku",
+      "genres": [
+        "Parody",
+        "Fantasy",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-41114.jpg"
+    }
   },
   {
     "year": 2018,
@@ -7705,7 +8398,29 @@
     "director": "Kazuya Murata",
     "original_title": "",
     "ref": "[ 239 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "13850",
+      "title_romaji": "Code Geass: Hangyaku no Lelouch I - Koudou",
+      "title_english": "Code Geass: Lelouch of the Rebellion I - Initiation",
+      "title_native": "コードギアス 反逆のルルーシュⅠ 興道",
+      "description": "The Holy Britannian Empire is a powerful nation that uses its military strength to expand its rule, and the small island nation of Japan is yet another victim. During a worldwide conflict in 2010 known as the Second Pacific War, the once proud country was reduced to rubble and mockingly renamed to Area 11. However, one student plans to free Japan from Britannia's control through an extraordinary rebellion. His name is Lelouch Lamperouge, and he is fueled with hatred for the Empire, plotting to wipe its accursed name off the face of the planet. Lelouch's malicious plans are unexpectedly accelerated upon meeting the mysterious woman C.C., who grants him a supernatural ability known as \"Geass\" that makes anyone Lelouch commands unable to defy his will. Now armed with a devastating power, Lelouch assumes the persona of Zero, a revolutionary figure who carries the hopes and dreams of the oppressed around the world. He vows to restore the glorious nation of Japan and deliver divine retribution to Britannia.",
+      "cover_large": "https://media.kitsu.app/anime/13850/poster_image/large-8f6451b466b5d3235ba416fa569812f2.jpeg",
+      "kitsu_year": 2017,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/code-geass-hangyaku-no-lelouch-i-koudou",
+      "genres": [
+        "Super Power",
+        "Mecha",
+        "Piloted Robot",
+        "Action",
+        "Science Fiction",
+        "School Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-13850.jpg"
+    }
   },
   {
     "year": 2018,
@@ -7720,7 +8435,27 @@
     "director": "Takahiro Ikezoe Tomohito Naka",
     "original_title": "",
     "ref": "[ 240 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "9730",
+      "title_romaji": "Sword Gai: The Animation",
+      "title_english": "SWORDGAI The Animation",
+      "title_native": "ソードガイ The Animation",
+      "description": "A woman died a suspicious death in the forest. Beside her, the sword-smith Amon finds a new-born boy with a tragic fate and takes him in. About 10 years later, this boy who is named Gai and who has become Amon's apprentice, loses his right arm in an accident while making a sword. Amon decides to take a sword called \"Shiryuu,\" which is a sword with demonic powers that has been passed down for generations, and fashion it into an artificial arm for Gai. That was the beginning of it all... The story of this boy, who has become one with a demonic weapon and is drawn into a cruel fate in which he must face countless battles, can be seen as either the story of \"a beautiful weapon and an ugly person\" or of \"the cruelty of weapons and the beauty of humans.\" This is a completely new world of comic noir.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/9730/large.jpg",
+      "kitsu_year": 2018,
+      "format": "ONA",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/sword-gai-the-animation",
+      "genres": [
+        "Demon",
+        "Contemporary Fantasy",
+        "Dark Fantasy",
+        "Action"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-9730.jpg"
+    }
   },
   {
     "year": 2018,
@@ -7932,7 +8667,27 @@
     "director": "Takahiro Ikezoe Tomohito Naka",
     "original_title": "",
     "ref": "[ 247 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "9730",
+      "title_romaji": "Sword Gai: The Animation",
+      "title_english": "SWORDGAI The Animation",
+      "title_native": "ソードガイ The Animation",
+      "description": "A woman died a suspicious death in the forest. Beside her, the sword-smith Amon finds a new-born boy with a tragic fate and takes him in. About 10 years later, this boy who is named Gai and who has become Amon's apprentice, loses his right arm in an accident while making a sword. Amon decides to take a sword called \"Shiryuu,\" which is a sword with demonic powers that has been passed down for generations, and fashion it into an artificial arm for Gai. That was the beginning of it all... The story of this boy, who has become one with a demonic weapon and is drawn into a cruel fate in which he must face countless battles, can be seen as either the story of \"a beautiful weapon and an ugly person\" or of \"the cruelty of weapons and the beauty of humans.\" This is a completely new world of comic noir.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/9730/large.jpg",
+      "kitsu_year": 2018,
+      "format": "ONA",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/sword-gai-the-animation",
+      "genres": [
+        "Demon",
+        "Contemporary Fantasy",
+        "Dark Fantasy",
+        "Action"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-9730.jpg"
+    }
   },
   {
     "year": 2018,
@@ -8059,7 +8814,29 @@
     "director": "Hisashi Saito",
     "original_title": "Shinmai Maō no Testament Departures",
     "ref": "[ 251 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "13993",
+      "title_romaji": "Shinmai Maou no Testament Departures",
+      "title_english": "The Testament of Sister New Devil Departures",
+      "title_native": "新妹魔王の契約者 DEPARTURES",
+      "description": "The cast takes a vacation after resolving the conflict in the demon world.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/13993/large.jpg",
+      "kitsu_year": 2018,
+      "format": "OVA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/shinmai-maou-no-testament-departures",
+      "genres": [
+        "Demon",
+        "Action",
+        "Science Fiction",
+        "Ecchi",
+        "Romance",
+        "Harem"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-13993.jpg"
+    }
   },
   {
     "year": 2018,

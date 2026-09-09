@@ -135,7 +135,29 @@
     "demographic": "",
     "genre": "",
     "ref": "[ 4 ] [ better source needed ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "9023",
+      "title_romaji": "Magical★Taruruuto-kun: Sukisuki Takoyaki!",
+      "title_english": null,
+      "title_native": "まじかる★タルるートくん すきすき♡タコ焼きっ!",
+      "description": "The third movie of Magical Taruruuto-kun",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/9023/large.jpg",
+      "kitsu_year": 1992,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/magical-taruruuto-kun-sukisuki-takoyaki",
+      "genres": [
+        "Magic",
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Ecchi",
+        "School Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-9023.jpg"
+    }
   },
   {
     "year": 1992,
@@ -167,7 +189,27 @@
     "demographic": "Shōjo",
     "genre": "drama; slice-of-life",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "652",
+      "title_romaji": "Candy Candy (Movie)",
+      "title_english": null,
+      "title_native": "キャンディ・キャンディ",
+      "description": "A young girl named Candice White who was left on the doorstep of the \"Pony Home\", an orphanage, when she was just a baby. The sisters took her first name from a doll she had in her basket, with the name \"Candy\" on it, and her last name from the snowstorm she was rescued from. Life is quiet and happy.. or.. as quiet as life can be with Candy around. She has a penchant for getting into trouble, climbing trees and tussling with the best of them. However, tragedy begins to strike.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/652/large.jpg",
+      "kitsu_year": 1992,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/candy-candy-movie",
+      "genres": [
+        "Past",
+        "Earth",
+        "Romance",
+        "Slice of Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-652.jpg"
+    }
   },
   {
     "year": 1992,
@@ -183,7 +225,30 @@
     "demographic": "",
     "genre": "drama; horror",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2696",
+      "title_romaji": "Chika Gentou Gekiga: Shoujo Tsubaki",
+      "title_english": "Midori",
+      "title_native": "地下幻燈劇画 少女椿",
+      "description": "Behind the colorful curtains and extravagant performances, there lies the dark side of a circus life, hidden away from the smiles and praises of the audience. Set in early 20th century Japan, Midori: Shoujo Tsubaki highlights the misdeeds that occur in circus camps. Midori was an innocent young girl who enjoyed her life as an elementary student to the fullest. However, everything changed after her mother fell ill. Eventually, Midori is forced to stop going to school and, instead, sells flowers in the city. When her mother dies tragically, Midori meets a stranger who leads her towards the circus. What awaits her will change her life forever... In a life where nothing seems to go right, will Midori lose faith and give up? Or will she manage to stay strong in hopes of a better future?",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2696/large.jpg",
+      "kitsu_year": 1992,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/chika-gentou-gekiga-shoujo-tsubaki",
+      "genres": [
+        "Past",
+        "Historical",
+        "Japan",
+        "Performance",
+        "Angst",
+        "Horror",
+        "Drama"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2696.jpg"
+    }
   },
   {
     "year": 1992,
@@ -199,7 +264,29 @@
     "demographic": "",
     "genre": "action; classical age",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3834",
+      "title_romaji": "Hashire Melos (Movie)",
+      "title_english": "Run Melos!",
+      "title_native": "走れメロス",
+      "description": "Melos is a good boy from Messina and has come to Syracuse, the magnificent city of temples, to buy a ritual sword for his sister's marriage ceremony. He meets a very talented sculptor and they become friends. Later, the King's guards arrest Melos while he was having a walk in the castle's gardens and Syracuse's King, obsessed by the idea of assassins out to kill him, sentences him to death. Melos is desperate, but most of all he wants to be present at his sister's marriage, so he asks the King for three days to go to Messina for the celebration and then return to Syracuse where he will accept the death penalty. The King does not trust Melos, but, trying to demonstrate that nobody could trust him, asks him to find a volunteer substitute in case he breaks his promise. The sculptor accepts to be Melos' substitute in this case...",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3834/large.jpg",
+      "kitsu_year": 1992,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/hashire-melos!",
+      "genres": [
+        "Past",
+        "Earth",
+        "Historical",
+        "Europe",
+        "Action",
+        "Adventure"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3834.jpg"
+    }
   },
   {
     "year": 1992,
@@ -426,7 +513,33 @@
     "demographic": "Seinen",
     "genre": "sci-fi; supernatural ; adventure",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1898",
+      "title_romaji": "Silent Möbius: The Motion Picture",
+      "title_english": null,
+      "title_native": "サイレントメビウス／THE MOTION PICTURE",
+      "description": "In a futuristic Tokyo, several policewomen fight a monster. One of them, Katsumi Liqueur, remembers where she saw it before... Katsumi Liqueur, an American-born woman of Japanese descent, travels to Tokyo to visit her mother, Fuyuka, who is sick in the hospital. She takes a shortcut through an alley after her taxi gets stuck in traffic, only to encounter a monster and two policewomen fighting it. Later, she meets their chief, Rally Cheyenne, who, it seems, has been expecting her, though Katsumi has never met her before. The policewomen want Katsumi to help them fight the monster, but Katsumi, who does not want to believe in magic, resists.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1898/large.jpg",
+      "kitsu_year": 1991,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/silent-mobius-the-motion-picture",
+      "genres": [
+        "Magic",
+        "Gunfights",
+        "Future",
+        "Earth",
+        "Demon",
+        "Contemporary Fantasy",
+        "Dark Fantasy",
+        "Japan",
+        "Tokyo",
+        "Violence"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1898.jpg"
+    }
   },
   {
     "year": 1992,
@@ -496,7 +609,33 @@
     "demographic": "",
     "genre": "combat sport; martial arts; slice-of-life",
     "ref": "[ 10 ] [ better source needed ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1807",
+      "title_romaji": "Yawara! Sore Yuke Koshinuke Kids!!",
+      "title_english": null,
+      "title_native": "YAWARA！ それゆけ腰ぬけキッズ！！",
+      "description": "Yawara helps a group of timid grade school kids overcome their fears and compete in a judo competition. One of the kids is Hanazono's cousin, which is how she meets them. Another is a girl who seems a whole lot like Yawara.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1807/large.jpg",
+      "kitsu_year": 1992,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/yawara-sore-yuke-koshinuke-kids",
+      "genres": [
+        "Martial Arts",
+        "Present",
+        "Earth",
+        "Japan",
+        "Combat",
+        "Asia",
+        "Action",
+        "Comedy",
+        "Romance",
+        "Slice of Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1807.jpg"
+    }
   },
   {
     "year": 1992,
@@ -623,7 +762,33 @@
     "demographic": "",
     "genre": "sci-fi; action; mecha",
     "ref": "[ 14 ] [ better source needed ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2726",
+      "title_romaji": "Ginga Eiyuu Densetsu: Arata Naru Tatakai no Overture",
+      "title_english": "Legend of the Galactic Heroes: Overture to a New War",
+      "title_native": "銀河英雄伝説外伝　新たなる戦いの序曲[オーヴァチュア]",
+      "description": "Based on a series of sci-fi novels, this series tells the story of a massive conflict between the Prussia-like Galactic Empire and the Free Planets Alliance. It describes all levels of the war, from the tactical to the strategic, but focuses most on the two opposing militaries' leaders: Reinhard Von Lohengramm and Yang Wen-Li.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2726/large.jpg",
+      "kitsu_year": 1993,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/ginga-eiyuu-densetsu-arata-naru-tatakai-no-overture",
+      "genres": [
+        "Future",
+        "Space",
+        "Space Travel",
+        "Shipboard",
+        "Action",
+        "Science Fiction",
+        "Politics",
+        "Military",
+        "Space Battles",
+        "Space Opera"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2726.jpg"
+    }
   },
   {
     "year": 1992,
@@ -676,7 +841,27 @@
     "demographic": "Shōjo",
     "genre": "drama; slice-of-life; music",
     "ref": "[ 16 ] [ better source needed ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "5695",
+      "title_romaji": "Chibi Maruko-chan: Watashi no Suki na Uta",
+      "title_english": null,
+      "title_native": "ちびまる子ちゃん わたしの好きな歌",
+      "description": "Sakura Momoko, who is often referred to as \"Chibi Maruko-chan\" because of her small size, is a third grade student who lives together with her parents, grandparents and her older sister. At school, her rowdy classmates Oono and Sugiyama have been best friends for as long as anyone can remember. But after a fight during the sports festival, the two boys begin giving each other the cold shoulder, much to the surprise of Maruko and the rest of her class. What's worse, Oono is transferring schools. The two best friends must reconcile before it's too late and Maruko is eager to help.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/5695/large.jpg",
+      "kitsu_year": 1992,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/chibi-maruko-chan-watashi-no-suki-na-uta",
+      "genres": [
+        "Elementary School",
+        "Comedy",
+        "Slice of Life",
+        "School Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-5695.jpg"
+    }
   },
   {
     "year": 1992,
@@ -1755,7 +1940,33 @@
     "director": "Buichi Terasawa",
     "studio": "Nakamura Production",
     "ref": "[ 26 ] [ better source needed ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3214",
+      "title_romaji": "Karasu Tengu Kabuto: Ougon no Me no Kemono",
+      "title_english": null,
+      "title_native": "鴉天狗カブト 黄金の目のケモノ",
+      "description": "Kabuto is a tengu who has to save a princess from fortress which is full of monster-mecha hybrids in an alternate reality of feudal Japan.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3214/large.jpg",
+      "kitsu_year": 1992,
+      "format": "OVA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/karasu-tengu-kabuto-ougon-no-me-no-kemono",
+      "genres": [
+        "Samurai",
+        "Swordplay",
+        "Past",
+        "Historical",
+        "Demon",
+        "Dark Fantasy",
+        "Violence",
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3214.jpg"
+    }
   },
   {
     "year": 1992,
@@ -1965,7 +2176,32 @@
     "director": "Kunihiko Yuyama",
     "studio": "Pastel",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "747",
+      "title_romaji": "Ushio to Tora",
+      "title_english": "Ushio and Tora",
+      "title_native": "うしおととら",
+      "description": "Ushio thinks his father's tale of an ancient ancestor impaling a demon on a temple altar stone with the legendary Beast Spear is nuts, but when he finds the monster in his own basement, Ushio has to take another look at the family legend! Fortunately, Ushio knows it's best to let sleeping dogs lie and leave captured demons where they are. Unfortunately, the release of the monster's evil energies begins to beckon other demons to Ushio's hometown! To save his friends and family from the invading spirits, Ushio is forced to release Tora from his captivity. But will the cure prove to be worse than the curse? Will Ushio end his life a Tora-snack? Or will the Beast Spear keep Tora in line long enough to save the city?",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/747/large.jpg",
+      "kitsu_year": 1992,
+      "format": "OVA",
+      "episodes": 10,
+      "site_url": "https://kitsu.io/anime/ushio-to-tora",
+      "genres": [
+        "Swordplay",
+        "Demon",
+        "Japan",
+        "Action",
+        "Fantasy",
+        "Horror",
+        "Comedy",
+        "Supernatural",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-747.jpg"
+    }
   },
   {
     "year": 1992,
@@ -2194,7 +2430,24 @@
     "director": "Hidehito Ueda",
     "studio": "AIC; J.C. Staff",
     "ref": "[ 31 ] [ better source needed ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3828",
+      "title_romaji": "Fuuma no Kojirou: Fuuma Hanran-hen",
+      "title_english": null,
+      "title_native": "風魔の小次郎～風魔反乱篇～",
+      "description": "After the Chaos war, Kojiro and Ryuma return to earth only to find their clan members killing off each other.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3828/large.jpg",
+      "kitsu_year": 1991,
+      "format": "OVA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/fuuma-no-kojirou-fuuma-hanran-hen",
+      "genres": [
+        "Action"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3828.jpg"
+    }
   },
   {
     "year": 1992,
@@ -2283,7 +2536,25 @@
     "director": "Seiji Okuda",
     "studio": "Studio Zain",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "4181",
+      "title_romaji": "New Dream Hunter Rem: Setsuriku no Mudenmekyu",
+      "title_english": null,
+      "title_native": "NEW DREAM HUNTER 麗夢 殺戮の夢幻迷宮",
+      "description": "Rem is an ordinary woman in our world but, in the world of dreams, she becomes a dream warrior, defending humanity from the evils there. When dream demons reach the waking world, she fights them with the help of her pets which transform into a tiger and wolf.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/4181/large.jpg",
+      "kitsu_year": 1992,
+      "format": "OVA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/new-dream-hunter-rem-setsuriku-no-mudenmekyu",
+      "genres": [
+        "Magic",
+        "Ecchi"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-4181.jpg"
+    }
   },
   {
     "year": 1992,

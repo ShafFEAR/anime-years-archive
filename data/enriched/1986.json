@@ -11,7 +11,25 @@
     "director": "Kenji Kodama, et al.",
     "studio": "Tokyo Movie Shinsha",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3996",
+      "title_romaji": "Robotan (1986)",
+      "title_english": null,
+      "title_native": "ロボタン",
+      "description": "The story about robot named Robotan who came from outside the earth, he met with a kid then they become friends but they always stuck with some troubles because of bad people who chase after Robotan however our hero win the fight every time.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3996/large.jpg",
+      "kitsu_year": 1986,
+      "format": "TV",
+      "episodes": 33,
+      "site_url": "https://kitsu.io/anime/robotan",
+      "genres": [
+        "Comedy",
+        "Kids"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3996.jpg"
+    }
   },
   {
     "year": 1986,
@@ -160,7 +178,28 @@
     "director": "Ryōsuke Takahashi",
     "studio": "Nippon Sunrise",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "6331",
+      "title_romaji": "Kikou Kai Galient OVA",
+      "title_english": null,
+      "title_native": "機甲界ガリアン",
+      "description": "The first two episodes are summaries of the TV series, the third one (Crest of Iron) takes place in an alternate universe.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/6331/large.jpg",
+      "kitsu_year": 1986,
+      "format": "OVA",
+      "episodes": 3,
+      "site_url": "https://kitsu.io/anime/panzer-world-galient-ova",
+      "genres": [
+        "Mecha",
+        "Piloted Robot",
+        "Action",
+        "Science Fiction",
+        "Fantasy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-6331.jpg"
+    }
   },
   {
     "year": 1986,
@@ -366,7 +405,25 @@
     "director": "Isamu Imakake",
     "studio": "Tsuchida Productions",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1915",
+      "title_romaji": "Captain Tsubasa: Europe Daikessen",
+      "title_english": null,
+      "title_native": "キャプテン翼　ヨーロッパ大決戦",
+      "description": "The first Captain Tsubasa movie is about a match between an \"All Europe Boy Soccer Team\" and an \"All Japan Boy Soccer Team\" and takes place at the end of the first TV series. When the Japanese team arrives in Europe they meet incredible players with skills and strength they never had to face before.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1915/large.jpg",
+      "kitsu_year": 1985,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/captain-tsubasa-europe-daikessen",
+      "genres": [
+        "Action",
+        "Sports"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1915.jpg"
+    }
   },
   {
     "year": 1986,
@@ -380,7 +437,28 @@
     "director": "Tsutomu Shibayama",
     "studio": "Shin-Ei Animation",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2428",
+      "title_romaji": "Doraemon Movie 07: Nobita to Tetsujin Heidan",
+      "title_english": "Doraemon the Movie: Nobita and the Steel Troops",
+      "title_native": "映画 ドラえもん のび太と鉄人兵団",
+      "description": "Giant robot parts fell from the sky, so Nobita and Doraemon took it into the mirror world to build it and called it the Zandacross. It seems that Zandacross is a dangerous weapon so they kept it a secret. A mysterious girl named Lilulu appeared and asked for Zandacross for the invasion but she doesn't agree to invade the Earth. Doraemon and the others join forces to stop the invasion of the robot army but it seems that Lilulu is the only one that can stop it.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2428/large.jpg",
+      "kitsu_year": 1986,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/doraemon-nobita-and-the-platoon-of-iron-men",
+      "genres": [
+        "Mecha",
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Kids"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2428.jpg"
+    }
   },
   {
     "year": 1986,
@@ -1078,7 +1156,33 @@
     "director": "Ryosuke Takahashi",
     "studio": "Nippon Sunrise",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2348",
+      "title_romaji": "Soukou Kihei Votoms: The Last Red Shoulder",
+      "title_english": "Armored Trooper Votoms: The Last Red Shoulder",
+      "title_native": "装甲騎兵ボトムズ　ザ・ラストレッドショルダー",
+      "description": "Released in 1985, this OVA tells a critical part of the story between the TV show's Uoodo and Kummen arcs. Although the TV series covered the Red Shoulders in some detail, we didn't get to see much of Chirico's time there or the people involved, and we get both of those here.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2348/large.jpg",
+      "kitsu_year": 1985,
+      "format": "OVA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/armored-trooper-votoms-the-last-red-shoulder",
+      "genres": [
+        "Future",
+        "Mecha",
+        "Piloted Robot",
+        "Action",
+        "Science Fiction",
+        "Revenge",
+        "Genetic Modification",
+        "War",
+        "Rotten World",
+        "Military"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2348.jpg"
+    }
   },
   {
     "year": 1986,
@@ -1170,7 +1274,25 @@
     "director": "Isamu Imakake",
     "studio": "Tsuchida Productions",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1915",
+      "title_romaji": "Captain Tsubasa: Europe Daikessen",
+      "title_english": null,
+      "title_native": "キャプテン翼　ヨーロッパ大決戦",
+      "description": "The first Captain Tsubasa movie is about a match between an \"All Europe Boy Soccer Team\" and an \"All Japan Boy Soccer Team\" and takes place at the end of the first TV series. When the Japanese team arrives in Europe they meet incredible players with skills and strength they never had to face before.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1915/large.jpg",
+      "kitsu_year": 1985,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/captain-tsubasa-europe-daikessen",
+      "genres": [
+        "Action",
+        "Sports"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1915.jpg"
+    }
   },
   {
     "year": 1986,
@@ -1320,7 +1442,30 @@
     "director": "Kōichi Mashimo",
     "studio": "Toho , Movic , Ashi Productions",
     "ref": "[ 2 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3907",
+      "title_romaji": "Ai City",
+      "title_english": "Love City",
+      "title_native": "アイ・シティ",
+      "description": "It's sometime in the future and the story starts off with Kei and Ai running for their lives. Ai is a little girl who holds a terrible secret which could destroy the current world. The world is now populated by Headmeters, people who have psychic powers and their strength is shown on their forehead when they fight. However, Kei was an experimental subject and his strength never went above level 5 while other surpasses his ability effortlessly. While escaping, when in desperate moments, Kei could increase his ability to infinity when Ai is in trouble. The one who's after her have a deep secret, aided by a small dwarflike man living in a robotic suit. Eventually Ai is captured and Kei, a sherlock holmes detective and another Headmeter who was converted to the good side when Kei unleashed his horrible powers through Ai must go and rescue her. Together they must save Ai and the secret which she holds. What is the secret of Ai? Who is she?",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3907/large.jpg",
+      "kitsu_year": 1986,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/ai-city",
+      "genres": [
+        "Super Power",
+        "Future",
+        "Human Enhancement",
+        "Japan",
+        "Action",
+        "Science Fiction",
+        "Dystopia"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3907.jpg"
+    }
   },
   {
     "year": 1986,
@@ -1956,7 +2101,26 @@
     "director": "Yoshiyuki Tomino",
     "studio": "Nippon Sunrise",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2365",
+      "title_romaji": "Juusenki L-Gaim III: Full Metal Soldier",
+      "title_english": null,
+      "title_native": "重戦機エルガイムⅢ フルメタル ソルジャー",
+      "description": "A side story taking place somewhere before the second half of the series, prior to Daba acquiring the L-Gaim Mk-II. Daba's comrade Leccee is captured by Poseidal's forces, and Daba and his rebels attempt to save her.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2365/large.jpg",
+      "kitsu_year": 1987,
+      "format": "OVA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/juusenki-l-gaim-iii-full-metal-soldier",
+      "genres": [
+        "Mecha",
+        "Action",
+        "Science Fiction"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2365.jpg"
+    }
   },
   {
     "year": 1986,
@@ -2286,7 +2450,33 @@
     "director": "Hayato Ikeda",
     "studio": "Studio Wave, Zero G-Room",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1159",
+      "title_romaji": "Soukihei MD Geist",
+      "title_english": null,
+      "title_native": "装鬼兵ＭＤガイスト",
+      "description": "In the distant future, mankind has colonized other planets in the universe. While many planets lived in peace, the planet Jerra has been ravaged by decades of war. Geist is an M.D.S. (Most Dangerous Soldier), an enhanced human with unsurpassed combat capabilities and an insatiable lust for battle. Because of his uncontrollable nature, Geist is cryogenically frozen and locked in a satellite. Several years later, the satellite crashes and Geist wakes up from his sleep to engage in another war. This time, to help the army stop the planet's central computer from activating a doomsday device that will lead to total annihilation of all life on Jerra.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1159/large.jpg",
+      "kitsu_year": 1986,
+      "format": "OVA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/md-geist",
+      "genres": [
+        "Gunfights",
+        "Future",
+        "Desert",
+        "Mecha",
+        "Power Suit",
+        "Piloted Robot",
+        "Other Planet",
+        "Violence",
+        "Stereotypes",
+        "Action"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1159.jpg"
+    }
   },
   {
     "year": 1986,

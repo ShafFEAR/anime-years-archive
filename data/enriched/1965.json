@@ -104,7 +104,27 @@
     "type": "TV",
     "demographic": "Shōnen",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "4825",
+      "title_romaji": "Uchuu Ace",
+      "title_english": "Space Ace",
+      "title_native": "宇宙エース",
+      "description": "Dr. Tatsunoko of Tatsunoko Research Center goes undersea accompanied by his daughter Asari to inquire into some mysterious radiation and discovers there a giant shell and it is known that the radiation comes from a globe laid inside the shell. Then Asari finds an object in the shape of compact with a message in it. It says that a space alien from the Planet of Parlum which is on the verge of extinction is lying in the globe. Suddenly a boy with a strange look appears out of the globe and goes wild. He is the very person mentioned in the message with the name of Ace. His source of energy for superhuman power is what is called space food and he can fly with the help of Silver Ring made with energy collected instantly in the aerial environment. Also he is able to use it as a weapon to fight the enemy with. Supported by his friends including Asari, Ibo the robot dog, and Hermit Crab Reporter, he gallantly goes into action to settle various difficulties caused by mystic robots and brutal space invaders.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/4825/large.jpg",
+      "kitsu_year": 1965,
+      "format": "TV",
+      "episodes": 52,
+      "site_url": "https://kitsu.io/anime/uchuu-ace",
+      "genres": [
+        "Super Power",
+        "Action",
+        "Science Fiction",
+        "Adventure"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-4825.jpg"
+    }
   },
   {
     "year": 1965,
@@ -243,7 +263,24 @@
     "type": "Short",
     "demographic": "General",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "4839",
+      "title_romaji": "Mado",
+      "title_english": null,
+      "title_native": "窓",
+      "description": "Short experimental animation from 1965 by Yoji Kuri.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/4839/large.jpg",
+      "kitsu_year": 1965,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/the-window",
+      "genres": [
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-4839.jpg"
+    }
   },
   {
     "year": 1965,
@@ -256,7 +293,25 @@
     "type": "Short",
     "demographic": "General",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "6877",
+      "title_romaji": "Fushigi na Kusuri",
+      "title_english": null,
+      "title_native": "ふしぎなくすり",
+      "description": "Puppet animation by Tadanari Okamoto.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/6877/large.jpg",
+      "kitsu_year": 1965,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/fushigi-na-kusuri",
+      "genres": [
+        "Japan",
+        "Slice of Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-6877.jpg"
+    }
   },
   {
     "year": 1965,
@@ -269,7 +324,24 @@
     "type": "Short",
     "demographic": "General",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "4839",
+      "title_romaji": "Mado",
+      "title_english": null,
+      "title_native": "窓",
+      "description": "Short experimental animation from 1965 by Yoji Kuri.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/4839/large.jpg",
+      "kitsu_year": 1965,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/the-window",
+      "genres": [
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-4839.jpg"
+    }
   },
   {
     "year": 1965,
@@ -282,7 +354,27 @@
     "type": "TV",
     "demographic": "Shōnen",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "4825",
+      "title_romaji": "Uchuu Ace",
+      "title_english": "Space Ace",
+      "title_native": "宇宙エース",
+      "description": "Dr. Tatsunoko of Tatsunoko Research Center goes undersea accompanied by his daughter Asari to inquire into some mysterious radiation and discovers there a giant shell and it is known that the radiation comes from a globe laid inside the shell. Then Asari finds an object in the shape of compact with a message in it. It says that a space alien from the Planet of Parlum which is on the verge of extinction is lying in the globe. Suddenly a boy with a strange look appears out of the globe and goes wild. He is the very person mentioned in the message with the name of Ace. His source of energy for superhuman power is what is called space food and he can fly with the help of Silver Ring made with energy collected instantly in the aerial environment. Also he is able to use it as a weapon to fight the enemy with. Supported by his friends including Asari, Ibo the robot dog, and Hermit Crab Reporter, he gallantly goes into action to settle various difficulties caused by mystic robots and brutal space invaders.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/4825/large.jpg",
+      "kitsu_year": 1965,
+      "format": "TV",
+      "episodes": 52,
+      "site_url": "https://kitsu.io/anime/uchuu-ace",
+      "genres": [
+        "Super Power",
+        "Action",
+        "Science Fiction",
+        "Adventure"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-4825.jpg"
+    }
   },
   {
     "year": 1965,
@@ -328,7 +420,27 @@
     "type": "TV",
     "demographic": "Shōnen",
     "regions": "JA, NA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "4566",
+      "title_romaji": "Yuusei Shounen Papii",
+      "title_english": "Prince Planet",
+      "title_native": "遊星少年パピイ",
+      "description": "Tells the story of a member of the Universal Peace Corps from the Planet Radion coming to Earth on a mission to determine if this world meets standards for membership in the Galactic Union of Worlds and assist its inhabitants during his stay. While on his mission Prince Planet adopts the identity of an Earth boy named Bobby and gains comrades who work together alongside him combating evil forces both alien and terrestrial.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/4566/large.jpg",
+      "kitsu_year": 1965,
+      "format": "TV",
+      "episodes": 52,
+      "site_url": "https://kitsu.io/anime/yuusei-shounen-papii",
+      "genres": [
+        "Super Power",
+        "Space",
+        "Action",
+        "Science Fiction"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-4566.jpg"
+    }
   },
   {
     "year": 1965,
@@ -374,7 +486,27 @@
     "type": "Movie",
     "demographic": "Shōnen",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "4825",
+      "title_romaji": "Uchuu Ace",
+      "title_english": "Space Ace",
+      "title_native": "宇宙エース",
+      "description": "Dr. Tatsunoko of Tatsunoko Research Center goes undersea accompanied by his daughter Asari to inquire into some mysterious radiation and discovers there a giant shell and it is known that the radiation comes from a globe laid inside the shell. Then Asari finds an object in the shape of compact with a message in it. It says that a space alien from the Planet of Parlum which is on the verge of extinction is lying in the globe. Suddenly a boy with a strange look appears out of the globe and goes wild. He is the very person mentioned in the message with the name of Ace. His source of energy for superhuman power is what is called space food and he can fly with the help of Silver Ring made with energy collected instantly in the aerial environment. Also he is able to use it as a weapon to fight the enemy with. Supported by his friends including Asari, Ibo the robot dog, and Hermit Crab Reporter, he gallantly goes into action to settle various difficulties caused by mystic robots and brutal space invaders.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/4825/large.jpg",
+      "kitsu_year": 1965,
+      "format": "TV",
+      "episodes": 52,
+      "site_url": "https://kitsu.io/anime/uchuu-ace",
+      "genres": [
+        "Super Power",
+        "Action",
+        "Science Fiction",
+        "Adventure"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-4825.jpg"
+    }
   },
   {
     "year": 1965,
@@ -420,7 +552,32 @@
     "type": "TV",
     "demographic": "Shōnen",
     "regions": "JA, NA, EU",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1412",
+      "title_romaji": "Jungle Taitei",
+      "title_english": "Kimba the White Lion",
+      "title_native": "ジャングル大帝",
+      "description": "Leo the white lion was born on an ocean liner that crashed on the shores of a bustling city, where he spent his childhood learning the language and customs of humans. But something was missing. In search of his family, home, and a place to truly belong, Leo traveled back to Africa and began his journey to become the King of the Jungle. Leo's adventure centers around finding peace between the animals and humans who live in his African home, often competing for space and resources. As he grows, Leo must survive both the area's harsh environment, dangers from other animals, and humans who hunt lions like him for sport. Only communication and mutual understanding can end the fighting, and Leo's knowledge of human culture may be just what the jungle needed.Jungle Taitei is the epic story of a young lion's struggles to survive in a dangerous land.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1412/large.jpg",
+      "kitsu_year": 1965,
+      "format": "TV",
+      "episodes": 52,
+      "site_url": "https://kitsu.io/anime/jungle-taitei",
+      "genres": [
+        "Earth",
+        "Violence",
+        "Africa",
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Anthropomorphism",
+        "Drama",
+        "Kids"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1412.jpg"
+    }
   },
   {
     "year": 1965,
@@ -433,7 +590,26 @@
     "type": "Short",
     "demographic": "General",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1790",
+      "title_romaji": "Shizuku",
+      "title_english": "The Drop",
+      "title_native": "しずく",
+      "description": "A man trapped on a raft in the middle of the ocean is in desperate need of water. Luckily for him, a few drops of rain water are about to fall from the raft's mast. Comedy ensues as the thirsty man attempts to drink the few small drops of water.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1790/large.jpg",
+      "kitsu_year": 1965,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/shizuku",
+      "genres": [
+        "Present",
+        "Earth",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1790.jpg"
+    }
   },
   {
     "year": 1965,
@@ -446,7 +622,24 @@
     "type": "Short",
     "demographic": "General",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "6703",
+      "title_romaji": "Tobacco to Hai",
+      "title_english": null,
+      "title_native": "たばこと灰",
+      "description": "In the summer of 2000 in Hollywood, Spielberg's Dreamworks Film Corp. made the film \"Chicken Run\" with Nick Park, the great master of clay-figure animation, and it became a big hit. A chicken was the main character, and the story unfolded like the masterpiece \"The Great Escape.\" Thirty-five years ago, Mushi Production created an animated work in which a chicken was the main character and a rebellion between the rulers and the ruled eventually escalated into a great war. Despite the scale of the story, the film ran for only three minutes. The ability to depict the endless repetition of war in human history in just three minutes is a unique feature of short animation, relying on exaggeration and great imagination.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/6703/large.jpg",
+      "kitsu_year": 1965,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/tabako-to-hai",
+      "genres": [
+        "Adventure"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-6703.jpg"
+    }
   },
   {
     "year": 1965,

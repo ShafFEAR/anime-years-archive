@@ -484,7 +484,26 @@
     "director": "",
     "original_title": "",
     "ref": "[ 27 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "49361",
+      "title_romaji": "Mairimashita! Iruma-kun 4",
+      "title_english": "Welcome to Demon School! Iruma-kun Season 4",
+      "title_native": "魔入りました！入間くん 第4シリーズ",
+      "description": "The fourth season of Mairimashita! Iruma-kun. Suzuki Iruma and all thirteen students of the Misfit Class must perform to reach Rank 4 at the Music Festival.",
+      "cover_large": "https://media.kitsu.app/anime/49361/poster_image/large-2f5bdbb9b2adbd07fabb2af32c822ee9.jpeg",
+      "kitsu_year": 2026,
+      "format": "TV",
+      "episodes": 24,
+      "site_url": "https://kitsu.io/anime/mairimashita-iruma-kun-4th-season",
+      "genres": [
+        "Fantasy",
+        "Comedy",
+        "Supernatural"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-49361.jpg"
+    }
   },
   {
     "year": 2027,
@@ -620,7 +639,29 @@
     "director": "Tomonari Tanaka",
     "original_title": "",
     "ref": "[ 32 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "48903",
+      "title_romaji": "MASHLE: Sanma Taisou Shinkakusha Saishuu Shiken-hen",
+      "title_english": "Mashle: Magic and Muscles Season 3",
+      "title_native": "マッシュル-MASHLE- 三魔対争神覚者最終試験編",
+      "description": "The third season of MASHLE, adapting the Tri-Magic-Athalon Divine Visionary Final Exam Arc.",
+      "cover_large": "https://media.kitsu.app/anime/48903/poster_image/large-ea93cf292a11857e97d73cf943949e36.jpeg",
+      "kitsu_year": 2027,
+      "format": "TV",
+      "episodes": null,
+      "site_url": "https://kitsu.io/anime/mashle-season-3",
+      "genres": [
+        "Magic",
+        "Parody",
+        "Action",
+        "Fantasy",
+        "Comedy",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-48903.jpg"
+    }
   },
   {
     "year": 2027,
@@ -650,7 +691,28 @@
     "director": "Yoshiaki Okumura",
     "original_title": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsūjinai",
     "ref": "[ 34 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "49744",
+      "title_romaji": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai 2nd Season",
+      "title_english": "Medaka Kuroiwa is Impervious to My Charms Season 2",
+      "title_native": "黒岩メダカに私の可愛いが通じない 第2期",
+      "description": "The second season of Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai.",
+      "cover_large": "https://media.kitsu.app/anime/49744/poster_image/large-0d352a5983d85cdad92a6a0b26b81572.jpeg",
+      "kitsu_year": 2027,
+      "format": "TV",
+      "episodes": null,
+      "site_url": "https://kitsu.io/anime/Kuroiwa-Medaka-ni-Watashi-no-Kawaii-ga-Tsuujinai-2nd-Season",
+      "genres": [
+        "High School",
+        "Comedy",
+        "Romance",
+        "Slice of Life",
+        "School Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-49744.jpg"
+    }
   },
   {
     "year": 2027,
@@ -814,7 +876,29 @@
     "director": "Daisuke Nakajima",
     "original_title": "",
     "ref": "[ 41 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "50401",
+      "title_romaji": "SAKAMOTO DAYS 2nd Season",
+      "title_english": "Sakamoto Days Season 2",
+      "title_native": "SAKAMOTO DAYS 第2期",
+      "description": "The second season of SAKAMOTO DAYS.",
+      "cover_large": "https://media.kitsu.app/anime/50401/poster_image/large-1b76227852afe162815e832424c077a7.jpeg",
+      "kitsu_year": 2027,
+      "format": "ONA",
+      "episodes": null,
+      "site_url": "https://kitsu.io/anime/sakamoto-days-season-2",
+      "genres": [
+        "Assassin",
+        "Action",
+        "Comedy",
+        "Crime",
+        "Family",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-50401.jpg"
+    }
   },
   {
     "year": 2027,
@@ -829,7 +913,28 @@
     "director": "Toshiyuki Kubooka (chief) Hiro Ōki",
     "original_title": "",
     "ref": "[ 42 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "49778",
+      "title_romaji": "Shangri-La Frontier 3rd Season",
+      "title_english": null,
+      "title_native": "シャングリラ・フロンティア 3rd season",
+      "description": "The third season of Shangri-La Frontier.",
+      "cover_large": "https://media.kitsu.app/anime/49778/poster_image/large-c5d25ab7c9ecf179fdbf00d76773f572.jpeg",
+      "kitsu_year": 2027,
+      "format": "TV",
+      "episodes": null,
+      "site_url": "https://kitsu.io/anime/shangri-la-frontier-3rd-season",
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Fantasy",
+        "Adventure",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-49778.jpg"
+    }
   },
   {
     "year": 2027,
@@ -844,7 +949,29 @@
     "director": "Keisuke Ōnishi",
     "original_title": "Yūkyū no Gusha Asley no, Kenja no Susume",
     "ref": "[ 43 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "47759",
+      "title_romaji": "Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+      "title_english": "Sentenced to Be a Hero",
+      "title_native": "勇者刑に処す　懲罰勇者9004隊刑務記録",
+      "description": "In a world where heroism is a punishment, Xylo Forbartz, a condemned goddess killer, battles endless hordes of monstrous abominations as part of Penal Hero Unit 9004. Death is no escape, only a cycle of resurrection and relentless combat. But when Xylo encounters a mysterious new goddess, their unlikely alliance sparks a rebellion that could shatter the chains of eternal punishment. (Source: Crunchyroll) Notes: - The first episode aired with a runtime of ~58 minutes as opposed to the standard 24 minute long episode. - Initially scheduled to air in October, 2025",
+      "cover_large": "https://media.kitsu.app/anime/47759/poster_image/large-fadac60d40bf1a14768ec6c52dd6c43b.jpeg",
+      "kitsu_year": 2026,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku",
+      "genres": [
+        "Deity",
+        "Action",
+        "Fantasy",
+        "Comedy",
+        "Conspiracy",
+        "Drama"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-47759.jpg"
+    }
   },
   {
     "year": 2027,
@@ -1046,7 +1173,27 @@
     "director": "Kotomi Deai",
     "original_title": "Skip to Loafer",
     "ref": "[ 52 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "49424",
+      "title_romaji": "Skip to Loafer 2",
+      "title_english": "Skip and Loafer Season 2",
+      "title_native": "スキップとローファー 第2季",
+      "description": "The second season of Skip to Loafer.",
+      "cover_large": "https://media.kitsu.app/anime/49424/poster_image/large-47cdf9fa014bae329361318ef9cfc094.jpeg",
+      "kitsu_year": 2027,
+      "format": "TV",
+      "episodes": null,
+      "site_url": "https://kitsu.io/anime/skip-to-loafer-2",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Slice of Life",
+        "Seinen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-49424.jpg"
+    }
   },
   {
     "year": 2027,
@@ -1096,7 +1243,28 @@
     "director": "Akinori Fudesaka",
     "original_title": "Kusuriya no Hitorigoto",
     "ref": "[ 54 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "50021",
+      "title_romaji": "Kusuriya no Hitorigoto 3rd Season",
+      "title_english": "The Apothecary Diaries Season 3",
+      "title_native": "薬屋のひとりごと 第3期",
+      "description": "The third season of Kusuriya no Hitorigoto. In the aftermath of the Shi Clan’s rebellion, things have finally settled down, and Maomao has returned to her old life as a pharmacist in the pleasure district. One day, triggered by a breakfast served at the Verdigris House, Maomao senses an anomaly and begins investigating its true nature. Meanwhile, Jinshi, who has revealed his true identity as the Imperial brother and begun to face his heavy responsibilities, is deeply troubled by the final message left by Loulan: a warning of an impending \"disaster that will strike the nation.\" To make matters worse, rumors of a mysterious shrine maiden who deceives the people begin to spread, casting a dark shadow over the country of Li once again. From the depths of the inner court to the city streets, and across foreign borders—the world grows wider, and the stakes even higher for Maomao and Jinshi.",
+      "cover_large": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/50021/poster_image/86805fd5105a8da9c0d9c34e5d254992.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20260909%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20260909T215850Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=b333bcd6782015e82b8da24d8f8750e174a1f6e22b383fd0715f15a70786b172",
+      "kitsu_year": 2026,
+      "format": "TV",
+      "episodes": null,
+      "site_url": "https://kitsu.io/anime/Kusuriya-no-Hitorigoto-3rd-season",
+      "genres": [
+        "Historical",
+        "China",
+        "Romance",
+        "Drama",
+        "Mystery",
+        "Seinen"
+      ],
+      "year_match": true
+    }
   },
   {
     "year": 2027,
@@ -1111,7 +1279,33 @@
     "director": "Yoshihiro Miyajima",
     "original_title": "Dungeon Meshi",
     "ref": "[ 55 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "48948",
+      "title_romaji": "Dungeon Meshi 2nd Season",
+      "title_english": "Delicious in Dungeon Season 2",
+      "title_native": "ダンジョン飯 第２期",
+      "description": "The second season of Dungeon Meshi.",
+      "cover_large": "https://media.kitsu.app/anime/48948/poster_image/large-01fd6b54404f27e0ff03624ffc593b18.jpeg",
+      "kitsu_year": 2027,
+      "format": "TV",
+      "episodes": null,
+      "site_url": "https://kitsu.io/anime/dungeon-meshi-season-2",
+      "genres": [
+        "Elf",
+        "Cooking",
+        "Magic",
+        "Zombie",
+        "Dragon",
+        "Ghost",
+        "High Fantasy",
+        "Fantasy",
+        "Adventure",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-48948.jpg"
+    }
   },
   {
     "year": 2027,
@@ -1126,7 +1320,30 @@
     "director": "Tomoya Kitagawa",
     "original_title": "Sōsō no Frieren",
     "ref": "[ 56 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "49240",
+      "title_romaji": "Sousou no Frieren 2nd Season",
+      "title_english": "Frieren: Beyond Journey's End Season 2",
+      "title_native": "葬送のフリーレン 第２期",
+      "description": "The second season of Sousou no Frieren. On the road to Ende, Frieren confronts past bonds and rising threats with her newfound party.",
+      "cover_large": "https://media.kitsu.app/anime/49240/poster_image/large-5f1824cd76b6e829012dc75a2f51ec44.jpeg",
+      "kitsu_year": 2026,
+      "format": "TV",
+      "episodes": 10,
+      "site_url": "https://kitsu.io/anime/sousou-no-frieren-season-2",
+      "genres": [
+        "Elf",
+        "Magic",
+        "High Fantasy",
+        "Fantasy",
+        "Adventure",
+        "Slice of Life",
+        "Drama"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-49240.jpg"
+    }
   },
   {
     "year": 2027,
@@ -1136,7 +1353,30 @@
     "wiki_url": null,
     "redlink": null,
     "air_dates": "KochiKame: Tokyo Beat Cops",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "49983",
+      "title_romaji": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season",
+      "title_english": "The Beginning After the End Season 2",
+      "title_native": "最強の王様、二度目の人生は 何をする? 第2期",
+      "description": "The second season of Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Arthur faces one last mission with Jasmine, but the quest unleashes a tragedy no one saw coming.",
+      "cover_large": "https://media.kitsu.app/anime/49983/poster_image/large-5d101a3de0c67a47c50e18f770b3cd0a.jpeg",
+      "kitsu_year": 2026,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/the-beginning-after-the-end-season-2",
+      "genres": [
+        "Elf",
+        "Magic",
+        "Dragon",
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Isekai"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-49983.jpg"
+    }
   },
   {
     "year": 2027,

@@ -56,7 +56,29 @@
     "studio": "Trans Arts",
     "runtime": "30",
     "original_title": "Tenisu no ōjisama: Atobe kara no Okurimono – Kimi ni Sasageru Tenipuri Matsuri",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "885",
+      "title_romaji": "Prince of Tennis: The National Tournament",
+      "title_english": "Prince of Tennis: National Championship Chapter",
+      "title_native": "テニスの王子様 Original Video Animation 全国大会編",
+      "description": "Seigaku continues their road to winning the National Championship, but only the best schools remain as they'll have to go toe-to-toe with old rivals and new foes in the National Tournament.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/885/large.jpg",
+      "kitsu_year": 2006,
+      "format": "OVA",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/prince-of-tennis-the-national-tournament",
+      "genres": [
+        "Middle School",
+        "Tennis",
+        "Action",
+        "Comedy",
+        "Sports",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-885.jpg"
+    }
   },
   {
     "year": 2005,
@@ -119,7 +141,27 @@
     "studio": "A.C.G.T",
     "runtime": "29",
     "original_title": "Kino no Tabi: Nanika o Suru Tame ni – Life Goes On",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1233",
+      "title_romaji": "Kino no Tabi: Nanika wo Suru Tame ni - Life Goes On.",
+      "title_english": null,
+      "title_native": "キノの旅 何かをするために -life goes on.-",
+      "description": "A prequel to the Kino no Tabi series, Kino is being trained by their teacher. they learn how to ride Hermes and becomes gifted with excellent marksmanship. However, their guilt revolving the real Kino is with them when she decides to set off on a journey. Shizou even directs her to Kino's real mother. All the while, Kino is becoming confused with their real identity.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1233/large.jpg",
+      "kitsu_year": 2005,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/kino-no-tabi-nanika-wo-suru-tame-ni-life-goes-on",
+      "genres": [
+        "Fantasy World",
+        "Fantasy",
+        "Adventure",
+        "Steampunk"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1233.jpg"
+    }
   },
   {
     "year": 2005,
@@ -147,7 +189,28 @@
     "studio": "Studio Hibari",
     "runtime": "45",
     "original_title": "Gekijouban Duel Masters: Yami no Shiro no Maryuuou Curse of the Death Phoenix",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3610",
+      "title_romaji": "Duel Masters Charge",
+      "title_english": null,
+      "title_native": "デュエル・マスターズ　チャージ",
+      "description": "Shobu has returned after his 3 years training with all his friends in Battle Arena tournament. However, Shobu encounters a new enemy Zakira and his followers, the Fua Duelists. Zakira is a strong kaijudo duelist like Hakuoh. After kidnapping Hakuoh, they turn him into an enemy! Shobu and his friends try to stop them, but will they make it in time? Or will Shobu lose everything and end up devastated!?",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3610/large.jpg",
+      "kitsu_year": 2004,
+      "format": "TV",
+      "episodes": 52,
+      "site_url": "https://kitsu.io/anime/duel-masters-charge",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Proxy Battles",
+        "Card Games"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3610.jpg"
+    }
   },
   {
     "year": 2005,
@@ -319,7 +382,33 @@
     "studio": "Sunrise",
     "runtime": "94",
     "original_title": "Kidou Senshi Z Gundam I: Hoshi wo Tsugu Mono",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1772",
+      "title_romaji": "Kidou Senshi Z Gundam: Hoshi o Tsugu Mono",
+      "title_english": "Mobile Suit Zeta Gundam: A New Translation - Heir to the Stars",
+      "title_native": "機動戦士Zガンダム -星を継ぐ者-",
+      "description": "Digitally remastered compilation movies for the Zeta Gundam TV series with some new footage. Part of Gundam's 25th Anniversary celebration.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1772/large.jpg",
+      "kitsu_year": 2005,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/mobile-suit-zeta-gundam-a-new-translation-heir-to-the-stars",
+      "genres": [
+        "Future",
+        "Space",
+        "Earth",
+        "Mecha",
+        "Space Travel",
+        "Transforming Craft",
+        "Piloted Robot",
+        "Violence",
+        "Americas",
+        "Action"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1772.jpg"
+    }
   },
   {
     "year": 2005,
@@ -333,7 +422,27 @@
     "studio": "AYCO",
     "runtime": "89",
     "original_title": "Ashita Genki ni Nare! ~Hanbun no Satsumaimo~",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3727",
+      "title_romaji": "Yoshino no Hime",
+      "title_english": "The Princess of Yoshino",
+      "title_native": "吉野の姫制",
+      "description": "A girl prays to the Princess of Yoshino for a cherry to be in full bloom tomorrow. That is because the Princess is one of the spirit family governing all the cherries in the world and because the brother of the girl will go campaigning tomorrow. Since it's a ONA click on website to watch the video in raw Japanese.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3727/large.jpg",
+      "kitsu_year": 2005,
+      "format": "ONA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/yoshino-no-hime",
+      "genres": [
+        "Historical",
+        "Fantasy",
+        "Comedy",
+        "Slice of Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3727.jpg"
+    }
   },
   {
     "year": 2005,
@@ -347,7 +456,24 @@
     "studio": "TMS Entertainment",
     "runtime": "51",
     "original_title": "Soreike! Anpanman: Happy no Daibōken",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "9195",
+      "title_romaji": "Anpanman to Hajime yo! Iro, Kazu, Katachi Wakarukana Iro, Katachi",
+      "title_english": null,
+      "title_native": "アンパンマンとはじめよう! いろ・かず・かたち わかるかな いろ・かたち",
+      "description": "Part of the \"Let's start with Anpanman\" series of educational animation for kindergarten children featuring characters from Anpanman.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/9195/large.jpg",
+      "kitsu_year": 2006,
+      "format": "special",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/anpanman-to-hajime-yo-iro-kazu-katachi-wakarukana-iro-katachi",
+      "genres": [
+        "Kids"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-9195.jpg"
+    }
   },
   {
     "year": 2005,
@@ -505,7 +631,26 @@
     "studio": "Toei Animation",
     "runtime": "84",
     "original_title": "Konjiki no Gash Bell!!",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "748",
+      "title_romaji": "Konjiki no Gash Bell!!: 101 Banme no Mamono",
+      "title_english": "Gash Bell The 1st Movie: Unlisted Demon",
+      "title_native": "劇場版 金色のガッシュベル!! 101番目の魔物",
+      "description": "During the Summer holidays, Gash and gang decide to head for Fuji Mountain for a picnic gathering. There, they encounter a girl with a white magical book. Her name is Kotoha and her book has a message saying that Gash's mother is located a cave in the forest. However, when they eventually found the cave, there was already a blond-haired youth by the name of Wiseman. In order to rescue Wiseman, Gash and the others attempt to proceed into the depths of the cave and stumble upon the entrance to another world. Soon later, the strongest warrior, the Black Knight, appeared before them. Thinking that Gash was the one who stole the 101th magical book, the Black Knight started to attack them. Gash and Kiyomaro have to find the real criminal in exactly 24 hours, or else they will be stuck in the alternative world forever.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/748/large.jpg",
+      "kitsu_year": 2004,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/konjiki-no-gash-bell-101-banme-no-mamono",
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Friendship"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-748.jpg"
+    }
   },
   {
     "year": 2005,
@@ -594,7 +739,32 @@
     "studio": "Magic Bus",
     "runtime": "84",
     "original_title": "Glass no Usagi",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3167",
+      "title_romaji": "Glass no Usagi",
+      "title_english": "Glass Rabbit",
+      "title_native": "ガラスのうさぎ",
+      "description": "Toshiko Ei and her family are residents of Tokyo. Her father is a respected and skilled glass craftsmen so the family makes a good living. However, the Ei family soon finds itself having to suffer through many tragic hardships as a result of World War II.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3167/large.jpg",
+      "kitsu_year": 2005,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/glass-no-usagi",
+      "genres": [
+        "Past",
+        "Historical",
+        "Japan",
+        "World War II",
+        "Slice of Life",
+        "Anti War",
+        "Disaster",
+        "Drama",
+        "Coming Of Age"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3167.jpg"
+    }
   },
   {
     "year": 2005,
@@ -1511,7 +1681,33 @@
     "director": "",
     "alt_title": "Kondoru hideo densetsu II Jōyō fūun",
     "ref": "[ 2 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "850",
+      "title_romaji": "Shin Chou Kyou Ryo: Condor Hero II",
+      "title_english": "Legend of the Condor Hero II",
+      "title_native": "神鵰俠侶 II 襄陽風雲",
+      "description": "Continuation of Legend of the Condor Hero.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/850/large.jpg",
+      "kitsu_year": 2005,
+      "format": "TV",
+      "episodes": 26,
+      "site_url": "https://kitsu.io/anime/shin-chou-kyou-ryo-condor-hero-ii",
+      "genres": [
+        "Martial Arts",
+        "Swordplay",
+        "Past",
+        "Earth",
+        "Historical",
+        "China",
+        "Feudal Warfare",
+        "Plot Continuity",
+        "Asia",
+        "Action"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-850.jpg"
+    }
   },
   {
     "year": 2005,
@@ -1605,7 +1801,31 @@
     "director": "Akitarō Daichi",
     "alt_title": "Masuda kōsuke gekijō gyagumangabiyori",
     "ref": "[ 2 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1076",
+      "title_romaji": "Masuda Kousuke Gekijou Gag Manga Biyori",
+      "title_english": null,
+      "title_native": "増田こうすけ劇場 ギャグマンガ日和",
+      "description": "Gyagu Manga Biyori is an anime that is about absolutely nothing. It is comprised of 12 short stories (5 minutes long each) that only build up a small amount of plot for each story. The anime feeds off the stupidest things, but is quite humorous.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1076/large.jpg",
+      "kitsu_year": 2005,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/gyagu-manga-biyori",
+      "genres": [
+        "Present",
+        "Earth",
+        "Parody",
+        "Japan",
+        "Violence",
+        "Asia",
+        "Fantasy",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1076.jpg"
+    }
   },
   {
     "year": 2005,
@@ -1702,7 +1922,33 @@
     "director": "Masaharu Okuwaki Keiichiro Kawaguchi (eps 53-102)",
     "alt_title": "Meru",
     "ref": "[ 3 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "378",
+      "title_romaji": "Hametsu no Mars",
+      "title_english": "Mars of Destruction",
+      "title_native": "破滅のマルス",
+      "description": "Several months after a probe returning from Mars burns up during reentry, strange creatures dubbed \"Ancients\" begin to appear throughout Tokyo. Aggressive and dangerous, they cannot be killed with ordinary weapons. As scientists struggle to find the cause of their sudden appearance, the monsters wreak havoc across the world. Humanity finds hope in the form of the MARS suit—a new weapon developed to take down these enemies. The suit, however, can only be worn by those with specific DNA. Enter Takeru Hinata, an ordinary teen with a troubled past and one of the few capable of piloting the only weapon against the Ancients. With the help of the AAST, a special police force established to defeat the dangerous creatures, the young man battles against demons both personal and global whilst trying to discover the true nature of Earth's new aggressors. [Written by MAL Rewrite]",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/378/large.jpg",
+      "kitsu_year": 2005,
+      "format": "OVA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/mars-of-destruction",
+      "genres": [
+        "Alien",
+        "Gunfights",
+        "Earth",
+        "Mecha",
+        "Power Suit",
+        "Japan",
+        "Violence",
+        "Humanoid Alien",
+        "Asia",
+        "Action"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-378.jpg"
+    }
   },
   {
     "year": 2005,
@@ -1881,7 +2127,24 @@
     "director": "",
     "alt_title": "Taiko no Tatsujin",
     "ref": "[ 3 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3213",
+      "title_romaji": "Taiko no Tatsujin",
+      "title_english": "Taiko Drum Master",
+      "title_native": "太鼓の達人",
+      "description": "A series of four minute claymation shows. Each episode shows the different antics of the various Taiko no Tatsujin characters.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3213/large.jpg",
+      "kitsu_year": 2005,
+      "format": "TV",
+      "episodes": 26,
+      "site_url": "https://kitsu.io/anime/taiko-no-tatsujin",
+      "genres": [
+        "Virtual Reality"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3213.jpg"
+    }
   },
   {
     "year": 2005,
@@ -2466,7 +2729,27 @@
     "director": "Yoshitomo Yonetani",
     "alt_title": "Yuusha-Ou GaoGaiGar Final Grand Glorious Gathering",
     "ref": "[ 3 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3600",
+      "title_romaji": "Yuusha-Ou GaoGaiGar Final Grand Glorious Gathering",
+      "title_english": "King of Braves GaoGaiGar Final Grand Glorious Gathering",
+      "title_native": "勇者王ガオガイガーFINAL Grand Glorious Gathering",
+      "description": "Following Gutsy Galaxy Guard's victory over the Zonder Empire and the 31 Primevals, a new threat makes their appearance on Earth. GGG - with Guy Shishio and the newly-constructed GaoFighGar - team up with their French counterpart Chasseur to battle the evil organization BioNet. Among Chasseur's ranks is Renais Cardiff Shishioh - a former BioNet cyborg with the relentless pursuit of destroying those who took away her humanity. But as GGG and Chasseur fight the BioNet, GGG's bases around the world are suddenly attacked, and the recently-discovered \"Q-Parts\" and the original Gao Machines are stolen by Mamoru Amami, who has been abducted and cloned by an even greater threat known as the \"Eleven Kings of Sol.\" Evicted from Earth by the United Nations, GGG must now travel to the far reaches of the galaxy to battle the Eleven Kings of Sol and save Mamoru before it's too late.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3600/large.jpg",
+      "kitsu_year": 2005,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/gaogaigar-final-grand-glorious-gathering",
+      "genres": [
+        "Super Power",
+        "Mecha",
+        "Action",
+        "Science Fiction"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3600.jpg"
+    }
   },
   {
     "year": 2005,
@@ -2794,7 +3077,30 @@
     "director": "Kenichi Maejima",
     "alt_title": "Patariro saiyūki",
     "ref": "[ 4 ] [ better source needed ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "925",
+      "title_romaji": "Patalliro Saiyuuki!",
+      "title_english": null,
+      "title_native": "パタリロ西遊記！",
+      "description": "Genjou Sanzou is a Buddhist monk who has been sent by the Emperor on a journey to find the sacred Buddhist scriptures. One day, Sanzou meets an Earth Deity who tells him that Buddha has sent him a disciple: the mischievous Monkey Deity Son Goku, who was sealed inside of a mountain for five hundred years after wreaking havoc in Heaven! Together with the alcohol-loving playboy Cho Hakkai; the heavenly army General Sagojyou; and their horse, the Dragon Crown Prince Ryuuba; there are plenty of adventures to be had from fighting off monsters to bishounen contests.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/925/large.jpg",
+      "kitsu_year": 2005,
+      "format": "TV",
+      "episodes": 26,
+      "site_url": "https://kitsu.io/anime/patalliro-saiyuki",
+      "genres": [
+        "Super Power",
+        "Contemporary Fantasy",
+        "Parody",
+        "Shounen Ai",
+        "Fantasy",
+        "Adventure",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-925.jpg"
+    }
   },
   {
     "year": 2005,
@@ -4179,7 +4485,31 @@
     "director": "Mitsuru Hongo",
     "alt_title": "IGPX -Immortal Grand Prix-",
     "ref": "[ 6 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2896",
+      "title_romaji": "IGPX: Immortal Grand Prix (2005)",
+      "title_english": "IGPX: Immortal Grand Prix (2005)",
+      "title_native": "IGPX -Immortal Grand Prix-",
+      "description": "In the year 2048, people are raving about a fighting race called “Immortal Grand Prix”, or IGPX in short, which is faster and more exciting than any of the existing motor sports. The phenomenon is so big that an entire city was built for the racing industry where competitions take place on a huge track. In the “Immortal Grand Prix,” two teams of three IG machines, high-tech humanoid mechs driven by humans, race at speeds greater than 400km/h. The teams make three laps of a 60 km course while intercepting the opponent as they vie for a first place finish. The best machine performance, the best pilots and the best teamwork are the only factors that can make them the winners.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2896/large.jpg",
+      "kitsu_year": 2005,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/igpx-immortal-grand-prix",
+      "genres": [
+        "Future",
+        "Mecha",
+        "Piloted Robot",
+        "Motorsport",
+        "Plot Continuity",
+        "Science Fiction",
+        "Sports",
+        "Coming Of Age"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2896.jpg"
+    }
   },
   {
     "year": 2005,
@@ -4389,7 +4719,33 @@
     "director": "Junichi Fujisaku",
     "alt_title": "Buraddo purasu",
     "ref": "[ 6 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "128",
+      "title_romaji": "Blood+",
+      "title_english": "Blood+",
+      "title_native": "ブラッドプラス",
+      "description": "Saya Otonashi is a seemingly ordinary girl living a mundane life with her adoptive family in Okinawa City. In fact, her only peculiarities are suffering from anemia and being unable to remember any of her life beyond the previous year. However, Saya's forgotten past quickly comes back to haunt her—one night, she is attacked at school by a creature that feeds on human blood. Just when all hope seems lost, a mysterious man named Haji appears and fends off the creature temporarily. But when her rescuer forces her to drink his blood, Saya suddenly enters a trance and slays the monster with ease, using her own blood as a catalyst. Saya then learns of an organization named Red Shield, founded for the sole purpose of defeating the hellish beasts. Now Saya and Haji must work together with Red Shield to fight these fearsome monsters and unlock the secrets to the girl's past. [Written by MAL Rewrite]",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/128/large.jpg",
+      "kitsu_year": 2005,
+      "format": "TV",
+      "episodes": 50,
+      "site_url": "https://kitsu.io/anime/blood",
+      "genres": [
+        "Vampire",
+        "Gunfights",
+        "Swordplay",
+        "Present",
+        "Earth",
+        "Japan",
+        "Russia",
+        "Violence",
+        "Plot Continuity",
+        "Reverse Harem"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-128.jpg"
+    }
   },
   {
     "year": 2005,
@@ -5694,7 +6050,28 @@
     "original_title": "Eā sōshūhen",
     "type": "Special",
     "ref": "[ 3 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "5776",
+      "title_romaji": "Transformers Superlink Special",
+      "title_english": null,
+      "title_native": "トランスフォーマー スーパーリンク",
+      "description": "Episode 43.5, \"Distribution\", is a comedic special show which commemorates 500 episodes of Transformers in Japan (however, since that total includes assorted Japanese series, the west is still some distance away from this number). When aired in Japan, it did not air in the usual timeslot for Superlink, and is not in any sort of chronological order - It features the Autobots playing a video game training simulator, which they certainly do not have time to do between episodes 42 and 44.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/5776/large.jpg",
+      "kitsu_year": 2004,
+      "format": "special",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/transformers-superlink-special",
+      "genres": [
+        "Mecha",
+        "Transforming Craft",
+        "Science Fiction",
+        "Adventure",
+        "Kids"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-5776.jpg"
+    }
   },
   {
     "year": 2005,
@@ -5710,7 +6087,27 @@
     "original_title": "Āmmegamisama~tsu",
     "type": "Special",
     "ref": "[ 3 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "893",
+      "title_romaji": "Aa! Megami-sama! (TV) Specials",
+      "title_english": null,
+      "title_native": "ああっ女神さまっ",
+      "description": "Due to the recent events that happened on the last episodes of the season, the Goddess have some stability problems with their body systems. The always adult looking Urd becomes a little girl and has a fateful encounter with a boy, whereas little Skuld becomes an adult and wants to experiment adulthood together with Keiichi.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/893/large.jpg",
+      "kitsu_year": 2005,
+      "format": "special",
+      "episodes": 3,
+      "site_url": "https://kitsu.io/anime/aa-megami-sama-specials",
+      "genres": [
+        "Magic",
+        "Fantasy",
+        "Comedy",
+        "Romance"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-893.jpg"
+    }
   },
   {
     "year": 2005,
@@ -5879,7 +6276,33 @@
     "original_title": "Munto: Toki no Kabe wo Koete",
     "type": "OVA",
     "ref": "[ 3 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1016",
+      "title_romaji": "Munto: Toki no Kabe wo Koete",
+      "title_english": "Munto 2: Beyond the Walls of Time",
+      "title_native": "MUNTO 時の壁を越えて",
+      "description": "Two years have passed since the catastrophic event known as the \"Continent's Dropping\" from the first OVA episode. Yumemi still has not forgotten her ability to see the world above, but now she's in the last years of middle school, tests and real life take over. Unknown to the people of the world, Akuto the world still thrives, but the war rages on. In need of help, Gaz, sends Munto down to Earth once more to find the \"Girl of Destiny\" in order to save Heaven from its untimely demise. Yumemi must once again confront the world only she sees, and not even her friends Ichiko and Suzune can help her.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1016/large.jpg",
+      "kitsu_year": 2005,
+      "format": "OVA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/munto-toki-no-kabe-wo-koete",
+      "genres": [
+        "Magic",
+        "Robot",
+        "Super Power",
+        "Present",
+        "Future",
+        "Earth",
+        "Mecha",
+        "Japan",
+        "Asia",
+        "Floating Island"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1016.jpg"
+    }
   },
   {
     "year": 2005,
@@ -6038,7 +6461,26 @@
     "original_title": "Konjiki no Gash Bell!!: Ougon no Chichi wo Motsu Otoko",
     "type": "OVA",
     "ref": "[ 3 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "748",
+      "title_romaji": "Konjiki no Gash Bell!!: 101 Banme no Mamono",
+      "title_english": "Gash Bell The 1st Movie: Unlisted Demon",
+      "title_native": "劇場版 金色のガッシュベル!! 101番目の魔物",
+      "description": "During the Summer holidays, Gash and gang decide to head for Fuji Mountain for a picnic gathering. There, they encounter a girl with a white magical book. Her name is Kotoha and her book has a message saying that Gash's mother is located a cave in the forest. However, when they eventually found the cave, there was already a blond-haired youth by the name of Wiseman. In order to rescue Wiseman, Gash and the others attempt to proceed into the depths of the cave and stumble upon the entrance to another world. Soon later, the strongest warrior, the Black Knight, appeared before them. Thinking that Gash was the one who stole the 101th magical book, the Black Knight started to attack them. Gash and Kiyomaro have to find the real criminal in exactly 24 hours, or else they will be stuck in the alternative world forever.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/748/large.jpg",
+      "kitsu_year": 2004,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/konjiki-no-gash-bell-101-banme-no-mamono",
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Friendship"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-748.jpg"
+    }
   },
   {
     "year": 2005,
@@ -6054,7 +6496,33 @@
     "original_title": "UFO Princess Valkyrie 3: Seiresetsu no Hanayome",
     "type": "OVA",
     "ref": "[ 3 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1359",
+      "title_romaji": "UFO Princess Valkyrie 3: Seiresetsu no Hanayome",
+      "title_english": "UFO Ultramaiden Valkyrie 3: Bride of Celestial Souls' Day",
+      "title_native": "円盤皇女ワるきゅーレ 星霊節の花嫁",
+      "description": "The third season doesn`t have a particular story behind everything (like \"Valkyrie Ghost\" in the second season). It just tells 6 stories about the life of Kazuto &amp; Co. with some additions: Raine and Chorus get a house on earth, the last three Valhalla princesses each get an episode, and in the last episode Kazuto and Valkyrie, who in the same episode managed to stay adult, &gt;try&lt; to marry again.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1359/large.jpg",
+      "kitsu_year": 2005,
+      "format": "OVA",
+      "episodes": 6,
+      "site_url": "https://kitsu.io/anime/ufo-princess-valkyrie-3-seiresetsu-no-hanayome",
+      "genres": [
+        "Magic",
+        "Alien",
+        "Deity",
+        "Earth",
+        "Science Fiction",
+        "Fantasy",
+        "Comedy",
+        "Ecchi",
+        "Romance",
+        "Juujin"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1359.jpg"
+    }
   },
   {
     "year": 2005,
@@ -6321,7 +6789,33 @@
     "original_title": "Furumetaru panikku! The Second Raid zen'yasai `Scene 00'",
     "type": "Special",
     "ref": "[ 4 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "53",
+      "title_romaji": "Full Metal Panic! The Second Raid",
+      "title_english": "Full Metal Panic! The Second Raid",
+      "title_native": "フルメタル パニック！The Second Raid",
+      "description": "This series is set about two months after the events ocurred in the Tuatha de Danaan at the end of the original series. Mithril becomes aware of a secret organization that has technology able to counter the ECS (Electronic Cloaking System) mode. This organization, known as Amalgam, also has \"Black Technology,\" obtained from \"Whispered\" like Kaname Chidori, and like the other intelligence agencies, they intend to obtain more; however, when Sousuke's mission to protect Chidori is terminated by Mithril, all seems to be in place for Amalgam's plans...",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/53/large.jpg",
+      "kitsu_year": 2005,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/full-metal-panic-the-second-raid",
+      "genres": [
+        "Gunfights",
+        "Earth",
+        "Mecha",
+        "Piloted Robot",
+        "Japan",
+        "Violence",
+        "Plot Continuity",
+        "Asia",
+        "Action",
+        "Science Fiction"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-53.jpg"
+    }
   },
   {
     "year": 2005,
@@ -6337,7 +6831,27 @@
     "original_title": "Gakkō no kaidan",
     "type": "OVA",
     "ref": "[ 4 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8696",
+      "title_romaji": "Gakkou no Kaidan (OVA)",
+      "title_english": null,
+      "title_native": "学校の怪談",
+      "description": "OVAs included in the August and September issues of Comic Bun Bun between 2005 and 2009. In 2005 and 2006, the anime came on VHS tapes. It switched to DVD in 2007.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/8696/large.jpg",
+      "kitsu_year": 2005,
+      "format": "OVA",
+      "episodes": 10,
+      "site_url": "https://kitsu.io/anime/gakkou-no-kaidan-sp",
+      "genres": [
+        "Fantasy",
+        "Horror",
+        "Comedy",
+        "Mystery"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8696.jpg"
+    }
   },
   {
     "year": 2005,
@@ -6386,7 +6900,33 @@
     "original_title": "Seikai no senki II tokubetsu-hen",
     "type": "Special",
     "ref": "[ 4 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "365",
+      "title_romaji": "Seikai no Senki III",
+      "title_english": "Banner of the Stars III",
+      "title_native": "星界の戦旗 III",
+      "description": "Jinto and Lafiel were riding on a light-armed transport ship \"Bokbrusue\" and navigating at the planar space of the Hyde System. This was for Jinto to govern the Hyde System, which returned to Empirial rule after the Union retreated, officially as an Earl. However, the government of Martin, Jinto`s motherland, resisted obstinately against the Empirial rule. On the other side, \"Daiichi Jyuurin Sentai\" (the First Devastation Fleet), formed with the new ship type \"Attack Vessel\", travelled to the Hyde System for drilling practices, but...",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/365/large.jpg",
+      "kitsu_year": 2005,
+      "format": "OVA",
+      "episodes": 2,
+      "site_url": "https://kitsu.io/anime/seikai-no-senki-iii",
+      "genres": [
+        "Future",
+        "Space",
+        "Human Enhancement",
+        "Space Travel",
+        "Other Planet",
+        "Shipboard",
+        "Plot Continuity",
+        "Action",
+        "Science Fiction",
+        "Romance"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-365.jpg"
+    }
   },
   {
     "year": 2005,
@@ -6884,7 +7424,28 @@
     "original_title": "Tenchi muyō! Ryōōki daisanki tenchi seirōnaredo hakō shi?",
     "type": "OVA",
     "ref": "[ 4 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1028",
+      "title_romaji": "Tenchi Muyou! Ryououki 3rd Season: Tenchi Seirou naredo Namitakashi?",
+      "title_english": null,
+      "title_native": "天地無用！魎皇鬼 第三期 天地晴朗なれど波高し？",
+      "description": "After a 'modified' ending to the Choubimaru incident, the punishments for the offending parties is metted-out, as well as a surprise marriage proposal by Misao to Mashisu. It almost didn't happen... until Mihoshi and Misao's mother Mitoto steps in and gives her and her family's approval, much to the dismay of FORMER G.P. Marshall Minami Kuramitsu. Otherwise, life goes on as usual for the Masaki clan. But soon when the question of how Tenchi's mother had died is presented, the answer nearly causes a rift between Tenchi, his father and his grandfather, for which only Tenchi's future mother-in-law Rea can solve... as well as the resolution of Noike's unusual secret.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1028/large.jpg",
+      "kitsu_year": 2005,
+      "format": "OVA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/tenchi-muyo-ryo-ohki-3-plus-1",
+      "genres": [
+        "Space",
+        "Action",
+        "Science Fiction",
+        "Comedy",
+        "Harem"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1028.jpg"
+    }
   },
   {
     "year": 2005,
@@ -7063,7 +7624,26 @@
     "original_title": "Kōkaku kidōtai sutando Alone Complex – The Laughing Man tachikoma na hibi",
     "type": "Special",
     "ref": "[ 4 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "6422",
+      "title_romaji": "Ghost in the Shell: Stand Alone Complex - Tachikoma no Hibi Fan Disc",
+      "title_english": "Ghost in the Shell: Stand Alone Complex: Tachikomatic Days Fan Disc",
+      "title_native": "攻殻機動隊 STAND ALONE COMPLEX-インターバル-",
+      "description": "Tachikomatic Days shorts released on a fan disc compilation. Later re-released on a BD box with all the Tachikoma shorts.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/6422/large.jpg",
+      "kitsu_year": 2004,
+      "format": "special",
+      "episodes": 3,
+      "site_url": "https://kitsu.io/anime/ghost-in-the-shell-stand-alone-complex-tachikoma-no-hibi-fan-disc",
+      "genres": [
+        "Mecha",
+        "Science Fiction",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-6422.jpg"
+    }
   },
   {
     "year": 2005,
@@ -7245,7 +7825,27 @@
     "original_title": "Kino no tabi – the byūtifuru wārudo – tō no kuni – furī ransu -",
     "type": "Special",
     "ref": "[ 6 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1233",
+      "title_romaji": "Kino no Tabi: Nanika wo Suru Tame ni - Life Goes On.",
+      "title_english": null,
+      "title_native": "キノの旅 何かをするために -life goes on.-",
+      "description": "A prequel to the Kino no Tabi series, Kino is being trained by their teacher. they learn how to ride Hermes and becomes gifted with excellent marksmanship. However, their guilt revolving the real Kino is with them when she decides to set off on a journey. Shizou even directs her to Kino's real mother. All the while, Kino is becoming confused with their real identity.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1233/large.jpg",
+      "kitsu_year": 2005,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/kino-no-tabi-nanika-wo-suru-tame-ni-life-goes-on",
+      "genres": [
+        "Fantasy World",
+        "Fantasy",
+        "Adventure",
+        "Steampunk"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1233.jpg"
+    }
   },
   {
     "year": 2005,
@@ -7711,7 +8311,32 @@
     "original_title": "Aizu pyua",
     "type": "OVA",
     "ref": "[ 6 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "718",
+      "title_romaji": "I''s Pure",
+      "title_english": "I''s Pure",
+      "title_native": "アイズピュア",
+      "description": "Seto Ichitaka has a crush on Yoshizuki Iori, a girl in his class who has become so popular she now has her own fan club at school. But only a miracle could make him be with her, since the day he first saw Iori-chan, Ichitaka has been too shy to even talk to her. This miracle happened and now he and Iori are working together on the Freshmen Welcoming Party. It seems that things start to look bright for Seto, but then a special childhood friend is coming for a visit...",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/718/large.jpg",
+      "kitsu_year": 2005,
+      "format": "OVA",
+      "episodes": 6,
+      "site_url": "https://kitsu.io/anime/i-s-pure",
+      "genres": [
+        "High School",
+        "Present",
+        "Japan",
+        "Sudden Girlfriend Appearance",
+        "Plot Continuity",
+        "Comedy",
+        "Ecchi",
+        "Romance",
+        "School Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-718.jpg"
+    }
   },
   {
     "year": 2005,
@@ -7850,7 +8475,28 @@
     "original_title": "Seinto bīsuto: ikusen no hiru to yoru-hen",
     "type": "OVA",
     "ref": "[ 8 ] [ better source needed ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2715",
+      "title_romaji": "Saint Beast: Ikusen no Hiru to Yoru-hen",
+      "title_english": null,
+      "title_native": "セイント・ビースト～幾千の昼と夜 編～",
+      "description": "Long ago there was a war in Heaven which resulted in Judas and Luca – two of the six specially-chosen, talented and strong Saint Beasts – being cast out and imprisoned in Hell for leading the rebellion. But before that Heaven had been a peaceful place where the angels happily lived their lives. In this time, Judas, Luca, Goh, Shin, Rey and Gai are adolescent angels in Heaven who, on the day of Benediction, are made into adults by the supreme god Zeus. With each of the six having their own special abilities and new adult bodies to get used to, opportunities to meet each other arise and new friendships are formed.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2715/large.jpg",
+      "kitsu_year": 2005,
+      "format": "OVA",
+      "episodes": 2,
+      "site_url": "https://kitsu.io/anime/saint-beast-ikusen-no-hiru-to-yoru-hen",
+      "genres": [
+        "Bishounen",
+        "Magic",
+        "Angel",
+        "Shounen Ai",
+        "Fantasy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2715.jpg"
+    }
   },
   {
     "year": 2005,

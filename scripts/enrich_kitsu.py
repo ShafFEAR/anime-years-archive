@@ -118,6 +118,177 @@ def query_kitsu(title, retries=3):
     return None
 
 
+def search_candidates(title, limit=10, retries=3):
+    """Like query_kitsu, but returns up to `limit` ranked candidates instead
+    of assuming the top hit is correct. Used by retry_unmatched() to find a
+    result whose year actually fits when the top hit didn't."""
+    global DELAY
+    params = {"filter[text]": title, "page[limit]": limit}
+    for attempt in range(retries):
+        try:
+            resp = SESSION.get(KITSU_URL, params=params, timeout=20)
+        except requests.RequestException:
+            time.sleep(3)
+            continue
+        if resp.status_code == 429:
+            retry_after = int(resp.headers.get("Retry-After", "30") or "30")
+            print(f"  rate limited, sleeping {retry_after}s")
+            time.sleep(retry_after + 1)
+            DELAY = min(3.0, DELAY + 0.3)
+            continue
+        if resp.status_code >= 500:
+            time.sleep(5)
+            continue
+        if resp.status_code != 200:
+            print(f"  Kitsu returned {resp.status_code}: {resp.text[:200]}")
+            return None
+        try:
+            data = resp.json()
+        except ValueError:
+            return None
+        candidates = []
+        for item in data.get("data") or []:
+            attrs = item.get("attributes") or {}
+            titles = attrs.get("titles") or {}
+            start_date = attrs.get("startDate") or ""
+            start_year = int(start_date[:4]) if start_date[:4].isdigit() else None
+            poster = attrs.get("posterImage") or {}
+            candidates.append({
+                "source": "kitsu",
+                "source_id": item.get("id"),
+                "title_romaji": titles.get("en_jp") or attrs.get("canonicalTitle"),
+                "title_english": titles.get("en") or titles.get("en_us"),
+                "title_native": titles.get("ja_jp"),
+                "description": clean_synopsis(attrs.get("synopsis")),
+                "cover_small": poster.get("small") or poster.get("medium"),
+                "cover_large": poster.get("large") or poster.get("original"),
+                "kitsu_year": start_year,
+                "format": attrs.get("subtype"),
+                "episodes": attrs.get("episodeCount"),
+                "site_url": f"https://kitsu.io/anime/{attrs['slug']}" if attrs.get("slug") else None,
+            })
+        return candidates
+    return None
+
+
+def fetch_categories(source_id, retries=2):
+    for attempt in range(retries):
+        try:
+            resp = SESSION.get(f"{KITSU_URL}/{source_id}/categories", timeout=15)
+        except requests.RequestException:
+            time.sleep(2)
+            continue
+        if resp.status_code != 200:
+            return []
+        try:
+            data = resp.json()
+        except ValueError:
+            return []
+        return [c["attributes"]["title"] for c in data.get("data", []) if c.get("attributes", {}).get("title")]
+    return []
+
+
+def pick_best_match(candidates, expected_year):
+    """First candidate (Kitsu's own relevance order) whose release year
+    fits -- not necessarily candidate 0, since the top text match is often
+    the wrong production (a remake/reboot sharing the original's title)."""
+    for c in candidates or []:
+        if c.get("kitsu_year") and abs(c["kitsu_year"] - expected_year) <= 1:
+            return c
+    return None
+
+
+def extract_romaji(original_title):
+    """Pull the romanized title out of Wikipedia's "Kanji ( Romaji )" style
+    original_title field, for use as a fallback search when the English
+    title alone doesn't turn up a year-appropriate match."""
+    if not original_title:
+        return None
+    m = re.search(r"\(([^()]+)\)\s*$", original_title)
+    if not m:
+        return None
+    return m.group(1).strip() or None
+
+
+def retry_unmatched():
+    """Re-attempt entries logged as unmatched, this time scanning several
+    search results per title (instead of trusting only the top hit) and
+    falling back to the romanized Japanese title when the English title
+    search doesn't yield a candidate for the right year."""
+    unmatched_path = LOG_DIR / "unmatched_kitsu.json"
+    if not unmatched_path.exists():
+        print("No unmatched_kitsu.json found -- run the main pass first.")
+        return
+    unmatched = json.loads(unmatched_path.read_text(encoding="utf-8"))
+    by_year = {}
+    for u in unmatched:
+        by_year.setdefault(u["year"], set()).add(u["title"])
+
+    search_cache_path = ROOT / "data" / "kitsu_search_cache.json"
+    search_cache = json.loads(search_cache_path.read_text(encoding="utf-8")) if search_cache_path.exists() else {}
+
+    still_unmatched = []
+    newly_matched = 0
+    checked = 0
+
+    for year in sorted(by_year):
+        enriched_path = ENRICHED_DIR / f"{year}.json"
+        entries = json.loads(enriched_path.read_text(encoding="utf-8"))
+        title_set = by_year[year]
+        changed = False
+        for entry in entries:
+            if entry["title"] not in title_set or entry.get("enrichment"):
+                continue
+            checked += 1
+            raw_title = entry.get("wiki_title") or entry["title"]
+            search_title = raw_title.split("#", 1)[0].strip() or entry["title"]
+            queries = [search_title]
+            romaji = extract_romaji(entry.get("original_title"))
+            if romaji and romaji.lower() != search_title.lower():
+                queries.append(romaji)
+
+            winner = None
+            for q in queries:
+                key = q.strip().lower()
+                if key in search_cache:
+                    candidates = search_cache[key]
+                else:
+                    candidates = search_candidates(q)
+                    if candidates is not None:
+                        search_cache[key] = candidates
+                    time.sleep(DELAY)
+                if candidates:
+                    winner = pick_best_match(candidates, year)
+                    if winner:
+                        break
+
+            if winner:
+                genres = fetch_categories(winner["source_id"])
+                time.sleep(DELAY)
+                enrichment = {k: v for k, v in winner.items() if k != "cover_small"}
+                enrichment["genres"] = genres
+                enrichment["year_match"] = True
+                if winner.get("cover_small"):
+                    enrichment["image_path"] = download_image(winner["cover_small"], winner["source_id"])
+                entry["enrichment"] = enrichment
+                newly_matched += 1
+                changed = True
+            else:
+                still_unmatched.append({"year": year, "title": entry["title"], "reason": "no_year_fit_in_candidates"})
+
+            if checked % 50 == 0:
+                search_cache_path.write_text(json.dumps(search_cache, ensure_ascii=False), encoding="utf-8")
+                print(f"...checked {checked}, newly matched {newly_matched}")
+
+        if changed:
+            enriched_path.write_text(json.dumps(entries, indent=2, ensure_ascii=False), encoding="utf-8")
+            print(f"{year}: updated ({sum(1 for e in entries if e['title'] in title_set and e.get('enrichment'))} newly matched)")
+
+    search_cache_path.write_text(json.dumps(search_cache, ensure_ascii=False), encoding="utf-8")
+    unmatched_path.write_text(json.dumps(still_unmatched, indent=2, ensure_ascii=False), encoding="utf-8")
+    print(f"\nRetry done. Checked {checked}, newly matched {newly_matched}, still unmatched {len(still_unmatched)}.")
+
+
 def download_image(url, source_id):
     ext = ".png" if url.lower().endswith(".png") else ".jpg"
     dest = IMAGES_DIR / f"kitsu-{source_id}{ext}"
@@ -211,7 +382,10 @@ def main(limit_years=None):
 
 
 if __name__ == "__main__":
-    years_arg = None
-    if len(sys.argv) > 1:
-        years_arg = {int(y) for y in sys.argv[1:]}
-    main(years_arg)
+    if len(sys.argv) > 1 and sys.argv[1] == "retry":
+        retry_unmatched()
+    else:
+        years_arg = None
+        if len(sys.argv) > 1:
+            years_arg = {int(y) for y in sys.argv[1:]}
+        main(years_arg)

@@ -131,7 +131,26 @@
     "director": "Ai Yoshimura",
     "running_time": "113",
     "ref": "[ 5 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "46449",
+      "title_romaji": "Versailles no Bara Movie",
+      "title_english": "The Rose of Versailles Movie",
+      "title_native": "劇場 ベルサイユのばら",
+      "description": "In an age of revolution, Marie Antoinette and her protector, Oscar François de Jarjayes face tough choices as women growing into their distinct roles.",
+      "cover_large": "https://media.kitsu.app/anime/46449/poster_image/large-bf51c0f3aabd4d3b6fab058143c31b2f.jpeg",
+      "kitsu_year": 2025,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/versailles-no-bara-movie",
+      "genres": [
+        "Adventure",
+        "Romance",
+        "Drama"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-46449.jpg"
+    }
   },
   {
     "year": 2025,
@@ -310,7 +329,29 @@
     "director": "Akitaro Daichi",
     "running_time": "64",
     "ref": "[ 12 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "47637",
+      "title_romaji": "Boku to Roboco Movie",
+      "title_english": "Me & Roboco: The Movie",
+      "title_native": "劇場版 僕とロボコ",
+      "description": "Ten-year-old Taira Bondo is a normal grade school student who spends his days like he’s living a comedy, alongside his OrderMaid, Roboco. One day, Roboco gets a sudden knee notification as worlds collide! Someone has disrupted space-time, and now, various Robocos from the multiverse begin to gather…",
+      "cover_large": "https://media.kitsu.app/anime/47637/poster_image/large-642283525bacdc292646fa4cea129ea5.jpeg",
+      "kitsu_year": 2025,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/boku-to-roboco-movie",
+      "genres": [
+        "Maid",
+        "Robot",
+        "Comedy",
+        "Slice of Life",
+        "Robot Helper",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-47637.jpg"
+    }
   },
   {
     "year": 2025,
@@ -452,7 +493,27 @@
     "director": "Tatsuya Ishihara",
     "running_time": "105",
     "ref": "[ 18 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "49215",
+      "title_romaji": "Kobayashi-san Chi no Maidragon Samishii Gariya no Ryuu",
+      "title_english": "Miss Kobayashi’s Dragon Maid: A lonely dragon wants to be Loved",
+      "title_native": "小林さんちのメイドラゴン さみしがりやの竜",
+      "description": "Miss Kobayashi, Tohru, Kanna, and Iruru's peaceful lives are shattered when Kanna’s father, Kamun Kamui, leader of the Chaos Forces, arrives and forces her to return to the Dragon World to fix a past mistake. With a war brewing between Chaos and Harmony, Kanna must find a way to unite the two worlds, but is torn between her loyalty to her friends and her father's demands. Miss Kobayashi, however, refuses to let her go and tries to mend Kanna and Kamui’s broken bond. As dragons clash, Iruru uncovers a hidden force manipulating the war. Can they stop the war before it consumes both worlds?",
+      "cover_large": "https://media.kitsu.app/anime/49215/poster_image/large-282fd5400cc01e03ca575c53e2813259.jpeg",
+      "kitsu_year": 2025,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/kobayashisan-Chi-no-Maidragon-Samishii-Gariya-no-Ryuu",
+      "genres": [
+        "Dragon",
+        "Fantasy",
+        "Slice of Life",
+        "Family"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-49215.jpg"
+    }
   },
   {
     "year": 2025,
@@ -540,7 +601,25 @@
     "director": "Mankyū",
     "running_time": "90",
     "ref": "[ 21 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "47987",
+      "title_romaji": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+      "title_english": "I Became Friends with the Second Cutest Girl in My Class",
+      "title_native": "クラスで２番目に可愛い女の子と友だちになった",
+      "description": "I, Maki Maehara, was the loner boy in my class, until I made my first friend, Umi Asanagi. Asanagi is always at the center of attention, and boys considered her to be \"the second cutest girl in the class.\" I thought I was just a guy in the shadows, living in a completely different world from her, but it turned out that she liked B-movies, too! Now Asanagi-san secretly comes over to my house on Fridays after school. We have a great time together, as we share the same interests in movies, games, and manga. \"Sit next to me and we can read manga together.\" \"This is my bed.......\" \"It's my bed for now. Come on, come over here.\" Isn't that a bit too close, Asanagi-san?",
+      "cover_large": "https://media.kitsu.app/anime/47987/poster_image/large-d9dc9f96eda345f9b42e538e3b7a2f21.jpeg",
+      "kitsu_year": 2026,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-47987.jpg"
+    }
   },
   {
     "year": 2025,
@@ -596,7 +675,25 @@
     "director": "Chihiro Kumano",
     "running_time": "74",
     "ref": "[ 25 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "48435",
+      "title_romaji": "Odekake Kozame × Chiba-ken Kuro Ajillo",
+      "title_english": null,
+      "title_native": "おでかけ子ザメ × 千葉県 黒アヒージョ",
+      "description": "Special episode of Odekake Kozame collabing with Kuro Ajillo.",
+      "cover_large": "https://media.kitsu.app/anime/48435/poster_image/large-1f40160ac827a46a843797b93c523415.jpeg",
+      "kitsu_year": 2024,
+      "format": "ONA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/odekake-kozame-x-chiba-ken-kuro-ajillo",
+      "genres": [
+        "Comedy",
+        "Slice of Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-48435.jpg"
+    }
   },
   {
     "year": 2025,
@@ -624,7 +721,28 @@
     "director": "Kouji Ogawa",
     "running_time": "71",
     "ref": "[ 27 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "49377",
+      "title_romaji": "Kimi to Idol Precure♪",
+      "title_english": "You and Idol Precure♪",
+      "title_native": "キミとアイドルプリキュア♪",
+      "description": "The main character, Sakura Uta, is a second-year middle school student who loves to sing. One day, she meets the fairy Purirun that has come to search for the Legendary Protectors, Idol Precure! Purirun's hometown, KirakiLand has been plunged into total darkness by Darkine, the boss of the Chokkiri Gang. Meanwhile, the sparkles of the townspeople are being stolen by the Chokkiri Gang... it's a huge pinch! \"I want to make it sparkle sparkly! Here is my song!\" - With this determination, Uta transforms into the Legendary Protector, Cure Idol! She sings, dances, and gives fan service, making it sparkle no matter how pitch-black it is!",
+      "cover_large": "https://media.kitsu.app/anime/49377/poster_image/large-f53068954bcb87868bb37b98fbe16496.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 49,
+      "site_url": "https://kitsu.io/anime/kimi-to-idol-precure",
+      "genres": [
+        "Magic",
+        "Idol",
+        "Magical Girl",
+        "Henshin",
+        "Kids"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-49377.jpg"
+    }
   },
   {
     "year": 2025,
@@ -844,7 +962,28 @@
     "director": "Tomoyuki Kawamura",
     "running_time": "75",
     "ref": "[ 34 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "47651",
+      "title_romaji": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 1",
+      "title_english": "Love Live! Nijigasaki High School Idol Club the Movie - Finale - Chapter 1",
+      "title_native": "ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編 第1章",
+      "description": "The first in a trilogy of Love Live! Nijigasaki Gakuen School Idol Doukoukai films that continues the story beyond season two and the OVA.",
+      "cover_large": "https://media.kitsu.app/anime/47651/poster_image/large-9dd26c44f65def80571230565e06012d.jpeg",
+      "kitsu_year": 2024,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/love-live-nijigasaki-gakuen-school-idol-doukoukai-kanketsu-hen-1",
+      "genres": [
+        "High School",
+        "Idol",
+        "Music",
+        "Slice of Life",
+        "School Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-47651.jpg"
+    }
   },
   {
     "year": 2025,
@@ -1189,7 +1328,25 @@
     "director": "Kengo Saitō",
     "original_title": "Sorairo Yūtiriti",
     "ref": "[ 47 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "48532",
+      "title_romaji": "Sorairo Utility",
+      "title_english": null,
+      "title_native": "空色ユーティリティ",
+      "description": "\"At this rate, I'll just graduate as a plain background character A!\" Minami Aoba was troubled. She had no particular strengths or things she wanted to do. Is it okay for her high school life to end as such an ordinary supporting character!? Leaving school behind, Minami searches for her own \"special uniqueness.\" She stumbles upon the nearby golf practice range by chance. Approached by part-time worker Haruka Akane, Minami grasps the golf club—the \"utility.\" And thus, it was the encounter between Minami and golf. Winning is not the only thing in golf! Everything related to golf is enjoyable! Together with the genius golfer Haruka and Ayaka Hoshimi, who aspires to be an influencer, they seek the moment when they can become the \"protagonist\"! As a super beginner, Minami swings her club once again today.",
+      "cover_large": "https://media.kitsu.app/anime/48532/poster_image/large-ff2b20b8d60e107e9ad65f4057125bae.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/sorairo-utility-tv",
+      "genres": [
+        "Slice of Life",
+        "Sports"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-48532.jpg"
+    }
   },
   {
     "year": 2025,
@@ -1507,7 +1664,26 @@
     "director": "Takehiro Kubota Masayuki Kojima",
     "original_title": "Watashi no Shiawase na Kekkon",
     "ref": "[ 57 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "47969",
+      "title_romaji": "Watashi no Shiawase na Kekkon 2nd Season",
+      "title_english": "My Happy Marriage Season 2",
+      "title_native": "わたしの幸せな結婚 第二期",
+      "description": "The second season of Watashi no Shiawase na Kekkon. Miyo and Kiyoka's love will be put to the test as trouble looms over them. Will they achieve the future they dream of?",
+      "cover_large": "https://media.kitsu.app/anime/47969/poster_image/large-c847c028767f0559788ea5d08030b869.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/watashi-no-shiawase-na-kekkon-2nd-season",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Supernatural"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-47969.jpg"
+    }
   },
   {
     "year": 2025,
@@ -2148,7 +2324,28 @@
     "director": "Norihiro Naganuma (Chief) Akinori Fudesaka",
     "original_title": "Kusuriya no Hitorigoto",
     "ref": "[ 76 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "48649",
+      "title_romaji": "Kusuriya no Hitorigoto 2nd Season",
+      "title_english": "The Apothecary Diaries Season 2",
+      "title_native": "薬屋のひとりごと 第2期",
+      "description": "The second season of Kusuriya no Hitorigoto. Maomao and Jinshi face palace intrigue as a pregnant concubine's safety and a looming conspiracy collide.",
+      "cover_large": "https://media.kitsu.app/anime/48649/poster_image/large-47f26dc6e2f3ee29bf411f719c37d90e.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 24,
+      "site_url": "https://kitsu.io/anime/kusuriya-no-hitorigoto-2nd-season",
+      "genres": [
+        "Historical",
+        "China",
+        "Romance",
+        "Drama",
+        "Mystery"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-48649.jpg"
+    }
   },
   {
     "year": 2025,
@@ -2345,7 +2542,26 @@
     "director": "Shinichiro Ushijima",
     "original_title": "",
     "ref": "[ 82 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "47816",
+      "title_romaji": "UniteUp!: Uni:Birth",
+      "title_english": null,
+      "title_native": null,
+      "description": "Second season of UniteUp!",
+      "cover_large": "https://media.kitsu.app/anime/47816/poster_image/large-48cbe70ce9d42f1843d6bea072abed3b.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/uniteup-2nd-season",
+      "genres": [
+        "Idol",
+        "Music",
+        "Slice of Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-47816.jpg"
+    }
   },
   {
     "year": 2025,
@@ -2396,7 +2612,27 @@
     "director": "Akira Sato",
     "original_title": "Kinnikuman: Kanpeki Chōjin Shiso-hen",
     "ref": "[ 84 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "47191",
+      "title_romaji": "Kinnikuman: Kanpeki Choujin Shiso-hen",
+      "title_english": "Kinnikuman: Perfect Origin Arc",
+      "title_native": "キン肉マン 完璧超人始祖編",
+      "description": "Prince Kinnikuman, who came to Earth from Kinnikusei, a planet at the end of the universe, was always ridiculed by humans as a useless Chojin. However, by chance, he was given the right to participate in the Chojin World Cup, a tournament to determine the world's best Chojin, and by a miracle, he won the championship. The following year, he even won it again! Since then, he has become a central figure among Seigi Chojin who protects the peace of the universe. He has managed to defeat the raging forces of the enemy, including Akuma Chojin who plans to rule the world, and Perfect Chojin who aims to wipe out the weak Chojin on Earth, with the power of friendship with his friends, including Terryman and Robin Mask. In recognition of his achievements, Kinnikuman wins the \"Survival Match for the Kinnikusei Throne,\" the final test of his career, and is crowned the 58th Great King of Kinnikusei! He returned to his home planet from Earth, got married, and said goodbye to eight years of fighting. About a year and a half later, the entire universe was supposed to be at peace...",
+      "cover_large": "https://media.kitsu.app/anime/47191/poster_image/large-e7be26051b48c4cddc94d3829c09c97a.jpeg",
+      "kitsu_year": 2024,
+      "format": "TV",
+      "episodes": 11,
+      "site_url": "https://kitsu.io/anime/kinnikuman-kanpeki-choujin-shiso-hen-tv",
+      "genres": [
+        "Wrestling",
+        "Action",
+        "Comedy",
+        "Sports"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-47191.jpg"
+    }
   },
   {
     "year": 2025,
@@ -2411,7 +2647,28 @@
     "director": "Yumi Kamakura",
     "original_title": "Mashin Sōzōden Wataru",
     "ref": "[ 85 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "49502",
+      "title_romaji": "Mashin Souzouden Wataru",
+      "title_english": null,
+      "title_native": "魔神創造伝ワタル",
+      "description": "A new entry in the Mashin Eiyuuden Wataru series, in which the main character, fourth grader Wataru Hoshibe, appears as a RyuTuber aiming to become a superstar, and battles with his partner Ryuujinmaru in an alternate world of floating blocks to defeat the last boss “Enjoda”.",
+      "cover_large": "https://media.kitsu.app/anime/49502/poster_image/large-e65b66961476c13b60a16c4a82c7ab3f.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": null,
+      "site_url": "https://kitsu.io/anime/mashin-souzouden-wataru",
+      "genres": [
+        "Mecha",
+        "Action",
+        "Science Fiction",
+        "Adventure",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-49502.jpg"
+    }
   },
   {
     "year": 2025,
@@ -2426,7 +2683,30 @@
     "director": "Hikaru Sato",
     "original_title": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo",
     "ref": "[ 86 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "48348",
+      "title_romaji": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season",
+      "title_english": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2",
+      "title_native": "君のことが大大大大大好きな100人の彼女 2期",
+      "description": "The second season of Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo. Rentaro meets new soulmates, balancing comedic chaos and heartfelt moments as his relationships deepen.",
+      "cover_large": "https://media.kitsu.app/anime/48348/poster_image/large-903ea7851b2dec90e42d8e477c99b627.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-2nd-season",
+      "genres": [
+        "High School",
+        "Breaking The Fourth Wall",
+        "Parody",
+        "Comedy",
+        "Romance",
+        "Harem",
+        "School Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-48348.jpg"
+    }
   },
   {
     "year": 2025,
@@ -2480,7 +2760,30 @@
     "director": "Yōhei Fukui",
     "original_title": "Jibaku Shōnen Hanako-kun",
     "ref": "[ 88 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "46924",
+      "title_romaji": "Jibaku Shounen Hanako-kun 2nd Season",
+      "title_english": "Toilet-bound Hanako-kun Season 2",
+      "title_native": "地縛少年花子くん 第2期",
+      "description": "The second season of Jibaku Shounen Hanako-kun.",
+      "cover_large": "https://media.kitsu.app/anime/46924/poster_image/large-6541fd2077707567a557fed89ce10592.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/jibaku-shounen-hanako-kun-2023",
+      "genres": [
+        "Ghost",
+        "Action",
+        "Comedy",
+        "School Life",
+        "Drama",
+        "Psychological",
+        "Mystery"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-46924.jpg"
+    }
   },
   {
     "year": 2025,
@@ -2726,7 +3029,28 @@
     "director": "Keitaro Motonaga",
     "original_title": "Saikyō no Ōsama, Nidome no Jinsei wa Nani o Suru?",
     "ref": "[ 96 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "49294",
+      "title_romaji": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?",
+      "title_english": "The Beginning After the End",
+      "title_native": "最強の王様、二度目の人生は 何をする?",
+      "description": "After a mysterious death, King Grey is reborn as Arthur Leywin on the magical continent of Dicathen. Although he enters his second life as a baby, his previous wisdom remains. He begins to master magic and forge his own path as the years go by, seeking to correct the mistakes of his past life.",
+      "cover_large": "https://media.kitsu.app/anime/49294/poster_image/large-507caa05f9cb381463a4bef1e1531de0.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru",
+      "genres": [
+        "Magic",
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Isekai"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-49294.jpg"
+    }
   },
   {
     "year": 2025,
@@ -3100,7 +3424,28 @@
     "director": "Kenjirou Okada",
     "original_title": "Kuroshitsuji: Midori no Majo-hen",
     "ref": "[ 107 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "47688",
+      "title_romaji": "Kuroshitsuji: Kishuku Gakkou-hen",
+      "title_english": "Black Butler: Public School Arc",
+      "title_native": "黒執事 寄宿学校編",
+      "description": "Butler Sebastian Michaelis works with his 13-year-old master, the Earl Ciel Phantomhive, to do the dirty work of \"the Queen's guard dog\" in nineteenth-century England's gritty underworld. One day, Ciel receives a letter from Queen Victoria telling him that several students at Weston College, one of England's top public schools, have seemingly disappeared... including a relative of hers named Derrick. And so, Sebastian and Ciel infiltrate Weston College to get to the bottom of the matter. What truly happened to these students?",
+      "cover_large": "https://media.kitsu.app/anime/47688/poster_image/large-fb2edaa09808c75e9c220a6bf3341743.jpeg",
+      "kitsu_year": 2024,
+      "format": "TV",
+      "episodes": 11,
+      "site_url": "https://kitsu.io/anime/kuroshitsuji-2024",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Comedy",
+        "Supernatural",
+        "Mystery"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-47688.jpg"
+    }
   },
   {
     "year": 2025,
@@ -3148,7 +3493,30 @@
     "director": "Tatsuma Minamikawa",
     "original_title": "En'en no Shōbōtai",
     "ref": "[ 109 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "46119",
+      "title_romaji": "Enen no Shouboutai: San no Shou",
+      "title_english": "Fire Force Season 3",
+      "title_native": "炎炎ノ消防隊 参ノ章",
+      "description": "The third and final season of Enen no Shouboutai. Shinra and the team are about to uncover the world’s greatest secret. But just as the other Special Fire Force Companies unite to face the looming disaster, Obi is captured by the Tokyo Imperial Army, and Company 8 is branded as traitors. Hunted by the Empire, they must fight alone to rescue Obi and stop the Evangelist—all while a new assassin and the corrupt Captain Burns block their path.",
+      "cover_large": "https://media.kitsu.app/anime/46119/poster_image/large-ded07dff8aa59b72cefa75d32f9664bb.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/enen-no-shouboutai-san-no-shou",
+      "genres": [
+        "Super Power",
+        "Demon",
+        "Action",
+        "Science Fiction",
+        "Drama",
+        "Supernatural",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-46119.jpg"
+    }
   },
   {
     "year": 2025,
@@ -3202,7 +3570,26 @@
     "director": "Akitaro Daichi",
     "original_title": "Masuda Kōsuke Gekijō Gag Manga Biyori Go",
     "ref": "[ 111 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "49894",
+      "title_romaji": "Masuda Kousuke Gekijou Gag Manga Biyori GO",
+      "title_english": "Gag Manga Biyori GO",
+      "title_native": "増田こうすけ劇場 ギャグマンガ日和GO",
+      "description": "The fifth season of Masuda Kousuke Gekijou Gag Manga Biyori.",
+      "cover_large": "https://media.kitsu.app/anime/49894/poster_image/large-04f9fb632e92fcddd571d01fc9a63fc0.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/masuda-kousuke-gekijou-gag-manga-biyori-go",
+      "genres": [
+        "Parody",
+        "Comedy",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-49894.jpg"
+    }
   },
   {
     "year": 2025,
@@ -3252,7 +3639,29 @@
     "director": "Kunihisa Sugishima",
     "original_title": "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita: Sono Ni",
     "ref": "[ 113 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "45717",
+      "title_romaji": "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita 2",
+      "title_english": "I've Been Killing Slimes for 300 Years and Maxed Out My Level Season 2",
+      "title_native": "スライム倒して300年、知らないうちにレベルMAXになってました 2",
+      "description": "The second season of Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita. Get ready for more relaxing tales! Azusa Aizawa is a powerful witch who finally reached level 99 and now busies herself with laid-back quests instead. Her family continues to grow as some familiar faces are joined by bright-eyed newcomers. From trips to the beach to a martial arts tournament, you’re invited on Azusa’s carefree and heartwarming adventures of leisure.",
+      "cover_large": "https://media.kitsu.app/anime/45717/poster_image/large-c25e305bcda7de58336cfcc27b2d1490.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-2",
+      "genres": [
+        "Demon",
+        "Fantasy",
+        "Comedy",
+        "Slice of Life",
+        "Family",
+        "Isekai"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-45717.jpg"
+    }
   },
   {
     "year": 2025,
@@ -3267,7 +3676,24 @@
     "director": "Kinuta Ōshiro",
     "original_title": "",
     "ref": "[ 114 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "49843",
+      "title_romaji": "Kaijuu Sekai Seifuku (TV)",
+      "title_english": null,
+      "title_native": "かいじゅうせかいせいふく",
+      "description": "Following the chaotic and heartwarming daily lives of Kaijuu who have come to Earth to conquer the world and live with their human masters.",
+      "cover_large": "https://media.kitsu.app/anime/49843/poster_image/large-805a2f6fe1d62a8f6221dd07c7bce005.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": null,
+      "site_url": "https://kitsu.io/anime/kaijuu-sekai-seifuku-tv",
+      "genres": [
+        "Slice of Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-49843.jpg"
+    }
   },
   {
     "year": 2025,
@@ -3321,7 +3747,28 @@
     "director": "Takahiro Hasui",
     "original_title": "Shin Samurai-den Yaiba",
     "ref": "[ 116 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "48841",
+      "title_romaji": "Shin Samurai-den YAIBA",
+      "title_english": "YAIBA: Samurai Legend",
+      "title_native": "真･侍伝 YAIBA",
+      "description": "Yaiba Kurogane has spent his days training in the jungle in order to attain his goal of becoming a real samurai. By a twist of fate, he returns to Japan and starts living with the Mine family, who are connected to his father, Kenjuro. Yaiba constantly baffles the Mines' daughter Sayaka as she witnesses his wild and reckless ways. One day, Yaiba tags along with Sayaka to school and has a fateful encounter with Takeshi Onimaru, a kendo expert. Yaiba and Onimaru repeatedly clash, and as if in response to their search for strength, two ancient powers are unleashed: the Fujinken, the Wind God's Sword, and the Raijinken, the Thunder God's Sword. Both supernatural blades that have jolted the world since ancient days have reawakened...and the truth behind them is revealed!",
+      "cover_large": "https://media.kitsu.app/anime/48841/poster_image/large-be3a4fec9a08c82c4041614a1a8aa03d.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 24,
+      "site_url": "https://kitsu.io/anime/yaiba",
+      "genres": [
+        "Samurai",
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-48841.jpg"
+    }
   },
   {
     "year": 2025,
@@ -3708,7 +4155,27 @@
     "director": "Yasutaka Yamamoto (Chief) Tomoe Makino",
     "original_title": "Aharen-san wa Hakarenai",
     "ref": "[ 128 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "49095",
+      "title_romaji": "Aharen-san wa Hakarenai Season 2",
+      "title_english": "Aharen Is Indecipherable Season 2",
+      "title_native": "波連さんははかれない season2",
+      "description": "The second season of Aharen-san wa Hakarenai. The quiet, awkward Aharen-san and her schoolmate Raidou went from unlikely friends to nearly inseparable. As another semester begins, new opportunities, challenges, and relationships present themselves as Aharen-san and Raidou navigate their school days. Now, Aharen-san struggles to know how vulnerable she can get with a new transfer student.",
+      "cover_large": "https://media.kitsu.app/anime/49095/poster_image/large-0e7b5528865bee406446760c456ddba9.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/aharen-san-wa-hakarenai-season-2",
+      "genres": [
+        "Slapstick",
+        "Comedy",
+        "Romance",
+        "Slice of Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-49095.jpg"
+    }
   },
   {
     "year": 2025,
@@ -4348,7 +4815,27 @@
     "director": "Ryota Aikei",
     "original_title": "",
     "ref": "[ 147 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "48640",
+      "title_romaji": "Mono",
+      "title_english": "mono",
+      "title_native": "mono",
+      "description": "Satsuki Amamiya, a high school Photography Club member, was feeling down due to the graduation of her beloved club president. However, her best friend and fellow member, An Kiriyama, encourages her, and Satsuki decides to dedicate herself to the club activities once again. The 360-degree camera that Satsuki eagerly bought at an auction has not arrived. An investigates the seller, and she discovers that the person lives very close to the school. When Satsuki and An visit the seller’s address, they find a candy store. They meet the manga artist Haruno Akiyama, who asks them to model for her manga. Sakurako Shikishima, a former Cinema Club member, joins the \"Cinephoto Club,\" which merged with the Photography Club. They decide to cooperate with Haruno on her interview, but...",
+      "cover_large": "https://media.kitsu.app/anime/48640/poster_image/large-05bf327c3dcf555197adcc350195d6ce.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/mono",
+      "genres": [
+        "School Clubs",
+        "Comedy",
+        "Slice of Life",
+        "School Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-48640.jpg"
+    }
   },
   {
     "year": 2025,
@@ -4501,7 +4988,29 @@
     "director": "Takashi Yamamoto",
     "original_title": "Jidōhanbaiki ni Umarekawatta Ore wa Meikyū o Samayō",
     "ref": "[ 153 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "47968",
+      "title_romaji": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season",
+      "title_english": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 2",
+      "title_native": "自動販売機に生まれ変わった俺は迷宮を彷徨う 2期",
+      "description": "The second season of Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou.",
+      "cover_large": "https://media.kitsu.app/anime/47968/poster_image/large-5b46e9ee4d40e7e7c76cb2e6f26434ea.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2nd-season",
+      "genres": [
+        "Magic",
+        "Parody",
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Isekai"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-47968.jpg"
+    }
   },
   {
     "year": 2025,
@@ -4565,7 +5074,27 @@
     "director": "Naoki Mizusawa",
     "original_title": "Tsuyokute New Saga",
     "ref": "[ 156 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "46648",
+      "title_romaji": "Tsuyokute New Saga",
+      "title_english": "New Saga",
+      "title_native": "強くてニューサーガ",
+      "description": "After a brutal war, magic swordsman Kyle defeats the Demon King but is left dying. A crimson crystal sends him four years into the past to his once-destroyed hometown where he finds his lost loved ones alive. Armed with future knowledge, Kyle vows to prevent the coming tragedy and rewrite fate.",
+      "cover_large": "https://media.kitsu.app/anime/46648/poster_image/large-09a0d37fe65f9e8c3ff3de140fe6ddbc.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/tsuyokute-new-saga",
+      "genres": [
+        "Dragon",
+        "Demon",
+        "Fantasy",
+        "Adventure"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-46648.jpg"
+    }
   },
   {
     "year": 2025,
@@ -4701,7 +5230,28 @@
     "director": "Tomoyuki Itamura",
     "original_title": "Yofukashi no Uta",
     "ref": "[ 161 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "48611",
+      "title_romaji": "Yofukashi no Uta 2nd Season",
+      "title_english": "Call of the Night Season 2",
+      "title_native": "よふかしのうた 第2期",
+      "description": "The second season of Yofukashi no Uta. Ko overcomes his confusion about becoming a vampire and decides to \"like\" Nazuna, while Nazuna resolves to make Ko \"fall in love\" with her. Without understanding what \"love\" even is, the two of them spend their nights together in a frenzy. Meanwhile, Detective Uguisu Anko is closing in on her plot to kill vampires, not just Nazuna. A vampire's weakness is \"anything they were attached to when they were human\" and so they all try to get rid of this weakness before it's too late. But, Nazuna has no memory of her human life. What is Nazuna's hidden past? Why did Anko start killing vampires? And what is the \"secret\" that Nazuna and Anko share? For Ko, Nazuna, and Anko, a fun \"late night\" doesn't end here... a new \"night\" begins!",
+      "cover_large": "https://media.kitsu.app/anime/48611/poster_image/large-7e1e4e88524ce5eec0d1a4bf61f22f03.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/Yofukashi-no-Uta-2nd-Season",
+      "genres": [
+        "Vampire",
+        "Comedy",
+        "Slice of Life",
+        "Psychological",
+        "Supernatural"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-48611.jpg"
+    }
   },
   {
     "year": 2025,
@@ -4792,7 +5342,26 @@
     "director": "Koichi Ohata",
     "original_title": "",
     "ref": "[ 164 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "48930",
+      "title_romaji": "9-nine- Shihaisha no Oukan",
+      "title_english": "9-nine- Ruler's Crown",
+      "title_native": "9-nine- 支配者の王冠",
+      "description": "The scene: Shiromitsugawa, a run-of-the-mill college town that has launched several failed attempts to drum up tourism and revitalize itself, including sponsoring a high-budget-but-poorly-written anime based on local folklore. A storm is about to descend on this sleepy town. We follow Kakeru Niimi, a man who can be a bit curt at times but who has a strong sense of responsibility and a kind heart. Kakeru's ordinary life is thrown into chaos after the local shrine's sacred relic shatters. In the wake of this event, several young men and women awaken to superhuman abilities. What was once a run-of-the-mill life in a run-of-the-mill town soon turns into a quest to track down a super-powered serial killer before they can strike again.",
+      "cover_large": "https://media.kitsu.app/anime/48930/poster_image/large-38bfc80be6cd1e92fae036e3da6de9d8.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/9-nine-shihaisha-no-oukan",
+      "genres": [
+        "Super Power",
+        "Supernatural",
+        "Mystery"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-48930.jpg"
+    }
   },
   {
     "year": 2025,
@@ -4909,7 +5478,30 @@
     "director": "Soichi Masui",
     "original_title": "Seishun Buta Yarō wa Santa Claus no Yume o Minai",
     "ref": "[ 168 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "48917",
+      "title_romaji": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
+      "title_english": "Rascal Does Not Dream of Santa Claus",
+      "title_native": "青春ブタ野郎はサンタクロースの夢を見ない",
+      "description": "Sequel to the film Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai. After encountering various girls going through Puberty Syndrome, Sakuta Azusagawa's high school days have come to a close, and he is now a university student. He enrolls at a university in Kanazawa-hakkei alongside his girlfriend Mai Sakurajima, a nationally famed actress. Off campus, he stumbles upon an out-of-season miniskirt Santa. Precognitive dreams, an anonymous online singer, poltergeists buzzing on social media... A mysterious tale with enigmatic phenomena surrounding girls with wavering hearts starts again. Puberty continues...",
+      "cover_large": "https://media.kitsu.app/anime/48917/poster_image/large-c1c07582bcf870b963c592f2ed4937f6.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/seishun-buta-yarou-daigakusei-hen",
+      "genres": [
+        "Idol",
+        "Contemporary Fantasy",
+        "University",
+        "Romance",
+        "Drama",
+        "Psychological",
+        "Supernatural"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-48917.jpg"
+    }
   },
   {
     "year": 2025,
@@ -4924,7 +5516,26 @@
     "director": "Kazuomi Koga",
     "original_title": "Kanojo, Okarishimasu",
     "ref": "[ 169 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "49033",
+      "title_romaji": "Kanojo, Okarishimasu 4th Season",
+      "title_english": "Rent-a-Girlfriend Season 4",
+      "title_native": "彼女、お借りします 第4期",
+      "description": "The fourth season of Kanojo, Okarishimasu. Kazuya’s ready to confess with the lush paradise of Hawaii as a backdrop. But renting Chizuru for the dream trip turns into a war zone of love due to Ruka’s aggressive advances and Mami’s scheming. Despite the chaos, this is Kazuya’s moment to bare his heart. Will his words reach Chizuru? And if they do, what will she even say? (Source: Crunchyroll) Note: Kanojo, Okarishimasu 4th Season was streamed 4 days in advance of the TV broadcast on DMM TV, dAnimestore, and Crunchyroll beginning July 1, 2025. Regular broadcasting began on July 5, 2025.",
+      "cover_large": "https://media.kitsu.app/anime/49033/poster_image/large-e1c8531bb1e477daf7de57f828e7d8fd.jpeg",
+      "kitsu_year": 2025,
+      "format": "ONA",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/Kanojo-Okarishimasu-4th-Season",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-49033.jpg"
+    }
   },
   {
     "year": 2025,
@@ -5187,7 +5798,29 @@
     "director": "Keisuke Shinohara",
     "original_title": "Sono Bisque Doll wa Koi o Suru",
     "ref": "[ 177 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "46492",
+      "title_romaji": "Sono Bisque Doll wa Koi wo Suru 2nd Season",
+      "title_english": "My Dress-Up Darling Season 2",
+      "title_native": "その着せ替え人形は恋をする 第2季",
+      "description": "The second season of Sono Bisque Doll wa Koi wo Suru. When Marin Kitagawa and Wakana Gojo met, they grew close over their love for cosplay. Through interacting with classmates and making new cosplay friends, Marin and Wakana’s world keeps growing. New developments arise as Marin’s love for Wakana continues to be filled with endless excitement. In their ever-expanding world, Marin and Wakana’s story of cosplay and thrills continues!",
+      "cover_large": "https://media.kitsu.app/anime/46492/poster_image/large-36c833450f49f36bd9d2b84cf96ac9b6.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/Sono-Bisque-Doll-wa-Koi-wo-Suru-Season-2",
+      "genres": [
+        "High School",
+        "Ecchi",
+        "Romance",
+        "Slice of Life",
+        "School Life",
+        "Seinen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-46492.jpg"
+    }
   },
   {
     "year": 2025,
@@ -5384,7 +6017,30 @@
     "director": "Yōhei Fukui",
     "original_title": "Jibaku Shōnen Hanako-kun",
     "ref": "[ 183 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "46924",
+      "title_romaji": "Jibaku Shounen Hanako-kun 2nd Season",
+      "title_english": "Toilet-bound Hanako-kun Season 2",
+      "title_native": "地縛少年花子くん 第2期",
+      "description": "The second season of Jibaku Shounen Hanako-kun.",
+      "cover_large": "https://media.kitsu.app/anime/46924/poster_image/large-6541fd2077707567a557fed89ce10592.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/jibaku-shounen-hanako-kun-2023",
+      "genres": [
+        "Ghost",
+        "Action",
+        "Comedy",
+        "School Life",
+        "Drama",
+        "Psychological",
+        "Mystery"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-46924.jpg"
+    }
   },
   {
     "year": 2025,
@@ -5469,7 +6125,28 @@
     "director": "Shinji Takamatsu",
     "original_title": "Binan Kōkō Chikyū Bōei-bu Love!",
     "ref": "[ 186 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "49068",
+      "title_romaji": "Binan Koukou Chikyuu Bouei-bu ETERNAL LOVE!",
+      "title_english": "Cute High Earth Defense Club ETERNAL LOVE!",
+      "title_native": "美男高校地球防衛部ETERNAL LOVE！",
+      "description": "A new film announced for the 10th anniversary of Binan Koukou Chikyuu Bouei-bu.",
+      "cover_large": "https://media.kitsu.app/anime/49068/poster_image/large-0796dcdc0e336821624195fadc9680ed.jpeg",
+      "kitsu_year": 2025,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/binan-koukou-chikyuu-bouei-bu-eternal-love",
+      "genres": [
+        "Magic",
+        "Magical Girl",
+        "Science Fiction",
+        "Comedy",
+        "Slice of Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-49068.jpg"
+    }
   },
   {
     "year": 2025,
@@ -5606,7 +6283,28 @@
     "director": "Masakazu Hishida",
     "original_title": "Kakkō no Iinazuke",
     "ref": "[ 191 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "49067",
+      "title_romaji": "Kakkou no Iinazuke 2nd Season",
+      "title_english": "A Couple of Cuckoos Season 2",
+      "title_native": "カッコウの許嫁 第2期",
+      "description": "The second season of Kakkou no Iinazuke. Umino Nagi and Amano Erika were born on the same day and swapped at birth. Nagi was raised as the son of a diner owner, and Erika the daughter of a hotel tycoon. Their parents encourage them to become engaged, and they begin life together. Soon though, infatuations arise as Nagi becomes stuck in a love quadrangle. Life and love are embroiled in epic turmoil as fate is set in motion once again!",
+      "cover_large": "https://media.kitsu.app/anime/49067/poster_image/large-e21c9a40d2252a6b82cf459686df6e88.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/kakkou-no-iinazuke-2nd-season",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Harem",
+        "School Life",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-49067.jpg"
+    }
   },
   {
     "year": 2025,
@@ -5621,7 +6319,26 @@
     "director": "Shinji Takamatsu",
     "original_title": "Grand Blue",
     "ref": "[ 192 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "49247",
+      "title_romaji": "Grand Blue Season 2",
+      "title_english": "Grand Blue Dreaming Season 2",
+      "title_native": "ぐらんぶる Season 2",
+      "description": "Second season of Grand Blue. University is back in session for Iori, and so are the booze-fueled parties! Between diving club shenanigans, a surprise from his sister, and wild tests of courage, normal college life is anything but. Dive back into the madness with Iori and his beloved crew of lively splash artists.",
+      "cover_large": "https://media.kitsu.app/anime/49247/poster_image/large-86ebd97bccad5140d070949606cbfc53.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/grand-blue-season-2",
+      "genres": [
+        "Comedy",
+        "Sports",
+        "Seinen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-49247.jpg"
+    }
   },
   {
     "year": 2025,
@@ -5683,7 +6400,29 @@
     "director": "Hitoshi Haga",
     "original_title": "Tate no Yūsha no Nariagari",
     "ref": "[ 195 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "48444",
+      "title_romaji": "Tate no Yuusha no Nariagari Season 4",
+      "title_english": "The Rising of the Shield Hero Season 4",
+      "title_native": "盾の勇者の成り上がり Season 4",
+      "description": "The fourth season of Tate no Yuusha no Nariagari. Naofumi journeys to a politically unstable nation where Raphtalia has been labeled a threat.",
+      "cover_large": "https://media.kitsu.app/anime/48444/poster_image/large-a57ede358295ec9e4e5c4a908f1d9acf.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/tate-no-yuusha-no-nariagari-season-4",
+      "genres": [
+        "Magic",
+        "Dragon",
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Isekai"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-48444.jpg"
+    }
   },
   {
     "year": 2025,
@@ -5842,7 +6581,29 @@
     "director": "Hiroyuki Imaishi",
     "original_title": "Panti ando Sutokkingu with Gātāberuto",
     "ref": "[ 200 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "46227",
+      "title_romaji": "New PANTY & STOCKING with GARTERBELT",
+      "title_english": "New Panty & Stocking with Garterbelt",
+      "title_native": "New PANTY&STOCKING with GARTERBELT",
+      "description": "The Bitches Are Back!! In Daten City, a realm between heaven and hell, sinister spirits known as \"Ghosts\" prowl the streets, feeding on human desires and resentment. Yet, in the darkest moments, two figures emerge to obliterate these vengeful beings with a divine light beyond human understanding. Their names? Panty &amp; Stocking! These fallen angel sisters have been tasked with purging the darkness engulfing the earth. But who are they, really? Are they truly messengers of God... or agents of the Devil? (Source: New PANTY &amp; STOCKING with GARTERBELT Official Site) Note: Unveiled at Anime Expo 2022's \"TRIGGER 10 YEAR ANNIVERSARY &amp; ANNOUNCEMENT\" panel.",
+      "cover_large": "https://media.kitsu.app/anime/46227/poster_image/large-cd6620d5565f16d95a5eb3be2ed84614.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/new-panty-and-stocking-with-garterbelt",
+      "genres": [
+        "Angel",
+        "Demon",
+        "Action",
+        "Comedy",
+        "Ecchi",
+        "Supernatural"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-46227.jpg"
+    }
   },
   {
     "year": 2025,
@@ -6284,7 +7045,29 @@
     "director": "Toko Ina",
     "original_title": "Kokūn",
     "ref": "[ 211 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "47658",
+      "title_romaji": "Cocoon",
+      "title_english": null,
+      "title_native": null,
+      "description": "San and Mayu are two schoolgirls living in Okinawa during the closing months of the Pacific War. Together with their classmates, the two friends are drafted into the war effort as nurses for wounded soldiers. When ordered to die for their country, the remaining members of the group escape only to face the harsh environment of a tropical paradise that has become a hellish battlefield.",
+      "cover_large": "https://media.kitsu.app/anime/47658/poster_image/large-df7b053b9979c88b7ad7a17405d543c4.jpeg",
+      "kitsu_year": 2025,
+      "format": "special",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/cocoon",
+      "genres": [
+        "Nurse",
+        "Historical",
+        "World War II",
+        "Drama",
+        "War",
+        "Josei"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-47658.jpg"
+    }
   },
   {
     "year": 2025,
@@ -6333,7 +7116,28 @@
     "director": "Kaoru Yabana",
     "original_title": "Mushoku no Eiyū: Betsu ni Skill Nanka Iranakattan da ga",
     "ref": "[ 213 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "49607",
+      "title_romaji": "Kimi ga Shinu made Koi wo Shitai",
+      "title_english": "I Want to Love You Till Your Dying Day",
+      "title_native": "きみが死ぬまで恋をしたい",
+      "description": "At the mysterious orphanage where Sheena lives, death is nothing new to its residents—girls who no longer have families of their own, who are raised as weapons of war, taught to kill and take the lives of others without batting an eye. Everyone, that is, except Sheena, who wishes for nothing more than the growing conflict around her to end. On the night of her roommate's death, Sheena meets a strange girl covered in blood, who smiles despite the turmoil surrounding them. The next day, the girl appears as a new student in Sheena's class and introduces herself as Mimi. Initially thought to be a school myth, there are now whispers in the orphanage's halls that Mimi is their secret weapon—an immortal who cannot die. When Mimi is later assigned as Sheena's new roommate, Sheena's world grows even more complicated when she begins living with someone who loves and welcomes death, when all Sheena wants to do is stop it…",
+      "cover_large": "https://media.kitsu.app/anime/49607/poster_image/large-448e6bdf177e2744ced7d3bd14ba9ab6.jpeg",
+      "kitsu_year": 2026,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/kimi-ga-shinu-made-koi-wo-shitai",
+      "genres": [
+        "Magic",
+        "Fantasy",
+        "Romance",
+        "Drama",
+        "War"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-49607.jpg"
+    }
   },
   {
     "year": 2025,
@@ -6607,7 +7411,26 @@
     "director": "Yūtarō Sawada",
     "original_title": "",
     "ref": "[ 222 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "48336",
+      "title_romaji": "Hyakushou Kizoku 2nd Season",
+      "title_english": "Hyakusho Kizoku-the farmer's day Season 2",
+      "title_native": "百姓貴族 第2期",
+      "description": "The second season of Hyakushou Kizoku.",
+      "cover_large": "https://media.kitsu.app/anime/48336/poster_image/large-730bf0a89b8da28ebcb4238935bb4c29.jpeg",
+      "kitsu_year": 2024,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/hyakushou-kizoku-2nd-Season",
+      "genres": [
+        "Countryside",
+        "Comedy",
+        "Slice of Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-48336.jpg"
+    }
   },
   {
     "year": 2025,
@@ -6622,7 +7445,26 @@
     "director": "Mikiko Furukawa",
     "original_title": "Pōshon, Waga Mi o Tasukeru",
     "ref": "[ 223 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "48448",
+      "title_romaji": "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.",
+      "title_english": "Reincarnated as the Daughter of the Legendary Hero and the Queen of Spirits",
+      "title_native": "父は英雄、母は精霊、娘の私は転生者。",
+      "description": "\"I became the spirit of elements when I reincarnated?!\" Ellen is a young girl reincarnated from modern-day Japan as a half-spirit. Her father, Rovel, is the legendary hero who saved the kingdom, and her mother, Origin, is the primordial queen and ruler of all spirits. Furthermore, she herself has the overpowered ability to manipulate the elements. While looking absolutely adorable, this perfect little girl will fall back on her past life's knowledge and the power of the spirits to protect her precious family!",
+      "cover_large": "https://media.kitsu.app/anime/48448/poster_image/large-0a14c36434714d8a76233a1f46d50c44.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/chichi-wa-eiyuu-haha-wa-seirei-musume-no-watashi-wa-tenseisha",
+      "genres": [
+        "Fantasy",
+        "Romance",
+        "Isekai"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-48448.jpg"
+    }
   },
   {
     "year": 2025,
@@ -6887,7 +7729,29 @@
     "director": "Yukiko Imai",
     "original_title": "",
     "ref": "[ 233 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "48939",
+      "title_romaji": "SPY×FAMILY Season 3",
+      "title_english": "SPY x FAMILY Season 3",
+      "title_native": "SPY×FAMILY Season 3",
+      "description": "The third season of SPY×FAMILY. World peace is at stake, and secret agent Twilight must undergo his most difficult mission yet—pretend to be a family man. Posing as a loving husband and father, he’ll infiltrate an elite school to get close to a high-profile politician. He has the perfect cover, except his wife’s a deadly assassin and neither knows each other’s identity. But someone does, his adopted daughter, who’s a telepath!",
+      "cover_large": "https://media.kitsu.app/anime/48939/poster_image/large-4297d762eb6c1807fc3bc47940ba5be3.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/spy-x-family-season-3",
+      "genres": [
+        "Assassin",
+        "Action",
+        "Comedy",
+        "Slice of Life",
+        "Supernatural",
+        "Family"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-48939.jpg"
+    }
   },
   {
     "year": 2025,
@@ -6973,7 +7837,26 @@
     "director": "Kiyoko Sayama (Chief) Sōta Yokote",
     "original_title": "Fumetsu no Anata e",
     "ref": "[ 236 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "47161",
+      "title_romaji": "Fumetsu no Anata e Season 3",
+      "title_english": "To Your Eternity 3",
+      "title_native": "不滅のあなたへ Season 3",
+      "description": "The third season of Fumetsu no Anata e. The story of Fushi the immortal enters the modern era. Following the battles in Renril, Fushi, like a tree, spreads his roots throughout the world, fighting to eliminate the Nokkers. Hundreds of years later, having completed his mission, he awakens in the modern era. He enjoys a life of peace, free of enemy threats and surrounded by precious friends, new and old. But ominous shadows grow near yet again. Enemies that enter into the fissures of the mind. And Fushi learns of the true goals of his creator, the Beholder. Faced with new trials, the time approaches for Fushi to make the ultimate decision.",
+      "cover_large": "https://media.kitsu.app/anime/47161/poster_image/large-d4b4bbbc482a2e77e0180e910512c8be.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 22,
+      "site_url": "https://kitsu.io/anime/fumetsu-no-anata-e-3",
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Drama"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-47161.jpg"
+    }
   },
   {
     "year": 2025,
@@ -7058,7 +7941,26 @@
     "director": "Seiji Kishi",
     "original_title": "Ao no Orchestra",
     "ref": "[ 239 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "48070",
+      "title_romaji": "Ao no Orchestra 2nd Season",
+      "title_english": "The Blue Orchestra Season 2",
+      "title_native": "青のオーケストラ 第2期",
+      "description": "Second season of Ao no Orchestra",
+      "cover_large": "https://media.kitsu.app/anime/48070/poster_image/large-c12c4a631b69a2119f052628fdc08815.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 21,
+      "site_url": "https://kitsu.io/anime/ao-no-orchestra-2nd-season",
+      "genres": [
+        "High School",
+        "Music",
+        "Drama"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-48070.jpg"
+    }
   },
   {
     "year": 2025,
@@ -7110,7 +8012,26 @@
     "director": "Kenichi Imaizumi",
     "original_title": "Kingudamu",
     "ref": "[ 241 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "48448",
+      "title_romaji": "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.",
+      "title_english": "Reincarnated as the Daughter of the Legendary Hero and the Queen of Spirits",
+      "title_native": "父は英雄、母は精霊、娘の私は転生者。",
+      "description": "\"I became the spirit of elements when I reincarnated?!\" Ellen is a young girl reincarnated from modern-day Japan as a half-spirit. Her father, Rovel, is the legendary hero who saved the kingdom, and her mother, Origin, is the primordial queen and ruler of all spirits. Furthermore, she herself has the overpowered ability to manipulate the elements. While looking absolutely adorable, this perfect little girl will fall back on her past life's knowledge and the power of the spirits to protect her precious family!",
+      "cover_large": "https://media.kitsu.app/anime/48448/poster_image/large-0a14c36434714d8a76233a1f46d50c44.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/chichi-wa-eiyuu-haha-wa-seirei-musume-no-watashi-wa-tenseisha",
+      "genres": [
+        "Fantasy",
+        "Romance",
+        "Isekai"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-48448.jpg"
+    }
   },
   {
     "year": 2025,
@@ -7664,7 +8585,29 @@
     "director": "Kiyoshi Matsuda",
     "original_title": "Tondemo Skill de Isekai Hōrō Meshi",
     "ref": "[ 258 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "48190",
+      "title_romaji": "Tondemo Skill de Isekai Hourou Meshi 2nd Season",
+      "title_english": "Campfire Cooking in Another World with my Absurd Skill Season 2",
+      "title_native": "とんでもスキルで異世界放浪メシ 第2期",
+      "description": "The second season of Tondemo Skill de Isekai Hourou Meshi. When a magical realm looks to summon heroes, they’re sorely disappointed to end up with a mediocre salaryman. Mukoda Tsuyoshi may not be a hero, but this conjuring error has given him a delicious power—Online Grocery. And something about this modern food brings with it unbelievable effects. This easy access paired with his cooking skills will have patrons from across the land coming back for more!",
+      "cover_large": "https://media.kitsu.app/anime/48190/poster_image/large-20635d47e58465c2d65584b377d78c7a.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/tondemo-skill-de-isekai-hourou-meshi-2nd-season",
+      "genres": [
+        "Cooking",
+        "Magic",
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Isekai"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-48190.jpg"
+    }
   },
   {
     "year": 2025,
@@ -7788,7 +8731,32 @@
     "director": "Shinpei Nagai",
     "original_title": "Wanpanman",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "46360",
+      "title_romaji": "One Punch Man 3",
+      "title_english": "One-Punch Man 3",
+      "title_native": "ワンパンマン 3",
+      "description": "The third season of One Punch Man. Saitama is a hero who only became a hero for fun. After three years of \"special training,\" he’s become so strong that he's practically invincible. In fact, he's too strong—even his mightiest opponents are taken out with a single punch. Alongside Genos, his faithful disciple, Saitama performs his official hero duties as a member of the Hero Association. One day, monsters claiming to be from the Monster Association suddenly appeared, taking a child of Hero Association executive hostage. The S-class heroes gather and plan a raid on the Monster Association hideout to rescue the hostage. Meanwhile, Garou, a \"human monster\" who was taken by the Monster Association during a battle with the heroes, awakens in the Monster Association hideout.",
+      "cover_large": "https://media.kitsu.app/anime/46360/poster_image/large-d07a2a518abb8e3919244c39ae39d202.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/one-punch-man-3",
+      "genres": [
+        "Super Power",
+        "Parody",
+        "Action",
+        "Science Fiction",
+        "Fantasy",
+        "Comedy",
+        "Superhero",
+        "Supernatural",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-46360.jpg"
+    }
   },
   {
     "year": 2025,
@@ -7854,7 +8822,28 @@
     "director": "Minoru Ashina",
     "original_title": "Isekai Karutetto",
     "ref": "[ 264 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "43114",
+      "title_romaji": "Isekai Quartet 3",
+      "title_english": null,
+      "title_native": "異世界かるてっと3",
+      "description": "The third season of Isekai Quartet. The button appeared out of nowhere. Was it a trap or the start of something new? The crews of Re:ZERO, Overlord, KONOSUBA, and Saga of Tanya the Evil got stuck in another world’s class! Now, more new characters join the series, including Alpha and Shadow from The Eminence in Shadow. See what adorable chaos they’ll get up to in this collection of shorts!",
+      "cover_large": "https://media.kitsu.app/anime/43114/poster_image/large-594b25ce61ad31aa13aa2f306fc59e2e.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 11,
+      "site_url": "https://kitsu.io/anime/isekai-quartet-3",
+      "genres": [
+        "Super Deformed",
+        "Parody",
+        "Fantasy",
+        "Comedy",
+        "Isekai"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-43114.jpg"
+    }
   },
   {
     "year": 2025,
@@ -8128,7 +9117,24 @@
     "director": "Shingo Adachi",
     "original_title": "",
     "ref": "[ 273 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "49069",
+      "title_romaji": "Lycoris Recoil: Friends are thieves of time.",
+      "title_english": "Lycoris Recoil -Friends are thieves of time.-",
+      "title_native": "リコリス・リコイル Friends are thieves of time.",
+      "description": "Six short movies featuring the daily lives of Chisato, Takina, and their friends. Each movie will have a different director and storyboard.",
+      "cover_large": "https://media.kitsu.app/anime/49069/poster_image/large-ad64fa9799ca977268fdab58c1a0655b.jpeg",
+      "kitsu_year": 2025,
+      "format": "ONA",
+      "episodes": 6,
+      "site_url": "https://kitsu.io/anime/lycoris-recoil-short-movie-kikaku",
+      "genres": [
+        "Slice of Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-49069.jpg"
+    }
   },
   {
     "year": 2025,
@@ -8254,7 +9260,27 @@
     "director": "Yusuke Matsui",
     "original_title": "",
     "ref": "[ 277 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "50020",
+      "title_romaji": "SUGAR SUGAR RUNE: Les deux sorcières",
+      "title_english": null,
+      "title_native": "シュガシュガルーン レ・ドゥー・ソルシエール",
+      "description": "Short film commemorating the 20th Anniversary of Sugar Sugar Rune",
+      "cover_large": "https://media.kitsu.app/anime/50020/poster_image/large-f439d8d45bf3915e366aac3f4e16995a.jpeg",
+      "kitsu_year": 2025,
+      "format": "ONA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/SUGAR-SUGAR-RUNE-Les-deux-sorcires",
+      "genres": [
+        "Magic",
+        "Magical Girl",
+        "Fantasy",
+        "Shoujo"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-50020.jpg"
+    }
   },
   {
     "year": 2025,
@@ -8284,7 +9310,22 @@
     "director": "Sunghoo Park",
     "original_title": "",
     "ref": "[ 279 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "49924",
+      "title_romaji": "BULLET/BULLET",
+      "title_english": null,
+      "title_native": "バレット/バレット",
+      "description": "A team of thieves find themselves in a world of trouble after completing their latest job.",
+      "cover_large": "https://media.kitsu.app/anime/49924/poster_image/large-7d867603e93ca6762a62a31e47737979.jpeg",
+      "kitsu_year": 2025,
+      "format": "ONA",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/bullet-bullet",
+      "genres": [],
+      "year_match": true,
+      "image_path": "images/kitsu-49924.jpg"
+    }
   },
   {
     "year": 2025,
@@ -8331,7 +9372,25 @@
     "director": "Iku Ogawa",
     "original_title": "",
     "ref": "[ 281 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "48560",
+      "title_romaji": "Pokémon Concierge Part 2",
+      "title_english": "Pokémon Concierge Part 2",
+      "title_native": "ポケモンコンシェルジュ  2クール",
+      "description": "Continuation of Pokémon Concierge. \"Since coming here, I haven't had to struggle so much. Maybe that's why I can actually give it my best.\" In the new episodes, Haru has grown a little and is no longer a newbie. She and her partner Psyduck welcome many new Pokémon to the resort, including Sealeo, Shinx, Luxray, Arcanine, and Corphish. Haru spends fun and relaxing days surrounded by these guests, occasionally handling any problems that pop up. One day, a guy named Kent appears, and he seems to be Haru's ex-boyfriend. Why did he come to the resort? What will happen with his relationship with Haru? Plus, Tyler's uncle Dan arrives at the resort with the Sealeo that has accompanied him for 15 years. Dan, who sometimes looks a little forlorn, is troubled by something...",
+      "cover_large": "https://media.kitsu.app/anime/48560/poster_image/large-4746f8fbfe82a4c53049c2bd94cf48a9.jpeg",
+      "kitsu_year": 2025,
+      "format": "ONA",
+      "episodes": 4,
+      "site_url": "https://kitsu.io/anime/pokemon-concierge-part-2",
+      "genres": [
+        "Fantasy",
+        "Slice of Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-48560.jpg"
+    }
   },
   {
     "year": 2025,
@@ -8346,7 +9405,30 @@
     "director": "Yoshifumi Sueda",
     "original_title": "",
     "ref": "[ 282 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "49363",
+      "title_romaji": "Cat's♥Eye (2025)",
+      "title_english": "Cat's Eye (2025)",
+      "title_native": "キャッツ❤︎アイ (2025)",
+      "description": "Cat’s Eye is a secretive trio of art thieves relentlessly pursued by Detective Toshio. Unbeknownst to him, the middle sister of the elusive thieves is none other than his girlfriend, Hitomi.",
+      "cover_large": "https://media.kitsu.app/anime/49363/poster_image/large-c4775d617d06f3a2d32d7a1f5227477c.jpeg",
+      "kitsu_year": 2025,
+      "format": "ONA",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/cat-s-eye-2025",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Romance",
+        "Crime",
+        "Mystery",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-49363.jpg"
+    }
   },
   {
     "year": 2025,
@@ -8594,7 +9676,29 @@
     "director": "Koichi Hatsumi",
     "original_title": "Shūmatsu no Walküre",
     "ref": "[ 290 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "49669",
+      "title_romaji": "Shuumatsu no Valkyrie III",
+      "title_english": "Record of Ragnarok III",
+      "title_native": "終末のワルキューレ III",
+      "description": "Based on the hit manga of the same name, the Record of Ragnarok saga continues with 13 one-on-one battles for the survival of humanity, pitting gods against humans from across the world. Witness the fateful seventh battle: the final fight to break the 3-3 tie between the gods and humans.",
+      "cover_large": "https://media.kitsu.app/anime/49669/poster_image/large-f0523346c266112e95181bea1e52a0f2.jpeg",
+      "kitsu_year": 2025,
+      "format": "ONA",
+      "episodes": 15,
+      "site_url": "https://kitsu.io/anime/shuumatsu-no-valkyrie-iii",
+      "genres": [
+        "Deity",
+        "Action",
+        "Fantasy",
+        "Drama",
+        "Supernatural",
+        "Seinen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-49669.jpg"
+    }
   },
   {
     "year": 2025,
@@ -8609,7 +9713,27 @@
     "director": "Hiroko Utsumi",
     "original_title": "",
     "ref": "[ 291 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "44870",
+      "title_romaji": "SK∞ Extra Part",
+      "title_english": "SK8 the Infinity EXTRA PART",
+      "title_native": "SK∞ エスケーエイト EXTRA PART",
+      "description": "Original video animation for SK∞ (Sk8 the Infinity). Four slice-of-life omnibus stories. - \"The Rain and a Cat, Soda Ice Cream from the Convenience Store\" (\"Ame to Neko Conbini Ice Soda Aji\") — One Sunday, Reki, Langa, and Miya head out to the skatepark as usual when a squall suddenly hits them. They head back to Reki’s place and start playing Karuta, a Japanese card game they find!? - \"Becoming Really Serious About Things\" (\"Maji de Maji ni Nareru Koto\") — In the past, Sakurayashiki and Nanjo had spent their high school days in relative obscurity. These two always had butt heads and competed, but what lies ahead for them from all this competition? - \"Morning Routine\" — This story unravels the mystery surrounding Ainosuke and Kikuchi’s everyday life. It closes in on their secret moments, crossovers, and a moment beyond that draws closer. - \"Hiromi, Do Your Best!\" (\"Ganbare Hiromi-chan!\") — Shadow is an anti-hero at night, but this is his three-part slice-of-life flash story highlighting his noble and kind personality as he works hard at a flower shop during the day. (Source: Aniplex USA) Premiered in theaters on 01/24/2025. The home video was released on 03/19/2025.",
+      "cover_large": "https://media.kitsu.app/anime/44870/poster_image/large-bbd3edfa18736ac008e77ea93ec94b05.jpeg",
+      "kitsu_year": 2025,
+      "format": "OVA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/sk8-infinity-extra-part",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Sports",
+        "Drama"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-44870.jpg"
+    }
   },
   {
     "year": 2025,
@@ -8624,6 +9748,30 @@
     "director": "Yujiro Abe",
     "original_title": "",
     "ref": "[ 292 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "44911",
+      "title_romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+      "title_english": "KonoSuba: God's Blessing on This Wonderful World! 3",
+      "title_native": "この素晴らしい世界に祝福を！新作アニメ 3",
+      "description": "The third season of Kono Subarashii Sekai ni Shukufuku wo! The dysfunctional party is back, but they may be short a member soon ’cause Kazuma is over it. Disillusioned with adventure, he wants to become a monk, but Aqua, Megumin, and Darkness call bull. However, the career dispute gets put on hold when a princess requests to hear all about their tales. Will the taste of fame at the royal castle keep them together or will this mark their farewell tour?",
+      "cover_large": "https://media.kitsu.app/anime/44911/poster_image/large-8a42bb8e9658fb275a902a821a797be9.jpeg",
+      "kitsu_year": 2024,
+      "format": "TV",
+      "episodes": 11,
+      "site_url": "https://kitsu.io/anime/kono-subarashii-sekai-ni-shukufuku-wo-3",
+      "genres": [
+        "Magic",
+        "Parody",
+        "Satire",
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Isekai"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-44911.jpg"
+    }
   }
 ]

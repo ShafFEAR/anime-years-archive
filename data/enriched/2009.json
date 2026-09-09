@@ -230,7 +230,29 @@
     "running_time": "61",
     "alt_title": "Sora no kyōkai Remix - Gate of seventh hebun -",
     "ref": "[ 1 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3546",
+      "title_romaji": "Kara no Kyoukai 5: Mujun Rasen",
+      "title_english": "the Garden of sinners Chapter 5: Paradox Paradigm",
+      "title_native": "劇場版 空の境界 the Garden of sinners 第五章『矛盾螺旋』",
+      "description": "In November 1998, a double homicide occurs at the newly constructed Ogawa apartment complex in the heart of Mifune City. The murderer, Tomoe Enjou, has fled in a panic. To his astonishment, he is not pursued by the police and news of the incident has not been reported through media outlets. After Shiki Ryougi defends Tomoe from a group of thugs, she allows him to use her residence as a hideout. However, a few days later, Tomoe is shaken to discover that his mother is alive, even though he is convinced that he killed her. Coincidentally, Mikiya Kokutou is investigating a tip that his associate Touko Aozaki receives regarding the murder at the unique apartment complex. As he uncovers more information about the incident, Mikiya takes a particular interest in Tomoe. Deciding to investigate him further, Mikiya soon discovers the disturbing truth of the foreboding Ogawa complex. The fifth installment of the Kara no Kyoukai film series, Mujun Rasen combines an intricately constructed mystery with established themes and characters to produce a dark, thought-provoking story. [Written by MAL Rewrite]",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3546/large.jpg",
+      "kitsu_year": 2008,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/kara-no-kyoukai-5-mujun-rasen",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Thriller",
+        "Romance",
+        "Drama",
+        "Mystery"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3546.jpg"
+    }
   },
   {
     "year": 2009,
@@ -245,7 +267,33 @@
     "running_time": "70",
     "alt_title": "Eiga purikyua ōru sutāzu DX min'na tomodachi ~tsu☆ kiseki no zen'in dai shūgō!",
     "ref": "[ 1 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "5207",
+      "title_romaji": "Precure All Stars Movie DX2: Kibou no Hikari☆Rainbow Jewel wo Mamore!",
+      "title_english": "Pretty Cure All Stars DX2: Light of Hope - Protect the Rainbow Jewel!",
+      "title_native": "映画 プリキュアオールスターズDX2 希望の光☆レインボージュエルを守れ!",
+      "description": "Tsubomi Hanasaki is woken by her best friend Erika Kurumi only to find out that their two fairies, Coffret and Shypre, have left just leaving a note explaining where to find them. Fairy Park is not only the destination of both girls, it is also the meeting point of all other Precures who planned to spend this special day together. This magical theme park holds the Rainbow Jewel, a special gem that represents all of the hopes and dreams of the world. Such a powerful stone is the object of desire of a malefic entity named Bottom who has waited one thousand years for the opportunity to possess it.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/5207/large.jpg",
+      "kitsu_year": 2010,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/precure-all-stars-movie-dx2-kibou-no-hikari-rainbow-jewel-wo-mamore",
+      "genres": [
+        "Magic",
+        "Magical Girl",
+        "Super Power",
+        "Present",
+        "Earth",
+        "Contemporary Fantasy",
+        "Japan",
+        "Asia",
+        "Action",
+        "Fantasy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-5207.jpg"
+    }
   },
   {
     "year": 2009,
@@ -381,7 +429,33 @@
     "running_time": "125",
     "alt_title": "Gekijō-ban tengan toppa guren ragan ragan-hen",
     "ref": "[ 2 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3689",
+      "title_romaji": "Tengen Toppa Gurren Lagann Movie 2: Lagann-hen",
+      "title_english": "Gurren Lagann The Movie: The Lights in the Sky are Stars",
+      "title_native": "天元突破グレンラガン 螺巌篇",
+      "description": "Seven years have passed after the battle of Teppelin... Humans have since reclaimed the surface of the earth and enjoy an unprecedented period of peace and prosperity. However, humanity's increasing population growth triggers the sudden emergence of an unknown, powerful enemy. The fearsome, manipulative power of the mysterious Anti-Spiral proves too overwhelming for humans to even fight back. When everyone becomes desperate and loses hope, Team Dai-Gurren members reunite to stand up once again!",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3689/large.jpg",
+      "kitsu_year": 2009,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/tengen-toppa-gurren-lagann-movie-lagann-hen",
+      "genres": [
+        "Alien",
+        "Robot",
+        "Super Power",
+        "Future",
+        "Space",
+        "Mecha",
+        "Transforming Craft",
+        "Piloted Robot",
+        "Humanoid Alien",
+        "Action"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3689.jpg"
+    }
   },
   {
     "year": 2009,
@@ -554,7 +628,31 @@
     "running_time": "72",
     "alt_title": "Miyamoto musashi ― futaken ni haseru yume ―",
     "ref": "[ 2 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "4079",
+      "title_romaji": "Miyamoto Musashi: Souken ni Haseru Yume",
+      "title_english": "Musashi: The Dream of the Last Samurai",
+      "title_native": "宮本武蔵 ―双剣に馳せる夢―",
+      "description": "The new film's story will center on Musashi Miyamoto, one of the most famous swordsmen in Japanese history. He pioneered the Hyouhou Niten Ichi-ryuu style of two-sword fighting and wrote The Book of Five Rings, a book that has been compared to Sun Tzu's The Art of War for its insight on tactics and strategy.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/4079/large.jpg",
+      "kitsu_year": 2009,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/miyamoto-musashi-souken-ni-haseru-yume",
+      "genres": [
+        "Samurai",
+        "Martial Arts",
+        "Past",
+        "Earth",
+        "Historical",
+        "Japan",
+        "Asia",
+        "Action"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-4079.jpg"
+    }
   },
   {
     "year": 2009,
@@ -2874,7 +2972,33 @@
     "director": "Yoshiaki Iwasaki",
     "alt_title": "Hayate no gotoku!!",
     "ref": "[ 2 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3514",
+      "title_romaji": "Hayate no Gotoku!!",
+      "title_english": "Hayate the Combat Butler!!",
+      "title_native": "ハヤテのごとく!!",
+      "description": "Hayate Ayasaki's misfortune continues to hand him the short end of the stick. Now settled into his routine at the Sanzenins' mansion and Hakuou Academy, the butler continues to work as hard as ever in caring for his young mistress Nagi while studying the school's grueling curriculum—all on top of trying his best to survive the multitude of troubles that life relentlessly pushes onto him. The unintentional chick magnet's life is far from quiet, forced to deal not only with Nagi's yet unnoticed infatuation with him, but also the evergrowing string of accidentally seduced girls—most notably, the exceptionally plain Ayumu Nishizawa, a friend of his before he became a butler, and the diligent Hinagiku Katsura, Hakuou's student council president. While one struggles to gain his affection and the other desperately tries to deny her own, both the girls are going to make the boy's life a little more complicated than it already is. [Written by MAL Rewrite]",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3514/large.jpg",
+      "kitsu_year": 2009,
+      "format": "TV",
+      "episodes": 25,
+      "site_url": "https://kitsu.io/anime/hayate-no-gotoku-2",
+      "genres": [
+        "Present",
+        "Earth",
+        "Parody",
+        "Japan",
+        "Stereotypes",
+        "Asia",
+        "Action",
+        "Comedy",
+        "Romance",
+        "Harem"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3514.jpg"
+    }
   },
   {
     "year": 2009,
@@ -3780,7 +3904,33 @@
     "director": "Tatsuya Ishihara Yutaka Yamamoto",
     "alt_title": "Suzumiya haruhi no yūutsu",
     "ref": "[ 2 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3579",
+      "title_romaji": "Suzumiya Haruhi no Yuuutsu (2009)",
+      "title_english": "The Melancholy of Haruhi Suzumiya Season 2",
+      "title_native": "涼宮ハルヒの憂鬱",
+      "description": "Kyon has found himself dragged through many adventures as of late—all because of the SOS Brigade club and its excitable leader, Haruhi Suzumiya. He has stopped believing in the supernatural long ago, but after being forced to join this club based solely on that, he has seen things that cannot be explained logically. Joining Kyon on his various misadventures is the shy and soft-spoken Mikuru Asahina, the bookish Yuki Nagato, and the ever-cheerful Itsuki Koizumi. Whether it is summer vacation or a school festival, things involving their club and Haruhi herself always end up becoming strange. [Written by MAL Rewrite]",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3579/large.jpg",
+      "kitsu_year": 2009,
+      "format": "TV",
+      "episodes": 14,
+      "site_url": "https://kitsu.io/anime/the-melancholy-of-haruhi-suzumiya-2009",
+      "genres": [
+        "High School",
+        "Super Power",
+        "Present",
+        "Earth",
+        "Time Travel",
+        "Parody",
+        "School Clubs",
+        "Japan",
+        "Humanoid Alien",
+        "Plot Continuity"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3579.jpg"
+    }
   },
   {
     "year": 2009,
@@ -4211,7 +4361,26 @@
     "director": "Akiyuki Shinbo",
     "alt_title": "Zan Sayonara zetsubō-sensei",
     "ref": "[ 3 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3186",
+      "title_romaji": "Sayonara Zetsubou Sensei Jo: Zetsubou Shoujo Senshuu",
+      "title_english": null,
+      "title_native": "さよなら絶望先生 序〜絶望少女撰集〜",
+      "description": "A special summary episode of the first season of Sayonara Zetsubou Sensei, focusing on seven of the girls: Komori Kiri, Matoi Tsunetsuki, Kobushi Abiru, Kimura Kaere, Kitsu Chiri, Sekiuchi \"Maria\" Tarou and Hitou Nami. Note: This entry also includes the 24 minute version which aired on BS11.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3186/large.jpg",
+      "kitsu_year": 2008,
+      "format": "special",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/sayonara-zetsubou-sensei-jo-zetsubou-shoujo-senshuu",
+      "genres": [
+        "Parody",
+        "Comedy",
+        "School Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3186.jpg"
+    }
   },
   {
     "year": 2009,
@@ -5649,7 +5818,33 @@
     "director": "Shinji Ishihira",
     "alt_title": "Fearī teiru",
     "ref": "[ 4 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "4676",
+      "title_romaji": "Fairy Tail",
+      "title_english": "Fairy Tail",
+      "title_native": "フェアリーテイル",
+      "description": "A superficial but kind-hearted celestial mage, Lucy Heartfilia, joins a famous wizarding guild in Magnolia Town called Fairy Tail, where the members use their powers to earn rewards in exchange for fulfilling quests. Here she befriends an impetuous but faithful dragon-slayer wizard, Natsu Dragneel, who is scouring the land for his missing father. The two form a bond with fellow mages Erza Scarlet and Gray Fullbuster, and together they tackle daunting challenges, taking on several powerful allies and foes along the way. Created by Hiro Mashima, Fairy Tail is an action-packed adventure that follows Lucy and her friends as they learn the value of friendship, forgiveness and family. [Written by MAL Rewrite]",
+      "cover_large": "https://media.kitsu.app/anime/4676/poster_image/large-d761d48a72e02e5433d70b8521cea862.jpeg",
+      "kitsu_year": 2009,
+      "format": "TV",
+      "episodes": 175,
+      "site_url": "https://kitsu.io/anime/fairy-tail",
+      "genres": [
+        "Magic",
+        "Fantasy World",
+        "Plot Continuity",
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Ecchi",
+        "Friendship",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-4676.jpg"
+    }
   },
   {
     "year": 2009,
@@ -6746,7 +6941,31 @@
     "director": "Junichi Sakata",
     "alt_title": "ToHeart2 adplus",
     "ref": "[ 2 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3500",
+      "title_romaji": "To Heart 2 AD",
+      "title_english": "ToHeart 2 AD",
+      "title_native": "トゥハート2",
+      "description": "Based on the Visual Novel ToHeart 2 AD (Another Days), the sequel to ToHeart 2.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3500/large.jpg",
+      "kitsu_year": 2008,
+      "format": "OVA",
+      "episodes": 2,
+      "site_url": "https://kitsu.io/anime/to-heart-2-ad",
+      "genres": [
+        "Present",
+        "Japan",
+        "Comedy",
+        "Ecchi",
+        "Romance",
+        "Harem",
+        "School Life",
+        "Female Student"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3500.jpg"
+    }
   },
   {
     "year": 2009,
@@ -6965,7 +7184,27 @@
     "director": "Kenichiro Katsura",
     "alt_title": "Ovua utawarerumono",
     "ref": "[ 2 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3129",
+      "title_romaji": "Utawarerumono OVA",
+      "title_english": "Utawarerumono OVA",
+      "title_native": "OVA うたわれるもの",
+      "description": "A three part OVA of Utawarerumono. The animation work will be done by the same staff that did the opening of the game the show was based on. The story will cover parts that weren't shown in the anime series.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3129/large.jpg",
+      "kitsu_year": 2009,
+      "format": "OVA",
+      "episodes": 3,
+      "site_url": "https://kitsu.io/anime/utawarerumono-ova",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Comedy",
+        "Juujin"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3129.jpg"
+    }
   },
   {
     "year": 2009,
@@ -7146,7 +7385,33 @@
     "director": "Kazuki Akane",
     "alt_title": "Tetsuwan bādī DECODE - THE saifa -",
     "ref": "[ 3 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3389",
+      "title_romaji": "Tetsuwan Birdy Decode",
+      "title_english": "Birdy the Mighty: Decode",
+      "title_native": "鉄腕バーディー (2008)",
+      "description": "Federation investigator Birdy chases the space criminal Geega through space to Earth, where he hides in the entertainment industry under a human disguise. Birdy goes undercover herself, posing as famous model “Arita Shion” that often uses a ‘space girl’ look. A male student, Senkawa, stumbles upon a fight between the two one night in an abandoned building only to be severed in half as he is used as a shield by Geega against Birdy. Birdy heals him from imminent death in some fashion- but Senkawas body, and life, are now changed and permanently linked to Birdy.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3389/large.jpg",
+      "kitsu_year": 2008,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/tetsuwan-birdy-decode",
+      "genres": [
+        "Android",
+        "Alien",
+        "Idol",
+        "Power Suit",
+        "Contemporary Fantasy",
+        "Action",
+        "Science Fiction",
+        "Comedy",
+        "Law And Order",
+        "Special Squads"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3389.jpg"
+    }
   },
   {
     "year": 2009,
@@ -7161,7 +7426,33 @@
     "director": "Goro Taniguchi",
     "alt_title": "Kōdo giasu hangyaku no rurūshu R 2 supesharu edishon Zero rekuiemu",
     "ref": "[ 3 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2634",
+      "title_romaji": "Code Geass: Hangyaku no Lelouch R2",
+      "title_english": "Code Geass: Lelouch of the Rebellion R2",
+      "title_native": "コードギアス 反逆のルルーシュ 続編",
+      "description": "One year has passed since the Black Rebellion, a failed uprising against the Holy Britannian Empire led by the masked vigilante Zero, who is now missing. At a loss without their revolutionary leader, Area 11's resistance group—the Black Knights—find themselves too powerless to combat the brutality inflicted upon the Elevens by Britannia, which has increased significantly in order to crush any hope of a future revolt. Lelouch Lamperouge, having lost all memory of his double life, is living peacefully alongside his friends as a high school student at Ashford Academy. His former partner C.C., unable to accept this turn of events, takes it upon herself to remind him of his past purpose, hoping that the mastermind Zero will rise once again to finish what he started, in this thrilling conclusion to the series.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2634/large.jpg",
+      "kitsu_year": 2008,
+      "format": "TV",
+      "episodes": 25,
+      "site_url": "https://kitsu.io/anime/code-geass-lelouch-of-the-rebellion-r2",
+      "genres": [
+        "Super Power",
+        "Present",
+        "Future",
+        "Earth",
+        "Mecha",
+        "Alternative Present",
+        "Piloted Robot",
+        "Japan",
+        "China",
+        "Plot Continuity"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2634.jpg"
+    }
   },
   {
     "year": 2009,
@@ -7216,7 +7507,28 @@
     "director": "Fumihiko Sori",
     "alt_title": "Toū",
     "ref": "[ 4 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "4927",
+      "title_romaji": "TO",
+      "title_english": null,
+      "title_native": "トゥー",
+      "description": "Elliptical Orbit: Fifteen years after its last contact with our world, a space freighter known as the Flying Dutchman requests permission to dock at a remote moon base. This mysterious ship carries liquid protons: a power source essential to the survival of Earth’s population. But before the precious cargo can be delivered, the base is ambushed by galactic terrorists who seek to destroy the new form of energy and issue a death sentence to all of humanity. Symbiotic Planet: Against a backdrop of intergalactic colonization and bizarre alien life forms, Aon and Elena – star-crossed lovers from rival countries competing for valuable natural resources – struggle to build a life together despite the objections of their superiors. Their budding romance is thwarted by an outbreak of alien fungus and the interference of a cutthroat militaristic madman. To survive, the young couple must maintain their faith in each other and learn to trust the unique creatures which inhabit this strange and wondrous new world.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/4927/large.jpg",
+      "kitsu_year": 2009,
+      "format": "OVA",
+      "episodes": 2,
+      "site_url": "https://kitsu.io/anime/to",
+      "genres": [
+        "Future",
+        "Space",
+        "Shipboard",
+        "Action",
+        "Science Fiction"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-4927.jpg"
+    }
   },
   {
     "year": 2009,
@@ -7481,7 +7793,33 @@
     "director": "Seiji Mizushima",
     "alt_title": "Kidō senshi Gandamu 00 supesharu edishon",
     "ref": "[ 4 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3355",
+      "title_romaji": "Kidou Senshi Gundam 00 Second Season",
+      "title_english": "Mobile Suit Gundam 00: Second Season",
+      "title_native": "機動戦士ガンダム00 セカンドシーズン",
+      "description": "Mobile Suit Gundam 00 Second Season begins four years after the United Nations Forces were finally able to claim victory against Celestial Being. In order to prevent such an event from recurring, an independent military organization called the Autonomous Peace-Keeping Force, or A-Laws, has been formed in order to keep the ESF Army and other powerful organizations in check. Charged with the duties of eliminating terrorists and resistance groups as well as unifying the nations of the world for the benefit of all mankind, A-Laws seem to be the best solution to the people of the world. Unknown to the public, the A-Laws quickly began to abuse their power. Peoples all over the world and in space soon find themselves stripped of freedoms and forced to live under the A-Laws enforced doctrines all in the name of “unity” and “peace”. Aware of A-Laws misuse of power, Celestial Being reemerges with the intent of stopping the A-Laws and correcting their past mistakes. What is unknown to these two groups is that a third organization, the Innovators, lurks in the shadows, manipulating events to reshape humanity into their own image.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3355/large.jpg",
+      "kitsu_year": 2008,
+      "format": "TV",
+      "episodes": 25,
+      "site_url": "https://kitsu.io/anime/mobile-suit-gundam-00-second-season",
+      "genres": [
+        "Future",
+        "Space",
+        "Earth",
+        "Human Enhancement",
+        "Mecha",
+        "Piloted Robot",
+        "Plot Continuity",
+        "Action",
+        "Science Fiction",
+        "Drama"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3355.jpg"
+    }
   },
   {
     "year": 2009,
@@ -7496,7 +7834,26 @@
     "director": "Akiyuki Simbo",
     "alt_title": "Zan Sayonara zetsubō-sensei bangaichi",
     "ref": "[ 4 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3186",
+      "title_romaji": "Sayonara Zetsubou Sensei Jo: Zetsubou Shoujo Senshuu",
+      "title_english": null,
+      "title_native": "さよなら絶望先生 序〜絶望少女撰集〜",
+      "description": "A special summary episode of the first season of Sayonara Zetsubou Sensei, focusing on seven of the girls: Komori Kiri, Matoi Tsunetsuki, Kobushi Abiru, Kimura Kaere, Kitsu Chiri, Sekiuchi \"Maria\" Tarou and Hitou Nami. Note: This entry also includes the 24 minute version which aired on BS11.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3186/large.jpg",
+      "kitsu_year": 2008,
+      "format": "special",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/sayonara-zetsubou-sensei-jo-zetsubou-shoujo-senshuu",
+      "genres": [
+        "Parody",
+        "Comedy",
+        "School Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3186.jpg"
+    }
   },
   {
     "year": 2009,
@@ -7681,7 +8038,24 @@
     "director": "",
     "alt_title": "",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "44663",
+      "title_romaji": "Yoi ga Tsubuyaku",
+      "title_english": "The Vesper Mutters",
+      "title_native": "宵がつぶやく",
+      "description": "As dusk closed in, a streetlight in a park was turned on. Moths flew towards the light. Suddenly they stop the motion. Under the streetlight a figure-shape playground equipment appeared and other equipments started to gather around the light. A child strayed among them. It was when the lights gets turned on in the street. As more lights are turned on, the playground equipments stop. Streetlight was turned out. 1st Year Work 2010 by Hiroki Kono, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/44663/large.jpg",
+      "kitsu_year": 2010,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/yoi-ga-tsubuyaku",
+      "genres": [
+        "Fantasy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-44663.jpg"
+    }
   },
   {
     "year": 2009,
@@ -7696,7 +8070,33 @@
     "director": "",
     "alt_title": "",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "4133",
+      "title_romaji": "Hayate no Gotoku!!: Atsu ga Natsuize - Mizugi-hen!",
+      "title_english": null,
+      "title_native": "ハヤテのごとく!! アツがナツいぜ 水着編!",
+      "description": "To encourage Nagi to swim and enjoy summer, Maria invites various friends to their Sanzenin family's private beach. While everyone is having fun, Nagi hesitates to wear swimsuits and come out because of her small breasts, and refuses to join...",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/4133/large.jpg",
+      "kitsu_year": 2009,
+      "format": "OVA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/hayate-no-gotoku-atsu-ga-natsuize-mizugihen",
+      "genres": [
+        "High School",
+        "Maid",
+        "Loli",
+        "Earth",
+        "Slapstick",
+        "Parody",
+        "Japan",
+        "Stereotypes",
+        "Asia",
+        "Action"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-4133.jpg"
+    }
   },
   {
     "year": 2009,
@@ -7850,7 +8250,30 @@
     "director": "",
     "alt_title": "",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3917",
+      "title_romaji": "Kurokami The Animation",
+      "title_english": "Kurokami The Animation",
+      "title_native": "黒神 The Animation",
+      "description": "High school student Ibuki Keita has been haunted by misfortune for as long as he can remember. For no apparent reason, everyone around him dies tragically. Ultimately, he refuses to become too close to anyone, even his childhood friend Akane. This leaves Keita alone in a life full of misery and disgrace. While eating at his favorite ramen shop one evening, Keita meets a strange young girl named Kuro. Possessing abilities that surpass that of a normal human being, Kuro classifies herself as a Mototsumitama. She explains to Keita about \"Terra,\" a life-energy force split between three identical looking people; a global phenomenon dubbed the \"Doppeliner System.\" As a Mototsumitama, Kuro guards the \"Coexistence Equilibrium,\" the beings that protect the flow of Terra around the world. Keita refuses to believe her story, until he is caught up in the crossfire of this hidden world. On the verge of death, he makes a contract with Kuro, unbeknownst to its true meaning. Now he is bound to Kuro, and must be with her at all times. Could Keita's misfortune possibly get any greater? [Written by MAL Rewrite]",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3917/large.jpg",
+      "kitsu_year": 2009,
+      "format": "TV",
+      "episodes": 23,
+      "site_url": "https://kitsu.io/anime/kurokami-the-animation",
+      "genres": [
+        "Martial Arts",
+        "Super Power",
+        "Present",
+        "Contemporary Fantasy",
+        "Japan",
+        "Action",
+        "Fantasy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3917.jpg"
+    }
   },
   {
     "year": 2009,

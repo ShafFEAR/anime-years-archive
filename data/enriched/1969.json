@@ -170,7 +170,26 @@
     "type": "TV",
     "demographic": "Children",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "9043",
+      "title_romaji": "Sobakasu Pucchi",
+      "title_english": null,
+      "title_native": "そばかすプッチー",
+      "description": "A kids adventure and comedy series. Each 5 minute episode aired Monday through Saturday in a continuing story which completed at the end of the week.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/9043/large.jpg",
+      "kitsu_year": 1969,
+      "format": "TV",
+      "episodes": 162,
+      "site_url": "https://kitsu.io/anime/sobakasu-pucchi",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Kids"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-9043.jpg"
+    }
   },
   {
     "year": 1969,
@@ -260,7 +279,24 @@
     "type": "TV",
     "demographic": "Shōnen",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "6516",
+      "title_romaji": "Dororo Pilot",
+      "title_english": null,
+      "title_native": "どろろ",
+      "description": "Before producing a TV series, a pilot film was made to let sponsors and television stations grasp the work's pervasive quality. This is the pilot film for \"Dororo\" in which the characters are closer to those of the original story compared to the characters in the TV series. The faces and personalities of the characters in the TV series are altered from time to time to gain popularity among its viewers. As a result, sometimes viewers really loved it, but at other times it didn't go over as well. The pilot for \"Dororo\" was made in color, but the TV series was monochrome due to a tighter budget. The story depicts a journey in which the boy thief named Dororo and a cursed man called Hyakkimaru destroy monsters. Hyakkimaru can be a complete \"human\" only after he destroys 48 devils.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/6516/large.jpg",
+      "kitsu_year": 1968,
+      "format": "special",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/dororo-pilot",
+      "genres": [
+        "Action"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-6516.jpg"
+    }
   },
   {
     "year": 1969,
@@ -273,7 +309,33 @@
     "type": "TV",
     "demographic": "Seinen",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3888",
+      "title_romaji": "Ninpuu Kamui Gaiden",
+      "title_english": "The Legend of Ninja Kamui",
+      "title_native": "忍風カムイ外伝",
+      "description": "Kamui is a ninja from the Edo period who has decided to leave his clan. After doing so he is pursued relentlessly by the members of his former clan; who consider him to be a traitor and therefore wish to kill him. Kamui then wanders around Japan to escape from them by using his intelligence and great abilities to survive. In the course of the series Kamui begins to suffer from paranoia because of his status as a persecuted man. Kamui then started to believe that everybody wished to murder him and became distrusting of everyone he came across.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3888/large.jpg",
+      "kitsu_year": 1969,
+      "format": "TV",
+      "episodes": 26,
+      "site_url": "https://kitsu.io/anime/ninpu-kamui-gaiden",
+      "genres": [
+        "Samurai",
+        "Martial Arts",
+        "Ninja",
+        "Swordplay",
+        "Past",
+        "Earth",
+        "Historical",
+        "Japan",
+        "Tokugawa Period",
+        "Violence"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3888.jpg"
+    }
   },
   {
     "year": 1969,
@@ -494,7 +556,27 @@
     "type": "TV",
     "demographic": "Family, Children",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "5258",
+      "title_romaji": "Muumin",
+      "title_english": null,
+      "title_native": "ムーミン",
+      "description": "Very loosely based upon the Moomin books by Finnish author Tove Jansson. Jansson, however, never really approved of the series due to dramatic changes in plot, atmosphere, character personality, appearance and names etc. The series was directed to adults rather than children.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/5258/large.jpg",
+      "kitsu_year": 1969,
+      "format": "TV",
+      "episodes": 65,
+      "site_url": "https://kitsu.io/anime/moomin",
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Slice of Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-5258.jpg"
+    }
   },
   {
     "year": 1969,
@@ -740,7 +822,26 @@
     "type": "Short",
     "demographic": "General",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "4843",
+      "title_romaji": "Kemeko no Love",
+      "title_english": null,
+      "title_native": "ケメ子のLOVE",
+      "description": "Experimental short film from Yoji Kuri.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/4843/large.jpg",
+      "kitsu_year": 1968,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/love-of-kemoko",
+      "genres": [
+        "Music",
+        "Comedy",
+        "Romance"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-4843.jpg"
+    }
   },
   {
     "year": 1969,

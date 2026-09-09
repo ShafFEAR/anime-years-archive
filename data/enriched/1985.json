@@ -101,7 +101,33 @@
     "director": "Takeyuki Kanda",
     "studio": "Nippon Sunrise",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1294",
+      "title_romaji": "Ginga Tetsudou no Yoru",
+      "title_english": "Night on the Galactic Railroad",
+      "title_native": "銀河鉄道の夜",
+      "description": "Based on a short story by the popular children's writer Kenji Miyazawa, Galactic Railroad offers viewers a slow-paced, dreamlike journey through space and time. When Giovanni, a lonely boy in a hill town, goes to get milk for his ailing mother, he finds himself crossing the Milky Way on a faster-than-light steam railroad. The stations he visits in various constellations, like the planets explored by St. Exupery's Little Prince, offer curious adventures and an assortment of human \"types.\" Reality and fantasy blur aboard the train, and its travels across the light-years sometimes suggests the journey through life. The characters are depicted as cats, presumably to avoid the problems of animating humans.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1294/large.jpg",
+      "kitsu_year": 1985,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/night-on-the-galactic-railroad",
+      "genres": [
+        "Past",
+        "Historical",
+        "Plot Continuity",
+        "Parallel Universe",
+        "Fantasy",
+        "Adventure",
+        "Anthropomorphism",
+        "Drama",
+        "Coming Of Age",
+        "Mystery"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1294.jpg"
+    }
   },
   {
     "year": 1985,
@@ -400,7 +426,33 @@
     "director": "",
     "studio": "Toei Animation",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2312",
+      "title_romaji": "Princess Sara",
+      "title_english": "A Little Princess Sara",
+      "title_native": "小公女セーラ",
+      "description": "Sara, a pretty girl born into a rich British family in India, is treated like a little princess at a dormitory school in London. Sara's sweet school life turns to tragedy when she learns of her father's death and the family's bankruptcy. However, Sara endures her hard luck with kindness and imagination and escapes from her misery through fantasies.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2312/large.jpg",
+      "kitsu_year": 1985,
+      "format": "TV",
+      "episodes": 46,
+      "site_url": "https://kitsu.io/anime/princess-sara",
+      "genres": [
+        "All Girls School",
+        "Past",
+        "Earth",
+        "Historical",
+        "Plot Continuity",
+        "United Kingdom",
+        "Europe",
+        "Slice of Life",
+        "Drama",
+        "Coming Of Age"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2312.jpg"
+    }
   },
   {
     "year": 1985,
@@ -593,7 +645,32 @@
     "director": "Kunihiko Yuyama",
     "studio": "Ashi Productions",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2277",
+      "title_romaji": "Sengoku Majin Goushougun: Toki no Etranger",
+      "title_english": "Time Stranger",
+      "title_native": "戦国魔人ゴーショーグン 時の異邦人[ÉTRANGER[エトランゼ]]",
+      "description": "Remy Shimoda is in a hurry. She's on her way to a reunion with the other members of the Go Shogun team, and she's late. A police action with some robbers gets in her way, so she runs the robbers off the road. Her vision blurs and she gets into an accident. The movie splits into two with one plot following Remy's slow decline at the hospital with the Go Shogun members and former enemies at her side, and her experience in a strange city where she, and the rest of the team have their deaths foretold. Remy, herself, is plagued by visions of her death, and visitations from a threatening girl and her panther-like cat. The temple at the center of the city is the key, so the team sets out to battle their way into it. Based on the giant robot series \"Go Shogun\", this is a story focusing on Remy, the female member of the team.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2277/large.jpg",
+      "kitsu_year": 1985,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/sengoku-majin-goushougun-toki-no-etranger",
+      "genres": [
+        "Future",
+        "Fantasy World",
+        "Other Planet",
+        "Violence",
+        "Action",
+        "Angst",
+        "Science Fiction",
+        "Dystopia",
+        "Drama"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2277.jpg"
+    }
   },
   {
     "year": 1985,
@@ -621,7 +698,28 @@
     "director": "",
     "studio": "Shin-Ei Animation",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "5168",
+      "title_romaji": "Obake no Q-tarou (1985)",
+      "title_english": null,
+      "title_native": "オバケのQ太郎",
+      "description": "Sequel of Shin Obake no Q-tarou.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/5168/large.jpg",
+      "kitsu_year": 1985,
+      "format": "TV",
+      "episodes": 510,
+      "site_url": "https://kitsu.io/anime/obake-no-q-taro-1985",
+      "genres": [
+        "Fantasy",
+        "Comedy",
+        "Slice of Life",
+        "School Life",
+        "Kids"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-5168.jpg"
+    }
   },
   {
     "year": 1985,
@@ -856,7 +954,27 @@
     "director": "Mochizuki Tomomichi",
     "studio": "Studio Pierrot",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2058",
+      "title_romaji": "Mahou no Princess Minky Momo: Yume no Naka no Rondo",
+      "title_english": "Magical Princess Minky Momo: La Ronde in my Dream",
+      "title_native": "魔法のプリンセス ミンキーモモ夢の中の輪舞",
+      "description": "Minky Momo travels to an island where she finds a land of children and gets tangled up in an absurd, no-holds-barred standoff against the world's nations. Has \"Dr. Strangelove\" references.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2058/large.jpg",
+      "kitsu_year": 1985,
+      "format": "OVA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/mahou-no-princess-minky-momo-yume-no-naka-no-rondo",
+      "genres": [
+        "Magic",
+        "Earth",
+        "Fantasy",
+        "Adventure"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2058.jpg"
+    }
   },
   {
     "year": 1985,
@@ -884,7 +1002,25 @@
     "director": "Isamu Imakake",
     "studio": "Tsuchida Production",
     "ref": "[ 2 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1915",
+      "title_romaji": "Captain Tsubasa: Europe Daikessen",
+      "title_english": null,
+      "title_native": "キャプテン翼　ヨーロッパ大決戦",
+      "description": "The first Captain Tsubasa movie is about a match between an \"All Europe Boy Soccer Team\" and an \"All Japan Boy Soccer Team\" and takes place at the end of the first TV series. When the Japanese team arrives in Europe they meet incredible players with skills and strength they never had to face before.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1915/large.jpg",
+      "kitsu_year": 1985,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/captain-tsubasa-europe-daikessen",
+      "genres": [
+        "Action",
+        "Sports"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1915.jpg"
+    }
   },
   {
     "year": 1985,
@@ -898,7 +1034,25 @@
     "director": "Toyoo Ashida , Kazuhisa Takenouchi",
     "studio": "Toei Animation",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "4390",
+      "title_romaji": "Dr. Slump Movie 04: Arale-chan Hoyoyo! Nanaba Shiro no Hihou",
+      "title_english": "Dr. Slump and Arale-chan: Hoyoyo! The Treasure of Nanaba Castle",
+      "title_native": "Ｄｒ．スランプ アラレちゃん ほよよ！ナナバ城の秘宝",
+      "description": "Dr. Slump found the secret treasure named “Eye of Rainbow” of legendary Nanaba Castle in the mountain. This treasure makes every dream come true. When the robbery gang of Arale, Ga-chan tried to steal this treasure, Bisna who is the descendant of Nanaba Kingdom took the treasure. Bisna wanted to revive the devil and Nanaba Kingdom. Arale and her friends went towards the secret Nanaba Castle to get back the treasure.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/4390/large.jpg",
+      "kitsu_year": 1984,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/dr-slump-movie-4-arale-chan-hoyoyo-nanaba-shiro-no-hihou",
+      "genres": [
+        "Science Fiction",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-4390.jpg"
+    }
   },
   {
     "year": 1985,
@@ -1103,7 +1257,27 @@
     "director": "Hiroshi Watanabe",
     "studio": "Ashi Productions",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2058",
+      "title_romaji": "Mahou no Princess Minky Momo: Yume no Naka no Rondo",
+      "title_english": "Magical Princess Minky Momo: La Ronde in my Dream",
+      "title_native": "魔法のプリンセス ミンキーモモ夢の中の輪舞",
+      "description": "Minky Momo travels to an island where she finds a land of children and gets tangled up in an absurd, no-holds-barred standoff against the world's nations. Has \"Dr. Strangelove\" references.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2058/large.jpg",
+      "kitsu_year": 1985,
+      "format": "OVA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/mahou-no-princess-minky-momo-yume-no-naka-no-rondo",
+      "genres": [
+        "Magic",
+        "Earth",
+        "Fantasy",
+        "Adventure"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2058.jpg"
+    }
   },
   {
     "year": 1985,
@@ -1152,7 +1326,33 @@
     "director": "Ryosuke Takahashi",
     "studio": "Nippon Sunrise",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2348",
+      "title_romaji": "Soukou Kihei Votoms: The Last Red Shoulder",
+      "title_english": "Armored Trooper Votoms: The Last Red Shoulder",
+      "title_native": "装甲騎兵ボトムズ　ザ・ラストレッドショルダー",
+      "description": "Released in 1985, this OVA tells a critical part of the story between the TV show's Uoodo and Kummen arcs. Although the TV series covered the Red Shoulders in some detail, we didn't get to see much of Chirico's time there or the people involved, and we get both of those here.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2348/large.jpg",
+      "kitsu_year": 1985,
+      "format": "OVA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/armored-trooper-votoms-the-last-red-shoulder",
+      "genres": [
+        "Future",
+        "Mecha",
+        "Piloted Robot",
+        "Action",
+        "Science Fiction",
+        "Revenge",
+        "Genetic Modification",
+        "War",
+        "Rotten World",
+        "Military"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2348.jpg"
+    }
   },
   {
     "year": 1985,
@@ -1212,7 +1412,26 @@
     "director": "Katsuhisa Yamada",
     "studio": "Artmic , Tatsunoko Productions",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3183",
+      "title_romaji": "Genesis Climber Mospeada: Love, Live, Alive",
+      "title_english": "Genesis Climber Mospeada: Love",
+      "title_native": "機甲創世記モスピーダ Love, Live, Alive",
+      "description": "After the original run of the television series, an OAV music video titled Genesis Climber Mospeada: Love Live Alive was specially (mostly due to demands of hardcore Mospeada fans) released in Japan in September 1985. The music video consisted of both old and new footage. The story of Love Live Alive chronicled the events after the ending of the original Mospeada, featuring Yellow Belmont as the main character. The music video focused on Yellow's concert and also on his flashback of past events.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3183/large.jpg",
+      "kitsu_year": 1985,
+      "format": "OVA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/genesis-climber-mospeada-love-live-alive",
+      "genres": [
+        "Mecha",
+        "Music",
+        "Action"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3183.jpg"
+    }
   },
   {
     "year": 1985,
@@ -1226,7 +1445,33 @@
     "director": "Takeyuki Kanda",
     "studio": "Nippon Sunrise",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1294",
+      "title_romaji": "Ginga Tetsudou no Yoru",
+      "title_english": "Night on the Galactic Railroad",
+      "title_native": "銀河鉄道の夜",
+      "description": "Based on a short story by the popular children's writer Kenji Miyazawa, Galactic Railroad offers viewers a slow-paced, dreamlike journey through space and time. When Giovanni, a lonely boy in a hill town, goes to get milk for his ailing mother, he finds himself crossing the Milky Way on a faster-than-light steam railroad. The stations he visits in various constellations, like the planets explored by St. Exupery's Little Prince, offer curious adventures and an assortment of human \"types.\" Reality and fantasy blur aboard the train, and its travels across the light-years sometimes suggests the journey through life. The characters are depicted as cats, presumably to avoid the problems of animating humans.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1294/large.jpg",
+      "kitsu_year": 1985,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/night-on-the-galactic-railroad",
+      "genres": [
+        "Past",
+        "Historical",
+        "Plot Continuity",
+        "Parallel Universe",
+        "Fantasy",
+        "Adventure",
+        "Anthropomorphism",
+        "Drama",
+        "Coming Of Age",
+        "Mystery"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1294.jpg"
+    }
   },
   {
     "year": 1985,
@@ -1373,7 +1618,27 @@
     "director": "Osamu Kasai , Hiroki Shibata",
     "studio": "Toei Animation",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "5220",
+      "title_romaji": "Gegege no Kitarou: Gekitotsu!! Ijigen Youkai no Daihanran",
+      "title_english": "Spooky Kitaro: Crash!! The Great Rebellion of the Multi-Dimensional Yōkai",
+      "title_native": "ゲゲゲの鬼太郎 激突!!異次元妖怪の大反乱",
+      "description": "Movie based on the 1985 TV anime with an original plot.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/5220/large.jpg",
+      "kitsu_year": 1986,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/gegege-no-kitarou-gekitotsu-ijigen-youkai-no-daihanran",
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Horror",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-5220.jpg"
+    }
   },
   {
     "year": 1985,
@@ -1569,7 +1834,25 @@
     "director": "Osamu Kobayashi , Tomomi Mochizuki",
     "studio": "Shueisha , Studio Pierrot",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2981",
+      "title_romaji": "Kimagure Orange☆Road: Shounen Jump Special",
+      "title_english": "Kimagure Orange Road TV Pilot",
+      "title_native": "きまぐれオレンジ☆ロード 少年ジャンプ・スペシャル",
+      "description": "A special made before the rest of the KOR anime to test the possibility of making more. Essentially an alternate TV version of episode 46 , Kyosuke and Madoka go to the beach only to be trapped alone together.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2981/large.jpg",
+      "kitsu_year": 1985,
+      "format": "OVA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/kimagure-orange-road-pilot",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2981.jpg"
+    }
   },
   {
     "year": 1985,
@@ -1687,7 +1970,25 @@
     "director": "Isamu Imakake",
     "studio": "Tsuchida Production",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1915",
+      "title_romaji": "Captain Tsubasa: Europe Daikessen",
+      "title_english": null,
+      "title_native": "キャプテン翼　ヨーロッパ大決戦",
+      "description": "The first Captain Tsubasa movie is about a match between an \"All Europe Boy Soccer Team\" and an \"All Japan Boy Soccer Team\" and takes place at the end of the first TV series. When the Japanese team arrives in Europe they meet incredible players with skills and strength they never had to face before.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1915/large.jpg",
+      "kitsu_year": 1985,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/captain-tsubasa-europe-daikessen",
+      "genres": [
+        "Action",
+        "Sports"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1915.jpg"
+    }
   },
   {
     "year": 1985,
@@ -1701,7 +2002,26 @@
     "director": "",
     "studio": "",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "4215",
+      "title_romaji": "Tabidachi: Ami Shuushou",
+      "title_english": "Cream Lemon: Ami's Journey",
+      "title_native": "旅立ち　-亜美・終章-",
+      "description": "Movie based on the Ami series of the Cream Lemon franchise. This movie was co-aired with Project A-Ko movie.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/4215/large.jpg",
+      "kitsu_year": 1986,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/tabidachi-ami-shuushou",
+      "genres": [
+        "Ecchi",
+        "Romance",
+        "Drama"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-4215.jpg"
+    }
   },
   {
     "year": 1985,

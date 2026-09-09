@@ -205,7 +205,28 @@
     "alt_title": "Eiga Kureyon shinchan arashi o yobu! Yūhi no kasukabe bōizu",
     "notes": "",
     "ref.": "[ 2 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "5312",
+      "title_romaji": "Crayon Shin-chan Movie 11: Arashi wo Yobu Eikou no Yakiniku Road",
+      "title_english": null,
+      "title_native": "映画 クレヨンしんちゃん 嵐を呼ぶ栄光のヤキニクロード",
+      "description": "A slapstick comedy going back to the basic, 'laughable' style of the TV series. One day, the Nohara family was looking forward to having an ultra-rich yakiniku dinner, but they were put on the Wanted List on suspicion of heinous crimes because of a scheme of a mysterious organization named Sweet Boys. The Nohara family must run from Sweet Boys' pursuit but to eat yakiniku for dinner they need to stop escaping and decide to meet the boss of Sweet Boys, who is based in Atami (a hot spring/resort city in Shizuoka Prefecture).",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/5312/large.jpg",
+      "kitsu_year": 2003,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/crayon-shin-chan-movie-11-arashi-wo-yobu-eikou-no-yakiniku-road",
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Slice of Life",
+        "School Life",
+        "Kids"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-5312.jpg"
+    }
   },
   {
     "year": 2004,
@@ -576,7 +597,33 @@
     "director": "Kenji Kamiyama",
     "alt_title": "攻殻機動隊 S.A.C. 2nd GIG",
     "ref.": "[ 1 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "715",
+      "title_romaji": "Koukaku Kidoutai S.A.C. 2nd GIG",
+      "title_english": "Ghost in the Shell: Stand Alone Complex 2nd GIG",
+      "title_native": "攻殻機動隊 S.A.C. 2nd GIG",
+      "description": "Following the closure of the \"Laughing Man\" case, Section 9 is re-established by Japan's newly elected Prime Minister, Youko Kayabuki, to combat the persistent threat of cyber-terrorism. A group calling themselves \"The Individual Eleven\" has begun committing acts of terror across Japan. While Motoko Kusanagi, Daisuke Aramaki, Batou, and the other members of Section 9 investigate this new menace, the Japanese government faces a separate crisis, as foreign refugees displaced by the Third World War seek asylum in Japan. But as the members of the special-ops team continually encounter Gouda Kazundo—a leading member of the Cabinet Intelligence Service—in their hunt, they begin to suspect that he may be involved, and that the events of the refugee crisis and The Individual Eleven may be more connected than they realize... [Written by MAL Rewrite]",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/715/large.jpg",
+      "kitsu_year": 2004,
+      "format": "TV",
+      "episodes": 26,
+      "site_url": "https://kitsu.io/anime/ghost-in-the-shell-stand-alone-complex-2nd-gig",
+      "genres": [
+        "Android",
+        "Cyborg",
+        "Gunfights",
+        "Future",
+        "Earth",
+        "Human Enhancement",
+        "Mecha",
+        "Japan",
+        "Plot Continuity",
+        "Asia"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-715.jpg"
+    }
   },
   {
     "year": 2004,
@@ -842,7 +889,30 @@
     "director": "Isamu Imakake",
     "alt_title": "エリア88",
     "ref.": "[ 1 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "259",
+      "title_romaji": "Area 88 (TV)",
+      "title_english": null,
+      "title_native": "エリア８８",
+      "description": "Deep in the sandy plains of the Middle Eastern kingdom of Asran, Japanese photojournalist Makoto Shinjou travels to the remote airbase Area 88 to document the activities of the mercenaries who destroy the country's enemies for a living. Among their ranks is Shin Kazama, a Japanese ace pilot who was tricked by his former best friend into signing a contract with the Asran's fighter squad. Because of this, he lost his career as an airline pilot and the chance to marry his fiancee Ryoko Tsugumo. Now, Shin has three choices in order to leave Area 88 and return to Japan: serve the mercenary group for three years, earn US$1.5 million, or desert the base, risking imminent death.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/259/large.jpg",
+      "kitsu_year": 2004,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/area-88-tv",
+      "genres": [
+        "Air Force",
+        "Present",
+        "Earth",
+        "Asia",
+        "Action",
+        "Romance",
+        "Military"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-259.jpg"
+    }
   },
   {
     "year": 2004,
@@ -2846,7 +2916,29 @@
     "director": "Mitsuhiro Tougou",
     "alt_title": "Wind -a breath of heart-",
     "ref.": "[ 3 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "504",
+      "title_romaji": "Wind: A Breath of Heart (TV)",
+      "title_english": null,
+      "title_native": "Wind -a breath of heart-",
+      "description": "Okano Makoto transferred to the school in his home town. There, he spent normal but happy school days with his sister, Hinata, a jokey classmate, Tachibana Tsutomu, Shikouin Kasumi, Tsutomu's childhood friend, and other friends. One day, after school, Makoto heard someone playing the harmonica. That melody made him feel something old, and it brought him to the roof of the school buildings. There, he met a girl in the dusk. It was Narukaze Minamo who turned her face to him with a smile. She was a childhood friend, but they had lived separately for years. Hiding their true thoughts, Makoto and his friends spend their lives in school. Their stories in a mysterious town are about to begin.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/504/large.jpg",
+      "kitsu_year": 2004,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/wind-a-breath-of-heart-2004",
+      "genres": [
+        "Present",
+        "Japan",
+        "Plot Continuity",
+        "Comedy",
+        "Romance",
+        "School Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-504.jpg"
+    }
   },
   {
     "year": 2004,
@@ -3849,7 +3941,32 @@
     "director": "Osamu Sekita",
     "alt_title": "W 〜ウィッシュ〜",
     "ref.": "[ 4 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "125",
+      "title_romaji": "Kimi ga Nozomu Eien",
+      "title_english": "Rumbling Hearts",
+      "title_native": "君が望む永遠",
+      "description": "At first, Takayuki Narumi is befriended by Mitsuki Hayase only because Mitsuki's best friend, Haruka Suzumiya has a crush on him; however since then, Takayuki, his pal Shinji Taira, and Mitsuki have grown to be the best of friends. Then one day, Haruka confesses to Takayuki her love for him. Not wanting to hurt her feelings, Takayuki agrees to go out with her. After a few incidents, their relationship gets intimate, even while Takayuki and Mitsuki begin to realize their feelings for each other. But when tragedy strikes, things are never the same for these four friends again.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/125/large.jpg",
+      "kitsu_year": 2003,
+      "format": "TV",
+      "episodes": 14,
+      "site_url": "https://kitsu.io/anime/kimi-ga-nozomu-eien",
+      "genres": [
+        "Present",
+        "Earth",
+        "Japan",
+        "Love Polygon",
+        "Asia",
+        "Angst",
+        "Romance",
+        "Slice of Life",
+        "Drama"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-125.jpg"
+    }
   },
   {
     "year": 2004,
@@ -5127,7 +5244,32 @@
     "director": "Akitarō Daichi",
     "alt_title": "アニメーション制作進行くろみちゃん 2",
     "ref.": "[ 1 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1618",
+      "title_romaji": "Animation Seisaku Shinkou Kuromi-chan 2",
+      "title_english": "Animation Runner Kuromi 2",
+      "title_native": "アニメーション制作進行くろみちゃん 2",
+      "description": "Following Studio Petit's popularity for Time Journey's, the crew is now faced with 3 anime at the same time. Rushing to fill the quotas, the owner of Studio Petit hires Takashimadaira, a veteran producer to help Kuromi. However, all Takashimadaira cares about is making deadlines, severely hurting the quality of the images. Shihonmatsu, who has been helping Kuromi, gets angry at the new producer and leaves, leaving Kuromi with a difficult choice: to choose between the quality or the deadline. Studio Petit managed to survive the production of \"Time Journeys,\" but now that show's finished, and in its place they've got no less than three series to animate, with just four artists, one manager and one director - not to mention one very bedraggled animation runner. And it doesn't help that Shihonmatsu picked this week to quit smoking. As the staff starts to fall behind their crushing deadlines, the owner calls in an old \"pro,\" Takashimadaira, to get production back on track. But once he starts putting speed above quality, the Petit team has to choose between following orders and doing their jobs right.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1618/large.jpg",
+      "kitsu_year": 2004,
+      "format": "OVA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/animation-seisaku-shinkou-kuromi-chan-2",
+      "genres": [
+        "Present",
+        "Earth",
+        "Parody",
+        "Japan",
+        "Asia",
+        "Comedy",
+        "Slice of Life",
+        "The Arts",
+        "Working Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1618.jpg"
+    }
   },
   {
     "year": 2004,
@@ -5264,7 +5406,33 @@
     "director": "Katsuyoshi Yatabe",
     "alt_title": "機動戦士ガンダム SEED MSV ASTRAY",
     "ref.": "[ 1 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "73",
+      "title_romaji": "Mobile Suit Gundam SEED Destiny",
+      "title_english": null,
+      "title_native": "機動戦士ガンダムSEED DESTINY",
+      "description": "C.E. 73: While the second battle of Yachin Due brought the war between the Naturals and Coordinators to a close, tensions between the two races are at an all-time high. During a meeting between PLANT Chairman Gilbert Dullindal and Orb Representative Cagalli Yula Athha, a unit of soldiers hijack ZAFT's newly developed Gundams. ZAFT soldier Shinn Asuka along with his friends at the ZAFT ship Minerva sortie in attempt to deter this hijacking. With the assistance of Cagalli's bodyguard, Athrun Zala, the Minerva chases after the unknown ship that hijacked the Gundams until an even greater problem occurs leading to the start of the second Bloody Valentine war.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/73/large.jpg",
+      "kitsu_year": 2004,
+      "format": "TV",
+      "episodes": 50,
+      "site_url": "https://kitsu.io/anime/mobile-suit-gundam-seed-destiny",
+      "genres": [
+        "Future",
+        "Space",
+        "Earth",
+        "Human Enhancement",
+        "Mecha",
+        "Space Travel",
+        "Piloted Robot",
+        "Plot Continuity",
+        "Action",
+        "Angst"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-73.jpg"
+    }
   },
   {
     "year": 2004,
@@ -5543,7 +5711,31 @@
     "director": "Shigehito Takayanagi",
     "alt_title": "ギャラクシーエンジェルS",
     "ref.": "[ 2 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "603",
+      "title_romaji": "Galaxy Angel 4",
+      "title_english": null,
+      "title_native": "ギャラクシーエンジェル4",
+      "description": "Starting out with the new Galaxy Angel, Chitose Karasuma, the Angel Troupe continue their search for The Lost Technology while running into different kinds of mishaps.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/603/large.jpg",
+      "kitsu_year": 2004,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/galaxy-angel-4",
+      "genres": [
+        "Future",
+        "Space",
+        "Slapstick",
+        "Parody",
+        "Other Planet",
+        "Shipboard",
+        "Science Fiction",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-603.jpg"
+    }
   },
   {
     "year": 2004,
@@ -6036,7 +6228,24 @@
     "director": "",
     "alt_title": "ヒカルの碁 TVシリーズ超総集編「 MEMORIES 」",
     "ref.": "[ 2 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "593",
+      "title_romaji": "Hikaru no Go: Journey to the North Star Cup",
+      "title_english": null,
+      "title_native": "ヒカルの碁 北斗杯への道",
+      "description": "Hikaru is given a phone call asking him to appear in the Japan/China/Korea Junior's Tournament but he finds out he will have to take place in a preliminary tournament to choose Japan's three contestants. Upon discussing this with Akira, he discovers that Akira has already been chosen for the tournament and will not be taking place in the preliminaries. Hikaru then decides not to visit Akira's Go Salon until he takes his place on the team with Akira. That may be tougher than originally planned, as not only does Hikaru have to battle with old friends for one of two coveted spots, but he may have a new challenger, in a promising player from the Kansai Go Institute.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/593/large.jpg",
+      "kitsu_year": 2004,
+      "format": "special",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/hikaru-no-go-journey-to-the-north-star-cup",
+      "genres": [
+        "Virtual Reality"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-593.jpg"
+    }
   },
   {
     "year": 2004,
@@ -6093,7 +6302,24 @@
     "director": "Shinichiro Kimura",
     "alt_title": "こすぷれCOMPLEX",
     "ref.": "[ 3 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "873",
+      "title_romaji": "Cosplay Complex: Extra Identification",
+      "title_english": null,
+      "title_native": "こすぷれCOMPLEX",
+      "description": "The Extra Identification episode will allow you to match the different costumes in the series to the anime series they are from.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/873/large.jpg",
+      "kitsu_year": 2004,
+      "format": "OVA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/cosplay-complex-extra-identification",
+      "genres": [
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-873.jpg"
+    }
   },
   {
     "year": 2004,

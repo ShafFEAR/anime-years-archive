@@ -48,7 +48,27 @@
     "director": "Tomoharu Katsumata",
     "notes": "",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "5388",
+      "title_romaji": "Hashire Melos (1981)",
+      "title_english": "Run Melos",
+      "title_native": "走れメロス",
+      "description": "Melos, a Greek country man gets arrested accused of conspiracy against the king. The king gives him three days to travel to his sister's wedding while Selinentius the sculptor and friend of Melos stays as a hostage. Will he get back in time before the king executes Selinentius instead of him?",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/5388/large.jpg",
+      "kitsu_year": 1981,
+      "format": "special",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/hashire-melos",
+      "genres": [
+        "Past",
+        "Earth",
+        "Historical",
+        "Europe"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-5388.jpg"
+    }
   },
   {
     "year": 1981,
@@ -582,7 +602,33 @@
     "director": "Minoru Okazaki",
     "notes": "",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2013",
+      "title_romaji": "Dr. Slump: Arale-chan",
+      "title_english": null,
+      "title_native": "Dr.スランプ・アラレちゃん",
+      "description": "Dr. Slump creates a little android girl, Arale, who is very stong, happy, and totally common senseless. They live in Penguin Village where the strangest things happen (e.g., the dawn is announced by a little pig wearing a basquee).",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2013/large.jpg",
+      "kitsu_year": 1981,
+      "format": "TV",
+      "episodes": 243,
+      "site_url": "https://kitsu.io/anime/dr-slump-arale-chan",
+      "genres": [
+        "Android",
+        "Alien",
+        "Fantasy World",
+        "Parody",
+        "Humanoid Alien",
+        "Science Fiction",
+        "Fantasy",
+        "Comedy",
+        "Slice of Life",
+        "School Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2013.jpg"
+    }
   },
   {
     "year": 1981,
@@ -712,7 +758,27 @@
     "director": "Kozo Morishita",
     "notes": "",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "4294",
+      "title_romaji": "Tiger Mask Nisei",
+      "title_english": null,
+      "title_native": "タイガーマスク二世",
+      "description": "Second season to the original Tiger Mask, with a different cast of characters.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/4294/large.jpg",
+      "kitsu_year": 1981,
+      "format": "TV",
+      "episodes": 33,
+      "site_url": "https://kitsu.io/anime/tiger-mask-nisei",
+      "genres": [
+        "Wrestling",
+        "Martial Arts",
+        "Action",
+        "Sports"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-4294.jpg"
+    }
   },
   {
     "year": 1981,
@@ -766,7 +832,33 @@
     "director": "Osamu Dezaki",
     "notes": "",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2646",
+      "title_romaji": "Ashita no Joe 2",
+      "title_english": "Rocky Joe 2",
+      "title_native": "あしたのジョー２",
+      "description": "Yabuki Joe is left downhearted and hopeless after a certain tragic event. In attempt to put the past behind him, Joe leaves the gym behind and begins wandering. On his travels he comes across the likes of Wolf Kanagushi and Goromaki Gondo, men who unintentionally fan the dying embers inside him, leading him to putting his wanderings to an end. His return home puts Joe back on the path to boxing, but unknown to himself and his trainer, he now suffers deep-set issues holding him back from fighting. In attempt to quell those issues, Carlos Rivera, a world renowned boxer is invited from Venezuela to help Joe recover.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2646/large.jpg",
+      "kitsu_year": 1980,
+      "format": "TV",
+      "episodes": 47,
+      "site_url": "https://kitsu.io/anime/ashita-no-joe-2",
+      "genres": [
+        "Boxing",
+        "Martial Arts",
+        "Present",
+        "Earth",
+        "Japan",
+        "Violence",
+        "Combat",
+        "Plot Continuity",
+        "Asia",
+        "Action"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2646.jpg"
+    }
   },
   {
     "year": 1981,
@@ -796,7 +888,33 @@
     "director": "Minoru Okazaki",
     "notes": "",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2013",
+      "title_romaji": "Dr. Slump: Arale-chan",
+      "title_english": null,
+      "title_native": "Dr.スランプ・アラレちゃん",
+      "description": "Dr. Slump creates a little android girl, Arale, who is very stong, happy, and totally common senseless. They live in Penguin Village where the strangest things happen (e.g., the dawn is announced by a little pig wearing a basquee).",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2013/large.jpg",
+      "kitsu_year": 1981,
+      "format": "TV",
+      "episodes": 243,
+      "site_url": "https://kitsu.io/anime/dr-slump-arale-chan",
+      "genres": [
+        "Android",
+        "Alien",
+        "Fantasy World",
+        "Parody",
+        "Humanoid Alien",
+        "Science Fiction",
+        "Fantasy",
+        "Comedy",
+        "Slice of Life",
+        "School Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2013.jpg"
+    }
   },
   {
     "year": 1981,
@@ -918,7 +1036,32 @@
     "director": "Rintaro",
     "notes": "",
     "ref": "[ 2 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1174",
+      "title_romaji": "Sayonara Ginga Tetsudou 999: Andromeda Shuuchakueki",
+      "title_english": "Adieu Galaxy Express 999",
+      "title_native": "さよなら銀河鉄道999 -アンドロメダ終着駅-",
+      "description": "Two years after the events in Galaxy Express 999, Earth has become a battleground. Tetsuro, older and fighting the Machine People, rejoins Maetel aboard the GE999.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1174/large.jpg",
+      "kitsu_year": 1981,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/sayonara-ginga-tetsudou-999-andromeda-shuuchakueki",
+      "genres": [
+        "Cyborg",
+        "Space",
+        "Space Travel",
+        "Other Planet",
+        "Shipboard",
+        "Science Fiction",
+        "Adventure",
+        "Drama",
+        "Space Opera"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1174.jpg"
+    }
   },
   {
     "year": 1981,
@@ -1325,7 +1468,29 @@
     "director": "Mamoru Oshii , Kazuo Yamazaki",
     "notes": "",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1327",
+      "title_romaji": "Urusei Yatsura: Haru da, Tobidase!",
+      "title_english": null,
+      "title_native": "うる星やつら 春だ、とびだせ!",
+      "description": "Broadcast between episodes 21 and 22, the Spring special was a 1-hr show with 2 parts. The first part, \"Urusei Yatsura All-Star All-Out Attack!\", was a series of outtakes from the preceding episodes and recaps of the first 21 episodes. The second part, \"The School Excursion! Run, Kunoichi!\", was an original episode, but not part of the ongoing series.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1327/large.jpg",
+      "kitsu_year": 1982,
+      "format": "special",
+      "episodes": 2,
+      "site_url": "https://kitsu.io/anime/urusei-yatsura-special-it-s-spring-take-off",
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Adventure",
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1327.jpg"
+    }
   },
   {
     "year": 1981,

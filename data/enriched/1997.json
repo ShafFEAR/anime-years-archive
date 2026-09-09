@@ -49,7 +49,31 @@
     "type": "OVA",
     "demographic": "",
     "regions": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1896",
+      "title_romaji": "Tokumu Sentai Shinesman",
+      "title_english": "Special Duty Combat Unit Shinesman",
+      "title_native": "特務戦隊シャインズマン",
+      "description": "Hiroya Matsumoto, hoping to become a great employee as his late father, has just been hired at Raito (Right) Trading Company. Little does he know that he has been recruited for a very mysterious department within the company - the Special Duty Combat Unit, known as SHINESMAN. Their purpose, to fight the terrible (often times hilarious) alien forces that threaten the earth. Like most corporate employees, Matsumoto still has meetings to attend and deadlines to meet. But when the Shinesman rage war against the alien race from Planet Voice, led by their Prince Sasaki, Matsumoto and his co-workers don their office-coloured comat Pro-suits and become: Shinesman Red, Sepia, Salmon Pink, Grey, and Moss Green. If you thought you'd seen it all in Power Rangers, Kamen Rider, or even Dynaman, wait until you take a look at the zaney but corporate world of SHINESMAN!",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1896/large.jpg",
+      "kitsu_year": 1996,
+      "format": "OVA",
+      "episodes": 2,
+      "site_url": "https://kitsu.io/anime/tokumu-sentai-shinesman",
+      "genres": [
+        "Earth",
+        "Power Suit",
+        "Parody",
+        "Japan",
+        "Asia",
+        "Action",
+        "Science Fiction",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1896.jpg"
+    }
   },
   {
     "year": 1997,
@@ -193,7 +217,33 @@
     "type": "TV",
     "demographic": "",
     "regions": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "24",
+      "title_romaji": "Kenpuu Denki Berserk",
+      "title_english": "Berserk",
+      "title_native": "剣風伝奇ベルセルク",
+      "description": "Born from the corpse of his mother, a young mercenary known only as Guts, embraces the battlefield as his only means of survival. Day in and day out, putting his life on the line just to make enough to get by, he moves from one bloodshed to the next. After a run-in with the Band of the Hawk, a formidable troop of mercenaries, Guts is recruited by their charismatic leader Griffith, nicknamed the \"White Hawk.\" As he quickly climbed the ranks in order to become the head of the offensive faction, Guts proves to be a mighty addition to Griffith's force, taking Midland by storm. However, while the band's quest for recognition continues, Guts slowly realizes that the world is not as black-and-white as he once assumed. Set in the medieval era, Berserk is a dark, gritty tale that follows one man's struggle to find his own path, while supporting another's lust for power, and the unimaginable tragedy that begins to turn the wheels of fate.",
+      "cover_large": "https://media.kitsu.app/anime/24/poster_image/large-8b69ef8e3f4f4359af304e9b664eef0f.jpeg",
+      "kitsu_year": 1997,
+      "format": "TV",
+      "episodes": 25,
+      "site_url": "https://kitsu.io/anime/berserk",
+      "genres": [
+        "Swordplay",
+        "Past",
+        "Fantasy World",
+        "Alternative Past",
+        "Demon",
+        "Contemporary Fantasy",
+        "Dark Fantasy",
+        "Violence",
+        "Feudal Warfare",
+        "Plot Continuity"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-24.jpg"
+    }
   },
   {
     "year": 1997,
@@ -246,7 +296,32 @@
     "type": "TV",
     "demographic": "",
     "regions": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1323",
+      "title_romaji": "City Hunter: The Secret Service",
+      "title_english": "City Hunter: The Secret Service",
+      "title_native": "シティーハンタースペシャル ザ・シークレット・サービス",
+      "description": "James McGuire has a dream. He wants to become the president of Guinam and free his people from the military rulers who have been in power up until now. However, one thing stands in McGuire's way: his past. And it's beginning to catch up with him, endangering not only his career, but the life of his long lost daughter. McGuire hires the City Hunter, Ryo Saeba and his partner Kaori to protect his daughter Anna, who herself is a Secret Service agent assigned to bodyguard the presidential hopeful.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1323/large.jpg",
+      "kitsu_year": 1996,
+      "format": "special",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/city-hunter-the-secret-service",
+      "genres": [
+        "Gunfights",
+        "Present",
+        "Earth",
+        "Japan",
+        "Violent Retribution For Accidental Infringement",
+        "Asia",
+        "Action",
+        "Comedy",
+        "Mystery"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1323.jpg"
+    }
   },
   {
     "year": 1997,
@@ -430,7 +505,28 @@
     "type": "OVA",
     "demographic": "",
     "regions": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "7394",
+      "title_romaji": "Shinkai no Kantai: Submarine 707",
+      "title_english": null,
+      "title_native": "深海の艦隊 サブマリン707",
+      "description": "A mysterious object attacks and destroys any ship or submarine. Submarine 707 has the mission to search for that mysterious object, when summoned by a whale to follow it. The whale leads them to the world of Mu. But on their way they meet the mysterious object. They find out , it is Commander Red Silver, who had attacked the world of Mu to get Mu's magma sources. Submarine takes up the battle to defeat Red Silver and save Mu, and the world for that matter.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/7394/large.jpg",
+      "kitsu_year": 1997,
+      "format": "OVA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/shinkai-no-kantai-submarine-707",
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Adventure",
+        "Military",
+        "Navy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-7394.jpg"
+    }
   },
   {
     "year": 1997,
@@ -690,7 +786,30 @@
     "type": "TV",
     "demographic": "",
     "regions": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1876",
+      "title_romaji": "Kindaichi Shounen no Jikenbo Movie 1: Operazakan - Aratanaru Satsujin",
+      "title_english": null,
+      "title_native": "金田一少年の事件簿・オペラ座館・新たなる殺人",
+      "description": "Invited for a anniversary celebration, Kindaichi, Miyuki and inspector Kenmochi re-visit the Opera House. There they discover that a play of \"The Phantom of the Opera\" is being rehearsed again. However, it doesn't take long when members of the acting troupe are killed by the \"Phantom\". Kindaichi will once again have to solve a murder series in the Opera House.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1876/large.jpg",
+      "kitsu_year": 1996,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/kindaichi-shounen-no-jikenbo",
+      "genres": [
+        "Present",
+        "Earth",
+        "Japan",
+        "Asia",
+        "School Life",
+        "Detective",
+        "Mystery"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1876.jpg"
+    }
   },
   {
     "year": 1997,
@@ -1144,7 +1263,25 @@
     "type": "Movie",
     "demographic": "",
     "regions": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2468",
+      "title_romaji": "Bakusou Kyoudai Let's & Go WGP",
+      "title_english": null,
+      "title_native": "爆走兄弟レッツ＆ゴー!!　ＷＧＰ",
+      "description": "After the first season, Retsu and Go have now formed a team called \"TRF Victorys\" which Tokichi Mikuni, J, and Ryo Takaba are part of. Together, they aim for the World Cup. In this cup, teams from all over the globe enter. Some of the teams are, NA Astrorangers (Americans), Eisen Wofl (Germans), Rosso Estrada (Italians).",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2468/large.jpg",
+      "kitsu_year": 1997,
+      "format": "TV",
+      "episodes": 51,
+      "site_url": "https://kitsu.io/anime/bakusou-kyoudai-let-s-go-wgp",
+      "genres": [
+        "Motorsport",
+        "Sports"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2468.jpg"
+    }
   },
   {
     "year": 1997,
@@ -1157,7 +1294,26 @@
     "type": "Movie",
     "demographic": "",
     "regions": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "6017",
+      "title_romaji": "Sore Ike! Anpanman: Sora Tobu Ehon to Glass no Kutsu",
+      "title_english": null,
+      "title_native": "それいけ!アンパンマン「空とぶ絵本とガラスの靴」",
+      "description": "8th Anpanman short movie.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/6017/large.jpg",
+      "kitsu_year": 1996,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/sore-ike-anpanman-sora-tobu-ehon-to-glass-no-kutsu",
+      "genres": [
+        "Fantasy",
+        "Comedy",
+        "Kids"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-6017.jpg"
+    }
   },
   {
     "year": 1997,
@@ -1238,7 +1394,32 @@
     "type": "TV",
     "demographic": "",
     "regions": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1292",
+      "title_romaji": "Lupin III: Walther P-38",
+      "title_english": "Lupin the Third: Island of Assassins",
+      "title_native": "ルパン三世『ワルサーP38』",
+      "description": "Lupin is framed for the murder of Inspector Zenigata by a mysterious assailant holding a silver-colored Walther P38 pistol Lupin himself once owned. Tracking the true killer leads Lupin to the island of the bloodthirsty Tarantula assassins inside the Devil’s Triangle. After joining the spider-tattooed army against their will, Lupin and his gang make both new friends and enemies as they not only plan to take home the Tarantulas’ massive gold repository for themselves but hunt down the shooter from Lupin’s past. Can Lupin put to rest this demon who haunts his memories with the Walther P38?",
+      "cover_large": "https://media.kitsu.app/anime/1292/poster_image/large-04fc934445ac602bc406df4d5360818b.jpeg",
+      "kitsu_year": 1997,
+      "format": "special",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/lupin-iii-walther-p-38",
+      "genres": [
+        "Present",
+        "Island",
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Crime",
+        "Revenge",
+        "Thievery",
+        "Mystery"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1292.jpg"
+    }
   },
   {
     "year": 1997,
@@ -1538,7 +1719,33 @@
     "type": "OVA series",
     "demographic": "",
     "regions": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1046",
+      "title_romaji": "Sakura Taisen: Ouka Kenran",
+      "title_english": null,
+      "title_native": "サクラ大戦 ~桜華絢爛~",
+      "description": "The year is around the 1920's and the darkness of the demons have arrived. Now, only the people with large amounts of spirit energy can save the Earth. The Flower Division is now going to be sent out destroy the demons for they're our only hope for survival with their new steam-powered machines and unique fighting techniques.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1046/large.jpg",
+      "kitsu_year": 1997,
+      "format": "OVA",
+      "episodes": 4,
+      "site_url": "https://kitsu.io/anime/sakura-taisen-ouka-kenran",
+      "genres": [
+        "Past",
+        "Earth",
+        "Mecha",
+        "Alternative Past",
+        "Piloted Robot",
+        "Japan",
+        "Performance",
+        "Asia",
+        "Action",
+        "Science Fiction"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1046.jpg"
+    }
   },
   {
     "year": 1997,
@@ -1665,7 +1872,27 @@
     "type": "Movie",
     "demographic": "",
     "regions": "Japan",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "9257",
+      "title_romaji": "Eikou e no Spur: Igaya Chiharu Monogatari",
+      "title_english": null,
+      "title_native": "栄光へのシュプール 猪谷千春物語",
+      "description": "A biography of Chiharu Igaya, who won a silver medal in men's slalom in Cortina d'Ampezzo Olympics in 1956, and became the first Japanese Winter Olympics medalist.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/9257/large.jpg",
+      "kitsu_year": 1997,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/eikou-e-no-spur-igaya-chiharu-monogatari",
+      "genres": [
+        "Past",
+        "Historical",
+        "Japan",
+        "Sports"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-9257.jpg"
+    }
   },
   {
     "year": 1997,

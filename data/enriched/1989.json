@@ -516,7 +516,28 @@
     "director": "Hiroki Shibata",
     "studio": "Toei Animation",
     "ref": "[ 7 ] [ better source needed ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3290",
+      "title_romaji": "Himitsu no Akko-chan 2",
+      "title_english": null,
+      "title_native": "ひみつのアッコちゃん２",
+      "description": "Akko-chan is a bright and energetic 5th grader in elementary school whose father is a newscaster and mother is a picture-book writer. Akko always cherishes the palm-sized mirror that was given to her by her father and treats it with care. However, the mirror was accidentally broken by her absent-minded mother. On a night where a beautiful full-moon hangs in the sky, Akko-chan buries the mirror pieces in the garden and goes to sleep. She is awakened by a soft and kind voice which belongs to the Queen of the Mirror Kingdom. She sends her gratitiude to Akko-chan for cherishing the mirror with care and offers her a magical compact mirror. Whenever she sings the magical words, Akko-chan will be able to transform into anything she wants.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3290/large.jpg",
+      "kitsu_year": 1988,
+      "format": "TV",
+      "episodes": 61,
+      "site_url": "https://kitsu.io/anime/himitsu-no-akko-chan-2",
+      "genres": [
+        "Magic",
+        "Magical Girl",
+        "School Life",
+        "Kids",
+        "Shoujo"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3290.jpg"
+    }
   },
   {
     "year": 1989,
@@ -1065,7 +1086,27 @@
     "director": "Junichi Sato",
     "studio": "Toei Animation",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8501",
+      "title_romaji": "Akuma-kun",
+      "title_english": null,
+      "title_native": "悪魔くん",
+      "description": "The age of the demons has begun. Dr Faust has foreseen this rise of evil. Unfortunately, he is near death and is unable to personally battle this upcoming threat. Faust entrusts a young boy, Shingo Yamada, to take the responsibility of ridding the Earth of this new evil presence. Faust finds a birthmark on Shingo's forehead that signifies that he is the chosen demon fighter. Faust summons from hell what may be humanity's only hope of surviving: a less than enthusiastic devil named Mephisto rises. After signing a pact in blood to save humankind, Shingo and Mephisto set out to battle the supernatural world.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/8501/large.jpg",
+      "kitsu_year": 1989,
+      "format": "TV",
+      "episodes": 42,
+      "site_url": "https://kitsu.io/anime/akuma-kun",
+      "genres": [
+        "Magic",
+        "Fantasy",
+        "Adventure",
+        "Horror"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8501.jpg"
+    }
   },
   {
     "year": 1989,
@@ -1265,7 +1306,27 @@
     "director": "Junichi Sato",
     "studio": "Toei Animation",
     "ref": "[ 13 ] [ better source needed ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8501",
+      "title_romaji": "Akuma-kun",
+      "title_english": null,
+      "title_native": "悪魔くん",
+      "description": "The age of the demons has begun. Dr Faust has foreseen this rise of evil. Unfortunately, he is near death and is unable to personally battle this upcoming threat. Faust entrusts a young boy, Shingo Yamada, to take the responsibility of ridding the Earth of this new evil presence. Faust finds a birthmark on Shingo's forehead that signifies that he is the chosen demon fighter. Faust summons from hell what may be humanity's only hope of surviving: a less than enthusiastic devil named Mephisto rises. After signing a pact in blood to save humankind, Shingo and Mephisto set out to battle the supernatural world.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/8501/large.jpg",
+      "kitsu_year": 1989,
+      "format": "TV",
+      "episodes": 42,
+      "site_url": "https://kitsu.io/anime/akuma-kun",
+      "genres": [
+        "Magic",
+        "Fantasy",
+        "Adventure",
+        "Horror"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8501.jpg"
+    }
   },
   {
     "year": 1989,
@@ -2214,7 +2275,32 @@
     "director": "Osamu Kasai",
     "studio": "Toei Animation",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3315",
+      "title_romaji": "Mahoutsukai Sally 2",
+      "title_english": null,
+      "title_native": "魔法使いサリー２",
+      "description": "During Sally's coronation ceremony in the magic world, she hears her human friends back on Earth are in trouble. Despite the warnings from her parents, she escapes to Earth to help her friends. Because she was caught using magic in front of humans, she had to erase her friends' memories. Now Sally will remain on Earth so she can regain Sumire and Yoshiko's friendship while helping other humans in trouble. This is a sequel and reboot of the original series.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3315/large.jpg",
+      "kitsu_year": 1989,
+      "format": "TV",
+      "episodes": 88,
+      "site_url": "https://kitsu.io/anime/mahoutsukai-sally-2",
+      "genres": [
+        "Elementary School",
+        "Magic",
+        "Magical Girl",
+        "Japan",
+        "Fantasy",
+        "Comedy",
+        "School Life",
+        "Kids",
+        "Shoujo"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3315.jpg"
+    }
   },
   {
     "year": 1989,
@@ -2228,7 +2314,30 @@
     "director": "Toshirō Kuni",
     "studio": "Shin-Ei Animation",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2775",
+      "title_romaji": "Warau Salesman",
+      "title_english": "Laughing Salesman",
+      "title_native": "笑ゥせぇるすまん",
+      "description": "Each episode follows Fukuzou Moguro, a traveling salesman, and his current customer. Moguro deals in things that give his customers their heart's desire, and once his deals are made and their unhealthy desires are satisfied, Moguro's customers are often left with terrible repercussions, especially if they break the rules of his deals...",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2775/large.jpg",
+      "kitsu_year": 1989,
+      "format": "TV",
+      "episodes": 103,
+      "site_url": "https://kitsu.io/anime/warau-salesman",
+      "genres": [
+        "Comedy",
+        "Slice of Life",
+        "Drama",
+        "Working Life",
+        "Psychological",
+        "Supernatural",
+        "Seinen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2775.jpg"
+    }
   },
   {
     "year": 1989,
@@ -2274,7 +2383,33 @@
     "director": "Naoyuki Yoshinaga",
     "studio": "Sunrise",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "291",
+      "title_romaji": "Kidou Keisatsu Patlabor: On Television",
+      "title_english": "Mobile Police Patlabor",
+      "title_native": "機動警察パトレイバー ON TELEVISION",
+      "description": "In the future, advanced robotics has created heavy robots (\"labors\") for use in a variety of functions: construction, fire-fighting, military, and more. However, though the robots are only machines, their operators are also only human—and humans sometimes turn to crime. Since a heavy labor unit can be a dangerous weapon, the police of the future are set to fight fire with fire, using advanced patrol labor units, \"patlabors.\" This is the story of the Second Special Vehicles Division, a motley crew of patlabor policemen and women doing their best to fight crime and live a normal life.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/291/large.jpg",
+      "kitsu_year": 1989,
+      "format": "TV",
+      "episodes": 47,
+      "site_url": "https://kitsu.io/anime/mobile-police-patlabor",
+      "genres": [
+        "Future",
+        "Earth",
+        "Mecha",
+        "Piloted Robot",
+        "Japan",
+        "Tokyo",
+        "Asia",
+        "Action",
+        "Science Fiction",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-291.jpg"
+    }
   },
   {
     "year": 1989,
@@ -2446,7 +2581,27 @@
     "director": "Akira Shigino",
     "studio": "Studio Pierrot",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "7340",
+      "title_romaji": "Magical Hat",
+      "title_english": null,
+      "title_native": "まじかるハット",
+      "description": "The series stars Hat, the descendant of a hero who fought an evil king and sealed Devildom. Hat falls into Devildom and finds he has to defeat the evil king.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/7340/large.jpg",
+      "kitsu_year": 1989,
+      "format": "TV",
+      "episodes": 33,
+      "site_url": "https://kitsu.io/anime/magical-hat",
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Kids"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-7340.jpg"
+    }
   },
   {
     "year": 1989,
@@ -2830,7 +2985,28 @@
     "director": "Katsuhisa Yamada , Rintarō , Takeyuki Kanda",
     "studio": "Studio Comet",
     "ref": "[ 38 ] [ better source needed ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2573",
+      "title_romaji": "Dragon Quest: Abel Yuusha Densetsu",
+      "title_english": "Dragon Warrior",
+      "title_native": "ドラゴンクエスト～勇者アベル伝説～",
+      "description": "Dragon Quest is loosely based on Dragon Quest III. The names and some of the characters are familar, but the world map is smaller and a very different shape. The two main characters are Abel and Tialah. Tialah receives the legendary Red Stone from the Aliahan Village sage Master Yogi. Soon after, Tialah is kidnapped by the evil Baramos who wants to use the Red Stone to resurrect The Great Dragon and be granted eternal life. Abel swore to rescue Tialah and he is given the Blue Stone, which can only seal the Dragon once it has been released.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2573/large.jpg",
+      "kitsu_year": 1989,
+      "format": "TV",
+      "episodes": 43,
+      "site_url": "https://kitsu.io/anime/dragon-quest-abel-yuusha-densetsu",
+      "genres": [
+        "Past",
+        "Fantasy World",
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2573.jpg"
+    }
   },
   {
     "year": 1989,

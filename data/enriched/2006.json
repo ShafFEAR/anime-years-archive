@@ -53,7 +53,33 @@
     "running_time": "100",
     "original_title": "Kidō senshi zettogandamu III - hoshi no kodō wa ai -",
     "ref": "[ 2 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1772",
+      "title_romaji": "Kidou Senshi Z Gundam: Hoshi o Tsugu Mono",
+      "title_english": "Mobile Suit Zeta Gundam: A New Translation - Heir to the Stars",
+      "title_native": "機動戦士Zガンダム -星を継ぐ者-",
+      "description": "Digitally remastered compilation movies for the Zeta Gundam TV series with some new footage. Part of Gundam's 25th Anniversary celebration.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1772/large.jpg",
+      "kitsu_year": 2005,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/mobile-suit-zeta-gundam-a-new-translation-heir-to-the-stars",
+      "genres": [
+        "Future",
+        "Space",
+        "Earth",
+        "Mecha",
+        "Space Travel",
+        "Transforming Craft",
+        "Piloted Robot",
+        "Violence",
+        "Americas",
+        "Action"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1772.jpg"
+    }
   },
   {
     "year": 2006,
@@ -83,7 +109,25 @@
     "running_time": "53",
     "original_title": "Majime ni fumaji me ka iketsu zorori nazo no otakara dai sakusen",
     "ref": "[ 2 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2469",
+      "title_romaji": "Majime ni Fumajime Kaiketsu Zorori",
+      "title_english": null,
+      "title_native": "まじめにふまじめ　かいけつゾロリ",
+      "description": "Season 1 focuses on the wizard Nelly and the mysterious Najo as Zorori, Ishishi, and Noshishi help them restore the magic forest in a magical country (episodes 1-50). Season 2 focuses on Puppe's search for the Minus Eel (episodes 51-97).",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2469/large.jpg",
+      "kitsu_year": 2005,
+      "format": "TV",
+      "episodes": 97,
+      "site_url": "https://kitsu.io/anime/majime-ni-fumajime-kaiketsu-zorori",
+      "genres": [
+        "Adventure",
+        "Kids"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2469.jpg"
+    }
   },
   {
     "year": 2006,
@@ -578,7 +622,30 @@
     "running_time": "20",
     "original_title": "Dejimon seibāzu the mūbī: kyūkyoku pawā! Bāsutomōdo hatsudō!!",
     "ref": "[ 5 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3753",
+      "title_romaji": "Digimon Savers: Agumon! Gaomon! Lalamon! Bakuretsu! Jougai Last Battle!",
+      "title_english": null,
+      "title_native": "デジモンセイバーズ 特典映像 アグモン！ガオモン！ララモン！爆裂！場外ラストバトル！",
+      "description": "A recap of the whole Digimon Savers TV series in one episode, with original commentary by Agumon, Gaomon, and Lalamon, included in the final volume of the DVD releases.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3753/large.jpg",
+      "kitsu_year": 2007,
+      "format": "special",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/digimon-savers-agumon-gaomon-lalamon-bakuretsu-jougai-last-battle",
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Friendship",
+        "Proxy Battles"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3753.jpg"
+    }
   },
   {
     "year": 2006,
@@ -980,7 +1047,33 @@
     "director": "Yūji Yamaguchi",
     "alt_title": "Fate/stay night",
     "ref": "[ 2 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "323",
+      "title_romaji": "Fate/stay night",
+      "title_english": "Fate/stay night",
+      "title_native": "Fate/stay night",
+      "description": "After a mysterious inferno kills his family, Shirou is saved and adopted by Kiritsugu Emiya, who teaches him the ways of magic and justice. One night, years after Kiritsugu's death, Shirou is cleaning at school, when he finds himself caught in the middle of a deadly encounter between two superhumans known as Servants. During his attempt to escape, the boy is caught by one of the Servants and receives a life-threatening injury. Miraculously, he survives, but the same Servant returns to finish what he started. In desperation, Shirou summons a Servant of his own, a knight named Saber. The two must now participate in the Fifth Holy Grail War, a battle royale of seven Servants and the mages who summoned them, with the grand prize being none other than the omnipotent Holy Grail itself.Fate/stay night follows Shirou as he struggles to find the fine line between a hero and a killer, his ideals clashing with the harsh reality around him. Will the boy become a hero like his foster father, or die trying? [Written by MAL Rewrite]",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/323/large.jpg",
+      "kitsu_year": 2006,
+      "format": "TV",
+      "episodes": 24,
+      "site_url": "https://kitsu.io/anime/fate-stay-night",
+      "genres": [
+        "Magic",
+        "Battle Royale",
+        "Swordplay",
+        "Super Power",
+        "Present",
+        "Earth",
+        "Alternative Present",
+        "Contemporary Fantasy",
+        "Japan",
+        "Violence"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-323.jpg"
+    }
   },
   {
     "year": 2006,
@@ -995,7 +1088,26 @@
     "director": "Kiyoshi Fukumoto",
     "alt_title": "Wan wan serepū sore yuke! Tetsunoshin",
     "ref": "[ 2 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3467",
+      "title_romaji": "Wan Wan Celepoo Soreyuke! Tetsunoshin",
+      "title_english": null,
+      "title_native": "ワンワンセレプー それゆけ！徹之進",
+      "description": "The Inuyama Family, along with their pet dog Tetsunoshin moves to the famous Hoppongi Hills (modeled after Roppongi Hills) from Kyushu. Rumi Inuyama's father owns an IT Company in Japan and is a step further to becoming number one. However, Tetsunoshin learned that his master's family loaned a lot of money renting their home in Hoppongi Hills, almost to the point of the whole company becoming Bankrupt. To make things even worse, the whole family spends a lot of money on everything, making Tetsunoshin's problems worse. To solve this problem, Tetsunoshin teamed up with the Hills Dogs and will do anything to pay all the Inuyama Family's expenses.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3467/large.jpg",
+      "kitsu_year": 2006,
+      "format": "TV",
+      "episodes": 51,
+      "site_url": "https://kitsu.io/anime/wan-wan-serepu-soreyuke-tetsunoshin",
+      "genres": [
+        "Fantasy",
+        "Comedy",
+        "Kids"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3467.jpg"
+    }
   },
   {
     "year": 2006,
@@ -1592,7 +1704,33 @@
     "director": "Tomomi Mochizuki",
     "alt_title": "Shinigami no baraddo.",
     "ref": "[ 3 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "704",
+      "title_romaji": "Shinigami no Ballad.",
+      "title_english": "Momo",
+      "title_native": "しにがみのバラッド。",
+      "description": "A girl wrapped in white, her name is Momo...in her hand lies a blunt yet shiny scythe. By her side is a winged black cat by the name of Daniel. Carrying the souls of humans, the girl's existence parallels to that of a \"Death God\" or \"Shinigami\". At the instant when this white Death God touches the hearts of humans, the world is filled with kindness and grief...",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/704/large.jpg",
+      "kitsu_year": 2006,
+      "format": "TV",
+      "episodes": 6,
+      "site_url": "https://kitsu.io/anime/shinigami-no-ballad",
+      "genres": [
+        "Present",
+        "Earth",
+        "Contemporary Fantasy",
+        "Japan",
+        "Asia",
+        "Fantasy",
+        "Romance",
+        "Slice of Life",
+        "Drama",
+        "Psychological"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-704.jpg"
+    }
   },
   {
     "year": 2006,
@@ -2125,7 +2263,33 @@
     "director": "Yoshitaka Fujimoto",
     "alt_title": "Mesu kōsei gāru's high",
     "ref": "[ 3 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1675",
+      "title_romaji": "Gakuen Utopia Manabi Straight!",
+      "title_english": null,
+      "title_native": "がくえんゆーとぴあ まなびストレート！",
+      "description": "Manabi Straight! follows the lives of a group of young high school girls living in the year 2035 while they attend the all-girl Seioh Private High School. Since the birth rate has dropped dramatically, schools are being closed down due to the sheer lack of students available to teach. Morale in schools has dropped dramatically, and Seioh is no exception. The story begins when the main character, Manami Amamiya, transfers to Seioh. After some initial hijinks involving a futuristic scooter and a swim meet, followed by an inspirational school song performance, she is inducted as the student council president. The story that follows pertains to Manami working with Mika Inamori, the only other student council member, and three other classmates named Mutsuki Uehara, Mei Etoh, and Momoha Odori, in student council matters. After some remodeling of the student council room, Manami and her friends set forth to plan for the upcoming student festival.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1675/large.jpg",
+      "kitsu_year": 2007,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/gakuen-utopia-manabi-straight",
+      "genres": [
+        "All Girls School",
+        "High School",
+        "Future",
+        "Earth",
+        "Slapstick",
+        "Japan",
+        "Asia",
+        "Comedy",
+        "Slice of Life",
+        "School Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1675.jpg"
+    }
   },
   {
     "year": 2006,
@@ -2530,7 +2694,33 @@
     "director": "Chiaki Kon",
     "alt_title": "Higurashi no naku koroni",
     "ref": "[ 3 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "831",
+      "title_romaji": "Higurashi no Naku Koro ni",
+      "title_english": "When They Cry",
+      "title_native": "ひぐらしのなく頃に",
+      "description": "Keiichi Maebara has just moved to the quiet little village of Hinamizawa in the summer of 1983, and quickly becomes inseparable friends with schoolmates Rena Ryuuguu, Mion Sonozaki, Satoko Houjou, and Rika Furude. However, darkness lurks underneath the seemingly idyllic life they lead. As the village prepares for its annual festival, Keiichi learns about the local legends surrounding it. To his horror, he discovers that there have been several murders and disappearances in the village in the recent years, and that they all seem to be connected to the festival and the village's patron god, Oyashiro. Keiichi tries to ask his new friends about these incidents, but they are suspiciously silent and refuse to give him the answers he needs. As more and more bizarre events occur, he wonders just what else his friends might be keeping from him, and if he can even trust them at all. When madness and paranoia begin taking root in Keiichi's heart, he will stumble straight into the mysteries at work in Higurashi no Naku Koro ni, a story that is told across multiple arcs. [Written by MAL Rewrite]",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/831/large.jpg",
+      "kitsu_year": 2006,
+      "format": "TV",
+      "episodes": 26,
+      "site_url": "https://kitsu.io/anime/higurashi-no-naku-koro-ni",
+      "genres": [
+        "Past",
+        "Earth",
+        "Japan",
+        "Violence",
+        "Plot Continuity",
+        "Asia",
+        "Angst",
+        "Horror",
+        "Thriller",
+        "Drama"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-831.jpg"
+    }
   },
   {
     "year": 2006,
@@ -2699,7 +2889,29 @@
     "director": "Yukio Kaizawa",
     "alt_title": "Ringu ni kakero 1: Nichibei kessen-hen",
     "ref": "[ 3 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1591",
+      "title_romaji": "Ring ni Kakero 1: Nichibei Kessen-hen",
+      "title_english": "Ring ni Kakero 1 Episode: The Pacific War",
+      "title_native": "リングにかけろ1 日米決戦編",
+      "description": "Immediately after Ryuuji Takane won the Champion Carnival, the U.S. Junior Champion Black Shaft appeared, and challenged the best Japan has to offer, just before the World Tournament is about to happen. Now Ryuuji, Takeshi Kawai, Kazuki Shinatora, Ishimatsu Katori, and Superstar Jun Kenzaki have to prove to not only Black Shaft, but the world, that they are truly world-class boxers before the World Tournament starts. But Shaft is not recruiting boxers for his challenge, but instead gets a life-timer criminal from Death Row, the leader of the Great Angels, one of the toughest gangs in America, a mysterious woman, and the \"Dark Emperor of the South\". Also, Shaft negotiates with Don Juliano, the Italian Junior Champion, just in case...",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1591/large.jpg",
+      "kitsu_year": 2006,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/ring-ni-kakero-1-nichibei-kessen-hen",
+      "genres": [
+        "Boxing",
+        "Martial Arts",
+        "Present",
+        "Japan",
+        "Action",
+        "Sports"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1591.jpg"
+    }
   },
   {
     "year": 2006,
@@ -3595,7 +3807,32 @@
     "director": "Masashi Abe",
     "alt_title": "Tokkō",
     "ref": "[ 3 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "5991",
+      "title_romaji": "Tetsujin 28-gou: Hakuchuu no Zangetsu",
+      "title_english": null,
+      "title_native": "鉄人２８号 白昼の残月",
+      "description": "This theatrical version based on the manga by Yokoyama Mitsuteru, deals with the genius boy detective Kaneda Shotaro and his giant robot, Tetsujin 28, set in Tokyo ten years after the end of the Second World War. Shotaro's missing brother appears as a a new character who was trained as a pilot of the soldier robot Tetsujin which Japan had created for the Second World War. However, with the end of the war, there was nothing left for him but a peaceful Japan. In the meantime, \"Destruction Bombs\" are found in many places in Tokyo. The bombs were developed by Professor Kaneda, the creator of Tetsujin 28 and Shotaro's father, as the ultimate weapons to protect the mainland. If the bombs explode, Tokyo will be reduced to ashes.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/5991/large.jpg",
+      "kitsu_year": 2007,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/tetsujin-28-go-hakuchuu-no-zangetsu",
+      "genres": [
+        "Past",
+        "Earth",
+        "Mecha",
+        "Piloted Robot",
+        "Japan",
+        "Asia",
+        "Action",
+        "Science Fiction",
+        "Adventure"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-5991.jpg"
+    }
   },
   {
     "year": 2006,
@@ -4564,7 +4801,31 @@
     "director": "Akitarō Daichi",
     "alt_title": "Masuda kōsuke gekijō gyagumangabiyori 2",
     "ref": "[ 4 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1076",
+      "title_romaji": "Masuda Kousuke Gekijou Gag Manga Biyori",
+      "title_english": null,
+      "title_native": "増田こうすけ劇場 ギャグマンガ日和",
+      "description": "Gyagu Manga Biyori is an anime that is about absolutely nothing. It is comprised of 12 short stories (5 minutes long each) that only build up a small amount of plot for each story. The anime feeds off the stupidest things, but is quite humorous.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1076/large.jpg",
+      "kitsu_year": 2005,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/gyagu-manga-biyori",
+      "genres": [
+        "Present",
+        "Earth",
+        "Parody",
+        "Japan",
+        "Violence",
+        "Asia",
+        "Fantasy",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1076.jpg"
+    }
   },
   {
     "year": 2006,
@@ -6416,7 +6677,33 @@
     "director": "Gō Koga",
     "alt_title": "Iwai! (Hapi ☆ raki) Bikkuriman",
     "ref": "[ 5 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2366",
+      "title_romaji": "Kenkou Zenrakei Suieibu Umishou",
+      "title_english": null,
+      "title_native": "ケンコー全裸系水泳部 ウミショー",
+      "description": "Kaname Okiura, a student of Prefectoral Umineko Shougyou High (\"Umishou\" for short), joined the school's swimming club in order to learn how to swim, but the club is filled with weirdos, let alone who can teach him swimming. Then, a sunny, happy-go-lucky girl named Amuro Ninagawa who transferred from Okinawa joined the club. Her extraordinary underwater speed and unorthodox swimming style (plus her personal habit of nude swimming—a powerful magnet to teenage boys) surprised every club member, especially Okiura, because she reminds him of a mermaid-like creature he saw only once in his early childhood.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2366/large.jpg",
+      "kitsu_year": 2007,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/kenkou-zenrakei-suieibu-umishou",
+      "genres": [
+        "High School",
+        "Present",
+        "Earth",
+        "Slapstick",
+        "School Clubs",
+        "Japan",
+        "Plot Continuity",
+        "Stereotypes",
+        "Asia",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2366.jpg"
+    }
   },
   {
     "year": 2006,
@@ -6518,7 +6805,31 @@
     "director": "Tatsuo Satō",
     "alt_title": "TOKYO TRIBE 2",
     "ref": "[ 5 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1529",
+      "title_romaji": "Tokyo Tribe 2",
+      "title_english": null,
+      "title_native": "TOKYO TRIBE 2",
+      "description": "This is the other side of Tokyo, a Tokyo of a different color. There, various tribes are living. The SARU from Japan's Musashino, WU-RONZE of Bukuro, and HANDS of Shindyuku... Young men living in the city...the public of modern times builds a home out of corruption, these young men of the sordid side of life, a side called \"reality,\" are depicted here!",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1529/large.jpg",
+      "kitsu_year": 2006,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/tokyo-tribe-2",
+      "genres": [
+        "Present",
+        "Earth",
+        "Japan",
+        "Violence",
+        "Plot Continuity",
+        "Asia",
+        "Action",
+        "Crime"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1529.jpg"
+    }
   },
   {
     "year": 2006,
@@ -6742,7 +7053,33 @@
     "director": "Hideki Tonokatsu",
     "alt_title": "HELLSING I OVA DIGEST FOR FREAKS",
     "ref": "[ 2 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "695",
+      "title_romaji": "Hellsing Ultimate",
+      "title_english": "Hellsing Ultimate",
+      "title_native": "HELLSING OVA",
+      "description": "There exist creatures of darkness and evil that plague the night, devouring any human unfortunate enough to be caught in their grasp. On the other side is Hellsing, an organization dedicated to destroying these supernatural forces that threaten the very existence of humanity. At its head is Integra Fairbrook Wingates Hellsing, who commands a powerful military and spends her life fighting the undead. Integra's vast army, however, pales in comparison with her ultimate weapon: the vampire Alucard, who works against his own kind as an exterminator for Hellsing. With his new vampire servant, Seras Victoria, at his side, Alucard must battle not only monsters, but all those who stand to oppose Hellsing, be they in the guise of good or evil. In a battle for mankind's survival, Hellsing Ultimate proves that appearances are not all they may seem, and sometimes the greatest weapon can come in the form of one's worst nightmare. [Written by MAL Rewrite]",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/695/large.jpg",
+      "kitsu_year": 2006,
+      "format": "OVA",
+      "episodes": 10,
+      "site_url": "https://kitsu.io/anime/hellsing-ultimate",
+      "genres": [
+        "Vampire",
+        "Gunfights",
+        "Present",
+        "Violence",
+        "United Kingdom",
+        "Action",
+        "Horror",
+        "Conspiracy",
+        "Law And Order",
+        "Cops"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-695.jpg"
+    }
   },
   {
     "year": 2006,
@@ -6980,7 +7317,24 @@
     "director": "Naruyo Takahashi",
     "alt_title": "Kuryimu remon nyū jenerēshon",
     "ref": "[ 2 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3963",
+      "title_romaji": "Cream Lemon: New Generation",
+      "title_english": null,
+      "title_native": "くりぃむレモン ニュージェネレーション",
+      "description": "A remake of the old Cream Lemon OVA series.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3963/large.jpg",
+      "kitsu_year": 2006,
+      "format": "OVA",
+      "episodes": 4,
+      "site_url": "https://kitsu.io/anime/cream-lemon-new-generation",
+      "genres": [
+        "Romance"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3963.jpg"
+    }
   },
   {
     "year": 2006,
@@ -7067,7 +7421,33 @@
     "director": "Makoto Sokuza",
     "alt_title": "Kyō no go no ni",
     "ref": "[ 2 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "742",
+      "title_romaji": "Kyou no 5 no 2",
+      "title_english": "Today in Class 5-2",
+      "title_native": "今日の５の２",
+      "description": "Kyou no Go no Ni revolves around Sato Ryota, a 5th grader in an elementary school. He is a bright and active boy but always manages to get in to a bit of ecchi trouble with his female classmates.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/742/large.jpg",
+      "kitsu_year": 2006,
+      "format": "OVA",
+      "episodes": 4,
+      "site_url": "https://kitsu.io/anime/kyou-no-go-no-ni",
+      "genres": [
+        "Elementary School",
+        "Present",
+        "Earth",
+        "Slapstick",
+        "Japan",
+        "Violent Retribution For Accidental Infringement",
+        "Asia",
+        "Comedy",
+        "Ecchi",
+        "School Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-742.jpg"
+    }
   },
   {
     "year": 2006,
@@ -7082,7 +7462,29 @@
     "director": "Shunsuke Tada",
     "alt_title": "Tenisu no ōjisama Original vuideo Animation zenkoku taikai-hen",
     "ref": "[ 2 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "885",
+      "title_romaji": "Prince of Tennis: The National Tournament",
+      "title_english": "Prince of Tennis: National Championship Chapter",
+      "title_native": "テニスの王子様 Original Video Animation 全国大会編",
+      "description": "Seigaku continues their road to winning the National Championship, but only the best schools remain as they'll have to go toe-to-toe with old rivals and new foes in the National Tournament.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/885/large.jpg",
+      "kitsu_year": 2006,
+      "format": "OVA",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/prince-of-tennis-the-national-tournament",
+      "genres": [
+        "Middle School",
+        "Tennis",
+        "Action",
+        "Comedy",
+        "Sports",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-885.jpg"
+    }
   },
   {
     "year": 2006,
@@ -7097,7 +7499,31 @@
     "director": "Tarou Iwasaki",
     "alt_title": "Memorīzu ofu# 5 togireta firumu the animēshon",
     "ref": "[ 2 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "958",
+      "title_romaji": "Memories Off #5 Togireta Film The Animation",
+      "title_english": null,
+      "title_native": "Memories Off #5 とぎれたフィルム THE ANIMATION",
+      "description": "Kawai Haruto belongs to a cinema club to realize his dream to make his own movie. But he is losing his passion of the movie because Hina Yusuke, his best friend as well as a good rival, died suddenly last year. One day, he meets Sendo Mahiro. She asks him to make a movie with her. Also she says that she was at the place where Yusuke died, and that he died because of her. On the other hand, Yusuke’s little sister Hina Asuka blames him for killing her brother.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/958/large.jpg",
+      "kitsu_year": 2006,
+      "format": "OVA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/memories-off-5",
+      "genres": [
+        "Present",
+        "Earth",
+        "School Clubs",
+        "Japan",
+        "Asia",
+        "Romance",
+        "School Life",
+        "Drama"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-958.jpg"
+    }
   },
   {
     "year": 2006,
@@ -7297,7 +7723,33 @@
     "director": "Yoshihiro Takamoto",
     "alt_title": "Enban kōjo waruki ~yu ̄re-ji to yume to ginga no utage",
     "ref": "[ 4 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1359",
+      "title_romaji": "UFO Princess Valkyrie 3: Seiresetsu no Hanayome",
+      "title_english": "UFO Ultramaiden Valkyrie 3: Bride of Celestial Souls' Day",
+      "title_native": "円盤皇女ワるきゅーレ 星霊節の花嫁",
+      "description": "The third season doesn`t have a particular story behind everything (like \"Valkyrie Ghost\" in the second season). It just tells 6 stories about the life of Kazuto &amp; Co. with some additions: Raine and Chorus get a house on earth, the last three Valhalla princesses each get an episode, and in the last episode Kazuto and Valkyrie, who in the same episode managed to stay adult, &gt;try&lt; to marry again.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1359/large.jpg",
+      "kitsu_year": 2005,
+      "format": "OVA",
+      "episodes": 6,
+      "site_url": "https://kitsu.io/anime/ufo-princess-valkyrie-3-seiresetsu-no-hanayome",
+      "genres": [
+        "Magic",
+        "Alien",
+        "Deity",
+        "Earth",
+        "Science Fiction",
+        "Fantasy",
+        "Comedy",
+        "Ecchi",
+        "Romance",
+        "Juujin"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1359.jpg"
+    }
   },
   {
     "year": 2006,
@@ -7768,7 +8220,29 @@
     "director": "Takeshi Mori",
     "alt_title": "Sutoratosu fō adovuansu kanketsu-hen",
     "ref": "[ 4 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "387",
+      "title_romaji": "Stratos 4 Advance",
+      "title_english": null,
+      "title_native": "ストラトス・フォー アドヴァンス",
+      "description": "Having failed the Comet Blaster exams mysteriously, Mikaze and her friends are sent back to the Shimoji Island base, where, with three new Meteor Sweeper trainees around, they have been promoted to instructor positions. Meanwhile, more comets are on their way to Earth, and the mysteries behind the rift in the Cosmic Emergency Management Agency—as well as the alien parasites—begins to unravel.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/387/large.jpg",
+      "kitsu_year": 2005,
+      "format": "OVA",
+      "episodes": 6,
+      "site_url": "https://kitsu.io/anime/stratos-4-advance",
+      "genres": [
+        "Air Force",
+        "Alien",
+        "Action",
+        "Science Fiction",
+        "Comedy",
+        "Military"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-387.jpg"
+    }
   },
   {
     "year": 2006,
@@ -7894,7 +8368,33 @@
     "director": "",
     "alt_title": "Kashimashi ~ gāru mītsu gāru ~ shōjo wa shōjo ni koi o shita",
     "ref": "[ 5 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "7663",
+      "title_romaji": "Kashimashi: Girl Meets Girl",
+      "title_english": "Girl Meets Girl",
+      "title_native": "かしまし〜ガール・ミーツ・ガール〜",
+      "description": "Hazumu was a shy boy who enjoyed gardening, collecting herbs, and long walks in the mountains. One day he finally worked up the courage to confess his love to Yasuna, but she rejected him. Depressed, he wandered up Mt. Kashimayama, the place where they first met, to reconsider his feelings. After getting lost, he wished upon a shooting star and received a bizarre twist of fate. Now he is a she, and she stumbles headfirst back into social life and relationships only to find that the entire landscape has changed!",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/7663/large.jpg",
+      "kitsu_year": 2006,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/kashimashi-girl-meets-girl",
+      "genres": [
+        "Alien",
+        "Present",
+        "Earth",
+        "Super Deformed",
+        "Japan",
+        "Humanoid Alien",
+        "Shoujo Ai",
+        "Love Polygon",
+        "Asia",
+        "Angst"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-7663.jpg"
+    }
   },
   {
     "year": 2006,
@@ -8147,7 +8647,33 @@
     "director": "Tsutomu Mizushima",
     "alt_title": "Genshiken ovu~a",
     "ref": "[ 5 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2275",
+      "title_romaji": "Genshiken 2",
+      "title_english": "Genshiken 2",
+      "title_native": "げんしけん2",
+      "description": "The Society for the Study of Modern Visual Culture, otherwise known as Genshiken, is now under the charge of a more confident Sasahara. Things have changed in between semesters, and the otaku club now has a new otaku-hating member named Ogiue. Sasahara's initial goal of starting a doujin circle and selling those fan-made magazines at the next Comic Festival becomes a reality, but reality is a cruel master... who apparently crossplays. Afterward, the club is abuzz with talk about Tanaka and Ohno's relationship, which takes a hesitant step forward.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2275/large.jpg",
+      "kitsu_year": 2007,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/genshiken-2",
+      "genres": [
+        "Present",
+        "Earth",
+        "Parody",
+        "University",
+        "School Clubs",
+        "Japan",
+        "Plot Continuity",
+        "Stereotypes",
+        "Asia",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2275.jpg"
+    }
   },
   {
     "year": 2006,
@@ -8162,7 +8688,31 @@
     "director": "Yukihiro Matsushita",
     "alt_title": "Maria-sama ga miteru 〜 3 rd 〜",
     "ref": "[ 5 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1550",
+      "title_romaji": "Maria-sama ga Miteru 3rd",
+      "title_english": "Maria Watches Over Us 3rd",
+      "title_native": "マリア様がみてる〜３rd〜",
+      "description": "Summer has arrived, and the students of Lillian Girls' Academy are on break! Yumi and Sachiko head out to the Ogasawara family's summer home, but what was supposed to be a relaxing vacation takes a turn for the worse when some of Sachiko's old acquaintances drop by for tea. These rich and snobby debutantes don't think Yumi is worthy of Sachiko's affection and they're out to make this summer one she'll regret.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1550/large.jpg",
+      "kitsu_year": 2006,
+      "format": "OVA",
+      "episodes": 5,
+      "site_url": "https://kitsu.io/anime/maria-sama-ga-miteru-3rd",
+      "genres": [
+        "All Girls School",
+        "High School",
+        "Shoujo Ai",
+        "Plot Continuity",
+        "Romance",
+        "Slice of Life",
+        "School Life",
+        "Coming Of Age"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1550.jpg"
+    }
   },
   {
     "year": 2006,

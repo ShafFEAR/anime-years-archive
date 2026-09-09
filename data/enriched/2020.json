@@ -46,7 +46,31 @@
     "director": "Masayuki Kojima",
     "running_time": "105",
     "ref": "[ 2 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "14027",
+      "title_romaji": "Made in Abyss: Fukaki Tamashii no Reimei",
+      "title_english": "Made in Abyss: Dawn of the Deep Soul",
+      "title_native": "劇場版メイドインアビス 深き魂の黎明",
+      "description": "Dawn of the Deep Soul continues the epic adventure of plucky Riko and Reg who are joined by their new friend Nanachi. Together they descend into the Abyss' treacherous fifth layer, the Sea of Corpses, and encounter the mysterious Bondrewd, a legendary White Whistle whose shadow looms over Nanachi's troubled past. Bondrewd is ingratiatingly hospitable, but the brave adventurers know things are not always as they seem in the enigmatic Abyss...",
+      "cover_large": "https://media.kitsu.app/anime/14027/poster_image/large-bd0a46571b303ef6a3efa595e7ca90bf.jpeg",
+      "kitsu_year": 2020,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/made-in-abyss-fukaki-tamashii-no-reimei",
+      "genres": [
+        "Android",
+        "Human Enhancement",
+        "Dark Fantasy",
+        "Science Fiction",
+        "Fantasy",
+        "Adventure",
+        "Drama",
+        "Psychological"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-14027.jpg"
+    }
   },
   {
     "year": 2020,
@@ -74,7 +98,26 @@
     "director": "Takaharu Ozaki",
     "running_time": "75",
     "ref": "[ 4 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "42204",
+      "title_romaji": "Goblin Slayer: Goblin's Crown",
+      "title_english": null,
+      "title_native": "ゴブリンスレイヤー -GOBLIN'S CROWN-",
+      "description": "Goblin Slayer and his party head up to the snowy mountains in the north after receiving a request from the Sword Maiden. A small village gets attacked, they encounter a mysterious chapel, and something about how these goblins are acting bothers the Goblin Slayer. The first 25 minutes is a recap of the first season. The movie that follows is an adaptation of the fifth light novel.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/42204/large.jpg",
+      "kitsu_year": 2020,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/goblin-slayer-goblins-crown",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-42204.jpg"
+    }
   },
   {
     "year": 2020,
@@ -297,7 +340,24 @@
     "director": "Tomohiro Furukawa",
     "running_time": "119",
     "ref": "[ 11 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "46851",
+      "title_romaji": "Shoujo☆Kageki Revue Starlight Re LIVE 1st Anniversary PV",
+      "title_english": "Revue Starlight Re LIVE 1st Anniversary PV",
+      "title_native": "少女☆歌劇 レヴュースタァライト -Re LIVE-(スタリラ)",
+      "description": "Special PV for the first anniversary for the mobile game Shoujo☆Kageki Revue Starlight Re LIVE.",
+      "cover_large": "https://media.kitsu.app/anime/46851/poster_image/large-70279dd12fb7bd4ac6872efc71986e0f.jpeg",
+      "kitsu_year": 2019,
+      "format": "ONA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/shoujo-kageki-revue-starlight-re-live-1st-anniversary-pv",
+      "genres": [
+        "Music"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-46851.jpg"
+    }
   },
   {
     "year": 2020,
@@ -416,7 +476,26 @@
     "director": "Hirofumi Ogura",
     "running_time": "112",
     "ref": "[ 15 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "43303",
+      "title_romaji": "Hataraku Saibou!!: Saikyou no Teki, Futatabi. Karada no Naka wa \"Chou\" Oosawagi!",
+      "title_english": "Cells at Work!!: The Return of the Strongest Enemy. A Huge Uproar in the Body’s Bowels!",
+      "title_native": "『はたらく細胞!!』最強の敵、再び。体の中は“腸”大騒ぎ！",
+      "description": "The theatrical episode will cover events from the fifth volume of the manga.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/43303/large.jpg",
+      "kitsu_year": 2020,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/hataraku-saibou-saikyou-no-teki-futatabi-karada-no-naka-wa-chou-oosawagi",
+      "genres": [
+        "Violence",
+        "Action",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-43303.jpg"
+    }
   },
   {
     "year": 2020,
@@ -430,7 +509,25 @@
     "director": "Takahiko Kyogoku",
     "running_time": "103",
     "ref": "[ 16 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "43052",
+      "title_romaji": "Crayon Shin-chan Movie 28: Gekitotsu! Rakuga Kingdom to Hobo Yonin no Yuusha",
+      "title_english": null,
+      "title_native": "映画クレヨンしんちゃん 激突！ラクガキングダムとほぼ四人の勇者",
+      "description": "The film's story features a \"magical crayon,\" and centers around a floating kingdom called Rakuga Kingdom (the name is a pun on the word \"rakugaki\" meaning \"scribbling\"). The kingdom gets its energy from scribbles, but lately the scribbles are decreasing and the kingdom is in danger of collapsing. To save the country, the military start forcing humans to scribble.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/43052/large.jpg",
+      "kitsu_year": 2020,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/crayon-shin-chan-movie-28",
+      "genres": [
+        "Comedy",
+        "Kids"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-43052.jpg"
+    }
   },
   {
     "year": 2020,
@@ -629,7 +726,27 @@
     "director": "Takaharu Ozaki",
     "running_time": "261",
     "ref": "[ 23 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "42031",
+      "title_romaji": "Kimi to, Nami ni Noretara",
+      "title_english": "Ride Your Wave",
+      "title_native": "きみと, 波にのれたら",
+      "description": "Upon entering university, Hinako moves to a coastal town. She loves surfing, and when she's on the waves she's fearless, but still feels uncertain about her future. When a fire wreaks havoc in the town, Hinako encounters young firefighter Minato. As they surf and spend more time together, Hinako feels drawn to someone like Minato who devotes himself to helping other people. Hinako also holds a special place in Minato's heart.",
+      "cover_large": "https://media.kitsu.app/anime/42031/poster_image/large-68d805bcff6f65527aa103942b09a9fc.jpeg",
+      "kitsu_year": 2019,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/kimi-to-nami-ni-noretara",
+      "genres": [
+        "Fantasy",
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-42031.jpg"
+    }
   },
   {
     "year": 2020,
@@ -714,7 +831,28 @@
     "director": "Kōbun Shizuno",
     "running_time": "127",
     "ref": "[ 26 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "42516",
+      "title_romaji": "Gintama: Monster Strike-hen",
+      "title_english": null,
+      "title_native": "銀魂 ～モンスターストライク編～",
+      "description": "Collaboration anime between Gintama and Monster Strike.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/42516/large.jpg",
+      "kitsu_year": 2019,
+      "format": "ONA",
+      "episodes": 2,
+      "site_url": "https://kitsu.io/anime/gintama-monster-strike-hen",
+      "genres": [
+        "Parody",
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-42516.jpg"
+    }
   },
   {
     "year": 2020,
@@ -877,7 +1015,27 @@
     "director": "Kei Suezawa",
     "running_time": "90",
     "ref": "[ 31 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "42269",
+      "title_romaji": "Fate/Grand Order: Zettai Majuu Sensen Babylonia",
+      "title_english": "Fate/Grand Order Absolute Demonic Front: Babylonia",
+      "title_native": "Fate/Grand Order -絶対魔獣戦線バビロニア-",
+      "description": "2017 AD. The last era in which Magecraft still existed. Society was created by human hands, but Mages grasped the truth of the world. Magecraft is comprised of techniques from past humans that cannot be explained by science, while science encompasses the techniques of future humans that Magecraft cannot achieve. Researchers and scholars of both Magecraft and science have been gathered to maintain human civilization under the Chaldea Security Organization. But calculations then proved the extinction of humanity in 2019. The cause of this is \"realms that cannot be observed\" that suddenly appeared in various eras of history, called \"Singularities.\" Ritsuka Fujimaru, the one Master remaining in Chaldea, has been intervening within these Singularites, alongside the Demi-Servant Mash Kyrielight. He has been attending to the forbidden rituals to resolve or destroy the Singularities: the \"Grand Order.\" A seventh Singularity has been discovered in ancient Mesopotamia in the year 2655 BC. The land of Uruk, governed by the wise King Gilgamesh after his return from a journey seeking immortality, was grand and prosperous until three goddesses and countless Demonic Beasts appeared. These enemies have brought Uruk to the brink of destruction. With a \"Rayshift,\" a method of time travel to the past, Fujimaru and Mash arrive in the lands of Uruk to encounter the fortress city of Uruk and the Absolute Demonic Front, fighting back the fearsome attack of the Demonic Beasts. There, the people who live their lives to the fullest despite facing a major threat, continue to fight for their future. Deities and Demonic Beasts make their assault, and mankind stands up against it. It is the destined era where humans and gods part ways. Fujimaru and Mash, the pair who have raced through six previous Singularities, embark on their final battle.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/42269/large.jpg",
+      "kitsu_year": 2019,
+      "format": "TV",
+      "episodes": 21,
+      "site_url": "https://kitsu.io/anime/fate-grand-order-zettai-majuu-sensen-babylonia",
+      "genres": [
+        "Magic",
+        "Action",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-42269.jpg"
+    }
   },
   {
     "year": 2020,
@@ -1223,7 +1381,26 @@
     "director": "Shinobu Yoshioka",
     "original_title": "",
     "ref": "[ 42 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "42886",
+      "title_romaji": "Rebirth",
+      "title_english": null,
+      "title_native": "りばあす",
+      "description": "The series revolve around a team of 12 high school students who love to play the trading card game Rebirth For You.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/42886/large.jpg",
+      "kitsu_year": 2020,
+      "format": "TV",
+      "episodes": 48,
+      "site_url": "https://kitsu.io/anime/Rebirth",
+      "genres": [
+        "Comedy",
+        "Slice of Life",
+        "Card Games"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-42886.jpg"
+    }
   },
   {
     "year": 2020,
@@ -1306,7 +1483,29 @@
     "director": "Takahiro Omori",
     "original_title": "Petto",
     "ref": "[ 45 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "42127",
+      "title_romaji": "Hataage! Kemono Michi",
+      "title_english": "Kemono Michi: Rise Up",
+      "title_native": "旗揚! けものみち",
+      "description": "The manga follows masked wrestler Genzou Shibata, who likes all kinds of animals and creatures. One day he is summoned to another world, where a princess asks him to help kill magical beasts, but he gets mad and puts her in a German suplex. Instead, he begins life as a pet shop owner in the other world.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/42127/large.jpg",
+      "kitsu_year": 2019,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/hataage-kemono-michi",
+      "genres": [
+        "Fantasy",
+        "Comedy",
+        "Slice of Life",
+        "Juujin",
+        "Shounen",
+        "Isekai"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-42127.jpg"
+    }
   },
   {
     "year": 2020,
@@ -1672,7 +1871,27 @@
     "director": "Yasutaka Yamamoto",
     "original_title": "",
     "ref": "[ 56 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "42072",
+      "title_romaji": "Nekopara (TV)",
+      "title_english": null,
+      "title_native": "ネコぱら",
+      "description": "Based on a series of adult visual novels developed by Neko Works. Minazuki Kashou, a son of a long line of Japanese confection makers, moved out to open his own patisserie \"La Soleil\". When unpacking his stuff, Kashou found two of the catgirls (\"neko\") that his family had been raising hiding in the boxes: Chocola and Vanilla. He tried to send them back initially, but they begged and pleaded until he gave in. Now they run La Soleil together. They spent some great time with the help of Shigure, sister of Kashou, and other catgirls in their family: Azuki, Maple, Cinnamon and Coconut. One day, when Chocola goes out to run some errands, she meets a kitten. The story starts with their encounter...",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/42072/large.jpg",
+      "kitsu_year": 2020,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/nekopara-tv",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Harem",
+        "Slice of Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-42072.jpg"
+    }
   },
   {
     "year": 2020,
@@ -1687,7 +1906,25 @@
     "director": "Seung Hui Son",
     "original_title": "",
     "ref": "[ 57 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "42885",
+      "title_romaji": "Show By Rock!! Mashumairesh!!",
+      "title_english": null,
+      "title_native": "SHOW BY ROCK!!ましゅまいれっしゅ!!",
+      "description": "New Show by Rock!! TV Series featuring the new band Mashumairesh!!.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/42885/large.jpg",
+      "kitsu_year": 2020,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/Show-By-Rock-Mashumairesh",
+      "genres": [
+        "Music",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-42885.jpg"
+    }
   },
   {
     "year": 2020,
@@ -1813,7 +2050,25 @@
     "director": "Kiyoshi Matsuda",
     "original_title": "Uchi Tama!? ~Uchi no Tama Shirimasen ka?~",
     "ref": "[ 61 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "42397",
+      "title_romaji": "Uchi Tama?! Uchi no Tama Shirimasenka?",
+      "title_english": null,
+      "title_native": "うちタマ?!~うちのタマ知りませんか?~",
+      "description": "Spin-off of \"Tama and Friends\" that reimagines the cast of the franchise as humans. “Tama &amp; Friends: Have you seen my Tama?” debuted in 1983 as a popular character on stationery and accessories. Tama, the beloved neighborhood cat who is known for the patch on his forehead and yellow ears, has now taken on a human form! Featuring Tama and his quirky friends, Uchitama is a brand-new type of heartwarming anime that might even be the new definition of kawaii!? In a city somewhere in Japan, there's a flyer often seen on Third Street with a picture of a cat with a kinked tail, bearing the words: “Have you seen Tama?” A young boy gazes at the flyer, but he has fluffy ears on his head…!? Watch the dogs and cats from Third Street take on a human form and get up to some mischief. Take a peek into the wonderful lives of Tama and his friends.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/42397/large.jpg",
+      "kitsu_year": 2020,
+      "format": "TV",
+      "episodes": 11,
+      "site_url": "https://kitsu.io/anime/uchi-tama-uchi-no-tama-shirimasenka",
+      "genres": [
+        "Comedy",
+        "Slice of Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-42397.jpg"
+    }
   },
   {
     "year": 2020,
@@ -1828,7 +2083,26 @@
     "director": "Tatsuyuki Nagai",
     "original_title": "Toaru Kagaku no Rērugan T",
     "ref": "[ 62 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "41979",
+      "title_romaji": "Toaru Kagaku no Railgun T",
+      "title_english": "A Certain Scientific Railgun T",
+      "title_native": "とある科学の超電磁砲T",
+      "description": "Third season of Toaru Kagaku no Railgun.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/41979/large.jpg",
+      "kitsu_year": 2020,
+      "format": "TV",
+      "episodes": 25,
+      "site_url": "https://kitsu.io/anime/toaru-kagaku-no-railgun-t",
+      "genres": [
+        "Super Power",
+        "Action",
+        "Science Fiction"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-41979.jpg"
+    }
   },
   {
     "year": 2020,
@@ -1843,7 +2117,28 @@
     "director": "Masako Sato",
     "original_title": "",
     "ref": "[ 63 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "42059",
+      "title_romaji": "Haikyuu!!: To the Top",
+      "title_english": null,
+      "title_native": "ハイキュー!! TO THE TOP",
+      "description": "The fourth season of Haikyuu!!",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/42059/large.jpg",
+      "kitsu_year": 2020,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/haikyuu-to-the-top",
+      "genres": [
+        "Volleyball",
+        "Comedy",
+        "School Life",
+        "Sports",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-42059.jpg"
+    }
   },
   {
     "year": 2020,
@@ -2237,7 +2532,33 @@
     "director": "Kōdai Kakimoto",
     "original_title": "",
     "ref": "[ 75 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "41289",
+      "title_romaji": "BanG Dream! 2nd Season",
+      "title_english": "BanG Dream! S2",
+      "title_native": "BanG Dream！2nd Season",
+      "description": "Second season of BanG Dream! series.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/41289/large.jpg",
+      "kitsu_year": 2019,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/bang-dream-2nd-season",
+      "genres": [
+        "All Girls School",
+        "Musical Band",
+        "High School",
+        "School Clubs",
+        "Japan",
+        "Plot Continuity",
+        "Music",
+        "Comedy",
+        "School Life",
+        "The Arts"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-41289.jpg"
+    }
   },
   {
     "year": 2020,
@@ -2414,7 +2735,29 @@
     "director": "Yūta Murano",
     "original_title": "",
     "ref": "[ 80 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "42722",
+      "title_romaji": "Kakushigoto (TV)",
+      "title_english": null,
+      "title_native": "かくしごと",
+      "description": "The story of Kakushigoto follows the father-daughter unit, Kakushi and Hime Goto. Kakushi loves his daughter more than anything, but he doesn't want the 4th grade Hime to know that her father is the author of a somewhat vulgar and disreputable weekly manga series because he fears that Hime would resent him if she found out. With the help of his editors and assistants, Kakushi does his best to keep his profession a secret … with varying results.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/42722/large.jpg",
+      "kitsu_year": 2020,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/kakushigoto-tv",
+      "genres": [
+        "Comedy",
+        "Slice of Life",
+        "Drama",
+        "Working Life",
+        "Family",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-42722.jpg"
+    }
   },
   {
     "year": 2020,
@@ -2607,7 +2950,28 @@
     "director": "Ayumu Watanabe",
     "original_title": "",
     "ref": "[ 86 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "43109",
+      "title_romaji": "Major 2nd (TV) 2nd Season",
+      "title_english": "MAJOR SECOND Season 2",
+      "title_native": "メジャーセカンド",
+      "description": "One young boy aims to become the best baseball catcher on his middle school team!",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/43109/large.jpg",
+      "kitsu_year": 2020,
+      "format": "TV",
+      "episodes": 25,
+      "site_url": "https://kitsu.io/anime/major-2nd-2nd-season",
+      "genres": [
+        "Baseball",
+        "Comedy",
+        "Sports",
+        "Drama",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-43109.jpg"
+    }
   },
   {
     "year": 2020,
@@ -2775,7 +3139,26 @@
     "director": "Makoto Bessho",
     "original_title": "",
     "ref": "[ 91 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "42453",
+      "title_romaji": "IDOLiSH7: Second BEAT!",
+      "title_english": null,
+      "title_native": "アイドリッシュセブン Second BEAT!",
+      "description": "A group of aspiring idols gather at Takanashi Productions and are entrusted with the company's future. The seven men who have just met represent a variety of totally different personalities. However, they each have their own charm and possess unknown potential as idols. Forming a group, they take their first step together as \"IDOLiSH7.\" Their brilliantly shining dancing forms onstage eventually begin captivating the hearts of the people. In the glorious but sometimes harsh world of idols, they aim for the top with dreams in their hearts!",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/42453/large.jpg",
+      "kitsu_year": 2020,
+      "format": "TV",
+      "episodes": 15,
+      "site_url": "https://kitsu.io/anime/idolish7-second-beat",
+      "genres": [
+        "Idol",
+        "Music",
+        "Shoujo"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-42453.jpg"
+    }
   },
   {
     "year": 2020,
@@ -2840,7 +3223,25 @@
     "director": "Jun Aoki",
     "original_title": "Gal to Kyōryū",
     "ref": "[ 94 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "42000",
+      "title_romaji": "Doukyonin wa Hiza, Tokidoki, Atama no Ue.",
+      "title_english": "My Roommate is a Cat",
+      "title_native": "同居人はひざ、時々、頭のうえ。",
+      "description": "The story of Mikazuki Subaru, a novelist who is shy and struggles in relationships with other people, and a cat who was dumped by humans and lived a tough life on the streets. Through a twist of fate, the two of them end up living together. This heartwarming tale illustrates day-to-day life through the eyes of both man and cat. These moments seem trivial, but as they build upon themselves, the two become family and find happiness in their life together.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/42000/large.jpg",
+      "kitsu_year": 2019,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/doukyonin-wa-hiza-tokidoki-atama-no-ue",
+      "genres": [
+        "Comedy",
+        "Slice of Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-42000.jpg"
+    }
   },
   {
     "year": 2020,
@@ -2929,7 +3330,31 @@
     "director": "Ryōichi Kuraya",
     "original_title": "",
     "ref": "[ 96 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "42181",
+      "title_romaji": "Tsugumomo OVA",
+      "title_english": null,
+      "title_native": "つぐもも OVA",
+      "description": null,
+      "cover_large": "https://media.kitsu.app/anime/poster_images/42181/large.jpg",
+      "kitsu_year": 2020,
+      "format": "OVA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/tsugumomo-ova",
+      "genres": [
+        "Contemporary Fantasy",
+        "Action",
+        "Fantasy",
+        "Comedy",
+        "Ecchi",
+        "School Life",
+        "Supernatural",
+        "Seinen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-42181.jpg"
+    }
   },
   {
     "year": 2020,
@@ -2944,7 +3369,30 @@
     "director": "Hikaru Sato",
     "original_title": "Jashin-chan Dropkick Dash",
     "ref": "[ 97 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "42126",
+      "title_romaji": "Jashin-chan Dropkick`",
+      "title_english": "Dropkick on My Devil!! Dash",
+      "title_native": "邪神ちゃんドロップキック`",
+      "description": "Second season of Jashin-chan Dropkick.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/42126/large.jpg",
+      "kitsu_year": 2020,
+      "format": "TV",
+      "episodes": 11,
+      "site_url": "https://kitsu.io/anime/jashin-chan-dropkick-2",
+      "genres": [
+        "Angel",
+        "Demon",
+        "Violence",
+        "Comedy",
+        "Slice of Life",
+        "Supernatural",
+        "Seinen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-42126.jpg"
+    }
   },
   {
     "year": 2020,
@@ -2959,7 +3407,33 @@
     "director": "Yoshihide Ibata",
     "original_title": "",
     "ref": "[ 98 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "41995",
+      "title_romaji": "Fruits Basket (2019)",
+      "title_english": "Fruits Basket (2019)",
+      "title_native": "フルーツバスケット",
+      "description": "High school student Tohru Honda begins living alone in a tent after she loses her mother, who was her only remaining family member. However, it turns out that the land she pitches her tent on is part of the distinguished Sohma family estate! When Shigure Sohma sees the value of her housekeeping skills, Tohru ends up living with Yuki Sohma, who is essentially the prince of her school, and Kyo Sohma, who regards Yuki as the enemy. Still, there’s something Tohru doesn’t know yet: the Sohma family has been bound for centuries by a horrible curse…",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/41995/large.jpg",
+      "kitsu_year": 2019,
+      "format": "TV",
+      "episodes": 25,
+      "site_url": "https://kitsu.io/anime/fruits-basket-2019",
+      "genres": [
+        "Bishounen",
+        "Contemporary Fantasy",
+        "Reverse Harem",
+        "Angst",
+        "Fantasy",
+        "Comedy",
+        "Romance",
+        "Slice of Life",
+        "School Life",
+        "Drama"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-41995.jpg"
+    }
   },
   {
     "year": 2020,
@@ -3702,7 +4176,29 @@
     "director": "Nobuhiro Kondo",
     "original_title": "Muhyo to Rōjī no Mahōritsu Sōdan Jimusho",
     "ref": "[ 119 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "43295",
+      "title_romaji": "Muhyo to Rouji no Mahouritsu Soudan Jimusho 2nd Season",
+      "title_english": "Muhyo & Roji's Bureau of Supernatural Investigation 2nd Season",
+      "title_native": "ムヒョとロージーの魔法律相談事務所 2期",
+      "description": "Second season of Muhyo to Rouji no Mahouritsu Soudan Jimusho.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/43295/large.jpg",
+      "kitsu_year": 2020,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-2nd-season",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Supernatural",
+        "Mystery",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-43295.jpg"
+    }
   },
   {
     "year": 2020,
@@ -3717,7 +4213,27 @@
     "director": "Seiya Miyajima",
     "original_title": "",
     "ref": "[ 120 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "43576",
+      "title_romaji": "Uma Musume: Pretty Derby Season 2",
+      "title_english": null,
+      "title_native": "ウマ娘 プリティーダービー Season 2",
+      "description": "Toukai Teiou, who has adored the undefeated Symboli Rudolph and is aiming for the Triple Crown, is attracting attention all over Japan ahead of the upcoming Japan Derby race.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/43576/large.jpg",
+      "kitsu_year": 2021,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/uma-musume-pretty-derby-season-2",
+      "genres": [
+        "Comedy",
+        "Slice of Life",
+        "Sports",
+        "Juujin"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-43576.jpg"
+    }
   },
   {
     "year": 2020,
@@ -4362,7 +4878,28 @@
     "director": "Masako Sato",
     "original_title": "",
     "ref": "[ 138 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "42059",
+      "title_romaji": "Haikyuu!!: To the Top",
+      "title_english": null,
+      "title_native": "ハイキュー!! TO THE TOP",
+      "description": "The fourth season of Haikyuu!!",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/42059/large.jpg",
+      "kitsu_year": 2020,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/haikyuu-to-the-top",
+      "genres": [
+        "Volleyball",
+        "Comedy",
+        "School Life",
+        "Sports",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-42059.jpg"
+    }
   },
   {
     "year": 2020,
@@ -4559,7 +5096,28 @@
     "director": "Hideki Tachibana",
     "original_title": "Dungeon ni Deai o Motomeru no wa Machigatteiru Darō ka?",
     "ref": "[ 144 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "40599",
+      "title_romaji": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
+      "title_english": "Is It Wrong to Try to Pick Up Girls in a Dungeon? II",
+      "title_native": "ダンジョンに出会いを求めるのは間違っているだろうかII",
+      "description": "Second season of Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/40599/large.jpg",
+      "kitsu_year": 2019,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-no-darou-ka-ii",
+      "genres": [
+        "Fantasy World",
+        "High Fantasy",
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-40599.jpg"
+    }
   },
   {
     "year": 2020,
@@ -4875,7 +5433,29 @@
     "director": "Risako Yoshida",
     "original_title": "Mahōka Kōkō no Rettōsei: Raihōsha-hen",
     "ref": "[ 153 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "42608",
+      "title_romaji": "Mahouka Koukou no Rettousei: Raihousha-hen",
+      "title_english": "The Irregular at Magic High School: Visitor Arc",
+      "title_native": "魔法科高校の劣等生 来訪者編",
+      "description": "Shiba Miyuki's classmate Kitayama Shizuku is on her way to study abroad. For magicians, this is normally impossible, since allowing the genes of someone who can use magic outside their home country's borders is tantamount to giving up national secrets. But it's allowed to happen in one case-exchange programs. And that's how Angelina Kudou Shields has arrived in Japan from the USNA to study at First High.Around the time Lina arrived in Japan magicians began getting attacked by a mysterious being who leaves his victims drained of blood. Will Tatsuya be able to discover the identity of the \"Vampire\"?",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/42608/large.jpg",
+      "kitsu_year": 2020,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/mahouka-koukou-no-rettousei-raihousha-hen",
+      "genres": [
+        "Magic",
+        "Science Fiction",
+        "Romance",
+        "School Life",
+        "Supernatural",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-42608.jpg"
+    }
   },
   {
     "year": 2020,
@@ -4890,7 +5470,31 @@
     "director": "Hitoshi Nanba",
     "original_title": "",
     "ref": "[ 154 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "42435",
+      "title_romaji": "Golden Kamuy 3rd Season",
+      "title_english": "Golden Kamuy Season 3",
+      "title_native": "ゴールデンカムイ 第三期",
+      "description": "Separated from Sugimoto, Asirpa now travels toward the Russian border, focused on discovering more about her and her father’s involvement with the coded tattoos. But Sugimoto is determined to find and protect Asirpa! Along the way, he’ll discover new people, new cultures rich with history, and an unforgiving terrain. Will Sugimoto and Asirpa survive their journeys and reunite?",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/42435/large.jpg",
+      "kitsu_year": 2020,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/golden-kamuy-3",
+      "genres": [
+        "Past",
+        "Historical",
+        "Japan",
+        "Violence",
+        "Plot Continuity",
+        "Action",
+        "Adventure",
+        "Seinen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-42435.jpg"
+    }
   },
   {
     "year": 2020,
@@ -4905,7 +5509,25 @@
     "director": "Shinichirō Ueda",
     "original_title": "",
     "ref": "[ 155 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "43556",
+      "title_romaji": "One Room 3",
+      "title_english": null,
+      "title_native": "One Room サードシーズン",
+      "description": "Third season of One Room.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/43556/large.jpg",
+      "kitsu_year": 2020,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/one-room-3",
+      "genres": [
+        "Romance",
+        "Slice of Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-43556.jpg"
+    }
   },
   {
     "year": 2020,
@@ -5103,7 +5725,28 @@
     "director": "Hideya Takahashi Kazuhiro Takamura",
     "original_title": "Dai-501 Tōgō Sentō Kōkū-dan Strike Witches: Road to Berlin",
     "ref": "[ 161 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "42074",
+      "title_romaji": "Strike Witches: 501-butai Hasshin Shimasu!",
+      "title_english": "Strike Witches: 501st JOINT FIGHTER WING Take Off!",
+      "title_native": "ストライクウィッチーズ 501部隊発進しますっ！",
+      "description": "Strike Witches, the 501st Joint Fighter Wing girls, are back from battle and ready to relax as best they can! War with the deadly Neuroi won’t last forever, but one thing is certain, the war on laundry is eternal. Join these aerial combat cuties in a down-to-earth series highlighting the team’s hijinks between missions.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/42074/large.jpg",
+      "kitsu_year": 2019,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/strike-witches-501-butai-hasshin-shimasu",
+      "genres": [
+        "Science Fiction",
+        "Fantasy",
+        "Comedy",
+        "Military",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-42074.jpg"
+    }
   },
   {
     "year": 2020,
@@ -5118,7 +5761,25 @@
     "director": "Yukio Nishimoto",
     "original_title": "",
     "ref": "[ 162 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "43558",
+      "title_romaji": "Tsukiuta. The Animation 2",
+      "title_english": null,
+      "title_native": "ツキウタ. THE ANIMATION 2",
+      "description": "Second season of Tsukiuta. The Animation.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/43558/large.jpg",
+      "kitsu_year": 2020,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/tsukiuta-the-animation-2",
+      "genres": [
+        "Idol",
+        "Music"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-43558.jpg"
+    }
   },
   {
     "year": 2020,
@@ -5170,7 +5831,29 @@
     "director": "Kenshirō Morii",
     "original_title": "Guraburu!",
     "ref": "[ 164 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "14132",
+      "title_romaji": "Granblue Fantasy The Animation 2",
+      "title_english": "Granblue Fantasy: The Animation Season 2",
+      "title_native": "GRANBLUE FANTASY The Animation 2",
+      "description": "Second season of Granblue Fantasy The Animation.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/14132/large.jpg",
+      "kitsu_year": 2019,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/granblue-fantasy-the-animation-2",
+      "genres": [
+        "Magic",
+        "Swordplay",
+        "Fantasy World",
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-14132.jpg"
+    }
   },
   {
     "year": 2020,
@@ -5220,7 +5903,25 @@
     "director": "Hiroyuki Hashimoto",
     "original_title": "Gochūmon wa Usagi Desu ka? BLOOM",
     "ref": "[ 166 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "42365",
+      "title_romaji": "Gochuumon wa Usagi Desu ka? Bloom",
+      "title_english": "Is the Order a Rabbit? BLOOM",
+      "title_native": "ご注文はうさぎですか？ BLOOM",
+      "description": "Third season of Gochuumon wa Usagi desu ka.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/42365/large.jpg",
+      "kitsu_year": 2020,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/gochuumon-wa-usagi-desu-ka-3",
+      "genres": [
+        "Comedy",
+        "Slice of Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-42365.jpg"
+    }
   },
   {
     "year": 2020,
@@ -5471,7 +6172,27 @@
     "director": "Yoichi Fujita",
     "original_title": "Osomatsu-san",
     "ref": "[ 174 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "41993",
+      "title_romaji": "Eiga no Osomatsu-san",
+      "title_english": "Mr. Osomatsu the Movie",
+      "title_native": "えいがのおそ松さん",
+      "description": "The film centers on the sextuplets at a high school class reunion. There, they see all their former classmates who have become \"proper\" adults with company jobs. The sextuplets sulk about this and go home and drink until they fall asleep. But when they wake up, a certain scene awaits them.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/41993/large.jpg",
+      "kitsu_year": 2019,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/osomatsu-san-the-movie",
+      "genres": [
+        "Present",
+        "Parody",
+        "Japan",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-41993.jpg"
+    }
   },
   {
     "year": 2020,
@@ -5820,7 +6541,28 @@
     "director": "Jin Gu O",
     "original_title": "Beiburēdo Bāsuto Supākingu",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "42360",
+      "title_romaji": "Beyblade Burst Gachi",
+      "title_english": "Beyblade Burst Rise",
+      "title_native": "ベイブレードバーストGT (ガチ)",
+      "description": "Fourth season of the Burst series and the eleventh season of Beyblade.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/42360/large.jpg",
+      "kitsu_year": 2019,
+      "format": "TV",
+      "episodes": 52,
+      "site_url": "https://kitsu.io/anime/beyblade-burst-gachi",
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Adventure",
+        "Sports",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-42360.jpg"
+    }
   },
   {
     "year": 2020,
@@ -5920,7 +6662,29 @@
     "director": "Kenji Kamiyama Shinji Aramaki",
     "original_title": "",
     "ref": "[ 187 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "45150",
+      "title_romaji": "Koukaku Kidoutai: SAC_2045 - Jizoku Kanou Sensou",
+      "title_english": "Ghost in the Shell: SAC_2045 - Sustainable Warfare",
+      "title_native": "攻殻機動隊 SAC_2045 持続可能戦争",
+      "description": "Film compiling the first season of Koukaku Kidoutai: SAC_2045 with the addition of new scenes.",
+      "cover_large": "https://media.kitsu.app/anime/45150/poster_image/large-512bff85593fb8f00afd553fe13d7437.jpeg",
+      "kitsu_year": 2021,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/koukaku-kidoutai-sac_2045-jizoku-kanou-sensou",
+      "genres": [
+        "Human Enhancement",
+        "Action",
+        "Science Fiction",
+        "Cyberpunk",
+        "Dystopia",
+        "Special Squads"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-45150.jpg"
+    }
   },
   {
     "year": 2020,
@@ -6022,7 +6786,28 @@
     "director": "Kenji Nagasaki (Chief) Masahiro Mukai",
     "original_title": "Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren",
     "ref": "[ 191 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "43108",
+      "title_romaji": "Boku no Hero Academia 5",
+      "title_english": "My Hero Academia Season 5",
+      "title_native": "僕のヒーローアカデミア５",
+      "description": "The rivalry between Class 1-A and Class 1-B heats up in a joint training battle. Eager to be a part of the hero course, brainwashing buff Shinso is tasked with competing on both sides. But as each team faces their own weaknesses and discovers new strengths, this showdown might just become a toss-up.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/43108/large.jpg",
+      "kitsu_year": 2021,
+      "format": "TV",
+      "episodes": 25,
+      "site_url": "https://kitsu.io/anime/boku-no-hero-academia-5th-season",
+      "genres": [
+        "Super Power",
+        "Action",
+        "School Life",
+        "Superhero",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-43108.jpg"
+    }
   },
   {
     "year": 2020,
@@ -6037,7 +6822,28 @@
     "director": "Rarecho",
     "original_title": "",
     "ref": "[ 192 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "41464",
+      "title_romaji": "Aggressive Retsuko (2019)",
+      "title_english": "Aggretsuko Season 2",
+      "title_native": "アグレッシブ烈子 (2019)",
+      "description": "Second season of Aggretsuko.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/41464/large.jpg",
+      "kitsu_year": 2019,
+      "format": "ONA",
+      "episodes": 10,
+      "site_url": "https://kitsu.io/anime/aggressive-retsuko-ona-2",
+      "genres": [
+        "Music",
+        "Comedy",
+        "Anthropomorphism",
+        "Slice of Life",
+        "Working Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-41464.jpg"
+    }
   },
   {
     "year": 2020,
@@ -6141,7 +6947,27 @@
     "director": "Hiroki Yamada Seiichi Shirato",
     "original_title": "",
     "ref": "[ 196 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "42269",
+      "title_romaji": "Fate/Grand Order: Zettai Majuu Sensen Babylonia",
+      "title_english": "Fate/Grand Order Absolute Demonic Front: Babylonia",
+      "title_native": "Fate/Grand Order -絶対魔獣戦線バビロニア-",
+      "description": "2017 AD. The last era in which Magecraft still existed. Society was created by human hands, but Mages grasped the truth of the world. Magecraft is comprised of techniques from past humans that cannot be explained by science, while science encompasses the techniques of future humans that Magecraft cannot achieve. Researchers and scholars of both Magecraft and science have been gathered to maintain human civilization under the Chaldea Security Organization. But calculations then proved the extinction of humanity in 2019. The cause of this is \"realms that cannot be observed\" that suddenly appeared in various eras of history, called \"Singularities.\" Ritsuka Fujimaru, the one Master remaining in Chaldea, has been intervening within these Singularites, alongside the Demi-Servant Mash Kyrielight. He has been attending to the forbidden rituals to resolve or destroy the Singularities: the \"Grand Order.\" A seventh Singularity has been discovered in ancient Mesopotamia in the year 2655 BC. The land of Uruk, governed by the wise King Gilgamesh after his return from a journey seeking immortality, was grand and prosperous until three goddesses and countless Demonic Beasts appeared. These enemies have brought Uruk to the brink of destruction. With a \"Rayshift,\" a method of time travel to the past, Fujimaru and Mash arrive in the lands of Uruk to encounter the fortress city of Uruk and the Absolute Demonic Front, fighting back the fearsome attack of the Demonic Beasts. There, the people who live their lives to the fullest despite facing a major threat, continue to fight for their future. Deities and Demonic Beasts make their assault, and mankind stands up against it. It is the destined era where humans and gods part ways. Fujimaru and Mash, the pair who have raced through six previous Singularities, embark on their final battle.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/42269/large.jpg",
+      "kitsu_year": 2019,
+      "format": "TV",
+      "episodes": 21,
+      "site_url": "https://kitsu.io/anime/fate-grand-order-zettai-majuu-sensen-babylonia",
+      "genres": [
+        "Magic",
+        "Action",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-42269.jpg"
+    }
   },
   {
     "year": 2020,
@@ -6156,7 +6982,28 @@
     "director": "Susumu Mitsunaka",
     "original_title": "Haikyu!!: Riku vs. Kū",
     "ref": "[ 197 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "42059",
+      "title_romaji": "Haikyuu!!: To the Top",
+      "title_english": null,
+      "title_native": "ハイキュー!! TO THE TOP",
+      "description": "The fourth season of Haikyuu!!",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/42059/large.jpg",
+      "kitsu_year": 2020,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/haikyuu-to-the-top",
+      "genres": [
+        "Volleyball",
+        "Comedy",
+        "School Life",
+        "Sports",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-42059.jpg"
+    }
   },
   {
     "year": 2020,
@@ -6171,7 +7018,31 @@
     "director": "Ryōichi Kuraya",
     "original_title": "",
     "ref": "[ 198 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "42181",
+      "title_romaji": "Tsugumomo OVA",
+      "title_english": null,
+      "title_native": "つぐもも OVA",
+      "description": null,
+      "cover_large": "https://media.kitsu.app/anime/poster_images/42181/large.jpg",
+      "kitsu_year": 2020,
+      "format": "OVA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/tsugumomo-ova",
+      "genres": [
+        "Contemporary Fantasy",
+        "Action",
+        "Fantasy",
+        "Comedy",
+        "Ecchi",
+        "School Life",
+        "Supernatural",
+        "Seinen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-42181.jpg"
+    }
   },
   {
     "year": 2020,
@@ -6186,7 +7057,28 @@
     "director": "Hideki Tachibana",
     "original_title": "Dungeon ni Deai o Motomeru no wa Machigatteiru Darō ka?",
     "ref": "[ 199 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "40599",
+      "title_romaji": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
+      "title_english": "Is It Wrong to Try to Pick Up Girls in a Dungeon? II",
+      "title_native": "ダンジョンに出会いを求めるのは間違っているだろうかII",
+      "description": "Second season of Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/40599/large.jpg",
+      "kitsu_year": 2019,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-no-darou-ka-ii",
+      "genres": [
+        "Fantasy World",
+        "High Fantasy",
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-40599.jpg"
+    }
   },
   {
     "year": 2020,
@@ -6201,7 +7093,28 @@
     "director": "Hideyo Yamamoto",
     "original_title": "",
     "ref": "[ 200 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "42606",
+      "title_romaji": "Strike the Blood IV",
+      "title_english": "Strike the Blood Fourth",
+      "title_native": "ストライク・ザ・ブラッド IV",
+      "description": "The fourth season of Strike the Blood.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/42606/large.jpg",
+      "kitsu_year": 2020,
+      "format": "OVA",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/strike-the-blood-iv",
+      "genres": [
+        "Vampire",
+        "Action",
+        "Fantasy",
+        "Ecchi",
+        "Supernatural"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-42606.jpg"
+    }
   },
   {
     "year": 2020,
@@ -6417,7 +7330,28 @@
     "director": "Hideyo Yamamoto",
     "original_title": "Sutoraiku za Buraddo IV",
     "ref": "[ 200 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "42606",
+      "title_romaji": "Strike the Blood IV",
+      "title_english": "Strike the Blood Fourth",
+      "title_native": "ストライク・ザ・ブラッド IV",
+      "description": "The fourth season of Strike the Blood.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/42606/large.jpg",
+      "kitsu_year": 2020,
+      "format": "OVA",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/strike-the-blood-iv",
+      "genres": [
+        "Vampire",
+        "Action",
+        "Fantasy",
+        "Ecchi",
+        "Supernatural"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-42606.jpg"
+    }
   },
   {
     "year": 2020,
@@ -6507,6 +7441,24 @@
     "director": "Tomohiro Kamitani",
     "original_title": "Toji no Miko: Kizamishi Issen no Tomoshibi",
     "ref": "[ 209 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "42626",
+      "title_romaji": "Mini Toji: Kanami-Mihono no \"Toji Miko Taidou-hen\" 205-byou de Shoukai Tokuban!",
+      "title_english": "Katana Maidens ~ Mini Toji – Katana Maidens Quickening Arc 205-Second Introduction Special!",
+      "title_native": "みにとじ 可奈美・美炎の「とじみこ 胎動編」205秒で紹介特番!",
+      "description": "Episode 0 of Mini Toji. Kanami and Mihono are self-aware that they are in an anime and introduce/recap the Toji no Miko story so that viewers can enjoy Mini Toji the following week even if they haven't watched the original.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/42626/large.jpg",
+      "kitsu_year": 2019,
+      "format": "special",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/mini-toji-kanami-mihono-no-toji-miko-taidou-hen-205-byou-de-shoukai-tokuban",
+      "genres": [
+        "Parody",
+        "Action"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-42626.jpg"
+    }
   }
 ]

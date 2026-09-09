@@ -10,7 +10,26 @@
     "type": "Movie",
     "demographic": "Family",
     "regions": "Japan",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "4915",
+      "title_romaji": "Shijin no Shougai",
+      "title_english": "A Poet's Life",
+      "title_native": "詩人の生涯",
+      "description": "A worker is fired from a factory for demanding a wage increase. His mother, worn thin by poverty, is caught in her own spinning wheel. Then a strange storm buries the town in snow, freezing rich and poor alike. Another short film by Kihachiro Kawamoto",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/4915/large.jpg",
+      "kitsu_year": 1974,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/shijin-no-shougai",
+      "genres": [
+        "Fantasy",
+        "Drama",
+        "Psychological"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-4915.jpg"
+    }
   },
   {
     "year": 1974,
@@ -222,7 +241,24 @@
     "type": "TV",
     "demographic": "Shōnen",
     "regions": "Japan, Spain",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "6619",
+      "title_romaji": "Judo Sanka",
+      "title_english": null,
+      "title_native": "柔道讃歌",
+      "description": "Based on Hiroshi Kaizuka's manga. The last TMS sports-themed anime series (\"Star of the Giants\" was the first). Because of low ratings, the series was pulled off the air before later episodes of the original manga could be adapted.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/6619/large.jpg",
+      "kitsu_year": 1974,
+      "format": "TV",
+      "episodes": 27,
+      "site_url": "https://kitsu.io/anime/judo-sanka",
+      "genres": [
+        "Sports"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-6619.jpg"
+    }
   },
   {
     "year": 1974,
@@ -335,7 +371,25 @@
     "type": "TV",
     "demographic": "Children",
     "regions": "Japan",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "9057",
+      "title_romaji": "Tonari no Tamageta-kun",
+      "title_english": null,
+      "title_native": "となりのたまげ太くん",
+      "description": "The adventures of a witless boy who finds a time machine hidden in a cave near his house. The 5 minutes episodes aired during the morning television show \"Ohayo Kodomo\".",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/9057/large.jpg",
+      "kitsu_year": 1974,
+      "format": "TV",
+      "episodes": 60,
+      "site_url": "https://kitsu.io/anime/tonari-no-tamageta-kun",
+      "genres": [
+        "Science Fiction",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-9057.jpg"
+    }
   },
   {
     "year": 1974,
@@ -415,7 +469,26 @@
     "type": "Movie",
     "demographic": "Children",
     "regions": "Japan",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "9016",
+      "title_romaji": "Kerokko Demetan",
+      "title_english": "Adventures On Rainbow Pond",
+      "title_native": "けろっこデメタン",
+      "description": "Demetan comes from such a poor family that he cannot even go to school in his woodland pond community. However, he has a friend named Ranatan, the lovely, gentle frog girl who is the daughter of the pond's rich ruler. Naturally her father is quite displeased by this relationship and he seeks to break it up. Nevertheless the young frogs continue with courage and confidence, not only to live their own lives but to guide the heartless leopard frog to a sense of justice and generosity. Gradually the pond community responds to their sincerity and joins them in a march toward a bright future.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/9016/large.jpg",
+      "kitsu_year": 1973,
+      "format": "TV",
+      "episodes": 39,
+      "site_url": "https://kitsu.io/anime/kerokko-demetan",
+      "genres": [
+        "Fantasy",
+        "Comedy",
+        "Kids"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-9016.jpg"
+    }
   },
   {
     "year": 1974,
@@ -461,7 +534,25 @@
     "type": "Movie",
     "demographic": "Family, Children",
     "regions": "Italy, France, Poland Japan, Spain, Portugal, Germany, Russia, United States",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3211",
+      "title_romaji": "Jack to Mame no Ki",
+      "title_english": "Jack and the Beanstalk",
+      "title_native": "ジャックと豆の木",
+      "description": "An old fairy tale gets some new wrinkles in this fanciful animated adaptation. After young Jack is conned into trading his family's prize cow for a handful of beans, he plants them and discovers they produce a magical vine that rises through the clouds. Climbing the beanstalk, Jack encounters a strange and remarkable world ruled by the magical Princess Margaret. The princess is in love with Prince Tulip despite his unattractive features and harsh personality, but as it turns out, this is the work of Madam Noir, an evil witch who has cast a spell on the princess so she will marry Tulip, her only son. Can Jack help the princess avoid this awful fate? Directed by Japanese animator Gisaburo Sugii, this free adaptation of Jack and the Beanstalk has won a cult following for its fanciful story and wildly colorful design.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3211/large.jpg",
+      "kitsu_year": 1974,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/jack-to-mame-no-ki",
+      "genres": [
+        "Fantasy",
+        "Kids"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3211.jpg"
+    }
   },
   {
     "year": 1974,
@@ -706,7 +797,33 @@
     "type": "TV",
     "demographic": "Shōnen",
     "regions": "Spain, Portugal, Italy, United States, Japan, France, Arabia, Netherlands, China (Taiwan)",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1483",
+      "title_romaji": "Uchuu Senkan Yamato",
+      "title_english": "Star Blazers: The Quest for Iscandar",
+      "title_native": "宇宙戦艦ヤマト",
+      "description": "In the distant future, the war between the human race and the Gamilon has taken its toll on the planet Earth. Constant bombardment of radioactive asteroids has rendered the planet's atmosphere uninhabitable. As a means of relief aid, Queen Starsha of the planet Iscandar offers the Earth Forces a device that can completely neutralize the radiation off the planet. For this task, the space battleship Yamato is launched from the remains of its World War II ancestor on a 148,000 light-year journey. However, the crew of the Yamato has only one Earth year to travel to Iscandar and back, or the human race will come to an end.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1483/large.jpg",
+      "kitsu_year": 1974,
+      "format": "TV",
+      "episodes": 26,
+      "site_url": "https://kitsu.io/anime/uchuu-senkan-yamato",
+      "genres": [
+        "Alien",
+        "Space",
+        "Space Travel",
+        "Shipboard",
+        "Humanoid Alien",
+        "Plot Continuity",
+        "Action",
+        "Science Fiction",
+        "Adventure",
+        "Military"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1483.jpg"
+    }
   },
   {
     "year": 1974,
@@ -813,6 +930,23 @@
     "type": "Short",
     "demographic": "Children",
     "regions": "Japan",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "4841",
+      "title_romaji": "Pop",
+      "title_english": null,
+      "title_native": "ポップ",
+      "description": "Short experimental animation from Yoji Kuri.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/4841/large.jpg",
+      "kitsu_year": 1974,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/pop",
+      "genres": [
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-4841.jpg"
+    }
   }
 ]

@@ -220,7 +220,27 @@
     "director": "Yoshio Kuroda",
     "notes": "",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "5796",
+      "title_romaji": "Nodoka Mori no Doubutsu Daisakusen",
+      "title_english": "Peter of Placid Forest",
+      "title_native": "のどか森の動物大作戦",
+      "description": "With Peter the fairy as chairman, the animals of Placid Forest gather in a meeting to discuss the villagers' plan to cut down all the trees in the forest. They decide to stage a protest in the hope of preserving the woods, but the greedy men will not listen to their warning. The animals are forced to carry out one final operation.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/5796/large.jpg",
+      "kitsu_year": 1980,
+      "format": "special",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/nodoka-mori-no-doubutsu-daisakusen",
+      "genres": [
+        "Past",
+        "Germany",
+        "Fantasy",
+        "Anthropomorphism"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-5796.jpg"
+    }
   },
   {
     "year": 1980,
@@ -307,7 +327,33 @@
     "director": "Mizuho Nishikubo",
     "notes": "",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2646",
+      "title_romaji": "Ashita no Joe 2",
+      "title_english": "Rocky Joe 2",
+      "title_native": "あしたのジョー２",
+      "description": "Yabuki Joe is left downhearted and hopeless after a certain tragic event. In attempt to put the past behind him, Joe leaves the gym behind and begins wandering. On his travels he comes across the likes of Wolf Kanagushi and Goromaki Gondo, men who unintentionally fan the dying embers inside him, leading him to putting his wanderings to an end. His return home puts Joe back on the path to boxing, but unknown to himself and his trainer, he now suffers deep-set issues holding him back from fighting. In attempt to quell those issues, Carlos Rivera, a world renowned boxer is invited from Venezuela to help Joe recover.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2646/large.jpg",
+      "kitsu_year": 1980,
+      "format": "TV",
+      "episodes": 47,
+      "site_url": "https://kitsu.io/anime/ashita-no-joe-2",
+      "genres": [
+        "Boxing",
+        "Martial Arts",
+        "Present",
+        "Earth",
+        "Japan",
+        "Violence",
+        "Combat",
+        "Plot Continuity",
+        "Asia",
+        "Action"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2646.jpg"
+    }
   },
   {
     "year": 1980,
@@ -322,7 +368,26 @@
     "director": "Hiroshi Fukutomi",
     "notes": "",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3215",
+      "title_romaji": "Doraemon Movie 01: Nobita no Kyouryuu",
+      "title_english": "Doraemon the Movie: Nobita's Dinosaur",
+      "title_native": "映画 ドラえもん のび太の恐竜",
+      "description": "Nobita finds a fossilized dinosaur egg by accident, and with the help of Doraemon's tools, they hatched the egg and began raising the dinosaur. Knowing that they can't keep the dinosaur forever, Nobita was forced to send it back to prehistoric times where a group of hunters from the future threatens to endanger the dinosaurs. Determined to save the dinosaurs from the claws of the hunters, Doraemon and the gang returns to the past and sets out in a prehistoric adventure.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3215/large.jpg",
+      "kitsu_year": 1980,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/doraemon-nobita-s-dinosaur",
+      "genres": [
+        "Time Travel",
+        "Adventure",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3215.jpg"
+    }
   },
   {
     "year": 1980,
@@ -845,7 +910,26 @@
     "director": "Tsutomu Shibayama",
     "notes": "",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "5319",
+      "title_romaji": "Makoto-chan",
+      "title_english": null,
+      "title_native": "まことちゃん",
+      "description": "Follows the odd life of kindergartener Makoto Sawada and his family. Makoto gets into all sorts of toilet and adult humor. He sometimes dresses in his mother's and sister's clothing, and often has a long strand of mucus dangling from his nose.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/5319/large.jpg",
+      "kitsu_year": 1980,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/makoto-chan",
+      "genres": [
+        "Slapstick",
+        "Comedy",
+        "Slice of Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-5319.jpg"
+    }
   },
   {
     "year": 1980,
@@ -979,7 +1063,26 @@
     "director": "Hiroshi Fukutomi",
     "notes": "",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2814",
+      "title_romaji": "Kaibutsu-kun (1980)",
+      "title_english": null,
+      "title_native": "怪物くん (1980)",
+      "description": "Kaibutsu-kun and his companions, Dracula, Wolfman, and Franken, travel from Kaibutsu Land to the Human Realm, where they encounter and battle several monsters, mainly assassins from the demon group Demonish.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2814/large.jpg",
+      "kitsu_year": 1980,
+      "format": "TV",
+      "episodes": 94,
+      "site_url": "https://kitsu.io/anime/kaibutsu-kun-1980",
+      "genres": [
+        "Horror",
+        "Comedy",
+        "Kids"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2814.jpg"
+    }
   },
   {
     "year": 1980,
@@ -1105,7 +1208,26 @@
     "director": "Tetsuo Imazawa",
     "notes": "",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3524",
+      "title_romaji": "Tetsujin 28-gou (1980)",
+      "title_english": "The New Adventures of Gigantor",
+      "title_native": "鉄人２８号 (1980)",
+      "description": "Shotaro had become an Interpol agent, working with Branch Robo, the antirobot crime unit of that organization. He still employs Tetsujin.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3524/large.jpg",
+      "kitsu_year": 1980,
+      "format": "TV",
+      "episodes": 51,
+      "site_url": "https://kitsu.io/anime/tetsujin-28-go-1980",
+      "genres": [
+        "Mecha",
+        "Action",
+        "Science Fiction"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3524.jpg"
+    }
   },
   {
     "year": 1980,
@@ -1157,7 +1279,33 @@
     "director": "Masayuki Akebi",
     "notes": "",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2646",
+      "title_romaji": "Ashita no Joe 2",
+      "title_english": "Rocky Joe 2",
+      "title_native": "あしたのジョー２",
+      "description": "Yabuki Joe is left downhearted and hopeless after a certain tragic event. In attempt to put the past behind him, Joe leaves the gym behind and begins wandering. On his travels he comes across the likes of Wolf Kanagushi and Goromaki Gondo, men who unintentionally fan the dying embers inside him, leading him to putting his wanderings to an end. His return home puts Joe back on the path to boxing, but unknown to himself and his trainer, he now suffers deep-set issues holding him back from fighting. In attempt to quell those issues, Carlos Rivera, a world renowned boxer is invited from Venezuela to help Joe recover.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2646/large.jpg",
+      "kitsu_year": 1980,
+      "format": "TV",
+      "episodes": 47,
+      "site_url": "https://kitsu.io/anime/ashita-no-joe-2",
+      "genres": [
+        "Boxing",
+        "Martial Arts",
+        "Present",
+        "Earth",
+        "Japan",
+        "Violence",
+        "Combat",
+        "Plot Continuity",
+        "Asia",
+        "Action"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2646.jpg"
+    }
   },
   {
     "year": 1980,
@@ -1206,6 +1354,26 @@
     "director": "Toshio Takeuchi",
     "notes": "",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "7868",
+      "title_romaji": "Cyborg 009 (1979)",
+      "title_english": "Cyborg 009",
+      "title_native": "サイボーグ009",
+      "description": "Joe Shimamura and his companions may seem like regular men, but they are anything but. Joe is actually Cyborg 009, member of a team of cyborgs who fight for the greater good. Each cyborg is outfitted with a special power, from the ability to melt any material, to underwater breathing and flight. He and the other eight cyborgs were modified against their will by the Neo-Black Ghosts organization in order to further their own interests. But instead, they decided to band together and use their powers to fight against their former captors, and all forces of evil.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/7868/large.jpg",
+      "kitsu_year": 1979,
+      "format": "TV",
+      "episodes": 50,
+      "site_url": "https://kitsu.io/anime/cyborg-009-1979",
+      "genres": [
+        "Mecha",
+        "Action",
+        "Science Fiction",
+        "Adventure"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-7868.jpg"
+    }
   }
 ]

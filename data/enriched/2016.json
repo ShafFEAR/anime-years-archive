@@ -110,7 +110,29 @@
     "running_time": "60",
     "notes": "The third film in the Initial D anime film series.  Alternatively titled Shin Gekijō-ban Initial D Legend 3 -Yumeutsutsu- .",
     "ref": "[ 5 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "10073",
+      "title_romaji": "New Initial D Movie: Legend 2 - Tousou",
+      "title_english": "Initial D Legend 2: Racer",
+      "title_native": "新劇場版　頭文字［イニシャル］D Legend2 -闘走-",
+      "description": "The second movie in a trilogy.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/10073/large.jpg",
+      "kitsu_year": 2015,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/new-initial-d-movie-legend-2-tousou",
+      "genres": [
+        "Motorsport",
+        "Street Racing",
+        "Action",
+        "Sports",
+        "Drifting",
+        "Seinen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-10073.jpg"
+    }
   },
   {
     "year": 2016,
@@ -159,7 +181,27 @@
     "running_time": "60",
     "notes": "Based on the manga Classmates by Asumiko Nakamura .",
     "ref": "[ 7 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "11349",
+      "title_romaji": "Pan de Peace!",
+      "title_english": "Pan de Peace!",
+      "title_native": "パンでPeace！",
+      "description": "The \"cute and soft bread four-panel manga\" centers around Minami, an air-headed girl who is starting high school and who loves eating bread for breakfast. Baked goods bring happiness everyday to her and her classmates the reliable Yuu, the pastry-baking Fuyumi, and the independent Noa.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/11349/large.jpg",
+      "kitsu_year": 2016,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/pan-de-peace",
+      "genres": [
+        "Cooking",
+        "Comedy",
+        "Slice of Life",
+        "School Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-11349.jpg"
+    }
   },
   {
     "year": 2016,
@@ -174,7 +216,27 @@
     "running_time": "70",
     "notes": "The title translates as Detective Opera Milky Holmes the Movie: Milky Holmes' Counterattack .  Part of the Tantei Opera Milky Holmes series.",
     "ref": "[ 8 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "11350",
+      "title_romaji": "Tantei Opera Milky Holmes Movie: Gyakushuu no Milky Holmes",
+      "title_english": null,
+      "title_native": "劇場版 探偵オペラ ミルキィホームズ〜逆襲のミルキィホームズ〜",
+      "description": "The four members of Milky Holmes are going on a study tour. While soaking in the hot springs among snow monkeys, alarms interrupt the relaxing environment! It was the work of the Thief Empire. A fierce battle between Milky Holmes and the Thief Empire begins, with both sides using their Toys (special powers). Furthermore, with the arrival of the Genius 4, a three-way fight occurs! In the midst of battle, a violent lightning strikes from the sky. Struck by the lightning, the four Milky Holmes girls lose their abilities.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/11350/large.jpg",
+      "kitsu_year": 2016,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/tantei-opera-milky-holmes-movie-gyakushuu-no-milky-holmes",
+      "genres": [
+        "Magical Girl",
+        "Super Power",
+        "Comedy",
+        "Mystery"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-11350.jpg"
+    }
   },
   {
     "year": 2016,
@@ -261,7 +323,26 @@
     "running_time": "58",
     "notes": "The title translates as Tamayura: Graduation Photos Part 4: Morning -Tomorrow- . The fourth and final film of the four-part Tamayura movie series.",
     "ref": "[ 11 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8808",
+      "title_romaji": "Tamayura: Sotsugyou Shashin Part 1 - Kizashi",
+      "title_english": null,
+      "title_native": "たまゆら～卒業写真～ 第1部 芽-きざし-",
+      "description": "The first movie of a four-part finale of Tamayura.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/8808/large.jpg",
+      "kitsu_year": 2015,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/tamayura-sotsugyou-shashin-part-1-kizashi",
+      "genres": [
+        "Comedy",
+        "Slice of Life",
+        "Drama"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8808.jpg"
+    }
   },
   {
     "year": 2016,
@@ -588,7 +669,28 @@
     "running_time": "64",
     "notes": "The title translates to Kizumonogatari II Passionate Blood . The second in a trilogy, followed by Kizumonogatari III Reiketsu-hen. It is part of the Monogatari series .",
     "ref": "[ 22 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "5649",
+      "title_romaji": "Kizumonogatari I: Tekketsu-hen",
+      "title_english": "Kizumonogatari Part 1: Tekketsu",
+      "title_native": "傷物語〈Ⅰ鉄血篇〉",
+      "description": "First season of the Monogatari Series, part 2/6. Contains the arc Koyomi Vamp from the Kizumonogatari light novel. March 25th—just another day during spring break. Koyomi Araragi, a second year high school student at Naoetsu High School, befriends Tsubasa Hanekawa, the top honors student at his school. Hanekawa mentions a rumor about a \"blonde vampire\" that has been sighted around their town recently. Araragi, who is usually anti-social, takes a liking to her down-to-earth personality. That night, Araragi encounters the rumored vampire: she is Kiss-shot Acerola-orion Heart-under-blade, also known as the \"iron-blooded, hot-blooded, cold-blooded King of Apparitions.\" The stunningly beautiful vampire cries out for Koyomi to save her as she lies in a pool of her own blood, all four of her limbs cut off. Kiss-shot asks Araragi to give her his blood, and when he does, the next moment he awakes, Araragi finds himself reborn as her vampire kin. As Araragi struggles to accept his existence, Kiss-shot whispers, \"Welcome to the world of darkness...\"",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/5649/large.jpg",
+      "kitsu_year": 2016,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/kizumonogatari-part-1-tekketsu-hen",
+      "genres": [
+        "Vampire",
+        "Action",
+        "Fantasy",
+        "Supernatural",
+        "Mystery"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-5649.jpg"
+    }
   },
   {
     "year": 2016,
@@ -644,7 +746,28 @@
     "running_time": "87",
     "notes": "Also known as Kuroko no Basuke: Winter Cup Sōshū-hen ~Kage to Hikari~ . This is the first film in a trilogy of compilation films that compile the anime television's Winter Cup episodes.",
     "ref": "[ 24 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8524",
+      "title_romaji": "Kuroko no Basket 3rd Season",
+      "title_english": "Kuroko's Basketball 3",
+      "title_native": "黒子のバスケ",
+      "description": "Following their triumph against Yousen High, Seirin's basketball team has reached the semifinals of the Winter Cup along with Kaijou, Rakuzan, and Shuutoku. Each of these teams possesses a member of the Generation of Miracles, and Seirin prepares to face the largest obstacles on their path to winning the Winter Cup. In the final season of Kuroko no Basket, Kuroko goes head-to-head with his old teammates once more as he attempts to show them that individual skill is not the only way to play basketball. His firm belief that his form of basketball, team play, is the right way to play the sport will clash with the talents of a perfect copy and an absolute authority. While Kuroko tries to prove that his basketball is \"right,\" he and the rest of Seirin High ultimately have one goal: to win the Winter Cup and overcome the strength of the Generation of Miracles, who have long dominated the scene of middle and high school basketball. [Written by MAL Rewrite]",
+      "cover_large": "https://media.kitsu.app/anime/8524/poster_image/large-ed5d77190c21ccf9ad9da5de1341aba8.jpeg",
+      "kitsu_year": 2015,
+      "format": "TV",
+      "episodes": 25,
+      "site_url": "https://kitsu.io/anime/kuroko-no-basket-3rd-season",
+      "genres": [
+        "Basketball",
+        "Comedy",
+        "School Life",
+        "Sports",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8524.jpg"
+    }
   },
   {
     "year": 2016,
@@ -692,7 +815,27 @@
     "running_time": "60",
     "notes": "",
     "ref": "[ 26 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "11583",
+      "title_romaji": "Yowamushi Pedal: New Generation",
+      "title_english": null,
+      "title_native": "弱虫ペダル NEW GENERATION",
+      "description": "Third season of the Yowamushi Pedal series. With the team's combined strength, the Sohoku High bicycle racing club beat reigning champions Hakone Academy at the Interhigh national race and achieved an impressive overall victory. Now that their hot summer has ended and third-years Kinjou, Makishima, and Tadokoro have retired from the team, first-year participants in the Interhigh Onoda Sakamichi, Imaizumi Shunsuke, and Naruko Shoukichi, along with their new captain second-year Teshima Junta and vice-captain Aoyagi Hajime begin preparing as a \"new team\" for their second consecutive championship at the next Interhigh. In order to retake their throne, their rivals Hakone Academy have also incorporated new members and begun training as a new team. Kyoto Fushimi High is lead by the monstrous racer Midousuji Akira. The nation's top schools are all honing their skills to reach the top of the Interhigh.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/11583/large.jpg",
+      "kitsu_year": 2017,
+      "format": "TV",
+      "episodes": 25,
+      "site_url": "https://kitsu.io/anime/yowamushi-pedal-3rd-season",
+      "genres": [
+        "Motorsport",
+        "Comedy",
+        "Sports",
+        "Drama"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-11583.jpg"
+    }
   },
   {
     "year": 2016,
@@ -811,7 +954,28 @@
     "running_time": "87",
     "notes": "Also known as Kuroko no Basuke: Winter Cup Sōshū-hen ~Namida no Saki e~ . This is the second film in a trilogy of compilation films that compile the anime television's Winter Cup episodes.",
     "ref": "[ 24 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8524",
+      "title_romaji": "Kuroko no Basket 3rd Season",
+      "title_english": "Kuroko's Basketball 3",
+      "title_native": "黒子のバスケ",
+      "description": "Following their triumph against Yousen High, Seirin's basketball team has reached the semifinals of the Winter Cup along with Kaijou, Rakuzan, and Shuutoku. Each of these teams possesses a member of the Generation of Miracles, and Seirin prepares to face the largest obstacles on their path to winning the Winter Cup. In the final season of Kuroko no Basket, Kuroko goes head-to-head with his old teammates once more as he attempts to show them that individual skill is not the only way to play basketball. His firm belief that his form of basketball, team play, is the right way to play the sport will clash with the talents of a perfect copy and an absolute authority. While Kuroko tries to prove that his basketball is \"right,\" he and the rest of Seirin High ultimately have one goal: to win the Winter Cup and overcome the strength of the Generation of Miracles, who have long dominated the scene of middle and high school basketball. [Written by MAL Rewrite]",
+      "cover_large": "https://media.kitsu.app/anime/8524/poster_image/large-ed5d77190c21ccf9ad9da5de1341aba8.jpeg",
+      "kitsu_year": 2015,
+      "format": "TV",
+      "episodes": 25,
+      "site_url": "https://kitsu.io/anime/kuroko-no-basket-3rd-season",
+      "genres": [
+        "Basketball",
+        "Comedy",
+        "School Life",
+        "Sports",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8524.jpg"
+    }
   },
   {
     "year": 2016,
@@ -940,7 +1104,28 @@
     "running_time": "88",
     "notes": "Also known as Kuroko no Basuke: Winter Cup Sōshū-hen ~Tobira no Mukō~ . This is the third film in a trilogy of compilation films that compile the anime television's Winter Cup episodes.",
     "ref": "[ 24 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8524",
+      "title_romaji": "Kuroko no Basket 3rd Season",
+      "title_english": "Kuroko's Basketball 3",
+      "title_native": "黒子のバスケ",
+      "description": "Following their triumph against Yousen High, Seirin's basketball team has reached the semifinals of the Winter Cup along with Kaijou, Rakuzan, and Shuutoku. Each of these teams possesses a member of the Generation of Miracles, and Seirin prepares to face the largest obstacles on their path to winning the Winter Cup. In the final season of Kuroko no Basket, Kuroko goes head-to-head with his old teammates once more as he attempts to show them that individual skill is not the only way to play basketball. His firm belief that his form of basketball, team play, is the right way to play the sport will clash with the talents of a perfect copy and an absolute authority. While Kuroko tries to prove that his basketball is \"right,\" he and the rest of Seirin High ultimately have one goal: to win the Winter Cup and overcome the strength of the Generation of Miracles, who have long dominated the scene of middle and high school basketball. [Written by MAL Rewrite]",
+      "cover_large": "https://media.kitsu.app/anime/8524/poster_image/large-ed5d77190c21ccf9ad9da5de1341aba8.jpeg",
+      "kitsu_year": 2015,
+      "format": "TV",
+      "episodes": 25,
+      "site_url": "https://kitsu.io/anime/kuroko-no-basket-3rd-season",
+      "genres": [
+        "Basketball",
+        "Comedy",
+        "School Life",
+        "Sports",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8524.jpg"
+    }
   },
   {
     "year": 2016,
@@ -955,7 +1140,22 @@
     "running_time": "63",
     "notes": "Also known as Suki ni Naru Sono Shunkan o. ~Kokuhaku Jikkō Iinkai~ .",
     "ref": "[ 32 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "13266",
+      "title_romaji": "Kimi no Koe wo Todoketai",
+      "title_english": null,
+      "title_native": "きみの声をとどけたい",
+      "description": "The story focuses on high school girl Nagisa Yukiai who lives in a seaside town. She has believed her grandmother's story that spirits dwell in words and they are called \"kotodama\" (word spirit). One day, she strays into a mini FM station that has not been used for years. As an impulse of the moment, she tries to talk like a DJ using the facility. But her voice accidentally broadcasted reaches someone she has never expected.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/13266/large.jpg",
+      "kitsu_year": 2017,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/kimi-no-koe-wo-todoketai",
+      "genres": [],
+      "year_match": true,
+      "image_path": "images/kitsu-13266.jpg"
+    }
   },
   {
     "year": 2016,
@@ -1785,7 +1985,31 @@
     "director": "Takahiro Omori",
     "original_title": "Durarara!!×2 The Third Arc",
     "ref": "[ 55 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8314",
+      "title_romaji": "Durarara!!x2 Shou",
+      "title_english": "Durarara!! x2",
+      "title_native": "デュラララ!!×２ 承",
+      "description": "Although peace has finally returned to Ikebukuro, many of the odd occurrences have become common sights around the city. One such case is the police's constant pursuit of Celty Sturluson, the Headless Rider. Moreover, someone has placed a large bounty on her, igniting the motivation of gang members all over to begin searching for the supernatural creature as well. Meanwhile, Mikado Ryuugamine is approached by Aoba Kuronuma, a mysterious underclassman with unknown intentions, who reveals that he knows Mikado's true identity. But Ikebukuro's state of tranquility is short-lived, as a new threat appears in the form of a murderer who goes by the pseudonym \"Hollywood,\" known for wearing a different mask each time they commit a crime. As the various events taking place prove to be connected yet again, Ikebukuro is thrown into another conflict that threatens to engulf the entire city in chaos. [Written by MAL Rewrite]",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/8314/large.jpg",
+      "kitsu_year": 2015,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/durarara-x2",
+      "genres": [
+        "Present",
+        "Earth",
+        "Japan",
+        "Tokyo",
+        "Violence",
+        "Asia",
+        "Action",
+        "Mystery"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8314.jpg"
+    }
   },
   {
     "year": 2016,
@@ -1935,7 +2159,33 @@
     "director": "Keiichiro Kawaguchi",
     "original_title": "",
     "ref": "[ 60 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "11517",
+      "title_romaji": "Nurse Witch Komugi-chan R",
+      "title_english": null,
+      "title_native": "ナースウィッチ小麦ちゃんR",
+      "description": "The new \"slapstick\" story will depict Komugi-chan and her rivals as they juggle their daily lives as students, idols, and magical girls \"with laughter and tears.\" Komugi Yoshida is a somewhat clumsy second-year middle-school student whose strong point is her spiritedness. She performs as an idol like Kokona Saionji (her classmate and close friend) and Tsubasa Kisaragi (an idol who dresses in male clothing). However, unlike Kokona whose popularity is skyrocketing and Tsubasa with her charisma in male attire, Komugi's only gigs are low-end ones like those at the local shopping district. Still, Komugi has her \"dream\" as she lives her dual lives as a idol and a middle school girl. One day, a mysterious injured creature named Usa-P appears before Komugi. Komugi gives Usa-P medical treatment, and Usa-P, in consideration of Komugi's kindness, asks if she wants to be a Legendary Girl who can use magical powers. Having become a reluctant Legendary Girl, Komugi battles strange masked figures who suddenly appear! As a newly deemed Magical Nurse, she fights still more waves of masked figures. Meanwhile, a Magical Maid, a Magical Sister, and more also appear to make it a three-way battle!? Can Komugi handle the three roles of middle school girl, idol, and Magical Nurse? And, what lies ahead in these battles and her \"dream\"...?!",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/11517/large.jpg",
+      "kitsu_year": 2016,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/nurse-witch-komugi-chan-r",
+      "genres": [
+        "Magic",
+        "Idol",
+        "Magical Girl",
+        "Present",
+        "Earth",
+        "Contemporary Fantasy",
+        "Parody",
+        "Music",
+        "Asia",
+        "Fantasy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-11517.jpg"
+    }
   },
   {
     "year": 2016,
@@ -2153,7 +2403,31 @@
     "director": "Shin Itagaki",
     "original_title": "Season 7",
     "ref": "[ 67 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8906",
+      "title_romaji": "Teekyuu 4",
+      "title_english": "Teekyu 4",
+      "title_native": "てーきゅう ４期",
+      "description": "Fourth season of Teekyuu series.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/8906/large.jpg",
+      "kitsu_year": 2015,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/teekyuu-4",
+      "genres": [
+        "Earth",
+        "Absurdist Humour",
+        "Slapstick",
+        "Japan",
+        "Tennis",
+        "Asia",
+        "Comedy",
+        "Sports"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8906.jpg"
+    }
   },
   {
     "year": 2016,
@@ -2208,7 +2482,27 @@
     "director": "Takashi Taniguchi Tomohisa Ishikawa",
     "original_title": "Season 3",
     "ref": "[ 69 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "11484",
+      "title_romaji": "Yami Shibai 3",
+      "title_english": "Yamishibai: Japanese Ghost Stories 3",
+      "title_native": "闇芝居 3期",
+      "description": "Yamishibai is a picture-story style of animation whose motif is surrounded and based off rumors and urban legends throughout the history of Japan.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/11484/large.jpg",
+      "kitsu_year": 2016,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/yami-shibai-3rd-season",
+      "genres": [
+        "Present",
+        "Japan",
+        "Horror",
+        "Dementia"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-11484.jpg"
+    }
   },
   {
     "year": 2016,
@@ -2257,7 +2551,31 @@
     "director": "Shin Itagaki",
     "original_title": "",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8906",
+      "title_romaji": "Teekyuu 4",
+      "title_english": "Teekyu 4",
+      "title_native": "てーきゅう ４期",
+      "description": "Fourth season of Teekyuu series.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/8906/large.jpg",
+      "kitsu_year": 2015,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/teekyuu-4",
+      "genres": [
+        "Earth",
+        "Absurdist Humour",
+        "Slapstick",
+        "Japan",
+        "Tennis",
+        "Asia",
+        "Comedy",
+        "Sports"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8906.jpg"
+    }
   },
   {
     "year": 2016,
@@ -2272,7 +2590,30 @@
     "director": "Takaomi Kanasaki",
     "original_title": "Give Blessings to This Wonderful World",
     "ref": "[ 71 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "11752",
+      "title_romaji": "Kono Subarashii Sekai ni Shukufuku wo! OVA",
+      "title_english": "KONOSUBA -God's Blessings On This Wonderful Choker!",
+      "title_native": "この素晴らしい世界に祝福を! 第11話 この素晴らしいチヨーカーに祝福を!",
+      "description": "Kazuma finds a choker at Wiz's magic shop said to grant any one wish and decides to put it on. The problem? He'll die in four days from strangulation if the wish isn't granted. And Kazuma can't remember what he wished for, so he has no idea how his party members can help. The girls therefore have no choice but to submit to his every whim if they want to save him.",
+      "cover_large": "https://media.kitsu.app/anime/11752/poster_image/large-285773888ef4030a4213559c92da529b.jpeg",
+      "kitsu_year": 2016,
+      "format": "OVA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/kono-subarashii-sekai-ni-shukufuku-wo-ova",
+      "genres": [
+        "Deity",
+        "Parody",
+        "Parallel Universe",
+        "Fantasy",
+        "Comedy",
+        "Ecchi",
+        "Harem"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-11752.jpg"
+    }
   },
   {
     "year": 2016,
@@ -2322,7 +2663,25 @@
     "director": "Yūji Umoto",
     "original_title": "",
     "ref": "[ 73 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "11561",
+      "title_romaji": "Ganbare! Lulu Lolo 3rd Season",
+      "title_english": "TINY★TWIN★BEARS 3rd Season",
+      "title_native": "がんばれ！ルルロロ　第３シリーズ",
+      "description": "The anime centers around the daily life of two twin bear sisters: the orange-colored Lulu and the yellow-colored Lolo. The two take on new jobs and, despite the occasional failure and tears, give their best efforts.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/11561/large.jpg",
+      "kitsu_year": 2016,
+      "format": "TV",
+      "episodes": 10,
+      "site_url": "https://kitsu.io/anime/ganbare-lulu-lolo-3rd-season",
+      "genres": [
+        "Slice of Life",
+        "Kids"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-11561.jpg"
+    }
   },
   {
     "year": 2016,
@@ -2442,7 +2801,29 @@
     "director": "Hayato Date",
     "original_title": "Itachi Shinden Book: Light and Darkness",
     "ref": "[ 77 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "13051",
+      "title_romaji": "Boruto: Naruto Next Generations",
+      "title_english": "Boruto: Naruto Next Generations",
+      "title_native": "BORUTO-ボルト- NARUTO NEXT GENERATIONS",
+      "description": "Naruto was a young shinobi with an incorrigible knack for mischief. He achieved his dream to become the greatest ninja in the village and his face sits atop the Hokage monument. But this is not his story... A new generation of ninja are ready to take the stage, led by Naruto's own son, Boruto!",
+      "cover_large": "https://media.kitsu.app/anime/13051/poster_image/large-d666d75fef96d34c61283ded8036ce54.jpeg",
+      "kitsu_year": 2017,
+      "format": "TV",
+      "episodes": 293,
+      "site_url": "https://kitsu.io/anime/boruto-naruto-next-generations",
+      "genres": [
+        "Martial Arts",
+        "Ninja",
+        "Super Power",
+        "Action",
+        "Adventure",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-13051.jpg"
+    }
   },
   {
     "year": 2016,
@@ -2457,7 +2838,33 @@
     "director": "Kazuya Sakamoto",
     "original_title": "Kanojo to Kanojo no Neko: Everything Flows",
     "ref": "[ 78 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "11317",
+      "title_romaji": "Flying Witch",
+      "title_english": "Flying Witch",
+      "title_native": "ふらいんぐうぃっち",
+      "description": "Aomori, Japan. In a land blessed by nature's bountiful beauty, bizarre things begin to take place. Makoto Kowata, 15 years old, is a professional witch. She left Yokohama with Chito, her black cat, to live in the house of her relatives in Aomori. This is where she begins to train as a witch. Even though Makoto's powers are still limited to just flying through the sky, she and her second cousins Kei and Chinatsu surely make the most out of each and every day.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/11317/large.jpg",
+      "kitsu_year": 2016,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/flying-witch",
+      "genres": [
+        "Magic",
+        "Present",
+        "Earth",
+        "Countryside",
+        "Contemporary Fantasy",
+        "Japan",
+        "Asia",
+        "Fantasy",
+        "Comedy",
+        "Slice of Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-11317.jpg"
+    }
   },
   {
     "year": 2016,
@@ -2572,7 +2979,28 @@
     "director": "Michio Fukuda",
     "original_title": "",
     "ref": "[ 82 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "11344",
+      "title_romaji": "Terra Formars Revenge",
+      "title_english": null,
+      "title_native": "テラフォーマーズ リベンジ",
+      "description": "With the space program attempting to travel to Mars, 21st century scientists were tasked with warming up the planet so that humans could survive on its surface. They came up with an efficient and cost effective plan of sending cockroaches and mold to the surface so that the mold would absorb the sunlight and the insect corpses would serve as a food source for the mold.It is now the year 2577 and the first manned ship to Mars has landed on the planet and the six crew members are ready for their mission. But what they find are giant mutated humanoid cockroaches with incredible physical strength. The crew members are easily wiped out, but not before sending a transmission back to Earth. Now, humanity will send elite warriors to exterminate the mutated bugs and claim back Mars.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/11344/large.jpg",
+      "kitsu_year": 2016,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/terra-formars-revenge",
+      "genres": [
+        "Space",
+        "Action",
+        "Science Fiction",
+        "Horror",
+        "Drama"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-11344.jpg"
+    }
   },
   {
     "year": 2016,
@@ -2893,7 +3321,33 @@
     "director": "Kazuhiro Furuhashi",
     "original_title": "",
     "ref": "[ 91 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "11850",
+      "title_romaji": "Mobile Suit Gundam Unicorn RE:0096",
+      "title_english": "Mobile Suit Gundam Unicorn RE:0096",
+      "title_native": "機動戦士ガンダムUC（ユニコーン）RE:0096",
+      "description": "U.C. 0096... The manufacturing colony Industrial 7, which is still under construction, floats at Lagrange point 1. A youth named Banagher Links, who grew up without knowing his father, meets a mysterious girl who has stowed away on a ship bound for Industrial 7. As the white mobile suit Unicorn undergoes repeated tests and becomes the subject of diverse speculations, the hands of time begin to move. Banagher does not yet know that he has been caught up in the conflict surrounding Laplace's Box. What is Laplace's Box? What secret does it contain? The hundred-year curse of the Universal Century is about to be resolved.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/11850/large.jpg",
+      "kitsu_year": 2016,
+      "format": "TV",
+      "episodes": 22,
+      "site_url": "https://kitsu.io/anime/mobile-suit-gundam-unicorn-re-0096",
+      "genres": [
+        "Future",
+        "Space",
+        "Mecha",
+        "Space Travel",
+        "Piloted Robot",
+        "Action",
+        "Science Fiction",
+        "War",
+        "Military",
+        "Space Battles"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-11850.jpg"
+    }
   },
   {
     "year": 2016,
@@ -3730,7 +4184,33 @@
     "director": "Seiki Sugawara",
     "original_title": "Kyōkai no Rinne season 2",
     "ref": "[ 115 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "10018",
+      "title_romaji": "Kyoukai no Rinne (TV)",
+      "title_english": "RIN-NE",
+      "title_native": "境界のRINNE",
+      "description": "A very strange thing happened to Mamiya Sakura as a child: She disappeared in the woods behind her grandmother's house. Of course, Sakura doesn't quite recall what happened next, but she's been seeing dead people ever since—ghosts at home, ghosts at school, and even ghosts on the street. Now that she's in high school, another strange thing has happened in her life. A desk next to her that's sat empty all year is suddenly filled by an oddly-dressed boy named Rokudou Rinne. Rinne seems to be capable of seeing the same things Sakura does, and sometimes, other people can't even see him. What sort of secret is Rinne-kun hiding, and how is he connected to Sakura's strange power? In Kyoukai no Rinne, another world exists alongside the one we live in. Thanks to Rinne, Mamiya Sakura will get to know this world and the wacky characters that inhabit it.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/10018/large.jpg",
+      "kitsu_year": 2015,
+      "format": "TV",
+      "episodes": 25,
+      "site_url": "https://kitsu.io/anime/kyoukai-no-rinne-tv",
+      "genres": [
+        "High School",
+        "Magic",
+        "Ghost",
+        "Present",
+        "Earth",
+        "Contemporary Fantasy",
+        "Japan",
+        "Asia",
+        "Fantasy",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-10018.jpg"
+    }
   },
   {
     "year": 2016,
@@ -3820,7 +4300,31 @@
     "director": "Shin Itagaki",
     "original_title": "",
     "ref": "[ 118 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8906",
+      "title_romaji": "Teekyuu 4",
+      "title_english": "Teekyu 4",
+      "title_native": "てーきゅう ４期",
+      "description": "Fourth season of Teekyuu series.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/8906/large.jpg",
+      "kitsu_year": 2015,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/teekyuu-4",
+      "genres": [
+        "Earth",
+        "Absurdist Humour",
+        "Slapstick",
+        "Japan",
+        "Tennis",
+        "Asia",
+        "Comedy",
+        "Sports"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8906.jpg"
+    }
   },
   {
     "year": 2016,
@@ -4124,7 +4628,31 @@
     "director": "Kônosuke Uda",
     "original_title": "",
     "ref": "[ 127 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "10235",
+      "title_romaji": "Denpa Kyoushi (TV)",
+      "title_english": "Ultimate Otaku Teacher",
+      "title_native": "電波教師",
+      "description": "Some academic geniuses suffer from burnout. Others simply lose all interest in their studies and want to focus on other things. Junichirou Kagami falls into the latter category. He was once a teenage physics genius whose papers were published in Nature, Science, and other prestigious research journals. Unfortunately, upon graduating from college, he left the science field and became a shut-in whose life motto is \"I can only do things I want to do.\" These days, Kagami spends all of his time watching anime, reading manga, collecting figures, and updating his blog. He seems satisfied with not having a job, but his younger sister, Suzune, cannot stand the thought of her brother being an unemployed loser for the rest of his life. She goes behind his back and gets him a job as a substitute teacher at his old high school. What lucky timing that the regular physics teacher had to go on maternity leave! And good thing his alma mater remembers him as that teenage genius! But can a hardcore otaku actually teach a bunch of high school students anything important and useful?",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/10235/large.jpg",
+      "kitsu_year": 2015,
+      "format": "TV",
+      "episodes": 24,
+      "site_url": "https://kitsu.io/anime/denpa-kyoushi-tv",
+      "genres": [
+        "High School",
+        "Present",
+        "Earth",
+        "Japan",
+        "Asia",
+        "Comedy",
+        "Romance",
+        "School Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-10235.jpg"
+    }
   },
   {
     "year": 2016,
@@ -4448,7 +4976,27 @@
     "director": "Yoshiharu Ashino",
     "original_title": "",
     "ref": "[ 137 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "11654",
+      "title_romaji": "D.Gray-man Hallow",
+      "title_english": "D.Gray-man HALLOW",
+      "title_native": "ディー・グレイマン ハロー",
+      "description": "Toward the end of the 19th century, Allen Walker officially joins the organization of Exorcists that destroy the beings known as Akuma; mechanic weapons made by the Millennium Earl with the suffering souls of the dead. Allen has both a cursed eye and an anti-Akuma weapon as an arm, bearing the power of \"Innocence,\" a gift given to him as an apostle of God. Allen, along with his fellow Exorcists must put a stop to the Millennium Earl's ultimate plot that could lead to the destruction of the world and all who live on it.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/11654/large.jpg",
+      "kitsu_year": 2016,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/d-gray-man-hallow",
+      "genres": [
+        "Super Power",
+        "Demon",
+        "Action",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-11654.jpg"
+    }
   },
   {
     "year": 2016,
@@ -4688,7 +5236,26 @@
     "director": "Toshikatsu Tokoro",
     "original_title": "Rotten Boys' High School Life",
     "ref": "[ 144 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "11599",
+      "title_romaji": "Kono Danshi, Mahou ga Oshigoto Desu.",
+      "title_english": "This Boy is a Professional Wizard",
+      "title_native": "この男子、魔法がお仕事です。",
+      "description": "Chiharu Kashima, captain of the Wizard Bureau's Crisis Countermeasures Division, is among a handful of people who can use magic. While frequenting his favorite bar, he is approached by a friendly man named Toyohi Utsumi. Having always dreamt of being a wizard, Toyohi is enthralled by the idea of meeting one. Much to the young Captain's surprise, Toyohi confesses that he has fallen in love with Kashima. While little time as passed, the two begin to spend more time together. Not all is well, however, as Kashima fears that magic is all that he has and Toyohi is only in love with Kashima the Wizard. [Written by MAL Rewrite]",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/11599/large.jpg",
+      "kitsu_year": 2016,
+      "format": "TV",
+      "episodes": 4,
+      "site_url": "https://kitsu.io/anime/kono-danshi-mahou-ga-oshigoto-desu",
+      "genres": [
+        "Magic",
+        "Shounen Ai",
+        "Fantasy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-11599.jpg"
+    }
   },
   {
     "year": 2016,
@@ -4815,7 +5382,33 @@
     "director": "Shin Ōnuma Masato Jinbo Ken Takahashi",
     "original_title": "Fate/ kaleid rainā, purizuma ☆ Iriya dorai!!",
     "ref": "[ 148 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "9095",
+      "title_romaji": "Fate/kaleid liner Prisma☆Illya 2wei Herz!",
+      "title_english": "Fate/Kaleid Liner Prisma Illya 2Wei Herz!",
+      "title_native": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ ヘルツ！",
+      "description": "Based on the Fate/Kaleid Liner Prisma☆Illya 2wei! manga by Hiroshi Hiroyama, which is a spin-off of the Fate/stay night erotic visual novel by Type-Moon.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/9095/large.jpg",
+      "kitsu_year": 2015,
+      "format": "TV",
+      "episodes": 10,
+      "site_url": "https://kitsu.io/anime/fate-kaleid-liner-prisma-illya-2wei-herz",
+      "genres": [
+        "Magic",
+        "Magical Girl",
+        "Present",
+        "Earth",
+        "Contemporary Fantasy",
+        "Japan",
+        "Asia",
+        "Action",
+        "Fantasy",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-9095.jpg"
+    }
   },
   {
     "year": 2016,
@@ -5417,7 +6010,26 @@
     "director": "Tomokazu Tokoro",
     "original_title": "Nanatsu no Taizai: Seisen no Shirushi",
     "ref": "[ 165 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "10751",
+      "title_romaji": "Nanatsu no Taizai OVA",
+      "title_english": null,
+      "title_native": "七つの大罪",
+      "description": "OVA bundled with the 15th and 16th volume of the manga. 15th volume DVD will feature the sin of greed as the central character. 16th volume DVD will feature side stories of the main characters in omnibus format.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/10751/large.jpg",
+      "kitsu_year": 2015,
+      "format": "OVA",
+      "episodes": 2,
+      "site_url": "https://kitsu.io/anime/nanatsu-no-taizai-ban-no-bangaihen",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-10751.jpg"
+    }
   },
   {
     "year": 2016,
@@ -5624,7 +6236,28 @@
     "director": "Takeshi Furuta",
     "original_title": "Uta no Prince-sama Season 4",
     "ref": "[ 171 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8143",
+      "title_romaji": "Uta no☆Prince-sama♪ Maji Love Revolutions",
+      "title_english": "Uta no Prince Sama Revolutions",
+      "title_native": "うたの☆プリンスさまっ♪マジLOVEレボリューションズ",
+      "description": "The third anime adaptation of the otome game Uta no☆Prince-sama♪. Starish are given new assignments in newly divided teams, and they do their best in order to try and impress Shining Saotome into allowing their entry to SSS, a top level music contest. Meanwhile, Haruka works with the Quartet Night.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/8143/large.jpg",
+      "kitsu_year": 2015,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/uta-no-prince-sama-maji-love-3",
+      "genres": [
+        "Music",
+        "Comedy",
+        "Romance",
+        "Harem",
+        "School Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8143.jpg"
+    }
   },
   {
     "year": 2016,
@@ -5639,7 +6272,29 @@
     "director": "Kiminori Kusano",
     "original_title": "Chīzu Suīto Hōmu",
     "ref": "[ 172 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "12154",
+      "title_romaji": "Koneko no Chii: Ponponra Daibouken",
+      "title_english": "Chi's Sweet Adventure",
+      "title_native": "こねこのチー ポンポンらー大冒険",
+      "description": "A new 3D CG anime of Kanata Konami's slice-of-life manga Chi's Sweet Home.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/12154/large.jpg",
+      "kitsu_year": 2016,
+      "format": "TV",
+      "episodes": 51,
+      "site_url": "https://kitsu.io/anime/koneko-no-chii-ponponra-daibouken",
+      "genres": [
+        "Present",
+        "Earth",
+        "Japan",
+        "Asia",
+        "Comedy",
+        "Slice of Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-12154.jpg"
+    }
   },
   {
     "year": 2016,
@@ -5807,7 +6462,27 @@
     "director": "Toshiaki Komura",
     "original_title": "Tiger Mask Double",
     "ref": "[ 176 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "11966",
+      "title_romaji": "Tiger Mask W",
+      "title_english": "Tiger Mask W",
+      "title_native": "タイガーマスクW",
+      "description": "Two young wrestlers face each other in a recently revived underground wrestling organization, the Tiger's Lair, which destroyed the wrestling dojo they grew up in. One took over the training facilities of Naoto Date at the foot of Mount Fuji, as well as the mask he left behind. The other dared to enter the Tiger's Lair and won a fierce competition, receiving a jet-black tiger mask. One tiger walks the path of light, while the other walks the path of shadows. Neither one knows the other's face. On the ring, they are natural enemies, but they have the same purpose—destroy the Tiger's Lair!",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/11966/large.jpg",
+      "kitsu_year": 2016,
+      "format": "TV",
+      "episodes": 38,
+      "site_url": "https://kitsu.io/anime/tiger-mask-w",
+      "genres": [
+        "Wrestling",
+        "Action",
+        "Sports",
+        "Drama"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-11966.jpg"
+    }
   },
   {
     "year": 2016,
@@ -5972,7 +6647,30 @@
     "director": "Takahiro Omori",
     "original_title": "Natsume's Book of Friends Season 5",
     "ref": "[ 181 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "11950",
+      "title_romaji": "Natsume Yuujinchou Go",
+      "title_english": "Natsume's Book of Friends Season 5",
+      "title_native": "夏目友人帳 伍",
+      "description": "Takashi Natsume is a boy who's been able to see youkai ever since he was a child. Ever since he inherited the \"Book of Friends\" from his grandmother Reiko, he and his self-proclaimed bodyguard Nyanko-sensei have spent their days returning names to the youkai who are bound by the book. As he meets the different youkai and people, he finds himself with many more things that he cares about. He wonders whether it's right to keep secrets to protect someone as little by little he works up the courage to build even more friendships.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/11950/large.jpg",
+      "kitsu_year": 2016,
+      "format": "TV",
+      "episodes": 11,
+      "site_url": "https://kitsu.io/anime/natsume-yuujinchou-go",
+      "genres": [
+        "Present",
+        "Demon",
+        "Contemporary Fantasy",
+        "Japan",
+        "Fantasy",
+        "Slice of Life",
+        "Shoujo"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-11950.jpg"
+    }
   },
   {
     "year": 2016,
@@ -6094,7 +6792,32 @@
     "director": "Kazuhiro Takamura",
     "original_title": "Strike Witches season 3",
     "ref": "[ 185 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "11887",
+      "title_romaji": "Brave Witches",
+      "title_english": "Brave Witches",
+      "title_native": "ブレイブウィッチーズ",
+      "description": "In September 1944, allied forces led by the 501st Joint Fighter Wing \"Strike Witches\" successfully eliminate the Neuroi threat from the skies of the Republic of Gallia, thus ensuring the security of western Europe. Taking advantage of this victory, allied forces begin a full-fledged push toward central and eastern Europe. From a base in Petersburg in the Empire of Orussia, the 502nd Joint Fighter Wing \"Brave Witches,\" upon whom mankind has placed its hopes, flies with courage in the cold skies of eastern Europe.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/11887/large.jpg",
+      "kitsu_year": 2016,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/brave-witches",
+      "genres": [
+        "Air Force",
+        "Magic",
+        "Alien",
+        "Action",
+        "Science Fiction",
+        "Fantasy",
+        "Comedy",
+        "Ecchi",
+        "Military"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-11887.jpg"
+    }
   },
   {
     "year": 2016,
@@ -6175,7 +6898,31 @@
     "director": "Shin Itagaki",
     "original_title": "",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8906",
+      "title_romaji": "Teekyuu 4",
+      "title_english": "Teekyu 4",
+      "title_native": "てーきゅう ４期",
+      "description": "Fourth season of Teekyuu series.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/8906/large.jpg",
+      "kitsu_year": 2015,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/teekyuu-4",
+      "genres": [
+        "Earth",
+        "Absurdist Humour",
+        "Slapstick",
+        "Japan",
+        "Tennis",
+        "Asia",
+        "Comedy",
+        "Sports"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8906.jpg"
+    }
   },
   {
     "year": 2016,
@@ -6427,7 +7174,31 @@
     "director": "Kenichi Suzuki",
     "original_title": "Dorifutāzu",
     "ref": "[ 194 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "12087",
+      "title_romaji": "Drifters: Special Edition",
+      "title_english": null,
+      "title_native": "DRIFTERS Special edition",
+      "description": "Bundled with the fifth manga volume.Contains edited footage of the first two episodes.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/12087/large.jpg",
+      "kitsu_year": 2016,
+      "format": "OVA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/drifters-special-edition",
+      "genres": [
+        "Samurai",
+        "Historical",
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Seinen",
+        "Isekai"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-12087.jpg"
+    }
   },
   {
     "year": 2016,
@@ -6510,7 +7281,33 @@
     "director": "Susumu Mitsunaka",
     "original_title": "Haikyū!! Season 3",
     "ref": "[ 197 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "10076",
+      "title_romaji": "Haikyuu!! Second Season",
+      "title_english": "Haikyu!! 2nd Season",
+      "title_native": "ハイキュー!! セカンドシーズン",
+      "description": "Following their participation at the Inter-High, the Karasuno High School volleyball team attempts to refocus their efforts, aiming to conquer the Spring tournament instead. When they receive an invitation from long-standing rival Nekoma High, Karasuno agrees to take part in a large training camp alongside many notable volleyball teams in Tokyo and even some national level players. By playing with some of the toughest teams in Japan, they hope not only to sharpen their skills, but also come up with new attacks that would strengthen them. Moreover, Hinata and Kageyama attempt to devise a more powerful weapon, one that could possibly break the sturdiest of blocks. Facing what may be their last chance at victory before the senior players graduate, the members of Karasuno's volleyball team must learn to settle their differences and train harder than ever if they hope to overcome formidable opponents old and new—including their archrival Aoba Jousai and its world-class setter Tooru Oikawa.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/10076/large.jpg",
+      "kitsu_year": 2015,
+      "format": "TV",
+      "episodes": 25,
+      "site_url": "https://kitsu.io/anime/haikyuu-2",
+      "genres": [
+        "Present",
+        "Earth",
+        "School Clubs",
+        "Japan",
+        "Volleyball",
+        "Plot Continuity",
+        "Asia",
+        "Comedy",
+        "School Life",
+        "Sports"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-10076.jpg"
+    }
   },
   {
     "year": 2016,
@@ -6706,7 +7503,30 @@
     "director": "Akiyuki Shinbo Yukihiro Miyamoto Naoyuki Tatsuwa",
     "notes": "Bundled with volume 21 of the manga.  The OAD adapts bonus chapters from the manga.",
     "ref": "[ 203 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "9178",
+      "title_romaji": "Nisekoi:",
+      "title_english": "Nisekoi: False Love",
+      "title_native": "ニセコイ:",
+      "description": "Despite having seemingly quelled the war between their respective gangs, Raku Ichijou and Chitoge Kirisaki still carry on with their fake relationship. Eventually, as Chitoge's perception of Raku slowly changes, she even begins to see him as a little charming. Chitoge struggles to come to terms with her newfound feelings for Raku, as a new girl joins the slew of Raku's admirers and the competition among those vying for the yakuza heir's attention grows even fiercer. And amidst all this, Raku's search for his first love and the contents of the mysterious sealed locket continues in Nisekoi:, which picks up where the first season left off. [Written by MAL Rewrite]",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/9178/large.jpg",
+      "kitsu_year": 2015,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/nisekoi-2",
+      "genres": [
+        "Slow When It Comes To Love",
+        "Love Polygon",
+        "Comedy",
+        "Romance",
+        "Harem",
+        "School Life",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-9178.jpg"
+    }
   },
   {
     "year": 2016,
@@ -6756,7 +7576,28 @@
     "director": "Akiyuki Shinbo Tomoyuki Itamura",
     "notes": "An original net animation that is released on an app for iOS and Android devices.",
     "ref": "[ 205 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "5649",
+      "title_romaji": "Kizumonogatari I: Tekketsu-hen",
+      "title_english": "Kizumonogatari Part 1: Tekketsu",
+      "title_native": "傷物語〈Ⅰ鉄血篇〉",
+      "description": "First season of the Monogatari Series, part 2/6. Contains the arc Koyomi Vamp from the Kizumonogatari light novel. March 25th—just another day during spring break. Koyomi Araragi, a second year high school student at Naoetsu High School, befriends Tsubasa Hanekawa, the top honors student at his school. Hanekawa mentions a rumor about a \"blonde vampire\" that has been sighted around their town recently. Araragi, who is usually anti-social, takes a liking to her down-to-earth personality. That night, Araragi encounters the rumored vampire: she is Kiss-shot Acerola-orion Heart-under-blade, also known as the \"iron-blooded, hot-blooded, cold-blooded King of Apparitions.\" The stunningly beautiful vampire cries out for Koyomi to save her as she lies in a pool of her own blood, all four of her limbs cut off. Kiss-shot asks Araragi to give her his blood, and when he does, the next moment he awakes, Araragi finds himself reborn as her vampire kin. As Araragi struggles to accept his existence, Kiss-shot whispers, \"Welcome to the world of darkness...\"",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/5649/large.jpg",
+      "kitsu_year": 2016,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/kizumonogatari-part-1-tekketsu-hen",
+      "genres": [
+        "Vampire",
+        "Action",
+        "Fantasy",
+        "Supernatural",
+        "Mystery"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-5649.jpg"
+    }
   },
   {
     "year": 2016,
@@ -6926,7 +7767,27 @@
     "director": "Shunsuke Tada Kazuto Nakazawa",
     "notes": "",
     "ref": "[ 210 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "11806",
+      "title_romaji": "Noblesse: Awakening",
+      "title_english": null,
+      "title_native": "Noblesse: Awakening",
+      "description": "Cadis Etrama di Raizel wakes up from 820-years long sleep and starts a new life as a high school student. His peaceful days as a student are soon interrupted by a group of attackers known as the \"Unions.\" Noblesse follows Raizel and his loyal servant, Frankenstein, as they constantly protect and save Raizel's new human friends from the mysterious threats.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/11806/large.jpg",
+      "kitsu_year": 2016,
+      "format": "ONA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/noblesse-awakening",
+      "genres": [
+        "Vampire",
+        "Contemporary Fantasy",
+        "Action",
+        "School Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-11806.jpg"
+    }
   },
   {
     "year": 2016,
@@ -6941,7 +7802,26 @@
     "director": "Kazuki Akane",
     "notes": "Episode 5 of Code Geass: Akito the Exiled .  Titled \"To the Beloved\" ( 愛シキモノタチヘ , Itoshiki Mono-tachi e ) .",
     "ref": "[ 211 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "7228",
+      "title_romaji": "Code Geass: Boukoku no Akito 3 - Kagayaku Mono Ten yori Otsu",
+      "title_english": "Code Geass: Akito the Exiled 3 - The Brightness Falls",
+      "title_native": "コードギアス 亡国のアキト 第３章「輝くもの天より堕つ」",
+      "description": "After discovering the face of their true enemy—someone who is related to Akito and responsible for the Geass placed upon him—W-0 attempts to return to their base at Castle Weisswolf. However, stranded in Warsaw due to a complication involving their military identification, they are forced to accept the help of local gypsies, allowing the squad to take some time to deepen their bonds. Meanwhile, Britannian advisor Julius Kingsley and his guard Suzaku Kururugi begin working together with the Knights of St. Michael in order to crush the European resistance once and for all, armed with the destructive power of a giant weapon known as the Ark Fleet. [Written by MAL Rewrite]",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/7228/large.jpg",
+      "kitsu_year": 2015,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/code-geass-akito-the-exiled-3",
+      "genres": [
+        "Mecha",
+        "Action",
+        "Military"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-7228.jpg"
+    }
   },
   {
     "year": 2016,
@@ -7346,7 +8226,30 @@
     "director": "",
     "notes": "Bundled with the 55th volume of the manga, the OVA adapts the \"Fairy Penalty Game\" one-shot manga.",
     "ref": "[ 222 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "10922",
+      "title_romaji": "Fairy Tail Movie 2: Dragon Cry",
+      "title_english": null,
+      "title_native": "劇場版 FAIRY TAIL 『DRAGON CRY』",
+      "description": "Dragon Cry is a magical artifact of deadly power, formed into a staff by the fury and despair of dragons long gone. Now, this power has been stolen from the hands of the Fiore kingdom by the nefarious traitor Zash Caine, who flees with it to the small island nation of Stella. Frightened that the power has fallen into the wrong hands, the King of Fiore hastily sends Fairy Tail to retrieve the staff. But this task proves frightening as a shadowy secret lies in the heart of the kingdom of Stella. Dragon Cry follows their story as they muster up all their strength to recover the stolen staff and save both kingdoms.",
+      "cover_large": "https://media.kitsu.app/anime/10922/poster_image/large-aff3f0048388928363fa86378787737b.jpeg",
+      "kitsu_year": 2017,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/fairy-tail-movie-2",
+      "genres": [
+        "Magic",
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Friendship",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-10922.jpg"
+    }
   },
   {
     "year": 2016,
@@ -7483,7 +8386,31 @@
     "director": "",
     "notes": "Bundled with the fifth volume of the manga.",
     "ref": "[ 226 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "12087",
+      "title_romaji": "Drifters: Special Edition",
+      "title_english": null,
+      "title_native": "DRIFTERS Special edition",
+      "description": "Bundled with the fifth manga volume.Contains edited footage of the first two episodes.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/12087/large.jpg",
+      "kitsu_year": 2016,
+      "format": "OVA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/drifters-special-edition",
+      "genres": [
+        "Samurai",
+        "Historical",
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Seinen",
+        "Isekai"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-12087.jpg"
+    }
   },
   {
     "year": 2016,
@@ -7729,7 +8656,33 @@
     "director": "",
     "notes": "Bundled with the sixteenth and seventeenth volumes of the manga, the OVA is meant to commemorate the series' 10th anniversary.",
     "ref": "[ 234 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "10078",
+      "title_romaji": "To LOVE-Ru Darkness 2nd",
+      "title_english": "To LOVE Ru Darkness 2",
+      "title_native": "To LOVEる -とらぶる- ダークネス2nd",
+      "description": "The dispassionate, transforming assassin Golden Darkness returns to peer deeper into the mysteries surrounding her new life, while a sinister Nemesis manipulates her younger sister Mea from the shadows. Along with their newly discovered mother, Tearju, this previously estranged family quickly becomes the center of everyone's attention. On the other hand, Princess Momo's Harem Plan stands on shaky ground amidst Rito's inability to confess to his longtime crush Haruna, who has grown feelings of her own. But things aren't as peaceful as they seem; an evil force looms amidst the innocuous commotion, threatening to eclipse the love, happiness, and friendship of Rito and his harem. Only the light of love can hope to banish the shadow. [Written by MAL Rewrite]",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/10078/large.jpg",
+      "kitsu_year": 2015,
+      "format": "TV",
+      "episodes": 14,
+      "site_url": "https://kitsu.io/anime/to-love-ru-darkness-2nd",
+      "genres": [
+        "Alien",
+        "Present",
+        "Earth",
+        "Japan",
+        "Violent Retribution For Accidental Infringement",
+        "Humanoid Alien",
+        "Stereotypes",
+        "Asia",
+        "Science Fiction",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-10078.jpg"
+    }
   },
   {
     "year": 2016,
@@ -7785,7 +8738,30 @@
     "director": "",
     "notes": "Bundled with the 56th volume of the manga.",
     "ref": "[ 222 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "10922",
+      "title_romaji": "Fairy Tail Movie 2: Dragon Cry",
+      "title_english": null,
+      "title_native": "劇場版 FAIRY TAIL 『DRAGON CRY』",
+      "description": "Dragon Cry is a magical artifact of deadly power, formed into a staff by the fury and despair of dragons long gone. Now, this power has been stolen from the hands of the Fiore kingdom by the nefarious traitor Zash Caine, who flees with it to the small island nation of Stella. Frightened that the power has fallen into the wrong hands, the King of Fiore hastily sends Fairy Tail to retrieve the staff. But this task proves frightening as a shadowy secret lies in the heart of the kingdom of Stella. Dragon Cry follows their story as they muster up all their strength to recover the stolen staff and save both kingdoms.",
+      "cover_large": "https://media.kitsu.app/anime/10922/poster_image/large-aff3f0048388928363fa86378787737b.jpeg",
+      "kitsu_year": 2017,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/fairy-tail-movie-2",
+      "genres": [
+        "Magic",
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Friendship",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-10922.jpg"
+    }
   },
   {
     "year": 2016,
@@ -7875,7 +8851,33 @@
     "director": "",
     "notes": "Bundled with the limited edition of the My Teen Romantic Comedy SNAFU TOO! PS Vita game.",
     "ref": "[ 237 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8478",
+      "title_romaji": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku",
+      "title_english": "My Teen Romantic Comedy SNAFU TOO!",
+      "title_native": "やはり俺の青春ラブコメはまちがっている。続",
+      "description": "Hikigaya Hachiman, with his unique thought processes, seemed to be glorifying the life of a loner when his guidance counselor, Hiratsuka Shizuka, talked him into joining the Service Club. Together with the other members, the breathtaking, flawless Yukinoshita Yukino and the cute, popular Yuigahama Yui, he spent his days solving all kinds of problems for his classmates, from relationship worries to running the cultural festival committee. The seasons have given way to fall, and now Hachiman, Yukino, and Yui are preparing for a field trip to Kyoto. What request has been brought to the Service Club this time?",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/8478/large.jpg",
+      "kitsu_year": 2015,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-zoku",
+      "genres": [
+        "High School",
+        "Present",
+        "Earth",
+        "School Clubs",
+        "Japan",
+        "Asia",
+        "Comedy",
+        "Romance",
+        "Friendship",
+        "School Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8478.jpg"
+    }
   },
   {
     "year": 2016,
@@ -7944,7 +8946,27 @@
     "director": "Kazuhiro Yoneda",
     "notes": "Bundled with the 21st and 22nd limited edition volumes of the manga.",
     "ref": "[ 240 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "10759",
+      "title_romaji": "Akatsuki no Yona OVA",
+      "title_english": "Yona of the Dawn OVA",
+      "title_native": "暁のヨナ",
+      "description": "The first episode adapts two bonus chapters from Mizuho Kusanagi's 12th manga volume, titled \"On That Back\" and \"Kija.\" \"On That Back\" follows an incident at a hot spring hotel, and \"Kija\" depicts the past of the Hakuryuu Kija. The second two episodes adapt the rest of the Zeno Arc and were bundled with the 21st and 22nd volumes of the manga.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/10759/large.jpg",
+      "kitsu_year": 2015,
+      "format": "OVA",
+      "episodes": 3,
+      "site_url": "https://kitsu.io/anime/akatsuki-no-yona-ova",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Comedy",
+        "Friendship"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-10759.jpg"
+    }
   },
   {
     "year": 2016,
@@ -8017,7 +9039,25 @@
     "director": "Takaharu Ozaki",
     "notes": "A TV special that will air on Tokyo MX on 3 September.",
     "ref": "[ 243 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "11602",
+      "title_romaji": "Persona 5 the Animation: The Day Breakers",
+      "title_english": "Persona 5 the Animation -THE DAY BREAKERS-",
+      "title_native": "PERSONA5 the Animation -THE DAY BREAKERS-",
+      "description": "The story focuses on the 16-year-old Protagonist after he is transferred to Shujin High School in Tokyo. Staying with friends of his parents, he meets up with two fellow students, problem child Ryuuji Sakamoto and withdrawn An Takamaki, and a talking, shape-shifting cat-like creature known as Morgana. During his time there, feeling suppressed by their environment, the four form a group known as the \"Phantom Thieves,\" working together to carry out heists and encountering mysterious phenomena along the way.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/11602/large.jpg",
+      "kitsu_year": 2016,
+      "format": "special",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/persona-5",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-11602.jpg"
+    }
   },
   {
     "year": 2016,
@@ -8189,7 +9229,30 @@
     "director": "",
     "notes": "Bundled with the 58th volume of the manga.",
     "ref": "[ 248 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "10922",
+      "title_romaji": "Fairy Tail Movie 2: Dragon Cry",
+      "title_english": null,
+      "title_native": "劇場版 FAIRY TAIL 『DRAGON CRY』",
+      "description": "Dragon Cry is a magical artifact of deadly power, formed into a staff by the fury and despair of dragons long gone. Now, this power has been stolen from the hands of the Fiore kingdom by the nefarious traitor Zash Caine, who flees with it to the small island nation of Stella. Frightened that the power has fallen into the wrong hands, the King of Fiore hastily sends Fairy Tail to retrieve the staff. But this task proves frightening as a shadowy secret lies in the heart of the kingdom of Stella. Dragon Cry follows their story as they muster up all their strength to recover the stolen staff and save both kingdoms.",
+      "cover_large": "https://media.kitsu.app/anime/10922/poster_image/large-aff3f0048388928363fa86378787737b.jpeg",
+      "kitsu_year": 2017,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/fairy-tail-movie-2",
+      "genres": [
+        "Magic",
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Friendship",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-10922.jpg"
+    }
   },
   {
     "year": 2016,

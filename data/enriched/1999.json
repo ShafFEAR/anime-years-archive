@@ -572,7 +572,33 @@
     "demographic": "",
     "regions": "",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "434",
+      "title_romaji": "To Heart",
+      "title_english": "To Heart",
+      "title_native": "トゥハート",
+      "description": "For as long as Akari can remember, she and Hiroyuki have always been friends. But with time, everything changes, and her feelings have turned into something more. As a new semester of high school begins, will the two childhood friends come closer together or drift further apart? Join Hiroyuki, Akari and all their friends—the bubbly Shiho, the quiet Serika, the lovely Kotone, and more—in this heartwarming tale of love, relationships and friendship!",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/434/large.jpg",
+      "kitsu_year": 1999,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/to-heart",
+      "genres": [
+        "High School",
+        "Present",
+        "Earth",
+        "Japan",
+        "Asia",
+        "Romance",
+        "Harem",
+        "Slice of Life",
+        "School Life",
+        "Coming Of Age"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-434.jpg"
+    }
   },
   {
     "year": 1999,
@@ -919,7 +945,28 @@
     "demographic": "",
     "regions": "",
     "ref": "[ 9 ] [ better source needed ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "4848",
+      "title_romaji": "Doraemon Movie 21: Nobita no Taiyou Ou Densetsu",
+      "title_english": "Doraemon the Movie: Nobita's the Legend of the Sun King",
+      "title_native": "映画 ドラえもん のび太の太陽王伝説",
+      "description": "Doraemon and its friends open a hole in the time and they're travel to the Country of Mayana, a lost Mayan civilization in the jungle. There, Nobita will know its perfect double, prince Thio, heir to the throne. Both will decide to interchange papers to try to save to the Country of Mayana of the claws of the infernal Ledina witch and her evil forces.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/4848/large.jpg",
+      "kitsu_year": 2000,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/doraemon-nobita-and-the-legend-of-the-sun-king",
+      "genres": [
+        "Historical",
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Kids"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-4848.jpg"
+    }
   },
   {
     "year": 1999,
@@ -935,7 +982,28 @@
     "demographic": "",
     "regions": "",
     "ref": "[ 10 ] [ better source needed ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "4848",
+      "title_romaji": "Doraemon Movie 21: Nobita no Taiyou Ou Densetsu",
+      "title_english": "Doraemon the Movie: Nobita's the Legend of the Sun King",
+      "title_native": "映画 ドラえもん のび太の太陽王伝説",
+      "description": "Doraemon and its friends open a hole in the time and they're travel to the Country of Mayana, a lost Mayan civilization in the jungle. There, Nobita will know its perfect double, prince Thio, heir to the throne. Both will decide to interchange papers to try to save to the Country of Mayana of the claws of the infernal Ledina witch and her evil forces.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/4848/large.jpg",
+      "kitsu_year": 2000,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/doraemon-nobita-and-the-legend-of-the-sun-king",
+      "genres": [
+        "Historical",
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Kids"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-4848.jpg"
+    }
   },
   {
     "year": 1999,
@@ -951,7 +1019,33 @@
     "demographic": "",
     "regions": "",
     "ref": "[ 11 ] [ better source needed ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "4208",
+      "title_romaji": "Biohazard 4D-Executer",
+      "title_english": "Resident Evil 4D Executor",
+      "title_native": "BIOHAZARD 4D-EXECUTER",
+      "description": "Biohazard 4D Executor was a 20 minute CG movie that people in Japan could (and still can as of this date) see in a special theatre. Though the CG was primitive, (the rendering and models aren’t much better than that seen in Resident Evil 2, it’s certainly not on par with Resident Evil 3) it told the story enough. Below is a summary of the events within the 20 minute movie. The story focuses on an elite unit of 5 UBCS members, sent into Raccoon City to try and rescue Dr. Cameron. An Umbrella scientist lost in all the confusion. The UBCS team, consisting of members Rodrigo, Roger, Klaus, Ed and Norman, have a GPS device used to track down Dr. Cameron’s last known location, which is near a large food factory. Upon entering the factory they are attacked by a large creature, a sort of hybrid between a Tyrant and the more evolved forms of Nemesis.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/4208/large.jpg",
+      "kitsu_year": 2000,
+      "format": "special",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/biohazard-4d-executer",
+      "genres": [
+        "Zombie",
+        "Gunfights",
+        "Present",
+        "Earth",
+        "Violence",
+        "Action",
+        "Science Fiction",
+        "Adventure",
+        "Horror",
+        "Military"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-4208.jpg"
+    }
   },
   {
     "year": 1999,
@@ -1050,7 +1144,30 @@
     "demographic": "",
     "regions": "",
     "ref": "[ 12 ] [ better source needed ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "5615",
+      "title_romaji": "Kindaichi Shounen no Jikenbo Movie 2: Satsuriku no Deep Blue",
+      "title_english": "Young Kindaichi's Casebook: Deep Blue Massacre",
+      "title_native": "金田一少年の事件簿 殺戮のディープブルー",
+      "description": "The movie is an alternative version to the \"Satsuriku no Deep Blue\" arc of the 1997 Kindaichi TV series. Kindaichi, Miyuki and Fumi are invited to the resort of the Deep Blue Island by their senpai Akane, the daughter of the president of the Aizawa Group. A group of criminals infiltrate the hotel diguised as waiters to kill the members of the Aizawa Group. The criminals don't know their boss in person, and they don't know either that he's in the hotel with the members of the Aizawa Group.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/5615/large.jpg",
+      "kitsu_year": 1999,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/kindaichi-shounen-no-jikenbo-satsuriku-no-deep-blue",
+      "genres": [
+        "Present",
+        "Earth",
+        "Japan",
+        "Asia",
+        "Horror",
+        "Detective",
+        "Mystery"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-5615.jpg"
+    }
   },
   {
     "year": 1999,
@@ -1492,7 +1609,25 @@
     "demographic": "",
     "regions": "",
     "ref": "[ 17 ] [ better source needed ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "5740",
+      "title_romaji": "Sore Ike! Anpanman: Ningyohime no Namida",
+      "title_english": null,
+      "title_native": "それいけ！アンパンマン 人魚姫のなみだ",
+      "description": "12th Anpanman short movie.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/5740/large.jpg",
+      "kitsu_year": 2000,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/sore-ike-anpanman-ningyo-hime-no-namida",
+      "genres": [
+        "Comedy",
+        "Kids"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-5740.jpg"
+    }
   },
   {
     "year": 1999,
@@ -1508,7 +1643,25 @@
     "demographic": "",
     "regions": "",
     "ref": "[ 18 ] [ better source needed ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "5740",
+      "title_romaji": "Sore Ike! Anpanman: Ningyohime no Namida",
+      "title_english": null,
+      "title_native": "それいけ！アンパンマン 人魚姫のなみだ",
+      "description": "12th Anpanman short movie.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/5740/large.jpg",
+      "kitsu_year": 2000,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/sore-ike-anpanman-ningyo-hime-no-namida",
+      "genres": [
+        "Comedy",
+        "Kids"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-5740.jpg"
+    }
   },
   {
     "year": 1999,
@@ -1524,7 +1677,32 @@
     "demographic": "",
     "regions": "",
     "ref": "[ 19 ] [ better source needed ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1284",
+      "title_romaji": "Lupin III: Ai no Da Capo - Fujiko's Unlucky Days",
+      "title_english": "Lupin the Third:  The Columbus Files",
+      "title_native": "ルパン三世『愛のダ・カーポ ～Fujiko's Unlucky Days』",
+      "description": "When Fujiko secures a file that documents the location of the fabled Columbus Egg– a mystical relic found by Christopher Columbus which can be harnessed to control the weather– she quickly recruits Lupin and the gang to track down the long-lost treasure. To prevent a sinister villain from finding the Egg, Fujiko memorizes the file and destroys it. Unfortunately, in the process, she contracts amnesia, changing her personality and wiping her memory of Lupin and his friends almost entirely. Can they restore Fujiko back to normal before the Egg falls into the hands of a madman?",
+      "cover_large": "https://media.kitsu.app/anime/1284/poster_image/large-7cd1ae5f8c75a33f3ae1500e9af38669.jpeg",
+      "kitsu_year": 1999,
+      "format": "special",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/lupin-iii-ai-no-da-capo-fujiko-s-unlucky-days",
+      "genres": [
+        "Present",
+        "Earth",
+        "Europe",
+        "Action",
+        "Science Fiction",
+        "Adventure",
+        "Comedy",
+        "Crime",
+        "Thievery"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1284.jpg"
+    }
   },
   {
     "year": 1999,
@@ -1628,7 +1806,25 @@
     "demographic": "",
     "regions": "",
     "ref": "[ 20 ] [ better source needed ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "40773",
+      "title_romaji": "Haha wo Tazunete Sanzenri (Special)",
+      "title_english": null,
+      "title_native": "母をたずねて三千里",
+      "description": "A Gakken version of the Haha wo Tazunete Sanzenri.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/40773/large.jpg",
+      "kitsu_year": 2000,
+      "format": "special",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/haha-wo-tazunete-sanzenri-special",
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-40773.jpg"
+    }
   },
   {
     "year": 1999,
@@ -2163,7 +2359,24 @@
     "demographic": "",
     "regions": "",
     "ref": "[ 28 ] [ better source needed ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "6264",
+      "title_romaji": "Rerere no Tensai Bakabon",
+      "title_english": null,
+      "title_native": "レレレの天才バカボン",
+      "description": "This story contains a lot of humor and edgy jokes that attract an audience ranging from toddlers to adults. Bakabon and his father turn common sense on its head. After all, common sense, that we take for granted, is frequently nonsensical, but comical. Bakabon's father has his own philosophy and he leaves no stone unturned in his quest for answers. Bakabon joins him in his philosophical quests which drive the people in their town crazy.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/6264/large.jpg",
+      "kitsu_year": 1999,
+      "format": "TV",
+      "episodes": 24,
+      "site_url": "https://kitsu.io/anime/rerere-no-tensai-bakabon",
+      "genres": [
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-6264.jpg"
+    }
   },
   {
     "year": 1999,
@@ -2223,7 +2436,24 @@
     "demographic": "",
     "regions": "",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "6144",
+      "title_romaji": "Kakomareta Sekai",
+      "title_english": null,
+      "title_native": "囲まれた世界",
+      "description": "Kakomareta Sekai is a short animation done by Shinkai Makoto using Lightwave 3D. It is inspired by Japanese novelist Murakami Haruki's book 'Sekai no Owari to Hard-Boiled Wonderland' (English title: Hard-Boiled Wonderland and the End of the World). The music was done by Tenmon, who's also responsible for the music in Shinkai's 'Kanojo to Kanojo no Neko', 'Hoshi no Koe', and 'Kumo no Mukou, Yakusoku no Basho'. Only 30 seconds long, this short was originally viewable at Shinkai's website, but has since been taken down due to bandwidth issues. Its chances of getting a proper release are slim, as Shinkai intended it only as practice using 3DCG programs.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/6144/large.jpg",
+      "kitsu_year": 1998,
+      "format": "ONA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/kakomareta-sekai",
+      "genres": [
+        "Drama"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-6144.jpg"
+    }
   },
   {
     "year": 1999,
@@ -2279,7 +2509,31 @@
     "demographic": "",
     "regions": "",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "993",
+      "title_romaji": "Senkaiden Houshin Engi",
+      "title_english": "Soul Hunter",
+      "title_native": "仙界伝 封神演義",
+      "description": "Thousands of years ago, it was a time of witchcraft and dark magic. An evil sorceress has bewitched the emperor of the mighty dynasty and he has become a mindless puppet. The country is in shambles, and evil spirits lurk everywhere. The human world is on the verge of utter destruction. A bold mission is planned by the Confederation of the Immortal Masters. They send a young master wizard to hunt down the villains and evil warlocks in the devastated lands.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/993/large.jpg",
+      "kitsu_year": 1999,
+      "format": "TV",
+      "episodes": 26,
+      "site_url": "https://kitsu.io/anime/soul-hunter",
+      "genres": [
+        "Magic",
+        "Super Power",
+        "Historical",
+        "Demon",
+        "Floating Island",
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-993.jpg"
+    }
   },
   {
     "year": 1999,
@@ -2295,7 +2549,29 @@
     "demographic": "",
     "regions": "",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1453",
+      "title_romaji": "Soreyuke! Uchuu Senkan Yamamoto Yohko (1999)",
+      "title_english": null,
+      "title_native": "それゆけ!宇宙戦艦　ヤマモト・ヨーコ",
+      "description": "In the year 2999: humanity is split into two factions, Terra and Ness, in a war fought by starships. One of the foremost of the pilots is the cocky teenager Yamamoto Yohko, and during one of her missions, she and her crew are sucked into a temporal anomaly (a la Star Trek) that sends her back to our time. Amnesiac, she only thinks of herself as a typical high school student - until a course of events sends her back to her ship the TA-29, with her newfound friends fighting at her side in a war that looks suspiciously like an arcade game (complete with 100 yen ignition costs!).",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1453/large.jpg",
+      "kitsu_year": 1999,
+      "format": "TV",
+      "episodes": 26,
+      "site_url": "https://kitsu.io/anime/soreyuke-uchuu-senkan-yamamoto-yohko-1999",
+      "genres": [
+        "Time Travel",
+        "Slapstick",
+        "Plot Continuity",
+        "Action",
+        "Science Fiction",
+        "Adventure"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1453.jpg"
+    }
   },
   {
     "year": 1999,
@@ -2438,7 +2714,33 @@
     "demographic": "",
     "regions": "",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "524",
+      "title_romaji": "The Big O",
+      "title_english": "The Big O",
+      "title_native": "THEビッグオー",
+      "description": "Paradigm City is a place without a past. 40 years ago, something happened that wiped the memories of everyone in it. Unfortunately, the people of Paradigm City were very busy before then, making Megadueses (giant robots) and monsters. People who were born after the memory wipe are gaining/recovering memories of the past and using them to build newer threats. With the help of The Big O (a faithful giant robot), his butler Norman and the android Dorothy, Roger Smith keeps Paradigm City safe. As problems mount and more memories surface, Roger's past and Paradigm's future begin to become suspect...",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/524/large.jpg",
+      "kitsu_year": 1999,
+      "format": "TV",
+      "episodes": 26,
+      "site_url": "https://kitsu.io/anime/the-big-o",
+      "genres": [
+        "Android",
+        "Fantasy World",
+        "Mecha",
+        "Piloted Robot",
+        "Parody",
+        "Action",
+        "Angst",
+        "Science Fiction",
+        "Conspiracy",
+        "Dystopia"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-524.jpg"
+    }
   },
   {
     "year": 1999,
@@ -2454,7 +2756,30 @@
     "demographic": "",
     "regions": "",
     "ref": "[ 31 ] [ better source needed ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1973",
+      "title_romaji": "Tokimeki Memorial: Forever With You",
+      "title_english": null,
+      "title_native": "ときめきメモリアル 〜forever with you〜",
+      "description": "Tokimeki Memorial brings together the twelve young girls from Kirameki High School, but revolves around the main girl, Fujisaki Shiori. The story starts at the beginning of the third school year, which is the last year before the main character can choose a girl and date her at the graduation. (Souce: AnimeNfo)",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1973/large.jpg",
+      "kitsu_year": 1999,
+      "format": "OVA",
+      "episodes": 2,
+      "site_url": "https://kitsu.io/anime/tokimeki-memorial-forever-with-you",
+      "genres": [
+        "High School",
+        "Present",
+        "Earth",
+        "Japan",
+        "Asia",
+        "Romance",
+        "School Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1973.jpg"
+    }
   },
   {
     "year": 1999,
@@ -2514,7 +2839,33 @@
     "demographic": "",
     "regions": "",
     "ref": "[ 32 ] [ better source needed ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1812",
+      "title_romaji": "Taiho Shichau zo The Movie",
+      "title_english": "You're Under Arrest The Movie",
+      "title_native": "逮捕しちゃうぞ　the MOVIE",
+      "description": "Bokutou Precinct rarely deals with criminals more nefarious than speeding sportscar drivers. So when Officers Nikaido Yoriko and Aoi Futaba find a cache of illegal firearms in a stolen car, and a rash of traffic control malfunctions snarls traffic along Tokyo's streets, it is up to Tokyo's finest to figure out what's gone wrong. And of course, it'll take the talents of Kobayakawa Miyuki and Tsujimoto Natsumi to crack the case. But will Miyuki's trusty Mini-Pat and Natsumi's fierce determination be enough to stop a devious mastermind from exploiting the weaknesses of the system and crippling Tokyo—and the world—for good?",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1812/large.jpg",
+      "kitsu_year": 1999,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/you-re-under-arrest-the-movie",
+      "genres": [
+        "Gunfights",
+        "Present",
+        "Earth",
+        "Japan",
+        "Asia",
+        "Action",
+        "Comedy",
+        "Law And Order",
+        "Cops",
+        "Detective"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1812.jpg"
+    }
   },
   {
     "year": 1999,

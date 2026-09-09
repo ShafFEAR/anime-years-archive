@@ -10,7 +10,33 @@
     "type": "TV",
     "demographic": "Seinen",
     "regions": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "277",
+      "title_romaji": "Aa! Megami-sama!: Chichaitte Koto wa Benri da ne",
+      "title_english": "Oh! My Goddess: The Adventures of Mini-Goddess",
+      "title_native": "ああっ女神さまっ 小っちゃいって事は便利だねっ",
+      "description": "A large collection consisting of the adventures of the Goddesses featured in the anime and manga series Ah My Goddess. Parodies of other works, and a large number of jokes pervade this series of shorts in which the Goddesses torture and hang out with their friend Gan the rat.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/277/large.jpg",
+      "kitsu_year": 1998,
+      "format": "TV",
+      "episodes": 48,
+      "site_url": "https://kitsu.io/anime/aa-megami-sama-chichaitte-koto-wa-benri-da-ne",
+      "genres": [
+        "Magic",
+        "Deity",
+        "Present",
+        "Contemporary Fantasy",
+        "Super Deformed",
+        "Slapstick",
+        "Parody",
+        "Japan",
+        "Stereotypes",
+        "Action"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-277.jpg"
+    }
   },
   {
     "year": 1998,
@@ -23,7 +49,33 @@
     "type": "TV",
     "demographic": "",
     "regions": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "342",
+      "title_romaji": "Bannou Bunka Neko-Musume (1998)",
+      "title_english": "All Purpose Cultural Cat Girl Nuku Nuku TV",
+      "title_native": "万能文化猫娘",
+      "description": "Each episode centers on Nuku Nuku's adventures and mishaps in high school, and her relationship to students, the overall series plot centers on the evil Mishima Industries' scheme to dominate the world through its products. In opposition to this plan are the slightly nutty Kyuusaku Natsume and Nuku Nuku, the android who acts as a companion to his young son. Nuku Nuku's classmates are all eccentrics, Futaba, the class president, is a domineering control-freak, who cannot leave her authority in school. Chieko Shirakaba is the rich snob with the two yes-girls who always take her side. There is a bookworm, a mystic, a scientist, and a pop singer. All of these are true to their descriptions: the mystic is always foretelling doom via tarot cards, spirits, or some other occult technique. The pop singer never says anything except as a song. The bookworm always has her nose in a book. These eccentricities add to the series' humor.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/342/large.jpg",
+      "kitsu_year": 1998,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/bannou-bunka-neko-musume-1998",
+      "genres": [
+        "Android",
+        "High School",
+        "Future",
+        "Earth",
+        "Mecha",
+        "Slapstick",
+        "Japan",
+        "Stereotypes",
+        "Asia",
+        "Action"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-342.jpg"
+    }
   },
   {
     "year": 1998,
@@ -475,7 +527,33 @@
     "type": "TV",
     "demographic": "Seinen",
     "regions": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1464",
+      "title_romaji": "Devilman Lady",
+      "title_english": "The Devil Lady",
+      "title_native": "デビルマンレディー",
+      "description": "Fudo Jun is a beautiful supermodel who is idolized by many. She also has a dark secret that not even she knows about at first, for within her veins run the genes that hold the next step in the evolution of mankind. The same blood as the beastlike superhumans that terrorize the city. Unlike the rest of them, though, Jun has managed to hold a tenuous grip onto her humanity, and she is recruited by the mysterious Asuka Ran, member of a secret organization within the government, aimed at controlling, if not eliminating, these berserk destroyers of mankind. Jun, as Devilman Lady, must now exterminate her own kind, but how much longer can she keep her sanity in a situation she never chose in the first place?",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1464/large.jpg",
+      "kitsu_year": 1998,
+      "format": "TV",
+      "episodes": 26,
+      "site_url": "https://kitsu.io/anime/devilman-lady",
+      "genres": [
+        "Super Power",
+        "Present",
+        "Human Enhancement",
+        "Dark Fantasy",
+        "Japan",
+        "Violence",
+        "Plot Continuity",
+        "Action",
+        "Fantasy",
+        "Horror"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1464.jpg"
+    }
   },
   {
     "year": 1998,
@@ -670,7 +748,30 @@
     "type": "Movie",
     "demographic": "",
     "regions": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3135",
+      "title_romaji": "Ginga Tetsudou 999: Eternal Fantasy",
+      "title_english": "Galaxy Express 999: Eternal Fantasy",
+      "title_native": "銀河鉄道９９９ エターナルファンタジー",
+      "description": "Based on the story by manga master Leiji Matsumoto (The Cockpit, Queen Emeraldas), the 55 minute featurette picks up one year after the events of Galaxy Express 999 in which a young boy named Tetsuro and his motherly companion Maetel worked to rid the universe on the Mechanized Empire who had taken over Earth.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3135/large.jpg",
+      "kitsu_year": 1998,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/ginga-tetsudou-999-eternal-fantasy",
+      "genres": [
+        "Gunfights",
+        "Space",
+        "Space Travel",
+        "Other Planet",
+        "Shipboard",
+        "Action",
+        "Science Fiction"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3135.jpg"
+    }
   },
   {
     "year": 1998,
@@ -969,7 +1070,26 @@
     "type": "Movie",
     "demographic": "",
     "regions": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "9606",
+      "title_romaji": "Sore Ike! Anpanman: Anpanman to Tanoshii Nakama-tachi",
+      "title_english": null,
+      "title_native": "それいけ! アンパンマン アンパンマンとたのしい仲間たち",
+      "description": null,
+      "cover_large": "https://media.kitsu.app/anime/poster_images/9606/large.jpg",
+      "kitsu_year": 1999,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/sore-ike-anpanman-anpanman-to-tanoshii-nakama-tachi",
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Kids"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-9606.jpg"
+    }
   },
   {
     "year": 1998,
@@ -1018,7 +1138,32 @@
     "type": "TV",
     "demographic": "",
     "regions": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1284",
+      "title_romaji": "Lupin III: Ai no Da Capo - Fujiko's Unlucky Days",
+      "title_english": "Lupin the Third:  The Columbus Files",
+      "title_native": "ルパン三世『愛のダ・カーポ ～Fujiko's Unlucky Days』",
+      "description": "When Fujiko secures a file that documents the location of the fabled Columbus Egg– a mystical relic found by Christopher Columbus which can be harnessed to control the weather– she quickly recruits Lupin and the gang to track down the long-lost treasure. To prevent a sinister villain from finding the Egg, Fujiko memorizes the file and destroys it. Unfortunately, in the process, she contracts amnesia, changing her personality and wiping her memory of Lupin and his friends almost entirely. Can they restore Fujiko back to normal before the Egg falls into the hands of a madman?",
+      "cover_large": "https://media.kitsu.app/anime/1284/poster_image/large-7cd1ae5f8c75a33f3ae1500e9af38669.jpeg",
+      "kitsu_year": 1999,
+      "format": "special",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/lupin-iii-ai-no-da-capo-fujiko-s-unlucky-days",
+      "genres": [
+        "Present",
+        "Earth",
+        "Europe",
+        "Action",
+        "Science Fiction",
+        "Adventure",
+        "Comedy",
+        "Crime",
+        "Thievery"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1284.jpg"
+    }
   },
   {
     "year": 1998,
@@ -1345,7 +1490,32 @@
     "type": "TV",
     "demographic": "",
     "regions": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "182",
+      "title_romaji": "Lodoss-tou Senki: Eiyuu Kishi Den",
+      "title_english": "Record of Lodoss War: Chronicles of the Heroic Knight",
+      "title_native": "ロードス島戦記　英雄騎士伝",
+      "description": "Five years after the death of the Emperor of Marmo in the War of Heroes, Parn is now the Free Knight of Lodoss, he and his old allies now famous through the land. However, the Emperor's right-hand man, Ashram, seeks the scepter of domination to re-unify Lodoss under his former leader's banner. Meanwhile, beyond his attempts at conquest lies a more sinister force beginning to set the stage for the resurrection of the goddess of death and destruction...",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/182/large.jpg",
+      "kitsu_year": 1998,
+      "format": "TV",
+      "episodes": 27,
+      "site_url": "https://kitsu.io/anime/lodoss-tou-senki-eiyuu-kishi-den",
+      "genres": [
+        "Magic",
+        "Dragon",
+        "Swordplay",
+        "Fantasy World",
+        "High Fantasy",
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Romance"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-182.jpg"
+    }
   },
   {
     "year": 1998,
@@ -1399,7 +1569,31 @@
     "type": "TV",
     "demographic": "",
     "regions": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "620",
+      "title_romaji": "Shadow Skill: Eigi",
+      "title_english": null,
+      "title_native": "影技 SHADOW SKILL",
+      "description": "In the land of Kuruda, warriors with magical powers and incredible fighting skills battle for the ultimate prize: the title of Sevaar, the strongest warrior in the land. Elle Ragu, nicknamed Shadow Skill, is the newest Sevaar to emerge, but that doesn't make her life any easier. Teaching her \"little brother,\" Gau, how to be a warrior, fending off assassins from other kingdoms and thwarting enemy invasions is hard enough, but her biggest challenge will be paying off her drinking debts.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/620/large.jpg",
+      "kitsu_year": 1998,
+      "format": "TV",
+      "episodes": 26,
+      "site_url": "https://kitsu.io/anime/shadow-skill-eigi",
+      "genres": [
+        "Magic",
+        "Martial Arts",
+        "Super Power",
+        "Violence",
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Friendship"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-620.jpg"
+    }
   },
   {
     "year": 1998,

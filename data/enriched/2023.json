@@ -39,7 +39,28 @@
     "director": "Yoshiyuki Kaneko",
     "running_time": "125",
     "ref": "[ 3 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "46977",
+      "title_romaji": "SSSS.Gridman Movie",
+      "title_english": "SSSS.Gridman Movie",
+      "title_native": "SSSS.Gridman Movie",
+      "description": "Compilation film of \"SSSS.Gridman\"",
+      "cover_large": "https://media.kitsu.app/anime/46977/poster_image/large-4215a50f4af9142094df76e252093f43.jpeg",
+      "kitsu_year": 2023,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/SSSSGridman-Movie",
+      "genres": [
+        "Mecha",
+        "Action",
+        "Science Fiction",
+        "Henshin",
+        "Super Robot"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-46977.jpg"
+    }
   },
   {
     "year": 2023,
@@ -150,7 +171,26 @@
     "director": "Yoshihiro Miyajima",
     "running_time": "121",
     "ref": "[ 3 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "46978",
+      "title_romaji": "SSSS.Dynazenon Movie",
+      "title_english": "SSSS.Dynazenon Movie",
+      "title_native": "SSSS.Dynazenon Movie",
+      "description": "Compilation film of \"SSSS.Dynazenon\"",
+      "cover_large": "https://media.kitsu.app/anime/46978/poster_image/large-b4869144893aa1de4b52399636d850ef.jpeg",
+      "kitsu_year": 2023,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/SSSSDynazenon-Movie",
+      "genres": [
+        "Mecha",
+        "Action",
+        "Science Fiction"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-46978.jpg"
+    }
   },
   {
     "year": 2023,
@@ -349,7 +389,25 @@
     "director": "Hiroshi Nishikiori Kensuke Yamamoto",
     "running_time": "180",
     "ref": "[ 14 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "44315",
+      "title_romaji": "IDOLiSH7 3rd Season Part 2",
+      "title_english": null,
+      "title_native": "アイドリッシュセブン",
+      "description": "Second cour of the third season of IDOLiSH7.",
+      "cover_large": "https://media.kitsu.app/anime/44315/poster_image/large-96a152874303e8af91a44d69c61f2a97.jpeg",
+      "kitsu_year": 2022,
+      "format": "TV",
+      "episodes": 17,
+      "site_url": "https://kitsu.io/anime/idolish7-3rd-season-part-2",
+      "genres": [
+        "Idol",
+        "Music"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-44315.jpg"
+    }
   },
   {
     "year": 2023,
@@ -603,7 +661,29 @@
     "director": "Shun Enokido Takahito Sakazume",
     "running_time": "55",
     "ref": "[ 20 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "46527",
+      "title_romaji": "Fate/strange Fake: Whispers of Dawn",
+      "title_english": "Fate/strange Fake: Whispers of Dawn",
+      "title_native": "Fate/strange Fake -Whispers of Dawn-",
+      "description": "In a Holy Grail War, Mages (Masters) and their Heroic Spirits (Servants) fight for the control of the Holy Grail—an omnipotent wish-granting device said to fulfill any desire. Years have passed since the end of the Fifth Holy Grail War in Japan. Now, signs portend the emergence of a new Holy Grail in the western American city of Snowfield. Sure enough, Masters and Servants begin to gather... A missing Servant class... Impossible Servant summonings... A nation shrouded in secrecy... And a city created as a battleground. In the face of such irregularities, the Holy Grail War is twisted and driven into the depth of madness. Let the curtain rise on a masquerade of humans and heroes, made to dance upon the stage of a false Holy Grail. This is a Holy Grail War covered in lies.",
+      "cover_large": "https://media.kitsu.app/anime/46527/poster_image/large-d0dffbf9f95ec6b98dc2691e6e529085.jpeg",
+      "kitsu_year": 2023,
+      "format": "special",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/fate-strange-fake-whispers-of-dawn",
+      "genres": [
+        "Magic",
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Supernatural",
+        "Mystery"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-46527.jpg"
+    }
   },
   {
     "year": 2023,
@@ -652,7 +732,28 @@
     "director": "Yukihiro Miyamoto",
     "running_time": "48",
     "ref": "[ 22 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "47275",
+      "title_romaji": "5-toubun no Hanayome∽",
+      "title_english": "The Quintessential Quintuplets~",
+      "title_native": "五等分の花嫁∽",
+      "description": "With only six months left until graduation Futarou decides to take a break from tutoring the quintuplets so he can focus on his studies during summer vacation. The girls are saddened they won't be able to spend as much time with Futarou but that changes when the receive an unexpected call from him. (Source: Official Site) Note: The anime was pre-screened in Japan theatrically for 3 weeks on July 14, 2023 before being aired as a two-part special on September 2 &amp; September 9, 2023.",
+      "cover_large": "https://media.kitsu.app/anime/47275/poster_image/large-eb4818f7a38a5b9a6e0217e2a2a20db1.jpeg",
+      "kitsu_year": 2023,
+      "format": "special",
+      "episodes": 2,
+      "site_url": "https://kitsu.io/anime/5-toubun-no-hanayome-tv",
+      "genres": [
+        "High School",
+        "Comedy",
+        "Harem",
+        "School Life",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-47275.jpg"
+    }
   },
   {
     "year": 2023,
@@ -1106,7 +1207,27 @@
     "director": "Kenji Kamiyama (Chief) Shinji Aramaki (Chief) Michihito Fujii",
     "running_time": "126",
     "ref": "[ 39 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "43142",
+      "title_romaji": "Koukaku Kidoutai: SAC_2045 2nd Season",
+      "title_english": "Ghost in the Shell: SAC_2045 Season 2",
+      "title_native": "攻殻機動隊 SAC_2045 2ndシーズン",
+      "description": "The second season of Koukaku Kidoutai: SAC_2045. Fully prosthetic cyborg Motoko Kusanagi leads Public Security Section 9 as they once again take on cyberbrain crime.",
+      "cover_large": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/43142/poster_image/ff17983313b392569a7d36af328ac163.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20260909%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20260909T215340Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=9009a3760d7615815e58675afaf2dbccb8ee45be273ae9e611c0043659cf93c7",
+      "kitsu_year": 2022,
+      "format": "ONA",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/ghost-in-the-shell-sac-2045-season-2",
+      "genres": [
+        "Human Enhancement",
+        "Action",
+        "Science Fiction",
+        "Cyberpunk",
+        "Special Squads"
+      ],
+      "year_match": true
+    }
   },
   {
     "year": 2023,
@@ -1226,7 +1347,24 @@
     "director": "Yoshiyuki Momose",
     "running_time": "105",
     "ref": "[ 43 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "45564",
+      "title_romaji": "Yaneura no Rudger",
+      "title_english": "The Imaginary",
+      "title_native": "屋根裏のラジャー",
+      "description": "Born from a young girl’s imagination, Rudger is a boy no one can see who lives in a world where imaginations can live and be eaten by others. The Imaginary is an extraordinarily touching and beautiful hand-drawn fantasy film in which Rudger and his new friends in “The Imaginaries Town” embark on an adventure no one can see at the risk of the futures and fates of those they love.",
+      "cover_large": "https://media.kitsu.app/anime/45564/poster_image/large-8a9eef880109817a378bcf3e19555635.jpeg",
+      "kitsu_year": 2023,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/yaneura-no-rudger",
+      "genres": [
+        "Fantasy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-45564.jpg"
+    }
   },
   {
     "year": 2023,
@@ -1508,7 +1646,27 @@
     "director": "Takuya Yamamura",
     "original_title": "Tsurune: Tsunagari no Issha",
     "ref": "[ 52 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "46368",
+      "title_romaji": "Tsurune: Tsunagari no Issha",
+      "title_english": "Tsurune - The Linking Shot -",
+      "title_native": "ツルネ －つながりの一射－",
+      "description": "The second season of Tsurune.",
+      "cover_large": "https://media.kitsu.app/anime/46368/poster_image/large-588ff34d6770dd9591a3d441f35b6e7b.jpeg",
+      "kitsu_year": 2023,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/tsurune-tsunagari-no-issha",
+      "genres": [
+        "School Clubs",
+        "Slice of Life",
+        "Sports",
+        "Drama"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-46368.jpg"
+    }
   },
   {
     "year": 2023,
@@ -1576,7 +1734,26 @@
     "director": "Yūya Horiuchi",
     "original_title": "Niji yon anime-shon",
     "ref": "[ 55 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "44537",
+      "title_romaji": "Love Live! Nijigasaki Gakuen School Idol Doukoukai 2",
+      "title_english": "Love Live! Nijigasaki High School Idol Club Season 2",
+      "title_native": "ラブライブ！虹ヶ咲学園スクールアイドル同好会 2",
+      "description": "The second season of Love Live! Nijigasaki Gakuen School Idol Doukoukai.",
+      "cover_large": "https://media.kitsu.app/anime/44537/poster_image/large-6dc3bd3e8db1a371b4fd6d7e78dda0f9.jpeg",
+      "kitsu_year": 2022,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/love-live-nijigasaki-gakuen-school-idol-doukoukai-2",
+      "genres": [
+        "Idol",
+        "School Clubs",
+        "Music"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-44537.jpg"
+    }
   },
   {
     "year": 2023,
@@ -1883,7 +2060,32 @@
     "director": "Hideki Tachibana",
     "original_title": "Dungeon ni Deai o Motomeru no wa Machigatteiru Darō ka?",
     "ref": "[ 64 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "44031",
+      "title_romaji": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV",
+      "title_english": "Is It Wrong to Try to Pick Up Girls in a Dungeon? IV",
+      "title_native": "ダンジョンに出会いを求めるのは間違っているだろうかⅣ",
+      "description": "The fourth season of Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka. Intrepid adventurer Bell Cranel has leveled up, but he can’t rest on his dungeoneering laurels just yet. The Hestia Familia still has a long way to go before it can stand toe-to-toe with the other Familias of Orario — but before Bell can set out on his next mission, reports of a brutal murder rock the adventuring community! One of Bell’s trusted allies stands accused of the horrible crime, and it’s up to Bell and his friends to clear their name and uncover a nefarious plot brewing in the dungeon’s dark depths.",
+      "cover_large": "https://media.kitsu.app/anime/44031/poster_image/large-e8c0db32b4640abc9cb2f08c455f80b7.jpeg",
+      "kitsu_year": 2022,
+      "format": "TV",
+      "episodes": 11,
+      "site_url": "https://kitsu.io/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iv",
+      "genres": [
+        "Magic",
+        "Deity",
+        "Swordplay",
+        "Fantasy World",
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Juujin"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-44031.jpg"
+    }
   },
   {
     "year": 2023,
@@ -2153,7 +2355,29 @@
     "director": "Shin Oonuma (Chief) Masafumi Tamura",
     "original_title": "Maō Gakuin no Futekigōsha",
     "ref": "[ 72 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "44125",
+      "title_romaji": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II",
+      "title_english": "The Misfit of Demon King Academy Ⅱ: History's Strongest Demon King Reincarnates and Goes to School with His Descendants",
+      "title_native": "魔王学院の不適合者 ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～ Ⅱ",
+      "description": "As peace returns to the demon realm, Anos Voldigoad wishes nothing more than to put his reputation as the Demon King of Tyranny to rest and go back to being a misfit at the prestigious Demon King Academy. Unfortunately, any tranquility is fleeting: sinister demons, kings, and deities plot Anos's demise from the shadows. Rumors spread about the \"Child of God,\" a being whose power may rival that of Anos. To uncover the truth and eliminate the potential threat, Anos must journey deep into the land of spirits. However, the spirit world is shrouded in mystery, and it may only be entered after undergoing a series of difficult trials. With unrivaled power and confidence, Anos braces himself to defeat various formidable enemies with grandiose titles. But he—with the assistance of his trusted allies—will barely have to break a sweat as the true Demon King of Tyranny.",
+      "cover_large": "https://media.kitsu.app/anime/44125/poster_image/large-c563ea91bba75cd57f87cb30c0b81ddf.jpeg",
+      "kitsu_year": 2023,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e",
+      "genres": [
+        "Magic",
+        "Demon",
+        "Action",
+        "Fantasy",
+        "Harem",
+        "School Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-44125.jpg"
+    }
   },
   {
     "year": 2023,
@@ -2168,7 +2392,30 @@
     "director": "Koichi Hatsumi",
     "original_title": "Tokyo Revengers: Seiya Kessen-hen",
     "ref": "[ 73 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "45607",
+      "title_romaji": "Tokyo Revengers: Seiya Kessen-hen",
+      "title_english": "Tokyo Revengers: Christmas Showdown",
+      "title_native": "東京リベンジャーズ 聖夜決戦編",
+      "description": "The second season of Tokyo Revengers. Despite his best time-leaping efforts, Takemichi Hanagaki continuously fails to prevent the present-day death of Hinata Tachibana, his adolescent love. The adult Takemichi grapples with grief and the ramifications of the Tokyo Manji gang's criminal empire—an unintended product of his timeline meddling. Though the gang once operated under the idealistic Manjirou \"Mikey\" Sano, it has now been taken over by the malicious Tetta Kisaki and, as a result, has abandoned its original optimistic intent. Despite feeling hopeless, Takemichi travels to the past once again to investigate Black Dragon, a rival motorcycle gang whose actions ultimately lead to Hinata's demise. There, he meets the young Hakkai Shiba, a fellow gang member whose older brother, Taiju, tyrannically rules Black Dragon. Takemichi, with Chifuyu on his side, works to unravel the fates of Black Dragon's members, fighting to create a happy future for his loved ones.",
+      "cover_large": "https://media.kitsu.app/anime/45607/poster_image/large-e0e3bb845f8d26cc42ca2bb798fbfd47.jpeg",
+      "kitsu_year": 2023,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/tokyo-revengers-seiya-kessen-hen",
+      "genres": [
+        "Delinquent",
+        "Time Travel",
+        "Action",
+        "School Life",
+        "Crime",
+        "Drama",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-45607.jpg"
+    }
   },
   {
     "year": 2023,
@@ -2183,7 +2430,27 @@
     "director": "Shinji Ushiro",
     "original_title": "Ijiranaide, Nagatoro-san 2nd Attack",
     "ref": "[ 74 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "45355",
+      "title_romaji": "Ijiranaide, Nagatoro-san 2nd Attack",
+      "title_english": "Don’t Toy With Me, Miss Nagatoro: 2nd Attack",
+      "title_native": "イジらないで、長瀞さん 2nd Attack",
+      "description": "The second season of Ijiranaide, Nagatoro-san. Miss Nagatoro is back for even more antics against Senpai in her next round of shenanigans!",
+      "cover_large": "https://media.kitsu.app/anime/45355/poster_image/large-254c2888a7577128f1d1242de3948d7d.jpeg",
+      "kitsu_year": 2023,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/ijiranaide-nagatoro-san-2nd-attack",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Slice of Life",
+        "School Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-45355.jpg"
+    }
   },
   {
     "year": 2023,
@@ -2325,7 +2592,27 @@
     "director": "Hiroshi Kōjina",
     "original_title": "Kyūketsuki Sugu Shinu",
     "ref": "[ 79 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "45625",
+      "title_romaji": "Kyuuketsuki Sugu Shinu 2",
+      "title_english": "The Vampire Dies in No Time Season 2",
+      "title_native": "吸血鬼すぐ死ぬ２",
+      "description": "The second season of Kyuuketsuki Sugu Shinu.",
+      "cover_large": "https://media.kitsu.app/anime/45625/poster_image/large-670c9f60f3193ff7bae4981b31adcc61.jpeg",
+      "kitsu_year": 2023,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/kyuuketsuki-sugu-shinu-2",
+      "genres": [
+        "Vampire",
+        "Comedy",
+        "Supernatural",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-45625.jpg"
+    }
   },
   {
     "year": 2023,
@@ -2374,7 +2661,29 @@
     "director": "Takeyuki Yanase",
     "original_title": "Kami-tachi ni Hirowareta Otoko",
     "ref": "[ 81 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "44665",
+      "title_romaji": "Kami-tachi ni Hirowareta Otoko 2",
+      "title_english": "By the Grace of the Gods Season 2",
+      "title_native": "神達に拾われた男 2",
+      "description": "The second season of Kami-tachi ni Hirowareta Otoko.",
+      "cover_large": "https://media.kitsu.app/anime/44665/poster_image/large-d6421cf3463813ca616512dd6d599ac0.jpeg",
+      "kitsu_year": 2023,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/kami-tachi-ni-hirowareta-otoko-2",
+      "genres": [
+        "Magic",
+        "Fantasy World",
+        "Fantasy",
+        "Adventure",
+        "Slice of Life",
+        "Isekai"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-44665.jpg"
+    }
   },
   {
     "year": 2023,
@@ -2389,7 +2698,32 @@
     "director": "Keiji Gotoh",
     "original_title": "Kyokō Suiri",
     "ref": "[ 82 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "43755",
+      "title_romaji": "Kyokou Suiri Season 2",
+      "title_english": "In/Spectre Season 2",
+      "title_native": "虚構推理 Season  2",
+      "description": "Second season of Kyokou Suiri. Kotoko and Kuro team up to solve a mystery between a human and a yuki-onna!",
+      "cover_large": "https://media.kitsu.app/anime/43755/poster_image/large-2a7cc790411283f6a33b12938440d7d4.jpeg",
+      "kitsu_year": 2023,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/kyokou-suiri-2nd-season",
+      "genres": [
+        "Ghost",
+        "Deity",
+        "Demon",
+        "Contemporary Fantasy",
+        "Fantasy",
+        "Romance",
+        "Supernatural",
+        "Mystery",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-43755.jpg"
+    }
   },
   {
     "year": 2023,
@@ -2615,7 +2949,29 @@
     "director": "Shin Oonuma",
     "original_title": "Itai no wa Iya nano de Bōgyoryoku ni Kyokufuri Shitai to Omoimasu.",
     "ref": "[ 90 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "43086",
+      "title_romaji": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu II",
+      "title_english": "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense 2nd Season",
+      "title_native": "痛いのは嫌なので防御力に極振りしたいと思います. II",
+      "description": "The second season of Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. The best offense is a great defense, and for VRMMO gamer Kaede Honjo, her defense is the best. Under her alias Maple, she and her guild journey through NewWorld Online gaining friends and foes through new battle-filled quests. All those skill points, new defensive techniques, and no pain—Maple can’t be stopped!",
+      "cover_large": "https://media.kitsu.app/anime/43086/poster_image/large-908e64210af0f273a78378b617a763e3.jpeg",
+      "kitsu_year": 2023,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/itai-no-wa-Iya-nano-de-bougyoryoku ni-kyokufuri-shitai-to-omoimasu-ii",
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Slice of Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-43086.jpg"
+    }
   },
   {
     "year": 2023,
@@ -2665,7 +3021,26 @@
     "director": "Seiji Mizushima (Chief) Daisuke Suzuki",
     "original_title": "",
     "ref": "[ 92 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "46507",
+      "title_romaji": "D4DJ All Mix",
+      "title_english": "D4DJ Animation Season 2",
+      "title_native": null,
+      "description": "The second season to D4DJ First Mix.",
+      "cover_large": "https://media.kitsu.app/anime/46507/poster_image/large-fec98563c4ef5e7a1908857c5635f412.jpeg",
+      "kitsu_year": 2023,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/d4dj-all-mix",
+      "genres": [
+        "Idol",
+        "Music",
+        "Slice of Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-46507.jpg"
+    }
   },
   {
     "year": 2023,
@@ -2680,7 +3055,30 @@
     "director": "Yoshiaki Okumura (Chief) Shige Fukase",
     "original_title": "Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei",
     "ref": "[ 93 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "46033",
+      "title_romaji": "Shin Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei",
+      "title_english": "The Fruit of Evolution: Before I Knew It, My Life Had It Made Season 2",
+      "title_native": "真・進化の実～知らないうちに勝ち組人生～",
+      "description": "The second season of Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei.",
+      "cover_large": "https://media.kitsu.app/anime/46033/poster_image/large-4316be283c388846ba6a2f104b6475ed.jpeg",
+      "kitsu_year": 2023,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/shin-shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei",
+      "genres": [
+        "Fantasy World",
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Romance",
+        "Isekai"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-46033.jpg"
+    }
   },
   {
     "year": 2023,
@@ -2797,7 +3195,28 @@
     "director": "Takayuki Hamana",
     "original_title": "Majutsushi Orphen Haguretabi: Urbanrama-hen",
     "ref": "[ 96 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "46549",
+      "title_romaji": "Majutsushi Orphen Hagure Tabi: Urbanrama-hen",
+      "title_english": "Sorcerous Stabber Orphen: Chaos in Urbanrama",
+      "title_native": "魔術士オーフェンはぐれ旅 アーバンラマ編",
+      "description": "Third season of Majutsushi Orphen Hagure Tabi.",
+      "cover_large": "https://media.kitsu.app/anime/46549/poster_image/large-5bb0a2972d9d780ec7e34edba558cb1c.jpeg",
+      "kitsu_year": 2023,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/majutsushi-orphen-hagure-tabi-urbanrama-hen",
+      "genres": [
+        "Martial Arts",
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Drama"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-46549.jpg"
+    }
   },
   {
     "year": 2023,
@@ -3074,7 +3493,30 @@
     "director": "Shinji Ishihira (Chief) Toshinori Watanabe",
     "original_title": "",
     "ref": "[ 106 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "45847",
+      "title_romaji": "EDENS ZERO Season 2",
+      "title_english": "Edens Zero Season 2",
+      "title_native": "EDENS ZERO 第2期",
+      "description": "The second season of Edens Zero",
+      "cover_large": "https://media.kitsu.app/anime/45847/poster_image/large-58dd26970b7ca94154060e8f452be258.jpeg",
+      "kitsu_year": 2023,
+      "format": "TV",
+      "episodes": 25,
+      "site_url": "https://kitsu.io/anime/edens-zero-2",
+      "genres": [
+        "Magic",
+        "Space",
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Ecchi",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-45847.jpg"
+    }
   },
   {
     "year": 2023,
@@ -3196,7 +3638,25 @@
     "director": "Yukio Kaizawa Kōhei Kureta",
     "original_title": "",
     "ref": "[ 110 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "46932",
+      "title_romaji": "Tousouchuu: Great Mission",
+      "title_english": "Run for Money: The Great Mission",
+      "title_native": "逃走中 グレートミッション",
+      "description": "Due to Earth's increasing climate crisis, humanity has developed futuristic technology to migrate to the Moon. Tomura Sawyer works as a courier in the higher areas, saving money for his little brother, Haru, who suffers from Smoky Moon Disease - a sickness produced by the smoke and polution from the lower areas. The two siblings dream of moving to the higher, cleaner areas to treat this disease. Tomura takes a gamble to do the impossible: to participate in the TV program \"Run for Money\" and to win against all the other contestants even if he doesn't have the Chrono Bracelet required for it. A producer of said program by the name of Harvest seems to take an interest in Tomura's determination to participate, so she gifts him the Bracelet and allows him to participate. In this glorified game of Tag, Tomura Sawyer must last longer than anyone else without being touched by the enemies in this game — the Hunters.",
+      "cover_large": "https://media.kitsu.app/anime/46932/poster_image/large-6bd7135f02f1faf44119bef7c3fc72a5.jpeg",
+      "kitsu_year": 2023,
+      "format": "TV",
+      "episodes": null,
+      "site_url": "https://kitsu.io/anime/tousouchuu-great-mission",
+      "genres": [
+        "Action",
+        "Science Fiction"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-46932.jpg"
+    }
   },
   {
     "year": 2023,
@@ -3244,7 +3704,29 @@
     "director": "Yoshiaki Iwasaki",
     "original_title": "Isekai wa Smartphone to Tomo ni",
     "ref": "[ 112 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "46057",
+      "title_romaji": "Isekai wa Smartphone to Tomo ni. 2nd Season",
+      "title_english": "In Another World With My Smartphone Season 2",
+      "title_native": "異世界はスマートフォンとともに。 第2期",
+      "description": "The second season of Isekai wa Smartphone to Tomo ni.",
+      "cover_large": "https://media.kitsu.app/anime/46057/poster_image/large-53012f56d869648d430fe1e22fbbfd06.jpeg",
+      "kitsu_year": 2023,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/isekai-wa-smartphone-to-tomo-ni-2nd-season",
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Romance",
+        "Harem",
+        "Isekai"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-46057.jpg"
+    }
   },
   {
     "year": 2023,
@@ -3259,7 +3741,28 @@
     "director": "Hisashi Ishii Yuu Nobuta",
     "original_title": "Kuma kuma kuma beā pa-nchi!",
     "ref": "[ 113 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "43863",
+      "title_romaji": "Kuma Kuma Kuma Bear Punch!",
+      "title_english": null,
+      "title_native": "くまクマ熊ベアーぱーんち！",
+      "description": "Second season of Kuma Kuma Kuma Bear.",
+      "cover_large": "https://media.kitsu.app/anime/43863/poster_image/large-d6bdc47054b7a3c8720edc81e97e7037.jpeg",
+      "kitsu_year": 2023,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/kuma-kuma-kuma-bear-punch",
+      "genres": [
+        "Fantasy World",
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Isekai"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-43863.jpg"
+    }
   },
   {
     "year": 2023,
@@ -3444,7 +3947,33 @@
     "director": "Takahiro Natori",
     "original_title": "",
     "ref": "[ 119 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "43098",
+      "title_romaji": "Tokyo Mew Mew New ♡",
+      "title_english": null,
+      "title_native": "東京ミュウミュウ にゅ～♡",
+      "description": "The scientists of the μ(Mew) Project use DNA of endangered species to create a team of heroines imbued with amazing super-human abilities. One of them, Ichigo Momomiya, awakens to discover she is armed with all the skills of a Iriomote cat. Ichigo must band together with other Mew Mew girls to repel an alien incursion, all the while hiding their thrilling double lives from friends and family.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/43098/large.jpg",
+      "kitsu_year": 2022,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/tokyo-mew-mew-new",
+      "genres": [
+        "Magic",
+        "Alien",
+        "Magical Girl",
+        "Humanoid Alien",
+        "Science Fiction",
+        "Fantasy",
+        "Comedy",
+        "Romance",
+        "Juujin",
+        "Shoujo"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-43098.jpg"
+    }
   },
   {
     "year": 2023,
@@ -3459,7 +3988,32 @@
     "director": "Shūhei Matsushita",
     "original_title": "",
     "ref": "[ 120 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "44289",
+      "title_romaji": "Dr.STONE: NEW WORLD",
+      "title_english": "Dr. Stone: New World",
+      "title_native": "Dr.STONE: NEW WORLD",
+      "description": "The third season of Dr. STONE. Senku and the Kingdom of Science sail to new lands to uncover more scientific secrets!",
+      "cover_large": "https://media.kitsu.app/anime/44289/poster_image/large-b16dad15cf91cf3b985fde4d63f30d9a.jpeg",
+      "kitsu_year": 2023,
+      "format": "TV",
+      "episodes": 11,
+      "site_url": "https://kitsu.io/anime/dr-stone-new-world",
+      "genres": [
+        "Future",
+        "Plot Continuity",
+        "Action",
+        "Science Fiction",
+        "Adventure",
+        "Comedy",
+        "Disaster",
+        "Post Apocalypse",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-44289.jpg"
+    }
   },
   {
     "year": 2023,
@@ -3549,7 +4103,28 @@
     "director": "Kazuaki Terasawa",
     "original_title": "Mahō Tsukai no Yome",
     "ref": "[ 123 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "46436",
+      "title_romaji": "Mahoutsukai no Yome SEASON 2",
+      "title_english": "The Ancient Magus' Bride Season 2",
+      "title_native": "魔法使いの嫁 SEASON2",
+      "description": "The second season of Mahoutsukai no Yome. Chise was able to accept Elias and herself, if not necessarily everything about her situation. After Cartaphilus fell back into a slumber that would not last forever, Chise was able to go back to her regular life. Then she receives an invitation from a mutual aid organization for mages called the College. Under the British Library exists a secret society of mages. Encounters and interactions with people are about to open some new doors. This is a story about saving yourself to save another. (Source: Crunchyroll) Note: Episode 1 of season two premiered in a preview screening event together with \"Fuyu no Okorimono\" at Tachikawa Cinema City's Cinema Two in Tokyo on March 11, 2023.",
+      "cover_large": "https://media.kitsu.app/anime/46436/poster_image/large-4143acc41341b91804009d0e7508dc60.jpeg",
+      "kitsu_year": 2023,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/mahoutsukai-no-yome-season-2",
+      "genres": [
+        "Fantasy",
+        "Romance",
+        "Slice of Life",
+        "Drama",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-46436.jpg"
+    }
   },
   {
     "year": 2023,
@@ -4475,7 +5050,27 @@
     "director": "Yōsuke Hatta",
     "original_title": "Ōsama Ranking: Yūki no Takarabako",
     "ref": "[ 150 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "46317",
+      "title_romaji": "Ousama Ranking: Yuuki no Takarabako",
+      "title_english": "Ranking of Kings: The Treasure Chest of Courage",
+      "title_native": "王様ランキング 勇気の宝箱",
+      "description": "Get ready for a new collection of stories from Ranking of Kings!",
+      "cover_large": "https://media.kitsu.app/anime/46317/poster_image/large-4604d11f71b9652e9f39ef679a3484a5.jpeg",
+      "kitsu_year": 2023,
+      "format": "TV",
+      "episodes": 10,
+      "site_url": "https://kitsu.io/anime/ousama-ranking-yuuki-no-takarabako",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Drama"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-46317.jpg"
+    }
   },
   {
     "year": 2023,
@@ -4682,7 +5277,27 @@
     "director": "Nobuyoshi Nagayama",
     "original_title": "",
     "ref": "[ 157 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "46685",
+      "title_romaji": "AYAKA",
+      "title_english": "AYAKA",
+      "title_native": "あやか",
+      "description": "The story is set in Ayakashima island, where Yukito, a boy with a mysterious power to control water and Jingi, a student of his dead father, come back to the island where he was born. Yukito's return is mysteriously anticipated by two other men in the island.",
+      "cover_large": "https://media.kitsu.app/anime/46685/poster_image/large-935f5810121847b2c9e83e5f05c90e45.jpeg",
+      "kitsu_year": 2023,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/ayaka",
+      "genres": [
+        "Super Power",
+        "Action",
+        "Supernatural",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-46685.jpg"
+    }
   },
   {
     "year": 2023,
@@ -4805,7 +5420,27 @@
     "director": "Mirai Minato",
     "original_title": "Masamune-kun no Revenge R",
     "ref": "[ 161 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "46031",
+      "title_romaji": "Masamune-kun no Revenge R",
+      "title_english": "Masamune-kun’s Revenge: R",
+      "title_native": "政宗くんのリベンジR",
+      "description": "Masamune and Adagaki return for more romantic antics, this time on a school trip to France!",
+      "cover_large": "https://media.kitsu.app/anime/46031/poster_image/large-a4783697203976421b8360388ff934f7.jpeg",
+      "kitsu_year": 2023,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/masamune-kun-no-revenge-r",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Slice of Life",
+        "Revenge"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-46031.jpg"
+    }
   },
   {
     "year": 2023,
@@ -5078,7 +5713,33 @@
     "director": "Shōta Goshozono",
     "original_title": "",
     "ref": "[ 169 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "45857",
+      "title_romaji": "Jujutsu Kaisen Season 2",
+      "title_english": "Jujutsu Kaisen Season 2",
+      "title_native": "呪術廻戦 第2期",
+      "description": "The past comes to light when second-year students Satoru Gojou and Suguru Getou are tasked with escorting young Riko Amanai to Master Tengen. But when a non-sorcerer user tries to kill them, their mission to protect the Star Plasma Vessel threatens to turn them into bitter enemies and cement their destinies—one as the world’s strongest sorcerer, and the other its most twisted curse user!",
+      "cover_large": "https://media.kitsu.app/anime/45857/poster_image/large-1ebb56f346edda6bcde9cdffa9b89316.jpeg",
+      "kitsu_year": 2023,
+      "format": "TV",
+      "episodes": 23,
+      "site_url": "https://kitsu.io/anime/jujutsu-kaisen-2",
+      "genres": [
+        "Martial Arts",
+        "Swordplay",
+        "Demon",
+        "Contemporary Fantasy",
+        "Japan",
+        "Violence",
+        "Action",
+        "Angst",
+        "Fantasy",
+        "School Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-45857.jpg"
+    }
   },
   {
     "year": 2023,
@@ -5467,7 +6128,28 @@
     "director": "Shinya Une",
     "original_title": "Kanojo, Okarishimasu",
     "ref": "[ 180 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "43588",
+      "title_romaji": "Kanojo, Okarishimasu Season 2",
+      "title_english": "Rent-a-Girlfriend Season 2",
+      "title_native": "彼女、お借りします",
+      "description": "The second season of Kanojo, Okarishimasu. A hopeless college student, Kinoshita Kazuya, meets a graceful rental girlfriend, Mizuhara Chizuru, and ends up introducing her as his girlfriend to his family and friends. Time goes on with Kazuya unable to tell the truth, as he's surrounded by devilish ex-girlfriend Nanami Mami, who keeps coming back to tempt him for some reason, hyper-aggressive provisional girlfriend Sarashina Ruka, who doesn't know how to take no for an answer, and super shy but diligent and hardworking younger rental girlfriend, Sakurasawa Sumi… beautiful girlfriends of all types! The pub, the beach, hot springs, Christmas, and New Year’s… Having gone through these challenging events, Kazuya's feelings for Chizuru keep growing stronger. But she reveals a shocking truth that threatens to shake their \"relationship\" to the very core!",
+      "cover_large": "https://media.kitsu.app/anime/43588/poster_image/large-2be9442ddd7bd13ed91a0dfd35d2652f.jpeg",
+      "kitsu_year": 2022,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/kanojo-okarishimasu-2nd-season",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Harem",
+        "School Life",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-43588.jpg"
+    }
   },
   {
     "year": 2023,
@@ -5623,7 +6305,31 @@
     "director": "Yoshinobu Yamakawa",
     "original_title": "Shinigami Bocchan to Kuro Maid",
     "ref": "[ 185 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "45229",
+      "title_romaji": "Shinigami Bocchan to Kuro Maid Season 2",
+      "title_english": "The Duke of Death and His Maid Season 2",
+      "title_native": "死神坊ちゃんと黒メイド (続編)",
+      "description": "The second season of Shinigami Bocchan to Kuro Maid. The duke, full of love and kindness, treads carefully around every living being, be it a tender flower or his seductive maid, Alice Lendrott. Were it not for the devotion Alice shows him and the fondness that grows ever stronger between them, the duke would have barely paid heed to his mother's demand: to either lift the dreadful curse placed upon him or lose his family inheritance. Although the duke has no greed for riches, he yearns to be rid of his frightful powers—which cause all he touches to die—for the sake of those closest to him. As the duke, Alice, and their friends enjoy spirited days filled with the ridiculous affairs of the supernatural, the spring deadline looms heavily over them. Nonetheless, the duke refuses to take any shortcuts in this endeavor if it means betraying the trust of his cherished friends.",
+      "cover_large": "https://media.kitsu.app/anime/45229/poster_image/large-49a4c77c39d6b1242630a9a7e939cd11.jpeg",
+      "kitsu_year": 2023,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/shinigami-bocchan-to-kuro-maid-season-2",
+      "genres": [
+        "Maid",
+        "Magic",
+        "Comedy",
+        "Ecchi",
+        "Romance",
+        "Drama",
+        "Supernatural",
+        "Mystery"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-45229.jpg"
+    }
   },
   {
     "year": 2023,
@@ -5873,7 +6579,29 @@
     "director": "Daisuke Tsukushi",
     "original_title": "Hataraku, Maō-sama!!",
     "ref": "[ 193 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "44113",
+      "title_romaji": "Hataraku Maou-sama!!",
+      "title_english": "The Devil is a Part-Timer! Season 2",
+      "title_native": "はたらく魔王さま！!",
+      "description": "The second season of Hataraku Maou-sama! Sadao Maou returns for more shifts, now having to take care of a small girl born from a golden apple!",
+      "cover_large": "https://media.kitsu.app/anime/44113/poster_image/large-2a6d48fe95f124d08c23f970e7ef5ae0.jpeg",
+      "kitsu_year": 2022,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/the-devil-is-a-part-timer-2",
+      "genres": [
+        "Demon",
+        "Fantasy",
+        "Comedy",
+        "Romance",
+        "Slice of Life",
+        "Supernatural"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-44113.jpg"
+    }
   },
   {
     "year": 2023,
@@ -5925,7 +6653,28 @@
     "director": "Yukihiro Miyamoto",
     "original_title": "Gotōbun no Hanayome~",
     "ref": "[ 195 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "47275",
+      "title_romaji": "5-toubun no Hanayome∽",
+      "title_english": "The Quintessential Quintuplets~",
+      "title_native": "五等分の花嫁∽",
+      "description": "With only six months left until graduation Futarou decides to take a break from tutoring the quintuplets so he can focus on his studies during summer vacation. The girls are saddened they won't be able to spend as much time with Futarou but that changes when the receive an unexpected call from him. (Source: Official Site) Note: The anime was pre-screened in Japan theatrically for 3 weeks on July 14, 2023 before being aired as a two-part special on September 2 &amp; September 9, 2023.",
+      "cover_large": "https://media.kitsu.app/anime/47275/poster_image/large-eb4818f7a38a5b9a6e0217e2a2a20db1.jpeg",
+      "kitsu_year": 2023,
+      "format": "special",
+      "episodes": 2,
+      "site_url": "https://kitsu.io/anime/5-toubun-no-hanayome-tv",
+      "genres": [
+        "High School",
+        "Comedy",
+        "Harem",
+        "School Life",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-47275.jpg"
+    }
   },
   {
     "year": 2023,
@@ -6291,7 +7040,26 @@
     "director": "Mutsumi Takeda",
     "original_title": "B-Project ~Netsuretsu*Love Call~",
     "ref": "[ 207 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "44311",
+      "title_romaji": "B-PROJECT: Netsuretsu*Love Call",
+      "title_english": null,
+      "title_native": "B-PROJECT 熱烈＊ラブコール",
+      "description": "Third season of B-Project.",
+      "cover_large": "https://media.kitsu.app/anime/44311/poster_image/large-02310fdcc2a05768898562ee91664c44.jpeg",
+      "kitsu_year": 2023,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/b-project-3rd-season",
+      "genres": [
+        "Idol",
+        "Music",
+        "Shoujo"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-44311.jpg"
+    }
   },
   {
     "year": 2023,
@@ -6571,7 +7339,27 @@
     "director": "Shōta Ihata",
     "original_title": "Seijo no Maryoku wa Bannō Desu",
     "ref": "[ 216 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "45957",
+      "title_romaji": "Seijo no Maryoku wa Bannou desu 2nd Season",
+      "title_english": "The Saint's Magic Power is Omnipotent Season 2",
+      "title_native": "聖女の魔力は万能です 第2期",
+      "description": "The second season of Seijo no Maryoku wa Bannou desu.",
+      "cover_large": "https://media.kitsu.app/anime/45957/poster_image/large-9d7f0d4506cd06e4aa658b7731ce0f69.jpeg",
+      "kitsu_year": 2023,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/seijo-no-maryoku-wa-bannou-desu-2nd-season",
+      "genres": [
+        "Fantasy",
+        "Romance",
+        "Slice of Life",
+        "Isekai"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-45957.jpg"
+    }
   },
   {
     "year": 2023,
@@ -6700,7 +7488,30 @@
     "director": "Koichi Hatsumi",
     "original_title": "Tokyo Revengers: Tenjiku-hen",
     "ref": "[ 220 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "45607",
+      "title_romaji": "Tokyo Revengers: Seiya Kessen-hen",
+      "title_english": "Tokyo Revengers: Christmas Showdown",
+      "title_native": "東京リベンジャーズ 聖夜決戦編",
+      "description": "The second season of Tokyo Revengers. Despite his best time-leaping efforts, Takemichi Hanagaki continuously fails to prevent the present-day death of Hinata Tachibana, his adolescent love. The adult Takemichi grapples with grief and the ramifications of the Tokyo Manji gang's criminal empire—an unintended product of his timeline meddling. Though the gang once operated under the idealistic Manjirou \"Mikey\" Sano, it has now been taken over by the malicious Tetta Kisaki and, as a result, has abandoned its original optimistic intent. Despite feeling hopeless, Takemichi travels to the past once again to investigate Black Dragon, a rival motorcycle gang whose actions ultimately lead to Hinata's demise. There, he meets the young Hakkai Shiba, a fellow gang member whose older brother, Taiju, tyrannically rules Black Dragon. Takemichi, with Chifuyu on his side, works to unravel the fates of Black Dragon's members, fighting to create a happy future for his loved ones.",
+      "cover_large": "https://media.kitsu.app/anime/45607/poster_image/large-e0e3bb845f8d26cc42ca2bb798fbfd47.jpeg",
+      "kitsu_year": 2023,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/tokyo-revengers-seiya-kessen-hen",
+      "genres": [
+        "Delinquent",
+        "Time Travel",
+        "Action",
+        "School Life",
+        "Crime",
+        "Drama",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-45607.jpg"
+    }
   },
   {
     "year": 2023,
@@ -6785,7 +7596,27 @@
     "director": "Tomohiro Tsukimisato",
     "original_title": "",
     "ref": "[ 223 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "47556",
+      "title_romaji": "Bikkurimen",
+      "title_english": null,
+      "title_native": "ビックリメン",
+      "description": "A new anime featuring characters from LOTTE's Bikkuriman chocolate wafer snacks.",
+      "cover_large": "https://media.kitsu.app/anime/47556/poster_image/large-bcb165c88751f6cd8a45e07024475d9c.jpeg",
+      "kitsu_year": 2023,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/bikkurimen",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-47556.jpg"
+    }
   },
   {
     "year": 2023,
@@ -6862,7 +7693,28 @@
     "director": "Kazuaki Terasawa",
     "original_title": "Mahō Tsukai no Yome",
     "ref": "[ 226 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "46436",
+      "title_romaji": "Mahoutsukai no Yome SEASON 2",
+      "title_english": "The Ancient Magus' Bride Season 2",
+      "title_native": "魔法使いの嫁 SEASON2",
+      "description": "The second season of Mahoutsukai no Yome. Chise was able to accept Elias and herself, if not necessarily everything about her situation. After Cartaphilus fell back into a slumber that would not last forever, Chise was able to go back to her regular life. Then she receives an invitation from a mutual aid organization for mages called the College. Under the British Library exists a secret society of mages. Encounters and interactions with people are about to open some new doors. This is a story about saving yourself to save another. (Source: Crunchyroll) Note: Episode 1 of season two premiered in a preview screening event together with \"Fuyu no Okorimono\" at Tachikawa Cinema City's Cinema Two in Tokyo on March 11, 2023.",
+      "cover_large": "https://media.kitsu.app/anime/46436/poster_image/large-4143acc41341b91804009d0e7508dc60.jpeg",
+      "kitsu_year": 2023,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/mahoutsukai-no-yome-season-2",
+      "genres": [
+        "Fantasy",
+        "Romance",
+        "Slice of Life",
+        "Drama",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-46436.jpg"
+    }
   },
   {
     "year": 2023,
@@ -6984,7 +7836,28 @@
     "director": "Takaharu Ozaki (Chief) Misato Takada",
     "original_title": "Goburin Sureiyā",
     "ref": "[ 230 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "44010",
+      "title_romaji": "Goblin Slayer 2nd Season",
+      "title_english": "Goblin Slayer II",
+      "title_native": "ゴブリンスレイヤー 2ndシーズン",
+      "description": "The second season of Goblin Slayer.",
+      "cover_large": "https://media.kitsu.app/anime/44010/poster_image/large-b59ee2ea21daf339774d6903dc75e210.jpeg",
+      "kitsu_year": 2023,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/goblin-slayer-2nd-season",
+      "genres": [
+        "Fantasy World",
+        "Violence",
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-44010.jpg"
+    }
   },
   {
     "year": 2023,
@@ -7071,7 +7944,25 @@
     "director": "Michiru Ebira",
     "original_title": "",
     "ref": "[ 233 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "43860",
+      "title_romaji": "Rail Romanesque 2nd Season",
+      "title_english": null,
+      "title_native": "レヱル・ロマネスク",
+      "description": "Second season of Rail Romanesque.",
+      "cover_large": "https://media.kitsu.app/anime/43860/poster_image/large-c8c89bac4eb03f66128e618c86442cc5.jpeg",
+      "kitsu_year": 2023,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/rail-romanesque-2nd-season",
+      "genres": [
+        "Science Fiction",
+        "Slice of Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-43860.jpg"
+    }
   },
   {
     "year": 2023,
@@ -7086,7 +7977,30 @@
     "director": "Hitoshi Haga",
     "original_title": "Tate no Yūsha no Nariagari",
     "ref": "[ 234 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "42530",
+      "title_romaji": "Tate no Yuusha no Nariagari Season 2",
+      "title_english": "The Rising of the Shield Hero Season 2",
+      "title_native": "盾の勇者の成り上がり Season2",
+      "description": "With another Wave happening in a week, Naofumi Iwatani and his party have no time to waste. However, when bat familiars raid Lurolona Village and the Wave countdown comes to a halt, the Four Cardinal Heroes reconvene with the queen, Mirelia Q Melromarc, for a quick briefing. The queen presumes that the odd occurrences are linked to the Spirit Tortoise—a threatening creature that has awakened from its slumber, back to cause havoc once again. A plan to put the Spirit Tortoise to rest is devised—but out of the four men, only the cursed Shield Hero agrees to help. [Written by MAL Rewrite]",
+      "cover_large": "https://media.kitsu.app/anime/42530/poster_image/large-3e0c9b54972002b31e9fa2da1df403fc.jpeg",
+      "kitsu_year": 2022,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/tate-no-yuusha-no-nariagari-2",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Romance",
+        "Drama",
+        "Isekai"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-42530.jpg"
+    }
   },
   {
     "year": 2023,
@@ -7151,7 +8065,28 @@
     "director": "Takatoshi Suzuki",
     "original_title": "Kanojo mo Kanojo",
     "ref": "[ 237 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "43588",
+      "title_romaji": "Kanojo, Okarishimasu Season 2",
+      "title_english": "Rent-a-Girlfriend Season 2",
+      "title_native": "彼女、お借りします",
+      "description": "The second season of Kanojo, Okarishimasu. A hopeless college student, Kinoshita Kazuya, meets a graceful rental girlfriend, Mizuhara Chizuru, and ends up introducing her as his girlfriend to his family and friends. Time goes on with Kazuya unable to tell the truth, as he's surrounded by devilish ex-girlfriend Nanami Mami, who keeps coming back to tempt him for some reason, hyper-aggressive provisional girlfriend Sarashina Ruka, who doesn't know how to take no for an answer, and super shy but diligent and hardworking younger rental girlfriend, Sakurasawa Sumi… beautiful girlfriends of all types! The pub, the beach, hot springs, Christmas, and New Year’s… Having gone through these challenging events, Kazuya's feelings for Chizuru keep growing stronger. But she reveals a shocking truth that threatens to shake their \"relationship\" to the very core!",
+      "cover_large": "https://media.kitsu.app/anime/43588/poster_image/large-2be9442ddd7bd13ed91a0dfd35d2652f.jpeg",
+      "kitsu_year": 2022,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/kanojo-okarishimasu-2nd-season",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Harem",
+        "School Life",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-43588.jpg"
+    }
   },
   {
     "year": 2023,
@@ -7166,7 +8101,26 @@
     "director": "Katsumi Ono",
     "original_title": "Hipunoshisu Maiku: Division Rap Battle: Rhyme Anima",
     "ref": "[ 238 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "47266",
+      "title_romaji": "Hypnosis Mic -Division Rap Battle- Rhyme Anima+",
+      "title_english": "Battle- Rhyme Anima Season 2",
+      "title_native": "ヒプノシスマイク-Division Rap Battle- Rhyme Anima +",
+      "description": "The second season of Hypnosis Mic: Division Rap Battle - Rhyme Anima.",
+      "cover_large": "https://media.kitsu.app/anime/47266/poster_image/large-0c5f243eb7049e8888682a5ef2ef1efc.jpeg",
+      "kitsu_year": 2023,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/hypnosis-mic-division-rap-battle-rhyme-anima-tv",
+      "genres": [
+        "Music",
+        "Action",
+        "Science Fiction"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-47266.jpg"
+    }
   },
   {
     "year": 2023,
@@ -7301,7 +8255,29 @@
     "director": "Akira Iwanaga",
     "original_title": "Saihate no Paladin: Tetsusabi no Yama no Ō",
     "ref": "[ 244 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "45657",
+      "title_romaji": "Saihate no Paladin: Tetsusabi no Yama no Ou",
+      "title_english": "The Faraway Paladin: The Lord of Rust Mountain",
+      "title_native": "最果てのパラディン 鉄錆の山の王",
+      "description": "The second season of Saihate no Paladin. Two years had passed since he left the City of the Dead, and Will was seventeen by count. As a lord, he developed \"Torch Port, a river port of light\", and gradually the people's activities and smiles returned to \"Beast Woods\". However, out-of-season flowers bloom profusely, and an abnormality is discovered in the forest. Will and his friends head into the depths of the forest to solve this problem, and receive an ominous prophecy from the king of the forest. \"In the Iron Rust Mountains, the 'Fire of Black Calamity' will occur. The fire will spread, or it will burn everything in this land.\" What is the calamity that sleeps in the ruined dwarven city of Tetsusabi Sanmyaku...!?",
+      "cover_large": "https://media.kitsu.app/anime/45657/poster_image/large-3a06a6460e9fdf45c173135b4025e66a.jpeg",
+      "kitsu_year": 2023,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/saihate-no-paladin-2",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Psychological",
+        "Mystery",
+        "Isekai"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-45657.jpg"
+    }
   },
   {
     "year": 2023,
@@ -7838,7 +8814,32 @@
     "director": "Shūhei Matsushita",
     "original_title": "",
     "ref": "[ 260 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "44289",
+      "title_romaji": "Dr.STONE: NEW WORLD",
+      "title_english": "Dr. Stone: New World",
+      "title_native": "Dr.STONE: NEW WORLD",
+      "description": "The third season of Dr. STONE. Senku and the Kingdom of Science sail to new lands to uncover more scientific secrets!",
+      "cover_large": "https://media.kitsu.app/anime/44289/poster_image/large-b16dad15cf91cf3b985fde4d63f30d9a.jpeg",
+      "kitsu_year": 2023,
+      "format": "TV",
+      "episodes": 11,
+      "site_url": "https://kitsu.io/anime/dr-stone-new-world",
+      "genres": [
+        "Future",
+        "Plot Continuity",
+        "Action",
+        "Science Fiction",
+        "Adventure",
+        "Comedy",
+        "Disaster",
+        "Post Apocalypse",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-44289.jpg"
+    }
   },
   {
     "year": 2023,
@@ -7853,7 +8854,28 @@
     "director": "Masaki Kitamura",
     "original_title": "Hōkago Shōnen Hanako-kun",
     "ref": "[ 261 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "47887",
+      "title_romaji": "Houkago Shounen Hanako-kun",
+      "title_english": "After-school Hanako-kun",
+      "title_native": "課後少年花子くん",
+      "description": "The ghostly Hanako-kun and his mortal assistant, Nene Yashiro, usually have their hands full resolving various supernatural incidents in Kamome Academy, but how do they spend their time when they get a break from all that?",
+      "cover_large": "https://media.kitsu.app/anime/47887/poster_image/large-c10a5fb1db486dfbe90515249ce99f20.jpeg",
+      "kitsu_year": 2023,
+      "format": "TV",
+      "episodes": 4,
+      "site_url": "https://kitsu.io/anime/houkago-shounen-hanako-kun",
+      "genres": [
+        "Ghost",
+        "Comedy",
+        "Slice of Life",
+        "Supernatural",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-47887.jpg"
+    }
   },
   {
     "year": 2023,
@@ -7989,7 +9011,25 @@
     "director": "",
     "original_title": "Jashin-chan wa Dropkick: Seikimatsu-hen",
     "ref": "[ 266 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "43611",
+      "title_romaji": "Jashin-chan Dropkick X",
+      "title_english": "Dropkick on My Devil!! X",
+      "title_native": "邪神ちゃんドロップキック",
+      "description": "The third season of Jashin-chan Dropkick.",
+      "cover_large": "https://media.kitsu.app/anime/43611/poster_image/large-52e619078f4680327704b0bb48bd1422.jpeg",
+      "kitsu_year": 2022,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/jashin-chan-dropkick-3",
+      "genres": [
+        "Comedy",
+        "Supernatural"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-43611.jpg"
+    }
   },
   {
     "year": 2023,
@@ -8019,7 +9059,25 @@
     "director": "Chiaki Kon",
     "original_title": "Gokushufudō",
     "ref": "[ 268 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "46542",
+      "title_romaji": "Gokushufudou Season 2",
+      "title_english": "The Way of the Househusband Season 2",
+      "title_native": "極主夫道 シーズン2",
+      "description": "Second season of Gokushufudou.",
+      "cover_large": "https://media.kitsu.app/anime/46542/poster_image/large-dc5b0c20328c46b54405a2cf1b91d67a.jpeg",
+      "kitsu_year": 2023,
+      "format": "ONA",
+      "episodes": 5,
+      "site_url": "https://kitsu.io/anime/gokushufudou-season-2",
+      "genres": [
+        "Comedy",
+        "Slice of Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-46542.jpg"
+    }
   },
   {
     "year": 2023,
@@ -8034,7 +9092,25 @@
     "director": "Katsuya Kikuchi",
     "original_title": "Tōtotsu ni Egypt Kami",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "44945",
+      "title_romaji": "Toutotsu ni Egypt Kami 2",
+      "title_english": "Oh, Suddenly Egyptian God 2",
+      "title_native": "とーとつにエジプト神 2",
+      "description": "The second season of Oh, Suddenly Egyptian God.",
+      "cover_large": "https://media.kitsu.app/anime/44945/poster_image/large-b21efcb32bbbf328eac12bff941f66c0.jpeg",
+      "kitsu_year": 2023,
+      "format": "ONA",
+      "episodes": 10,
+      "site_url": "https://kitsu.io/anime/toutotsu-ni-egypt-kami-2",
+      "genres": [
+        "Fantasy",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-44945.jpg"
+    }
   },
   {
     "year": 2023,
@@ -8120,7 +9196,30 @@
     "director": "Masao Ōkubo",
     "original_title": "Shūmatsu no Walküre",
     "ref": "[ 271 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "44988",
+      "title_romaji": "Shuumatsu no Walküre Season 2",
+      "title_english": "Record of Ragnarok Season 2",
+      "title_native": "終末のワルキューレ Season 2",
+      "description": "The second season of Record of Ragnarok",
+      "cover_large": "https://media.kitsu.app/anime/44988/poster_image/large-945dd2beb0cd57f4e46cf3d1638fa0eb.jpeg",
+      "kitsu_year": 2023,
+      "format": "ONA",
+      "episodes": 10,
+      "site_url": "https://kitsu.io/anime/shuumatsu-no-walkure-2",
+      "genres": [
+        "Deity",
+        "Super Power",
+        "Action",
+        "Fantasy",
+        "Drama",
+        "Supernatural",
+        "Seinen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-44988.jpg"
+    }
   },
   {
     "year": 2023,
@@ -8228,7 +9327,27 @@
     "director": "Rareko",
     "original_title": "",
     "ref": "[ 275 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "46540",
+      "title_romaji": "Aggressive Retsuko Season 5",
+      "title_english": "Aggretsuko: Season 5",
+      "title_native": "アグレッシブ烈子 シーズン5",
+      "description": "The fifth and final season of Aggressive Retsuko.",
+      "cover_large": "https://media.kitsu.app/anime/46540/poster_image/large-759e43f9abe90d8162409600a1d54019.jpeg",
+      "kitsu_year": 2023,
+      "format": "ONA",
+      "episodes": 10,
+      "site_url": "https://kitsu.io/anime/aggressive-retsuko-season-5",
+      "genres": [
+        "Music",
+        "Comedy",
+        "Slice of Life",
+        "Working Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-46540.jpg"
+    }
   },
   {
     "year": 2023,
@@ -8396,7 +9515,25 @@
     "director": "Osamu Yamasaki",
     "original_title": "Ansanburu sutāzu!! Tsuioku serekushon \"eremento\"",
     "ref": "[ 281 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "45519",
+      "title_romaji": "Ensemble Stars!!: Road to Show!!",
+      "title_english": "Ensemble Stars!!: Road to Show!!",
+      "title_native": "あんさんぶるスターズ！！-Road to Show!!-",
+      "description": null,
+      "cover_large": "https://media.kitsu.app/anime/45519/poster_image/large-b7106fdaf25ada7003793b315114f6eb.jpeg",
+      "kitsu_year": 2022,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/ensemble-stars-road-to-show",
+      "genres": [
+        "Idol",
+        "Slice of Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-45519.jpg"
+    }
   },
   {
     "year": 2023,
@@ -8444,7 +9581,26 @@
     "director": "Kenji Kamiyama Shinji Aramaki",
     "original_title": "",
     "ref": "[ 283 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "42384",
+      "title_romaji": "Ultraman 2",
+      "title_english": "Ultraman Season 2",
+      "title_native": null,
+      "description": "Several years have passed since the events of Ultraman, with the legendary \"Giant of Light\" (光の巨人 Hikari no Kyojin) now a memory, as it is believed he returned home after fighting the many giant aliens that invaded the Earth. Shin Hayata's son Shinjiro seems to possess a strange ability, and it is this ability, along with his father's revelation that he was Ultraman, that leads Shinjiro to battle the new aliens invading the Earth as the new Ultraman.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/42384/large.jpg",
+      "kitsu_year": 2022,
+      "format": "ONA",
+      "episodes": 6,
+      "site_url": "https://kitsu.io/anime/ultraman-season-2",
+      "genres": [
+        "Super Power",
+        "Power Suit",
+        "Action"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-42384.jpg"
+    }
   },
   {
     "year": 2023,
@@ -8528,7 +9684,25 @@
     "director": "Kazuya Iwata",
     "original_title": "Youjo Shachou R",
     "ref": "[ 286 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "46532",
+      "title_romaji": "Youjo Shachou R",
+      "title_english": "Cute Executive Officer R",
+      "title_native": "幼女社長 R",
+      "description": "Sequel of Youjo Shachou.",
+      "cover_large": "https://media.kitsu.app/anime/46532/poster_image/large-be3123d5cb8434cb1a4a8b99c996bf08.jpeg",
+      "kitsu_year": 2023,
+      "format": "ONA",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/youjo-shachou-r",
+      "genres": [
+        "Comedy",
+        "Working Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-46532.jpg"
+    }
   },
   {
     "year": 2023,
@@ -8573,7 +9747,33 @@
     "director": "Takaharu Ozaki",
     "original_title": "Bastard!! Ankoku no Hakaishin: Jigoku no Chinkonka-hen",
     "ref": "[ 289 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "45830",
+      "title_romaji": "BASTARD!!: Ankoku no Hakaishin",
+      "title_english": "BASTARD‼ -Heavy Metal, Dark Fantasy-",
+      "title_native": "BASTARD!! －暗黒の破壊神－",
+      "description": "In a post-apocalyptic world of heavy metal fantasy, the only thing able to save humans from orcs, lizardmen, and other monsters is something even MORE evil. Sealed within a 14-year-old boy, the chaotic wizard Dark Schneider is unleashed to fight four mighty generals and their plot to resurrect the evil god Anslasax!",
+      "cover_large": "https://media.kitsu.app/anime/45830/poster_image/large-1c29c9d6533a485396ecff1e3d959722.jpeg",
+      "kitsu_year": 2022,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/bastard-heavy-metal-dark-fantasy",
+      "genres": [
+        "Magic",
+        "Dark Fantasy",
+        "Violence",
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Ecchi",
+        "Revenge",
+        "Seinen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-45830.jpg"
+    }
   },
   {
     "year": 2023,
@@ -8621,7 +9821,28 @@
     "director": "Masami Ōbari",
     "original_title": "Kyōkai Senki: Kyokkō no Sōki",
     "ref": "[ 291 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "47528",
+      "title_romaji": "Kyoukai Senki: Kyokkou no Souki",
+      "title_english": "AMAIM Warrior at the Borderline",
+      "title_native": "境界戦機 極鋼ノ装鬼",
+      "description": "A new Kyoukai Senki project directed by Masami Oobari. After the end of the Hokuriku front, a new land for the Japanese people was created, governed by the New Japan Cooperation Organization. However, this did not dramatically improve the situation in Japan. The effective control of the various powers in the country continued, and the oppression of the Japanese people, though lessened, continued. The same is true of the isolated islands in the South Sea. The Oceania Army, which is in effective control of the island, and the resistance organization \"Hinukan\" that resists them. Then the North American forces attacks, aiming to take over the isolated island--.",
+      "cover_large": "https://media.kitsu.app/anime/47528/poster_image/large-67f895a7d7dbcc2672c15a44efb98b32.jpeg",
+      "kitsu_year": 2023,
+      "format": "ONA",
+      "episodes": 6,
+      "site_url": "https://kitsu.io/anime/kyoukai-senki-kyokkou-no-souki",
+      "genres": [
+        "Mecha",
+        "Science Fiction",
+        "Fantasy",
+        "War",
+        "Military"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-47528.jpg"
+    }
   },
   {
     "year": 2023,
@@ -8716,7 +9937,28 @@
     "director": "Seiji Kishi",
     "original_title": "",
     "ref": "[ 294 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "45990",
+      "title_romaji": "Kengan Ashura Season 2",
+      "title_english": "Kengan Ashura Season 2",
+      "title_native": "ケンガンアシュラ 2",
+      "description": "The second season of Kengan Ashura. The second round of the Kengan Life-or-Death Tournament continues — without Ohma. As the mighty gladiators clash, a shadowy figure plots a violent coup.",
+      "cover_large": "https://media.kitsu.app/anime/45990/poster_image/large-c642dcd939571c15db9b201bfa2d04bf.jpeg",
+      "kitsu_year": 2023,
+      "format": "ONA",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/kengan-ashura-2",
+      "genres": [
+        "Martial Arts",
+        "Violence",
+        "Action",
+        "Comedy",
+        "Sports"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-45990.jpg"
+    }
   },
   {
     "year": 2023,
@@ -8731,7 +9973,24 @@
     "director": "Miyuki Ishida",
     "original_title": "",
     "ref": "[ 295 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "47607",
+      "title_romaji": "I.CINNAMOROLL",
+      "title_english": null,
+      "title_native": null,
+      "description": "In Cinnamoroll's origin story, a white dog flew down from the skies one day and was discovered by a female Cafe Cinnamon worker. The \"I.Cinnamoroll\" brand depicts an alternate world that poses a what-if question: What if Cinnamoroll had not met the Cafe Cinnamon worker on that fateful day? The \"I\" in the title stands for both the English first-person pronoun \"I\" and the Japanese word \"ai\" (love), and it represents the brand's theme of taking care of one's own body and mind.",
+      "cover_large": "https://media.kitsu.app/anime/47607/poster_image/large-b6adcd77b86b365e5186bf65767770d1.jpeg",
+      "kitsu_year": 2023,
+      "format": "ONA",
+      "episodes": 105,
+      "site_url": "https://kitsu.io/anime/i-cinnamoroll",
+      "genres": [
+        "Kids"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-47607.jpg"
+    }
   },
   {
     "year": 2023,
@@ -8857,7 +10116,26 @@
     "director": "Atsushi Nakayama",
     "original_title": "Tensei shita Slime datta Ken: Coleus no Yume",
     "ref": "[ 299 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "45231",
+      "title_romaji": "Tensei Shitara Slime Datta Ken: Guren no Kizuna",
+      "title_english": "That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond",
+      "title_native": "劇場版 転生したらスライムだった件 紅蓮の絆編",
+      "description": "A long-running conspiracy is swirling over a mysterious power known as “Queen” in Raja, a small country west of Tempest. When a slime who evolved into a Demon Lord named Rimuru Tempest crosses paths with Hiiro, a survivor of the Ogre race, an incredible adventure packed with new characters begins. The power of bonds will be put to the test!",
+      "cover_large": "https://media.kitsu.app/anime/45231/poster_image/large-8c56a17eaf5e940d1cbfc949fa486718.jpeg",
+      "kitsu_year": 2022,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/tensei-shitara-slime-datta-ken-guren-no-kizuna",
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-45231.jpg"
+    }
   },
   {
     "year": 2023,
@@ -9031,7 +10309,26 @@
     "director": "Yūya Horiuchi",
     "original_title": "Niji yon animeshon",
     "ref": "[ 305 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "44537",
+      "title_romaji": "Love Live! Nijigasaki Gakuen School Idol Doukoukai 2",
+      "title_english": "Love Live! Nijigasaki High School Idol Club Season 2",
+      "title_native": "ラブライブ！虹ヶ咲学園スクールアイドル同好会 2",
+      "description": "The second season of Love Live! Nijigasaki Gakuen School Idol Doukoukai.",
+      "cover_large": "https://media.kitsu.app/anime/44537/poster_image/large-6dc3bd3e8db1a371b4fd6d7e78dda0f9.jpeg",
+      "kitsu_year": 2022,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/love-live-nijigasaki-gakuen-school-idol-doukoukai-2",
+      "genres": [
+        "Idol",
+        "School Clubs",
+        "Music"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-44537.jpg"
+    }
   },
   {
     "year": 2023,
@@ -9046,7 +10343,28 @@
     "director": "Masahiro Mukai",
     "original_title": "",
     "ref": "[ 306 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "47400",
+      "title_romaji": "Choujigen Game Neptune THE ANIMATION: Hidamari no Little Purple",
+      "title_english": null,
+      "title_native": "超次元ゲイム ネプテューヌ THE ANIMATION 陽だまりの茄花",
+      "description": "The third and final installment of the Neptune OVA Series Trilogy. Magiquone, with her secret plan against the goddesses, Level Trick, appear to challenge the battle. While their guard are down, Level Trick's \"Level-Down\" attack hit the four goddesses. But Magiquone is also caught up in the aftermath. Worried about their sisters' disappearance, Nepgear and the others go out to search for them, and found Noir and the other sisters, who had been transformed into young children as a result of the Level Down attack..., and only Neptune is still missing. Meanwhile, Magiquone and Neptune are running a vast eggplant farm. They, too, have been transformed into their younger form and lost their memories due to the effects of Level-Down. What will become of their strange shared life with their eternal nemesis...? (Source: Crunchyroll) Note: The OVA had an advance release on various streaming platforms in Japan, July 2022.",
+      "cover_large": "https://media.kitsu.app/anime/47400/poster_image/large-1c23bb45568f74f40060825a81bf212c.jpeg",
+      "kitsu_year": 2023,
+      "format": "OVA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/choujigen-game-neptune-the-animation-hidamari-no-little-purple",
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Comedy",
+        "Henshin",
+        "Supernatural"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-47400.jpg"
+    }
   },
   {
     "year": 2023,
@@ -9061,7 +10379,29 @@
     "director": "Hitomi Ezoe",
     "original_title": "Sutando mai hīrōzu WARMTH OF memorī",
     "ref": "[ 307 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "44543",
+      "title_romaji": "Stand My Heroes OVA",
+      "title_english": "Stand My Heroes OVA",
+      "title_native": "スタンドマイヒーローズ OVA",
+      "description": "The OVA will be based on the Narumi Seo character map story event that was featured in the smartphone game in April 2018. Seo, who has a unique memory disorder, will appear alongside other heroes of the Seo Research Laboratory in the OVA.",
+      "cover_large": "https://media.kitsu.app/anime/44543/poster_image/large-7dc3c095e43635abba38b898715adf0a.jpeg",
+      "kitsu_year": 2023,
+      "format": "OVA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/stand-my-heroes-ova",
+      "genres": [
+        "Action",
+        "Romance",
+        "Drama",
+        "Psychological",
+        "Mystery",
+        "Josei"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-44543.jpg"
+    }
   },
   {
     "year": 2023,
@@ -9076,7 +10416,31 @@
     "director": "Hiroshi Negishi (Chief) Takashi Asami",
     "original_title": "",
     "ref": "[ 308 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "47499",
+      "title_romaji": "Tenchi Muyou! GXP: Paradise Shidou-hen",
+      "title_english": "Tenchi Muyo! GXP Paradise Starting",
+      "title_native": "天地無用！GXP パラダイス始動編",
+      "description": "2022 marks the 30th anniversary of the original Tenchi Muyo! Ryo-Ohki OVA series and to celebrate, a brand new Tenchi Muyo! GXP anime series was announced. The new series, titled Tenchi Muyo! GXP Paradise Beginnings Arc, connects the 4th and 5th seasons of the series and will serve as an introduction to the Paradise War through the eyes of Seina Yamada.",
+      "cover_large": "https://media.kitsu.app/anime/47499/poster_image/large-306a176ef02a790b85b3a1b3f39bd623.jpeg",
+      "kitsu_year": 2023,
+      "format": "OVA",
+      "episodes": 6,
+      "site_url": "https://kitsu.io/anime/tenchi-muyou-gxp-paradise-shidou-hen",
+      "genres": [
+        "Space",
+        "Space Travel",
+        "Action",
+        "Science Fiction",
+        "Comedy",
+        "Harem",
+        "Space Battles",
+        "Mystery"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-47499.jpg"
+    }
   },
   {
     "year": 2023,
@@ -9091,7 +10455,26 @@
     "director": "Tomoyuki Kawamura",
     "original_title": "Love Live! Nijigasaki Gakuen School Idol Dōkōkai Next Sky",
     "ref": "[ 309 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "44537",
+      "title_romaji": "Love Live! Nijigasaki Gakuen School Idol Doukoukai 2",
+      "title_english": "Love Live! Nijigasaki High School Idol Club Season 2",
+      "title_native": "ラブライブ！虹ヶ咲学園スクールアイドル同好会 2",
+      "description": "The second season of Love Live! Nijigasaki Gakuen School Idol Doukoukai.",
+      "cover_large": "https://media.kitsu.app/anime/44537/poster_image/large-6dc3bd3e8db1a371b4fd6d7e78dda0f9.jpeg",
+      "kitsu_year": 2022,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/love-live-nijigasaki-gakuen-school-idol-doukoukai-2",
+      "genres": [
+        "Idol",
+        "School Clubs",
+        "Music"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-44537.jpg"
+    }
   },
   {
     "year": 2023,
@@ -9139,7 +10522,29 @@
     "director": "Tatsuya Ishihara",
     "original_title": "Tokubetsuhen Hibike! Euphonium: Ensemble Contest",
     "ref": "[ 311 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "42372",
+      "title_romaji": "Hibike! Euphonium: Kumiko 3 Nensei-hen",
+      "title_english": "Sound! Euphonium 3",
+      "title_native": "響け！ユーフォニアム3",
+      "description": "The third season of Hibike! Euphonium. Kumiko's third year finally begins! With the concert band at Kitauji High School over 90 members, Kumiko is now the president and does her best with her final high school club activities to try to win her long-desired gold at nationals.",
+      "cover_large": "https://media.kitsu.app/anime/42372/poster_image/large-c170c50130fa688c2223df5d386459c9.jpeg",
+      "kitsu_year": 2024,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/hibike-euphonium-kumiko-3-nensei-hen",
+      "genres": [
+        "Musical Band",
+        "School Clubs",
+        "Music",
+        "School Life",
+        "The Arts",
+        "Drama"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-42372.jpg"
+    }
   },
   {
     "year": 2023,

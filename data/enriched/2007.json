@@ -345,7 +345,28 @@
     "running_time": "102",
     "alt_title": "Eiga Kureyon shinchan arashi o yobu utau ketsu dake bakudan",
     "ref": "[ 3 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "5316",
+      "title_romaji": "Crayon Shin-chan Movie 16: Chou Arashi wo Yobu Kinpoko no Yuusha",
+      "title_english": null,
+      "title_native": "クレヨンしんちゃん ちょ～嵐を呼ぶ 金矛の勇者",
+      "description": "A comical fantasy adventure on a fight against invaders from another world. The ruler of dark world \"Don Kurai\", Dark, plots to dominate the human world. There is a legend about three treasures and a hero in Don Kurai, and Dark takes over one of the three treasures, a bell of copper, but a man sent other two treasures (a spear of gold and a shield of silver) to the human world. Shinnosuke falls into Dark's trap and opens the door between the human world and Don Kurai, but he becomes the hero selected by the spear of gold. With the power of a girl from Don Kurai, Mata Tami, the Nohara Family transform into various things and fight against Dark.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/5316/large.jpg",
+      "kitsu_year": 2008,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/crayon-shin-chan-movie-16-chou-arashi-wo-yobu-kinpoko-no-yuusha",
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Slice of Life",
+        "School Life",
+        "Kids"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-5316.jpg"
+    }
   },
   {
     "year": 2007,
@@ -443,7 +464,26 @@
     "running_time": "28",
     "alt_title": "Kino no tabi - the byūtifuru wārudo - byōki no kuni - For You -",
     "ref": "[ 3 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1970",
+      "title_romaji": "Kino no Tabi: The Beautiful World - Byouki no Kuni - For You",
+      "title_english": null,
+      "title_native": "キノの旅 -the Beautiful World- 病気の国 -For You-",
+      "description": "Kino travels to a country divided into two parts: the very clean and peaceful city, closed off from the surrounding wastelands. They meet a little girl in the city suffering from a disease which is constantly being researched. The girl, however, does not know just how the research is being done.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1970/large.jpg",
+      "kitsu_year": 2007,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/kino-no-tabi-the-beautiful-world-byouki-no-kuni-for-you",
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Steampunk"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1970.jpg"
+    }
   },
   {
     "year": 2007,
@@ -458,7 +498,33 @@
     "running_time": "86",
     "alt_title": "Gekijō-ban shakugan no shana",
     "ref": "[ 3 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2543",
+      "title_romaji": "Shakugan no Shana II (Second)",
+      "title_english": "Shakugan no Shana: Season II",
+      "title_native": "灼眼のシャナII –Second–",
+      "description": "The heated bond between Shana and Yuji is tested as their paranormal adventures continue. The Flame Haze fends off supernatural foes by night. By day, she contends with a classmate who's also after Yuji's heart. Emotions flare as a suspicious transfer student who resembles a recently defeated Denizen clings to Yuji. His training rises in intensity when they catch wind of a revered warrior in search of her lost lover—who will stop at nothing to extract the power keeping Yuji alive!",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2543/large.jpg",
+      "kitsu_year": 2007,
+      "format": "TV",
+      "episodes": 24,
+      "site_url": "https://kitsu.io/anime/shakugan-no-shana-ii-second",
+      "genres": [
+        "Super Power",
+        "Present",
+        "Earth",
+        "Demon",
+        "Contemporary Fantasy",
+        "Japan",
+        "Love Polygon",
+        "Plot Continuity",
+        "Asia",
+        "Action"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2543.jpg"
+    }
   },
   {
     "year": 2007,
@@ -627,7 +693,33 @@
     "running_time": "100",
     "alt_title": "Piano no mori The pāfekuto wārudo of Kai",
     "ref": "[ 4 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2358",
+      "title_romaji": "Piano no Mori",
+      "title_english": null,
+      "title_native": "ピアノの森 The Perfect World of Kai",
+      "description": "Amamiya Shuuhei moves from Tokyo to the country side due to his grandmother's bad health. His father is a famous pianist and Shuuhei has taken strict piano lessons since he was very young, aspiring to follow in his footsteps. In school, he is teased by his classmates and is dared to play the piano in the forest. This piano is said to be cursed: if you play it, no sound will come. After school, Ichinose Kai, a boy in the same class, takes Shuuhei to the forest. When Shuuhei tries to play he fails, but Kai plays a wonderful song. This is the beginning of a strong friendship, and a story of two very different boys developing their skills as musicians.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2358/large.jpg",
+      "kitsu_year": 2007,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/piano-no-mori",
+      "genres": [
+        "Present",
+        "Earth",
+        "Countryside",
+        "Japan",
+        "Plot Continuity",
+        "Music",
+        "Asia",
+        "Angst",
+        "Adventure",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2358.jpg"
+    }
   },
   {
     "year": 2007,
@@ -773,7 +865,33 @@
     "running_time": "93",
     "alt_title": "Gekijō-ban kuranado",
     "ref": "[ 4 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3461",
+      "title_romaji": "Batman: Gotham Knight",
+      "title_english": "Batman: Gotham Knight",
+      "title_native": "バットマン ゴッサムナイト",
+      "description": "Anime-inspired direct-to-DVD anthology film. Comprised of six short stories, from diverse creators, including Academy Award-nominated Josh Olsen (A History of Violence), Batman Begins writer David S. Goyer, and comics scribe Brian Azzarello. It's planned for a release window of two to four weeks prior to the release of The Dark Knight, and would bridge the gap between Batman Begins and The Dark Knight.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3461/large.jpg",
+      "kitsu_year": 2008,
+      "format": "OVA",
+      "episodes": 6,
+      "site_url": "https://kitsu.io/anime/batman-gotham-knight",
+      "genres": [
+        "Martial Arts",
+        "Gunfights",
+        "Present",
+        "Earth",
+        "Alternative Present",
+        "Violence",
+        "United States",
+        "Americas",
+        "Action",
+        "Adventure"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3461.jpg"
+    }
   },
   {
     "year": 2007,
@@ -788,7 +906,33 @@
     "running_time": "116",
     "alt_title": "Gekijō-ban akuerion - ippatsu gyakuten hen -",
     "ref": "[ 4 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1965",
+      "title_romaji": "Sousei no Aquarion OVA",
+      "title_english": null,
+      "title_native": "ＯＶＡ『創星のアクエリオン』",
+      "description": "In a distant future there is an organization called Deava which had to fight against the so called \"Shadow Angels\", creatures that had survived for over 12,000 years whose only purpose was to destroy humanity. Apollo, a seemingly normal human, was in fact the reincarnation of a fallen Angel called Apollonius, who in turn had to fight against Touma, a Shadow Angel, along with his comrades in order to prevent the destruction of the Earth.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1965/large.jpg",
+      "kitsu_year": 2007,
+      "format": "OVA",
+      "episodes": 2,
+      "site_url": "https://kitsu.io/anime/sousei-no-aquarion-ova",
+      "genres": [
+        "Angel",
+        "Super Power",
+        "Future",
+        "Earth",
+        "Mecha",
+        "Transforming Craft",
+        "Piloted Robot",
+        "Action",
+        "Science Fiction",
+        "Romance"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1965.jpg"
+    }
   },
   {
     "year": 2007,
@@ -1271,7 +1415,33 @@
     "director": "Riki Fukushima",
     "alt_title": "Mejā (dai 3 shirīzu)",
     "ref": "[ 2 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3358",
+      "title_romaji": "Initial D Battle Stage 2",
+      "title_english": null,
+      "title_native": "頭文字〈イニシャル〉D BATTLE STAGE 2",
+      "description": "This is simply the OAV summing up the major events and battles of \"Initial D 4th Stage\" much like the \"Initial D Battle Stage\" original summed up the first 3 seasons. Additionally, has 2 extra battles from the manga that were not incorporated into the original 4th Stage.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3358/large.jpg",
+      "kitsu_year": 2007,
+      "format": "OVA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/initial-d-battle-stage-2",
+      "genres": [
+        "Present",
+        "Earth",
+        "Japan",
+        "Motorsport",
+        "Street Racing",
+        "Asia",
+        "Action",
+        "Sports",
+        "Drifting",
+        "Seinen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3358.jpg"
+    }
   },
   {
     "year": 2007,
@@ -2082,7 +2252,30 @@
     "director": "Makoto Moriwaki",
     "alt_title": "Onegai maimerodi sukkiri ♪",
     "ref": "[ 3 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3474",
+      "title_romaji": "Onegai My Melody: Kuru Kuru Shuffle!",
+      "title_english": null,
+      "title_native": "おねがいマイメロディ くるくるシャッフル！",
+      "description": "A continuation of Onegai My Melody.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3474/large.jpg",
+      "kitsu_year": 2006,
+      "format": "TV",
+      "episodes": 52,
+      "site_url": "https://kitsu.io/anime/onegai-my-melody-kuru-kuru-shuffle",
+      "genres": [
+        "Magic",
+        "Present",
+        "Japan",
+        "Plot Continuity",
+        "Fantasy",
+        "Comedy",
+        "Slice of Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3474.jpg"
+    }
   },
   {
     "year": 2007,
@@ -2138,7 +2331,27 @@
     "director": "Yukio Kaizawa",
     "alt_title": "Gegege no kitarō (2007)",
     "ref": "[ 3 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1960",
+      "title_romaji": "Gegege no Kitarou (2007)",
+      "title_english": null,
+      "title_native": "ゲゲゲの鬼太郎 (2007)",
+      "description": "The classic tale of Gegege no Kitaro told yet again. The story is the usual in the Gegege no Kitaro series. Kitaro is a boy living in the Gegege Forest/Cemetery (lands where many Yokai roam) with his mostly dead father (who survives only in his eye), Sunakake Babaa, NekoMusume, and Konaki Jiji. One difference between this Kitaro and all of the others that came before him, is that this one has brown hair instead of the standard grayish silver.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1960/large.jpg",
+      "kitsu_year": 2007,
+      "format": "TV",
+      "episodes": 100,
+      "site_url": "https://kitsu.io/anime/gegege-no-kitarou-2007",
+      "genres": [
+        "Demon",
+        "Fantasy",
+        "Horror",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1960.jpg"
+    }
   },
   {
     "year": 2007,
@@ -2488,7 +2701,31 @@
     "director": "Nanako Shimazaki",
     "alt_title": "Seinto bīsuto ~ kōin jojishi tenshi Tan ~",
     "ref": "[ 3 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1949",
+      "title_romaji": "Saint Beast: Kouin Jojishi Tenshi Tan",
+      "title_english": null,
+      "title_native": "セイント・ビースト～光陰叙事詩天使譚～",
+      "description": "A long time ago, Zeus, the great god, created a three–tier hierarchy of angels, top, middle and lower, although they were supposed to be equal. Also, Zeus appointed 6 angels as Saint Beasts who govern the animals of Earth. They were: Go, the seiyu; Shin, the genbu; Rei, the suzaku; Guy, the byakko; Yuda, the kirin; and Ruka, the hooh. However, Kira, the shooting star, and Maya, the fuga, didn’t attend the selection tests and left for the Earth. The six angels fulfilled their tasks faithfully. However, because of Zeus’s increasingly tyrannical acts, they begin to mistrust him.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1949/large.jpg",
+      "kitsu_year": 2007,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/saint-beast-kouin-jojishi-tenshi-tan",
+      "genres": [
+        "Bishounen",
+        "Magic",
+        "Angel",
+        "Super Power",
+        "Earth",
+        "Shounen Ai",
+        "Action",
+        "Fantasy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1949.jpg"
+    }
   },
   {
     "year": 2007,
@@ -3179,7 +3416,33 @@
     "director": "Kōnosuke Uda",
     "alt_title": "Rabu ★ kon",
     "ref": "[ 3 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1833",
+      "title_romaji": "Lovely★Complex",
+      "title_english": "Lovely Complex",
+      "title_native": "ラブ★コン",
+      "description": "Love is unusual for Koizumi Risa and Ootani Atsushi, who are both striving to find their ideal partner in high school—172 cm tall Koizumi is much taller than the average girl, and Ootani is much shorter than the average guy at 156 cm. To add to their plights, their crushes fall in love with each other, leaving Koizumi and Ootani comically flustered and heartbroken. To make matters worse, they're even labeled as a comedy duo by their homeroom teacher due to their personalities and the stark difference in their heights, and their classmates even think of their arguments as sketches. Lovely★Complex follows Koizumi and Ootani as they encourage each other in finding love and become close friends. Apart from their ridiculous antics, they soon find out an unexpected similarity in their music and fashion tastes. Maybe they possess a chemistry yet unknown, but could love ever bloom between the mismatched pair?",
+      "cover_large": "https://media.kitsu.app/anime/1833/poster_image/large-892da306ae6f1ec03daefae58c45138b.jpeg",
+      "kitsu_year": 2007,
+      "format": "TV",
+      "episodes": 24,
+      "site_url": "https://kitsu.io/anime/lovely-complex",
+      "genres": [
+        "High School",
+        "Present",
+        "Earth",
+        "Super Deformed",
+        "Slapstick",
+        "Japan",
+        "Plot Continuity",
+        "Asia",
+        "Comedy",
+        "Romance"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1833.jpg"
+    }
   },
   {
     "year": 2007,
@@ -3511,7 +3774,33 @@
     "director": "Tsuneo Kobayashi",
     "alt_title": "Eikoku koi monogatari ema ~ merudāsu-hen ~",
     "ref": "[ 3 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1834",
+      "title_romaji": "Eikoku Koi Monogatari Emma: Molders-hen",
+      "title_english": "Emma: A Victorian Romance Season Two",
+      "title_native": "英國戀物語エマ ～メルダース編～",
+      "description": "In the faraway village of Haworth, a new chapter in Emma's life has begun. Now employed by the wealthy Molders family, Emma has resolved to put the past behind her. She'll have to adjust to a new house, a charming (but eccentric) new mistress, and a host of fellow servants, some with buried pasts of their own. Meanwhile, back in London, William is doing his best to uphold his father's wishes as the Jones family heir, but try as he might, he can't forget Emma. Yet, whenever he feels at his worst, Eleanor is always there to comfort him with a warm, shy smile. Could the answer to his broken heart be right before his eyes?",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1834/large.jpg",
+      "kitsu_year": 2007,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/eikoku-koi-monogatari-emma-molders-hen",
+      "genres": [
+        "Maid",
+        "Past",
+        "Earth",
+        "Historical",
+        "Victorian Period",
+        "Plot Continuity",
+        "United Kingdom",
+        "Europe",
+        "Romance",
+        "Slice of Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1834.jpg"
+    }
   },
   {
     "year": 2007,
@@ -3883,7 +4172,33 @@
     "director": "Toshiyuki Katō",
     "alt_title": "CODE-E",
     "ref": "[ 4 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2329",
+      "title_romaji": "Code-E",
+      "title_english": null,
+      "title_native": "CODE-E",
+      "description": "Chinami Ebihara is girl with a strange ability to generate electromagnetic waves when her emotions run high. However, since this \"ability\" affects anything electrical, it resulted in her having to transfer from school to school when she was younger. As Chinami, now 18 years of age, transfers to a new school, she once again affects the electronic devices in the school, but this time, when another student, Kotaro Kannagi, sees her do this, he becomes obsessed in studying her \"TYPE-E\" ability.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2329/large.jpg",
+      "kitsu_year": 2007,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/code-e",
+      "genres": [
+        "High School",
+        "Super Power",
+        "Earth",
+        "Japan",
+        "Love Polygon",
+        "Asia",
+        "Action",
+        "Angst",
+        "Science Fiction",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2329.jpg"
+    }
   },
   {
     "year": 2007,
@@ -3936,7 +4251,33 @@
     "director": "Shigeyuki Miya",
     "alt_title": "Buzā bītā dai 2-ki",
     "ref": "[ 4 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2446",
+      "title_romaji": "Buzzer Beater 2nd Season",
+      "title_english": null,
+      "title_native": "BUZZER BEATER 第2期",
+      "description": "After being drafted into the Earth Team, a basketball team comprised solely of humans, street-punk-turned-pro Hideyoshi couldn't be more cocky. The team is still up against the Gorons, a physically superior race of aliens who have dominated the game for some time. New challenges and problems stand in their way. Hideyoshi is unhappy with the team and the Gorons have new tricks up their sleeves.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2446/large.jpg",
+      "kitsu_year": 2007,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/buzzer-beater-2007",
+      "genres": [
+        "Alien",
+        "Future",
+        "Earth",
+        "Space Travel",
+        "Other Planet",
+        "Basketball",
+        "Humanoid Alien",
+        "Plot Continuity",
+        "Action",
+        "Angst"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2446.jpg"
+    }
   },
   {
     "year": 2007,
@@ -4119,7 +4460,33 @@
     "director": "Chiaki Kon",
     "alt_title": "Higurashi no naku koro ni: kai",
     "ref": "[ 4 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "831",
+      "title_romaji": "Higurashi no Naku Koro ni",
+      "title_english": "When They Cry",
+      "title_native": "ひぐらしのなく頃に",
+      "description": "Keiichi Maebara has just moved to the quiet little village of Hinamizawa in the summer of 1983, and quickly becomes inseparable friends with schoolmates Rena Ryuuguu, Mion Sonozaki, Satoko Houjou, and Rika Furude. However, darkness lurks underneath the seemingly idyllic life they lead. As the village prepares for its annual festival, Keiichi learns about the local legends surrounding it. To his horror, he discovers that there have been several murders and disappearances in the village in the recent years, and that they all seem to be connected to the festival and the village's patron god, Oyashiro. Keiichi tries to ask his new friends about these incidents, but they are suspiciously silent and refuse to give him the answers he needs. As more and more bizarre events occur, he wonders just what else his friends might be keeping from him, and if he can even trust them at all. When madness and paranoia begin taking root in Keiichi's heart, he will stumble straight into the mysteries at work in Higurashi no Naku Koro ni, a story that is told across multiple arcs. [Written by MAL Rewrite]",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/831/large.jpg",
+      "kitsu_year": 2006,
+      "format": "TV",
+      "episodes": 26,
+      "site_url": "https://kitsu.io/anime/higurashi-no-naku-koro-ni",
+      "genres": [
+        "Past",
+        "Earth",
+        "Japan",
+        "Violence",
+        "Plot Continuity",
+        "Asia",
+        "Angst",
+        "Horror",
+        "Thriller",
+        "Drama"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-831.jpg"
+    }
   },
   {
     "year": 2007,
@@ -5197,7 +5564,30 @@
     "director": "Waruo Suzuki",
     "alt_title": "Deyueru masutāzu zero",
     "ref": "[ 5 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3611",
+      "title_romaji": "Zero Duel Masters",
+      "title_english": null,
+      "title_native": "ゼロ デュエル・マスターズ",
+      "description": "It is featured in an alternate universe where Shobu had lost his duel against Hakuoh in their duel back in the Season 1 episode \"Just Duel It\". A mysterious organization is interested in fledgling duelist Shobu Kirifuda's ability to bring Duel Master creatures to life. With the support of his friends, Shobu duels with passion, discipline, and heart as he strives to be like his father and become the next Kaijudo master.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3611/large.jpg",
+      "kitsu_year": 2007,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/zero-duel-masters",
+      "genres": [
+        "Earth",
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Proxy Battles",
+        "Sports",
+        "Card Games"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3611.jpg"
+    }
   },
   {
     "year": 2007,
@@ -6068,7 +6458,32 @@
     "director": "Hidehito Ueda",
     "alt_title": "Ma kyūseishu densetsu hokuto no kobushi Yuria Den",
     "ref": "[ 2 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1593",
+      "title_romaji": "Hokuto no Ken: Raoh Gaiden Junai-hen",
+      "title_english": "Fist of the North Star: Raoh Side Story Junai Arc",
+      "title_native": "真救世主伝説 北斗の拳 ラオウ伝 殉愛の章",
+      "description": "Kenshiro is the heir of the legendary martial arts known as Hokuto Shinken, which can kill a man with a single blow, by striking the pressure points in the enemy's body. Hokuto Shinken can be passed only to one successor at a time. When he was chosen as the successor, he parted ways with his brothers, Toki and Raoh. The former decided to use what he knew of the art to cure people... while the latter has chosen to use his supreme strength to install peace in the world by power. Kenshiro is accompanied by Lynn and Bart, and the movie's story begins when an overlord starts kidnapping children to use them as slaves for building his own pyramid...",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1593/large.jpg",
+      "kitsu_year": 2006,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/hokuto-no-ken-raoh-gaiden-junai-hen",
+      "genres": [
+        "Martial Arts",
+        "Super Power",
+        "Earth",
+        "Violence",
+        "Action",
+        "Adventure",
+        "Dystopia",
+        "Drama",
+        "Post Apocalypse"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1593.jpg"
+    }
   },
   {
     "year": 2007,
@@ -6083,7 +6498,30 @@
     "director": "Takuya Satō",
     "alt_title": "Ichigo mashimaro ovu~a",
     "ref": "[ 2 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1698",
+      "title_romaji": "Ichigo Mashimaro OVA",
+      "title_english": "Strawberry Marshmallow OVA",
+      "title_native": "苺ましまろ OVA",
+      "description": "Based on Barasui's manga series, Ichigo Mashimaro follows the life of Nobue Itou, her younger sister Chika, and her friends. The basic premise of the show can be summed up in \"cute girls do cute things in cute ways\", be it trying to quit smoking, going outside to play, celebrating a holiday, or doing school work. This OVA picks up where the series left off, continuing the adventures of your everyday life, only cuter.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1698/large.jpg",
+      "kitsu_year": 2007,
+      "format": "OVA",
+      "episodes": 3,
+      "site_url": "https://kitsu.io/anime/ichigo-mashimaro-ova",
+      "genres": [
+        "Present",
+        "Earth",
+        "Japan",
+        "Asia",
+        "Comedy",
+        "Slice of Life",
+        "School Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1698.jpg"
+    }
   },
   {
     "year": 2007,
@@ -6128,7 +6566,28 @@
     "director": "Kōichi Ōhata",
     "alt_title": "Ekusupurōdingu enjeru - Infinity -",
     "ref": "[ 2 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1996",
+      "title_romaji": "Bakuretsu Tenshi: Infinity",
+      "title_english": "Burst Angel: Infinity",
+      "title_native": "爆裂天使 -Infinity-",
+      "description": "These events occur in Westland, New York, during the 21st century. With a sharp knife, a murderer is indiscriminately killing people… A girl witnesses one of these murders, and the knife is turned on the helpless girl shaking with fear. Meg returns to this town with Joe to celebrate the “birthday” of Shirley, who used to live with Meg. Orphans, they had decided that the day they first met would be her birthday. In the past, Meg had taken care of three little children, including Shirley, just before meeting Joe. The children were then adopted by a police officer, Sam. He possessed a strong sense of justice and they are supposedly living happily together now. Meg and Joe happen to help a person and receive a reward. They buy a present for Shirley with the reward money and go to meet Sam. However, they notice him acting strangely. Upon questioning him, he explains that Shirley was assaulted by a murderer and seriously injured. Joe says to the grieving and angry Meg, “Let's exact revenge on the murderer for Shirley.” However, the murderer gradually approaches them from behind. The cruel black eyes fall on Meg and Joe… To make matters worse, a dark plot casts its shadow over Meg, Joe, Sam, and the whole town.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1996/large.jpg",
+      "kitsu_year": 2007,
+      "format": "OVA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/bakuretsu-tenshi-infinity",
+      "genres": [
+        "Gunfights",
+        "Mecha",
+        "Action",
+        "Science Fiction",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1996.jpg"
+    }
   },
   {
     "year": 2007,
@@ -6359,7 +6818,33 @@
     "director": "Makoto Kobayashi",
     "alt_title": "Aisu - aisu -",
     "ref": "[ 3 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1964",
+      "title_romaji": "Ice",
+      "title_english": null,
+      "title_native": "ICE - アイス -",
+      "description": "By A.D. 2010, all men have died off quickly due to a dramatic change in the environment and an unknown contaminant. The population decreased to the lowest number ever seen...until only the women were left alive. They live huddled in small corners of a world mostly reclaimed by nature. There are those who accept their inevitable extinction and live a carefree life... There are those who try to continue on the race with the help of science... It is a society of constant conflict over their differences of principles and policies. The story takes place in the center of Tokyo. It is one of the places left for them. The conflict over the specimen of \"ICE\" and the chance it may provide to save humanity begins.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1964/large.jpg",
+      "kitsu_year": 2007,
+      "format": "OVA",
+      "episodes": 3,
+      "site_url": "https://kitsu.io/anime/ice",
+      "genres": [
+        "Future",
+        "Earth",
+        "Japan",
+        "Tokyo",
+        "Violence",
+        "Shoujo Ai",
+        "Asia",
+        "Action",
+        "Science Fiction",
+        "Anti War"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1964.jpg"
+    }
   },
   {
     "year": 2007,
@@ -6676,7 +7161,33 @@
     "director": "Tsutomu Mizushima",
     "alt_title": "Bokusatsu tenshido kuro-chan 2 [sekando]",
     "ref": "[ 4 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1928",
+      "title_romaji": "Bokusatsu Tenshi Dokuro-chan 2",
+      "title_english": "Bludgeoning Angel Dokuro-chan 2",
+      "title_native": "撲殺天使ドクロちゃん2[セカンド]",
+      "description": "The life of the once ordinary middle school student Sakura Kusakabe changed when an angel by the name of Dokuro-chan moved into his house. This heartwarming story of love, desire and... bloodshed continues as Sakura's normal everyday life slowly crumbles into a bloody mess.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1928/large.jpg",
+      "kitsu_year": 2007,
+      "format": "OVA",
+      "episodes": 2,
+      "site_url": "https://kitsu.io/anime/bokusatsu-tenshi-dokuro-chan-2",
+      "genres": [
+        "Magic",
+        "Angel",
+        "Present",
+        "Earth",
+        "Contemporary Fantasy",
+        "Slapstick",
+        "Japan",
+        "Violence",
+        "Violent Retribution For Accidental Infringement",
+        "Asia"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1928.jpg"
+    }
   },
   {
     "year": 2007,
@@ -7183,7 +7694,31 @@
     "director": "Hideki Takayama",
     "alt_title": "Kimi ga nozomu eien ~ Next sezon ~",
     "ref": "[ 5 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2932",
+      "title_romaji": "Kimi ga Nozomu Eien: Next Season",
+      "title_english": "Rumbling Hearts OVA",
+      "title_native": "君が望む永遠 OVA",
+      "description": "After Haruka Suzumiya got out from the hospital from her three years of coma. She moved back to with her parents and continued to date Takayuki Narumi. She wanted to see her old friend Mitsuki Hayase who Takayuki Narumi dated while she was in coma.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2932/large.jpg",
+      "kitsu_year": 2007,
+      "format": "OVA",
+      "episodes": 4,
+      "site_url": "https://kitsu.io/anime/kimi-ga-nozomu-eien-next-season",
+      "genres": [
+        "Present",
+        "Earth",
+        "Japan",
+        "Love Polygon",
+        "Asia",
+        "Romance",
+        "Slice of Life",
+        "Coming Of Age"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2932.jpg"
+    }
   },
   {
     "year": 2007,

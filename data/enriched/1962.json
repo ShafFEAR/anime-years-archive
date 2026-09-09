@@ -10,7 +10,26 @@
     "type": "Movie",
     "demographic": "Family, Children",
     "regions": "JA, NA, EU",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "5123",
+      "title_romaji": "Arabian Nights: Sindbad no Bouken",
+      "title_english": "Arabian Nights: Sinbad's Adventures",
+      "title_native": "アラビアンナイト　シンドバッドの冒険",
+      "description": "This is a work by Toei Animation Co., Ltd. with screenplay by Tezuka Osamu in cooperation with novelist Kita Morio. Sinbad and a boy, Ali, are stowaways on the transport ship \"Boulder,\" but they win their proper places on the ship after currying the favor of the captain. Then the beautiful princess Samir jumps on board to escape a wicked minister who wants to marry her, and Sinbad goes through a series of adventures to protect the princess. The story unfolds with ups and downs, full of dramatic episodes from the original story such as a rough-and-tumble battle with a strange bird that is guarding diamonds.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/5123/large.jpg",
+      "kitsu_year": 1962,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/arabian-nights-sindbad-no-bouken",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-5123.jpg"
+    }
   },
   {
     "year": 1962,
@@ -36,7 +55,24 @@
     "type": "Short",
     "demographic": "General",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "4803",
+      "title_romaji": "Ningen Doubutsuen",
+      "title_english": "Clap Vocalism",
+      "title_native": "人間動物園",
+      "description": "A story about a human zoo.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/4803/large.jpg",
+      "kitsu_year": 1962,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/ningen-doubutsuen",
+      "genres": [
+        "Dementia"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-4803.jpg"
+    }
   },
   {
     "year": 1962,
@@ -49,7 +85,24 @@
     "type": "Short",
     "demographic": "General",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1784",
+      "title_romaji": "Osu",
+      "title_english": "Male",
+      "title_native": "おす",
+      "description": "A cat just wants some alone time with his girl, but is interrupted by his stressed owner. Can't those stupid humans just keep things like relationships simple?",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1784/large.jpg",
+      "kitsu_year": 1962,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/osu",
+      "genres": [
+        "Slice of Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1784.jpg"
+    }
   },
   {
     "year": 1962,
@@ -122,6 +175,25 @@
     "type": "Movie",
     "demographic": "General",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1343",
+      "title_romaji": "Aru Machi Kado no Monogatari",
+      "title_english": "Tales of the Street Corner",
+      "title_native": "ある街角の物語",
+      "description": "The scene is set with a poster on a street corner, a girl who cherishes her teddy bear, a street lamp and a playful moth that is drawn to the lamp. These creatures and inanimate objects, each with their own dramas, get involved in a war and the story ends in a tragic climax. This is a private animated piece that expresses feelings rather than telling a story. It can be said that Tezuka Osamu, frustrated with working for big companies, made an attempt here to depict what he really wanted in his animation. This work illustrates that even a poster on the wall can have a vivid drama behind it, and brings the magic of animation alive for us.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1343/large.jpg",
+      "kitsu_year": 1962,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/aru-machi-kado-no-monogatari",
+      "genres": [
+        "Earth",
+        "Music",
+        "Romance"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1343.jpg"
+    }
   }
 ]

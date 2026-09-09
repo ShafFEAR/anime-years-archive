@@ -10,7 +10,30 @@
     "type": "TV",
     "demographic": "Shōnen",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "4246",
+      "title_romaji": "Gegege no Kitarou (1968)",
+      "title_english": null,
+      "title_native": "ゲゲゲの鬼太郎",
+      "description": "Kitarou, a ghost, spends his afterlife helping humans in need of his skills. He thwarts the plans of evil spirits who live to torment humanity.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/4246/large.jpg",
+      "kitsu_year": 1968,
+      "format": "TV",
+      "episodes": 65,
+      "site_url": "https://kitsu.io/anime/gegege-no-kitarou-1968",
+      "genres": [
+        "Present",
+        "Contemporary Fantasy",
+        "Japan",
+        "Fantasy",
+        "Adventure",
+        "Horror",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-4246.jpg"
+    }
   },
   {
     "year": 1968,
@@ -23,7 +46,25 @@
     "type": "TV",
     "demographic": "Shōnen",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "6674",
+      "title_romaji": "Wanpaku Tanteidan",
+      "title_english": null,
+      "title_native": "わんぱく探偵団",
+      "description": "A group of young boys (plus a token girl and her little brother, the obligatory brat) form a detective club, pooling their talents for brain, brawn, invention, and driving skills to solve crimes in Tokyo. Much to the consternation of police chief Nakamura, they often succeed where the professionals fail.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/6674/large.jpg",
+      "kitsu_year": 1968,
+      "format": "TV",
+      "episodes": 35,
+      "site_url": "https://kitsu.io/anime/wanpaku-tanteidan",
+      "genres": [
+        "Action",
+        "Mystery"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-6674.jpg"
+    }
   },
   {
     "year": 1968,
@@ -100,7 +141,24 @@
     "type": "TV",
     "demographic": "Shōnen",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "9190",
+      "title_romaji": "Animal 1",
+      "title_english": null,
+      "title_native": "アニマル１",
+      "description": "Ichirou Azuma, a young amateur wrestler, wants to participate in the Olympics Games in Mexico.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/9190/large.jpg",
+      "kitsu_year": 1968,
+      "format": "TV",
+      "episodes": 27,
+      "site_url": "https://kitsu.io/anime/animal-1",
+      "genres": [
+        "Sports"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-9190.jpg"
+    }
   },
   {
     "year": 1968,
@@ -113,7 +171,28 @@
     "type": "TV",
     "demographic": "Shōnen, Shōjo",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3741",
+      "title_romaji": "Cyborg 009 (TV)",
+      "title_english": "Cyborg 009",
+      "title_native": "サイボーグ009",
+      "description": "They fight against evil, they help those in need, they're the Cyborg fighters! Together with the scientist Dr. Gilmore, this team of nine cyborgs use their special body modifications to fight against a seemingly endless barrage of enemies, including robotic crabs, aliens, and fellow cyborgs. Each cyborg has his own special power, which they use in their fight against evil. Titular character 009 (aka Hurricane Joe, the famous race car driver) leads the team with his superhuman strength, resistance to bullets, and ability to accelerate through time. His teammates fight by his side to save humanity from falling into evil hands. The team in Cyborg 009 faces many enemies and stops countless threats to their hometown, and even to Earth. No matter what, justice will be served.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3741/large.jpg",
+      "kitsu_year": 1968,
+      "format": "TV",
+      "episodes": 26,
+      "site_url": "https://kitsu.io/anime/cyborg-009",
+      "genres": [
+        "Cyborg",
+        "Mecha",
+        "Action",
+        "Science Fiction",
+        "Adventure"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3741.jpg"
+    }
   },
   {
     "year": 1968,
@@ -193,7 +272,26 @@
     "type": "TV",
     "demographic": "Shōnen",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2813",
+      "title_romaji": "Kaibutsu-kun",
+      "title_english": null,
+      "title_native": "怪物くん",
+      "description": "The prince of Kaibutsu Land, Kaibutsu-kun, decides to go to the human world as part of his training to become the King.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2813/large.jpg",
+      "kitsu_year": 1968,
+      "format": "TV",
+      "episodes": 49,
+      "site_url": "https://kitsu.io/anime/kaibutsu-kun",
+      "genres": [
+        "Fantasy",
+        "Horror",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2813.jpg"
+    }
   },
   {
     "year": 1968,
@@ -240,7 +338,30 @@
     "type": "Movie",
     "demographic": "Shōnen",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "4246",
+      "title_romaji": "Gegege no Kitarou (1968)",
+      "title_english": null,
+      "title_native": "ゲゲゲの鬼太郎",
+      "description": "Kitarou, a ghost, spends his afterlife helping humans in need of his skills. He thwarts the plans of evil spirits who live to torment humanity.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/4246/large.jpg",
+      "kitsu_year": 1968,
+      "format": "TV",
+      "episodes": 65,
+      "site_url": "https://kitsu.io/anime/gegege-no-kitarou-1968",
+      "genres": [
+        "Present",
+        "Contemporary Fantasy",
+        "Japan",
+        "Fantasy",
+        "Adventure",
+        "Horror",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-4246.jpg"
+    }
   },
   {
     "year": 1968,
@@ -253,7 +374,26 @@
     "type": "TV",
     "demographic": "Shōnen",
     "regions": "JA, EU",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "4401",
+      "title_romaji": "Sasuke",
+      "title_english": null,
+      "title_native": "サスケ",
+      "description": "Sasuke is the son of a very skilled ninja, whose name is Ozaru. After the defeat of their lord, Yukimura Sanada, Tokugawa's and Hattori's ninjas begin to persecute all their enemies still alive: that means Ozaru and Sasuke must leave their house and start a violent struggle for their own life. Danger, vengeance, anger, loyalty, pain are the basic elements of this story, where the worst aspects of the human soul are described together with the growth of the main character, the young Sasuke.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/4401/large.jpg",
+      "kitsu_year": 1968,
+      "format": "TV",
+      "episodes": 29,
+      "site_url": "https://kitsu.io/anime/sasuke",
+      "genres": [
+        "Martial Arts",
+        "Historical",
+        "Action"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-4401.jpg"
+    }
   },
   {
     "year": 1968,
@@ -412,7 +552,24 @@
     "type": "Short",
     "demographic": "General",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3035",
+      "title_romaji": "Souseiki",
+      "title_english": "The Genesis",
+      "title_native": "創世記",
+      "description": "This is a short film parodying the major Hollywood film \"The Creation\" directed by John Houston. This film has the look of a tongue-in-cheek production, done on a small budget by animators who wanted to make fun of great works that cost enormous sums of money.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3035/large.jpg",
+      "kitsu_year": 1968,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/souseiki",
+      "genres": [
+        "Parody"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3035.jpg"
+    }
   },
   {
     "year": 1968,
@@ -425,7 +582,24 @@
     "type": "Special",
     "demographic": "Shōnen",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "6516",
+      "title_romaji": "Dororo Pilot",
+      "title_english": null,
+      "title_native": "どろろ",
+      "description": "Before producing a TV series, a pilot film was made to let sponsors and television stations grasp the work's pervasive quality. This is the pilot film for \"Dororo\" in which the characters are closer to those of the original story compared to the characters in the TV series. The faces and personalities of the characters in the TV series are altered from time to time to gain popularity among its viewers. As a result, sometimes viewers really loved it, but at other times it didn't go over as well. The pilot for \"Dororo\" was made in color, but the TV series was monochrome due to a tighter budget. The story depicts a journey in which the boy thief named Dororo and a cursed man called Hyakkimaru destroy monsters. Hyakkimaru can be a complete \"human\" only after he destroys 48 devils.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/6516/large.jpg",
+      "kitsu_year": 1968,
+      "format": "special",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/dororo-pilot",
+      "genres": [
+        "Action"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-6516.jpg"
+    }
   },
   {
     "year": 1968,
@@ -438,7 +612,26 @@
     "type": "Short",
     "demographic": "General",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "4843",
+      "title_romaji": "Kemeko no Love",
+      "title_english": null,
+      "title_native": "ケメ子のLOVE",
+      "description": "Experimental short film from Yoji Kuri.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/4843/large.jpg",
+      "kitsu_year": 1968,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/love-of-kemoko",
+      "genres": [
+        "Music",
+        "Comedy",
+        "Romance"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-4843.jpg"
+    }
   },
   {
     "year": 1968,
@@ -451,7 +644,26 @@
     "type": "Short",
     "demographic": "General",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "4843",
+      "title_romaji": "Kemeko no Love",
+      "title_english": null,
+      "title_native": "ケメ子のLOVE",
+      "description": "Experimental short film from Yoji Kuri.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/4843/large.jpg",
+      "kitsu_year": 1968,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/love-of-kemoko",
+      "genres": [
+        "Music",
+        "Comedy",
+        "Romance"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-4843.jpg"
+    }
   },
   {
     "year": 1968,
@@ -464,7 +676,24 @@
     "type": "Short",
     "demographic": "General",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "4914",
+      "title_romaji": "Hanaori",
+      "title_english": "The Breaking of Branches is Forbidden",
+      "title_native": "花折り",
+      "description": "The head monk orders a young acolyte to guard a beautiful cherry tree in the monastery garden while he goes out. But the older man underestimates his colleague’s fondness for sake. As it so happens, a samurai warrior and his servant decide to have a picnic feast in the same garden under the blossoming tree. The acolyte refuses to let them in, but when he smells their sake, his determination is put to the test.... Made in 1968, director Kawamoto’s first puppet film is a moral tale about a disciple who was justly punished for a momentary lapse.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/4914/large.jpg",
+      "kitsu_year": 1968,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/hanaori",
+      "genres": [
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-4914.jpg"
+    }
   },
   {
     "year": 1968,
@@ -477,6 +706,23 @@
     "type": "Short",
     "demographic": "Children",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "6881",
+      "title_romaji": "Ojiichan ga Kaizoku Datta Koro",
+      "title_english": null,
+      "title_native": "おじいちゃんが海賊だった頃",
+      "description": "Puppet animation by Tadanari Okamoto.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/6881/large.jpg",
+      "kitsu_year": 1968,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/ojii-chan-ga-kaizoku-datta-koro",
+      "genres": [
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-6881.jpg"
+    }
   }
 ]

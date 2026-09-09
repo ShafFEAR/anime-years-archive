@@ -75,7 +75,25 @@
     "type": "Movie",
     "demographic": "Shōnen",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "9414",
+      "title_romaji": "Kyojin no Hoshi: Dai League Ball",
+      "title_english": null,
+      "title_native": "巨人の星 大リーグボール",
+      "description": "Third Kyojin no Hoshi movie.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/9414/large.jpg",
+      "kitsu_year": 1970,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/kyojin-no-hoshi-dai-league-ball",
+      "genres": [
+        "Baseball",
+        "Sports"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-9414.jpg"
+    }
   },
   {
     "year": 1970,
@@ -289,7 +307,24 @@
     "type": "TV",
     "demographic": "Family, Children",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "9522",
+      "title_romaji": "Otanoshimi Anime Gekijou",
+      "title_english": null,
+      "title_native": "おたのしみアニメ劇場",
+      "description": "Based on the original story by Studio Zero.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/9522/large.jpg",
+      "kitsu_year": 1970,
+      "format": "TV",
+      "episodes": 26,
+      "site_url": "https://kitsu.io/anime/otanoshimi-anime-gekijou",
+      "genres": [
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-9522.jpg"
+    }
   },
   {
     "year": 1970,
@@ -302,7 +337,27 @@
     "type": "TV",
     "demographic": "Children",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3304",
+      "title_romaji": "Konchuu Monogatari Minashigo Hutch",
+      "title_english": "The Adventures of Hutch the Honeybee",
+      "title_native": "昆虫物語みなしごハッチ",
+      "description": "Hutch is a small honeybee who got separated from his mom when his home was destroyed by invading wasps, and he now desperately wants to find her back. It's the beginning of an adventure that will make him meet all kinds of friendly insects who try to help him out, but unfortunately for most of them, they will not survive the end of the episode...",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3304/large.jpg",
+      "kitsu_year": 1970,
+      "format": "TV",
+      "episodes": 91,
+      "site_url": "https://kitsu.io/anime/konchuu-monogatari-minashigo-hutch",
+      "genres": [
+        "Plot Continuity",
+        "Adventure",
+        "Comedy",
+        "Anthropomorphism"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3304.jpg"
+    }
   },
   {
     "year": 1970,
@@ -419,7 +474,25 @@
     "type": "Movie",
     "demographic": "Shōnen",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "9416",
+      "title_romaji": "Kyojin no Hoshi: Shukumei no Taiketsu",
+      "title_english": null,
+      "title_native": "巨人の星 宿命の対決",
+      "description": "Fourth Kyojin no Hoshi movie.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/9416/large.jpg",
+      "kitsu_year": 1970,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/kyojin-no-hoshi-shukumei-no-taiketsu",
+      "genres": [
+        "Baseball",
+        "Sports"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-9416.jpg"
+    }
   },
   {
     "year": 1970,
@@ -677,7 +750,25 @@
     "type": "Short",
     "demographic": "Children",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "9945",
+      "title_romaji": "Torero Kamomiro",
+      "title_english": null,
+      "title_native": "トレロ カモミロ",
+      "description": "Song by the Nishi Rokugo Shonen Shōjo Gasshodan which aired in 1970 on NHK in the Minna no Uta program.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/9945/large.jpg",
+      "kitsu_year": 1970,
+      "format": "music",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/torero-kamomiro",
+      "genres": [
+        "Music",
+        "Kids"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-9945.jpg"
+    }
   },
   {
     "year": 1970,
@@ -690,7 +781,25 @@
     "type": "Short",
     "demographic": "General",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "4836",
+      "title_romaji": "G-senjou no Higeki",
+      "title_english": null,
+      "title_native": "G線上の悲劇",
+      "description": "Short experimental animation from Yoji Kuri.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/4836/large.jpg",
+      "kitsu_year": 1969,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/tragedy-on-the-g-line",
+      "genres": [
+        "Comedy",
+        "Dementia"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-4836.jpg"
+    }
   },
   {
     "year": 1970,
@@ -703,7 +812,25 @@
     "type": "Short",
     "demographic": "General",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "4917",
+      "title_romaji": "Kenju Giga",
+      "title_english": "Anthropo-Cynical Farce",
+      "title_native": "犬儒戯画",
+      "description": "A dog race is interrupted by a ringmaster, who attaches fish to the dog’s collars and makes them run in circles. The crowd is incensed, but the ringmaster insists that the audience is no better off than the dogs. In the end the ringmaster is assassinated and the race continues, but a single red rose sprouts from the ringmaster’s blood; a symbol of truth in a crazy world? -AniDB",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/4917/large.jpg",
+      "kitsu_year": 1970,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/kenju-giga",
+      "genres": [
+        "Parody",
+        "Psychological"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-4917.jpg"
+    }
   },
   {
     "year": 1970,

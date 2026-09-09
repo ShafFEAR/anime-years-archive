@@ -449,7 +449,33 @@
     "director": "Shuji Iuchi",
     "studio": "Sunrise",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3797",
+      "title_romaji": "Mashin Eiyuuden Wataru 2",
+      "title_english": "Spirit Hero Wataru 2",
+      "title_native": "魔神英雄伝ワタル2",
+      "description": "This is the sequel to Mashin Eiyuden Wataru first season. Wataru has been lived happily on earth after he defeated Doakudar. When he plays around with his friend, Ryujinmaru appears and ask him to fight again. It appears that the 7 Stars Mountain, the source of Mt. Soukai's rainbow, have been taken over by Doakadar (Doakudar's brother). If all the stars mountain loses their brightness, Mt. Soukai's rainbow will fade and everyone will live in the darkness for eternity. Once again, Wataru has to go through all the 7 stars system and destroy this new stronger enemy.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3797/large.jpg",
+      "kitsu_year": 1990,
+      "format": "TV",
+      "episodes": 46,
+      "site_url": "https://kitsu.io/anime/mashin-eiyuuden-wataru-2",
+      "genres": [
+        "Swordplay",
+        "Fantasy World",
+        "Mecha",
+        "Piloted Robot",
+        "Plot Continuity",
+        "Action",
+        "Science Fiction",
+        "Adventure",
+        "Comedy",
+        "Friendship"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3797.jpg"
+    }
   },
   {
     "year": 1990,
@@ -565,7 +591,33 @@
     "director": "Tetsu Dezaki Tsuneo Tominaga",
     "studio": "Magic Bus",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "709",
+      "title_romaji": "Oniisama e...",
+      "title_english": "Dear Brother",
+      "title_native": "おにいさまへ…",
+      "description": "When starting at a new school, Nanako is thrust into the world of female rivalry and love. She is chosen into the Sorority, giving her an enviable position according to all the girls left out. However, since Nanako is not from a wealthy family, most girls find it unfair that she was chosen. Nanako is left to protect herself from wicked rumors and mean plots to make her leave the school. Along with her best friend since preschool, and new friends made along the way, she uncovers the past of some of the more popular girls in school and on her journey through high school she learns of love, loss and her own family's secrets...",
+      "cover_large": "https://media.kitsu.app/anime/709/poster_image/large-fc73edbeb2dbc59196652ad0f5d45872.jpeg",
+      "kitsu_year": 1991,
+      "format": "TV",
+      "episodes": 39,
+      "site_url": "https://kitsu.io/anime/onii-sama-e",
+      "genres": [
+        "All Girls School",
+        "High School",
+        "Present",
+        "Japan",
+        "Shoujo Ai",
+        "Plot Continuity",
+        "Angst",
+        "Romance",
+        "Slice of Life",
+        "School Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-709.jpg"
+    }
   },
   {
     "year": 1990,
@@ -909,7 +961,28 @@
     "director": "Osamu Dezaki",
     "studio": "Magic Bus",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "843",
+      "title_romaji": "Chibi Maruko-chan",
+      "title_english": null,
+      "title_native": "ちびまる子ちゃん",
+      "description": "Momoko Sakura is an elementary school student who likes popular idol Momoe Yamaguchi and mangas. She is often called \"Chibi Maruko-chan\" due to her young age and small size. She lives together with her parents, her grandparents and her elder sister in a little town. In school, she has many friends with whom she studies and plays together everyday, including her close pal, Tama-chan; the student committee members, Maruo-kun and Migiwa-san; and the B-class trio: 'little master' Hanawa-kun, Hamaji-Bu Taro and Sekiguchi-kun. This is a fun-loving and enjoyable anime that portrays the simple things in life.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/843/large.jpg",
+      "kitsu_year": 1990,
+      "format": "TV",
+      "episodes": 142,
+      "site_url": "https://kitsu.io/anime/chibi-maruko-chan",
+      "genres": [
+        "Elementary School",
+        "Present",
+        "Japan",
+        "Comedy",
+        "Slice of Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-843.jpg"
+    }
   },
   {
     "year": 1990,
@@ -1391,7 +1464,26 @@
     "director": "Toyoo Ashida",
     "studio": "Toei Animation",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "6554",
+      "title_romaji": "Pink Mizu Dorobou Ame Dorobou",
+      "title_english": "Pink: Water Thieves Rain Thieves",
+      "title_native": "ピンク みずドロボウあめドロボウ",
+      "description": "The plot is about a young girl named Pink who is a bandit in the desert who steals water from the Silver Company.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/6554/large.jpg",
+      "kitsu_year": 1990,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/pink-mizu-dorobou-ame-dorobou",
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-6554.jpg"
+    }
   },
   {
     "year": 1990,
@@ -1405,7 +1497,26 @@
     "director": "Akinori Nagaoka",
     "studio": "Tokyo Movie Shinsha",
     "ref": "[ 11 ] [ better source needed ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "6018",
+      "title_romaji": "Sore Ike! Anpanman: Baikinman no Gyakushuu",
+      "title_english": null,
+      "title_native": "それいけ! アンパンマン ばいきんまんの逆襲",
+      "description": "Baikinsennin tells Baikinman about a magical vase called \"Mekoisu no tsubo\" that could grant him the power to destroy Anpanman. A princess of the perished Yaada-koku, Yaada-hime, also seeks the vase to restore her kingdom to its glory. When Anpanman joins forces with her, a furious chase ensues with both sides trying to get their hands on the vase.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/6018/large.jpg",
+      "kitsu_year": 1990,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/sore-ike-anpanman-baikinman-no-gyakushuu",
+      "genres": [
+        "Fantasy",
+        "Comedy",
+        "Kids"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-6018.jpg"
+    }
   },
   {
     "year": 1990,
@@ -1419,7 +1530,28 @@
     "director": "Osamu Dezaki",
     "studio": "Tokyo Movie Shinsha",
     "ref": "[ 12 ] [ better source needed ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1268",
+      "title_romaji": "Lupin Sansei: Bye Bye Liberty - Kiki Ippatsu!",
+      "title_english": "Lupin the Third: Goodbye Lady Liberty",
+      "title_native": "ルパン三世『バイバイ・リバティー危機一発！",
+      "description": "Foiled repeatedly by the predictions of Interpol's supercomputer, professional looter Lupin the Third has settled down. His partner Jigen asks him to pull on last job: recover the Super Egg, a massive diamond hidden somewhere inside the Statue of Liberty. Suddenly a sinister secret organization and a young computer genius are thrown into the mix. And whose side is the buxom Fujiko on this time?",
+      "cover_large": "https://media.kitsu.app/anime/1268/poster_image/large-b98faa64c3f0ac3f4f03bcd6c5dce74d.jpeg",
+      "kitsu_year": 1989,
+      "format": "special",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/lupin-iii-bye-bye-liberty-crisis",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Crime",
+        "Thievery"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1268.jpg"
+    }
   },
   {
     "year": 1990,
@@ -1650,7 +1782,33 @@
     "director": "Kenji Kodama",
     "studio": "Sunrise",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1318",
+      "title_romaji": "City Hunter 3",
+      "title_english": null,
+      "title_native": "シティーハンター3",
+      "description": "Ryo Saeba is a \"sweeper\" know as the City Hunter. He and his sidekick Kaori Makimura are hired to solve problems that the police can't (or won't) handle. When he's not keeping the streets of Tokyo clean, Ryo is chasing the ladies, and Kaori chases after him with a giant anti-ecchi hammer.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1318/large.jpg",
+      "kitsu_year": 1989,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/city-hunter-3",
+      "genres": [
+        "Gunfights",
+        "Present",
+        "Earth",
+        "Japan",
+        "Violent Retribution For Accidental Infringement",
+        "Asia",
+        "Action",
+        "Comedy",
+        "Crime",
+        "Mystery"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1318.jpg"
+    }
   },
   {
     "year": 1990,
@@ -1664,7 +1822,33 @@
     "director": "Kenji Kodama",
     "studio": "Sunrise",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1318",
+      "title_romaji": "City Hunter 3",
+      "title_english": null,
+      "title_native": "シティーハンター3",
+      "description": "Ryo Saeba is a \"sweeper\" know as the City Hunter. He and his sidekick Kaori Makimura are hired to solve problems that the police can't (or won't) handle. When he's not keeping the streets of Tokyo clean, Ryo is chasing the ladies, and Kaori chases after him with a giant anti-ecchi hammer.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1318/large.jpg",
+      "kitsu_year": 1989,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/city-hunter-3",
+      "genres": [
+        "Gunfights",
+        "Present",
+        "Earth",
+        "Japan",
+        "Violent Retribution For Accidental Infringement",
+        "Asia",
+        "Action",
+        "Comedy",
+        "Crime",
+        "Mystery"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1318.jpg"
+    }
   },
   {
     "year": 1990,
@@ -1678,7 +1862,25 @@
     "director": "Mizuho Nishikubo",
     "studio": "I.G Tatsunoko",
     "ref": "[ 18 ] [ better source needed ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "7635",
+      "title_romaji": "Dr. Typhoon",
+      "title_english": null,
+      "title_native": "Dr.(ドク)タイフーン",
+      "description": "Based on a seinen manga written by Takahashi Michitsuna and illustrated by Kazama Eiji, serialised in Weekly Manga Action.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/7635/large.jpg",
+      "kitsu_year": 1991,
+      "format": "OVA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/dr-typhoon",
+      "genres": [
+        "Mafia",
+        "Sports"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-7635.jpg"
+    }
   },
   {
     "year": 1990,
@@ -1692,7 +1894,26 @@
     "director": "Shunji Ōga",
     "studio": "Tokyo Movie Shinsha",
     "ref": "[ 19 ] [ better source needed ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "6018",
+      "title_romaji": "Sore Ike! Anpanman: Baikinman no Gyakushuu",
+      "title_english": null,
+      "title_native": "それいけ! アンパンマン ばいきんまんの逆襲",
+      "description": "Baikinsennin tells Baikinman about a magical vase called \"Mekoisu no tsubo\" that could grant him the power to destroy Anpanman. A princess of the perished Yaada-koku, Yaada-hime, also seeks the vase to restore her kingdom to its glory. When Anpanman joins forces with her, a furious chase ensues with both sides trying to get their hands on the vase.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/6018/large.jpg",
+      "kitsu_year": 1990,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/sore-ike-anpanman-baikinman-no-gyakushuu",
+      "genres": [
+        "Fantasy",
+        "Comedy",
+        "Kids"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-6018.jpg"
+    }
   },
   {
     "year": 1990,

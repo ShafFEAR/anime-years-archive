@@ -206,7 +206,28 @@
     "director": "Hiroaki Akagi (Chief) Chen Dali",
     "running_time": "102",
     "ref": "[ 8 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "49249",
+      "title_romaji": "Boku no Kokoro no Yabai Yatsu Movie",
+      "title_english": null,
+      "title_native": "僕の心のヤバイやつ 劇場版",
+      "description": "A re-edit of both anime seasons featuring newly added footage and will depict the story of Ichikawa and Yamada after the events of the TV series.",
+      "cover_large": "https://media.kitsu.app/anime/49249/poster_image/large-d5ab94636bd64438df410d697c35714b.jpeg",
+      "kitsu_year": 2026,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/boku-no-kokoro-no-yabai-yatsu-movie",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Slice of Life",
+        "Coming Of Age",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-49249.jpg"
+    }
   },
   {
     "year": 2026,
@@ -283,7 +304,22 @@
     "director": "Yoshitoshi Shinomiya",
     "running_time": "76",
     "ref": "[ 12 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "50569",
+      "title_romaji": "Hanarokushou ga Akeru Hi ni",
+      "title_english": null,
+      "title_native": "花緑青が明ける日に",
+      "description": "The Obinata Fireworks Shop factory is getting prepared for an administrative action for confiscation tomorrow. It has been six years since Keitaro has been holed up in a closed-down factory creating fireworks by himself, chasing after an illusion of his father who vanished. It is a story about three young people who overcome the extreme weather conditions, disasters and environmental problems imposed on them and establish their own identities. (Source: Marché du Film Festival de Cannes) *The film was selected for the 77th Cannes Film Festival’s 2024 Annecy Animation Showcase. *Note: Initially slated for a 2025 release, on May 20th of the same year the movie was delayed to 2026.",
+      "cover_large": "https://media.kitsu.app/anime/50569/poster_image/large-d6a9aae4459b571696193ea73c81d264.jpeg",
+      "kitsu_year": 2026,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/hanarokushou-ga-akeru-hi-ni",
+      "genres": [],
+      "year_match": true,
+      "image_path": "images/kitsu-50569.jpg"
+    }
   },
   {
     "year": 2026,
@@ -362,7 +398,29 @@
     "director": "Masaki Kitamura",
     "running_time": "87",
     "ref": "[ 14 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "50568",
+      "title_romaji": "Ansatsu Kyoushitsu: Minna no Jikan",
+      "title_english": null,
+      "title_native": "暗殺教室 みんなの時間",
+      "description": "A new movie to commemorate Assassination Classroom's 10th anniversary of the TV anime. It adapts episodes previously omitted in the original anime series.",
+      "cover_large": "https://media.kitsu.app/anime/50568/poster_image/large-eec13e6eead2a1fd9177bcf893499651.jpeg",
+      "kitsu_year": 2026,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/ansatsu-kyoushitsu-minna-no-jikan",
+      "genres": [
+        "Assassin",
+        "Action",
+        "Science Fiction",
+        "Comedy",
+        "Supernatural",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-50568.jpg"
+    }
   },
   {
     "year": 2026,
@@ -376,7 +434,24 @@
     "director": "Yusuke Hirota",
     "running_time": "98",
     "ref": "[ 15 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "50577",
+      "title_romaji": "Entotsu-machi no Poupelle: Yakusoku no Tokei-dai",
+      "title_english": "Poupelle of Chimney Town: The Clock Tower of Promise",
+      "title_native": "えんとつ町のプペル 〜約束の時計台〜",
+      "description": "Sequel to Entotsu-machi no Poupelle. After losing his friend Poupelle, young Lubicchi wanders into a mysterious realm where a clock in a tower is frozen at 11:59. To return home, he must restart it – and find the courage to believe again.",
+      "cover_large": "https://media.kitsu.app/anime/50577/poster_image/large-0d45f40f05f38ea7ede88454655b6c6a.jpeg",
+      "kitsu_year": 2026,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/entotsu-machi-no-poupelle-yakusoku-no-tokei-dai",
+      "genres": [
+        "Fantasy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-50577.jpg"
+    }
   },
   {
     "year": 2026,
@@ -502,7 +577,28 @@
     "director": "Jimmy Stone",
     "running_time": "103",
     "ref": "[ 19 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "50601",
+      "title_romaji": "Mahouka Koukou no Rettousei: Yotsuba Keishou-hen",
+      "title_english": null,
+      "title_native": "劇場版 魔法科高校の劣等生 四葉継承編",
+      "description": "Movie adaptation of Mahouka Koukou no Rettousei's Yotsuba Succession Arc. The invitation has arrived. It is time for the New Year’s Reception at the Yotsuba family residence. This year, Miyuki and other candidates will gather there to decide who will be the next leader of their powerful clan. If chosen as the successor, she would never have to see her brother live as a pariah ever again. At the same time, such a position surely entails a political marriage, plunging her mind into complete turmoil. Complicating matters, the current head of their family sows doubt with the shocking claim that Miyuki is not Tatsuya’s sister. When the new year comes, their relationship may be changed forever...",
+      "cover_large": "https://media.kitsu.app/anime/50601/poster_image/large-b72a6eaa5f593512ff94598b4f9756d6.jpeg",
+      "kitsu_year": 2026,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/mahouka-koukou-no-rettousei-yotsuba-keishou-hen",
+      "genres": [
+        "Magic",
+        "Action",
+        "Science Fiction",
+        "Romance",
+        "Supernatural"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-50601.jpg"
+    }
   },
   {
     "year": 2026,
@@ -1154,7 +1250,28 @@
     "director": "Norihiro Naganuma",
     "running_time": "",
     "ref": "[ 42 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "48649",
+      "title_romaji": "Kusuriya no Hitorigoto 2nd Season",
+      "title_english": "The Apothecary Diaries Season 2",
+      "title_native": "薬屋のひとりごと 第2期",
+      "description": "The second season of Kusuriya no Hitorigoto. Maomao and Jinshi face palace intrigue as a pregnant concubine's safety and a looming conspiracy collide.",
+      "cover_large": "https://media.kitsu.app/anime/48649/poster_image/large-47f26dc6e2f3ee29bf411f719c37d90e.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 24,
+      "site_url": "https://kitsu.io/anime/kusuriya-no-hitorigoto-2nd-season",
+      "genres": [
+        "Historical",
+        "China",
+        "Romance",
+        "Drama",
+        "Mystery"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-48649.jpg"
+    }
   },
   {
     "year": 2026,
@@ -1403,7 +1520,26 @@
     "director": "Tomohito Naka",
     "original_title": "",
     "ref": "[ 50 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "49441",
+      "title_romaji": "MF Ghost 3rd Season",
+      "title_english": "MF Ghost Season 3",
+      "title_native": "MFゴースト 3rd Season",
+      "description": "The third season of MF Ghost. Note: Each episode streams 3 days early on Prime Video. The original TV broadcast starts on January 4, 2026.",
+      "cover_large": "https://media.kitsu.app/anime/49441/poster_image/large-34b3a0770951ee5c463e6aa4d3eb9729.jpeg",
+      "kitsu_year": 2026,
+      "format": "ONA",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/mf-ghost-3rd-season",
+      "genres": [
+        "Motorsport",
+        "Sports",
+        "Seinen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-49441.jpg"
+    }
   },
   {
     "year": 2026,
@@ -1486,7 +1622,29 @@
     "director": "Shizutaka Sugahara",
     "original_title": "",
     "ref": "[ 53 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "47655",
+      "title_romaji": "Golden Kamuy 5th Season",
+      "title_english": "Golden Kamuy Season 5",
+      "title_native": "ゴールデンカムイ",
+      "description": "The fifth and final season of Golden Kamuy.",
+      "cover_large": "https://media.kitsu.app/anime/47655/poster_image/large-4a0b5ded5ded6327fec0212948cdf69f.jpeg",
+      "kitsu_year": 2026,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/golden-kamuy-5",
+      "genres": [
+        "Historical",
+        "Japan",
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Seinen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-47655.jpg"
+    }
   },
   {
     "year": 2026,
@@ -1966,7 +2124,31 @@
     "director": "Masafumi Tamura",
     "original_title": "Mato Seihei no Slave",
     "ref": "[ 69 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "48639",
+      "title_romaji": "Mato Seihei no Slave 2nd Season",
+      "title_english": "Chained Soldier Season 2",
+      "title_native": "魔都精兵のスレイブ 第２期",
+      "description": "The second season of Mato Seihei no Slave.",
+      "cover_large": "https://media.kitsu.app/anime/48639/poster_image/large-8f884ed0de128dbf4d82433cbfe24c6b.jpeg",
+      "kitsu_year": 2026,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/Mato-Seihei-no-Slave-2nd-Season",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Ecchi",
+        "Romance",
+        "Harem",
+        "Drama",
+        "Special Squads"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-48639.jpg"
+    }
   },
   {
     "year": 2026,
@@ -2156,7 +2338,25 @@
     "director": "Kazuaki Seki",
     "original_title": "",
     "ref": "[ 75 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "50270",
+      "title_romaji": "High School! Kimengumi (2026)",
+      "title_english": "High School! Kimengumi (2026)",
+      "title_native": "ハイスクール！奇面組 (2026)",
+      "description": "Rei Ichido, Go Reietsu, Kiyoshi Shusse, Jin Daima, and Dai Monohoshi are five students attending Ichio Junior High. With their unique quirks, eccentric personalities, and feats like repeating grades in junior high, they have earned a reputation among their peers as the infamous group, \"Kimengumi.\"",
+      "cover_large": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/50270/poster_image/4389ac38e5017bbb3a10308299d500fc.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20260909%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20260909T220110Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=80275675e7104a483c591b2a5bb0bda99d5c2889915a45655a250768670c5033",
+      "kitsu_year": 2026,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/high-school-kimengumi-2026",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Shounen"
+      ],
+      "year_match": true
+    }
   },
   {
     "year": 2026,
@@ -2365,7 +2565,30 @@
     "director": "Tatsuma Minamikawa",
     "original_title": "En'en no Shōbōtai",
     "ref": "[ 83 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "46119",
+      "title_romaji": "Enen no Shouboutai: San no Shou",
+      "title_english": "Fire Force Season 3",
+      "title_native": "炎炎ノ消防隊 参ノ章",
+      "description": "The third and final season of Enen no Shouboutai. Shinra and the team are about to uncover the world’s greatest secret. But just as the other Special Fire Force Companies unite to face the looming disaster, Obi is captured by the Tokyo Imperial Army, and Company 8 is branded as traitors. Hunted by the Empire, they must fight alone to rescue Obi and stop the Evangelist—all while a new assassin and the corrupt Captain Burns block their path.",
+      "cover_large": "https://media.kitsu.app/anime/46119/poster_image/large-ded07dff8aa59b72cefa75d32f9664bb.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/enen-no-shouboutai-san-no-shou",
+      "genres": [
+        "Super Power",
+        "Demon",
+        "Action",
+        "Science Fiction",
+        "Drama",
+        "Supernatural",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-46119.jpg"
+    }
   },
   {
     "year": 2026,
@@ -2466,7 +2689,24 @@
     "director": "Tetsuya Tatamitani",
     "original_title": "Omae wa Mada Gunma o Shiranai: Reiwa-ban",
     "ref": "[ 87 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "50353",
+      "title_romaji": "Omae wa Mada Gunma wo Shiranai: Reiwa-ban",
+      "title_english": null,
+      "title_native": "お前はまだグンマを知らない～令和版～",
+      "description": "Light anime for Omae wa Mada Gunma wo Shiranai.",
+      "cover_large": "https://media.kitsu.app/anime/50353/poster_image/large-c7d46597819397bd4a4b3a1e63c73bfd.jpeg",
+      "kitsu_year": 2026,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/omae-wa-mada-gunma-wo-shiranai-reiwa-ban",
+      "genres": [
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-50353.jpg"
+    }
   },
   {
     "year": 2026,
@@ -2520,7 +2760,33 @@
     "director": "Kaori Makita",
     "original_title": "Jigokuraku",
     "ref": "[ 89 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "47679",
+      "title_romaji": "Jigokuraku 2nd Season",
+      "title_english": "Hell's Paradise Season 2",
+      "title_native": "地獄楽 第二期",
+      "description": "The second season of Jigokuraku. In search of clues to the elixir, Gabimaru and his group arrive at the castle of Tensen, the monsters who rule the island. Meanwhile, the shogunate sends additional expeditions to Shinsenkyo led by Yamada Asaemon Shugen, which are joined by the Iwagakure. Gabimaru must try to find the elixir and escape from the island as an all-out showdown between humans and celestial immortals looms near.",
+      "cover_large": "https://media.kitsu.app/anime/47679/poster_image/large-0720a7e3eb0edcc0ca2243bf37ca495a.jpeg",
+      "kitsu_year": 2026,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/jigokuraku-2nd-season",
+      "genres": [
+        "Samurai",
+        "Ninja",
+        "Swordplay",
+        "Island",
+        "Historical",
+        "Violence",
+        "Action",
+        "Fantasy",
+        "Romance",
+        "Buddhism"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-47679.jpg"
+    }
   },
   {
     "year": 2026,
@@ -2728,7 +2994,28 @@
     "director": "Yōko Kanamori",
     "original_title": "Hime-sama \"Gōmon\" no Jikan desu",
     "ref": "[ 96 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "48667",
+      "title_romaji": "Hime-sama, \"Goumon\" no Jikan desu 2nd Season",
+      "title_english": "'Tis Time for \"Torture,\" Princess Season 2",
+      "title_native": "姫様“拷問”の時間です 第2期",
+      "description": "As the war between the Imperial Army and Hellhorde rages on, the Princess, despite being armed with her mythical sword Excalibur, is captured and imprisoned. What kind of torture does she face at the hands of the chief demon interrogator? Fluffy fresh-baked toast! Hot, steaming ramen! Oh, the humanity! Can the Princess withstand these tormenting treats and keep her kingdom’s secrets safe?",
+      "cover_large": "https://media.kitsu.app/anime/48667/poster_image/large-8cf3d51017232c75d581f0774a248f68.jpeg",
+      "kitsu_year": 2026,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/hime-sama-goumon-no-jikan-desu-2nd-season",
+      "genres": [
+        "Demon",
+        "Absurdist Humour",
+        "Slapstick",
+        "Fantasy",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-48667.jpg"
+    }
   },
   {
     "year": 2026,
@@ -2758,7 +3045,30 @@
     "director": "Tomoya Kitagawa",
     "original_title": "Sōsō no Frieren",
     "ref": "[ 98 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "49240",
+      "title_romaji": "Sousou no Frieren 2nd Season",
+      "title_english": "Frieren: Beyond Journey's End Season 2",
+      "title_native": "葬送のフリーレン 第２期",
+      "description": "The second season of Sousou no Frieren. On the road to Ende, Frieren confronts past bonds and rising threats with her newfound party.",
+      "cover_large": "https://media.kitsu.app/anime/49240/poster_image/large-5f1824cd76b6e829012dc75a2f51ec44.jpeg",
+      "kitsu_year": 2026,
+      "format": "TV",
+      "episodes": 10,
+      "site_url": "https://kitsu.io/anime/sousou-no-frieren-season-2",
+      "genres": [
+        "Elf",
+        "Magic",
+        "High Fantasy",
+        "Fantasy",
+        "Adventure",
+        "Slice of Life",
+        "Drama"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-49240.jpg"
+    }
   },
   {
     "year": 2026,
@@ -2915,7 +3225,27 @@
     "director": "Noriyuki Nomata",
     "original_title": "Yōkoso Jitsuryoku Shijō Shugi no Kyōshitsu e",
     "ref": "[ 103 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "49194",
+      "title_romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
+      "title_english": "Classroom of the Elite 4th Season: Second Year, First Semester",
+      "title_native": "ようこそ実力至上主義の教室へ 4th Season 2年生編1学期",
+      "description": "The fourth season of Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e. As Ayanokouji and his classmates begin their second year at the Advanced Nurturing High School, they’re greeted by a fresh gauntlet of exams and a fresh batch of rather unique first-year students. They’ll have to get to know each other quickly, because the first special exam pairs the first-years with the second-years on a written test, with only the second-years facing expulsion if their team performs poorly! Worse yet? It seems one of the new first-years is also from the White Room. Can Ayanokouji avoid expulsion while sussing out the identity of this hidden foe?",
+      "cover_large": "https://media.kitsu.app/anime/49194/poster_image/large-012e5251a3e4c9333bab3c3cb9d5bfe3.jpeg",
+      "kitsu_year": 2026,
+      "format": "TV",
+      "episodes": 16,
+      "site_url": "https://kitsu.io/anime/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki",
+      "genres": [
+        "High School",
+        "School Life",
+        "Drama",
+        "Psychological"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-49194.jpg"
+    }
   },
   {
     "year": 2026,
@@ -2930,7 +3260,33 @@
     "director": "Yuichiro Hayashi",
     "original_title": "",
     "ref": "[ 104 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "48410",
+      "title_romaji": "Dorohedoro Season 2",
+      "title_english": null,
+      "title_native": "ドロヘドロ Season 2",
+      "description": "The second season of Dorohedoro The anarchy continues as Caiman inches closer to the truth behind his cursed appearance, and the mystery around the Cross-Eyes' boss begins to unravel.",
+      "cover_large": "https://media.kitsu.app/anime/48410/poster_image/large-ff38f10700039a1c60aa1ca8c71dc83d.jpeg",
+      "kitsu_year": 2026,
+      "format": "TV",
+      "episodes": 11,
+      "site_url": "https://kitsu.io/anime/Dorohedoro-2",
+      "genres": [
+        "Magic",
+        "Violence",
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Horror",
+        "Comedy",
+        "Psychological",
+        "Supernatural",
+        "Mystery"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-48410.jpg"
+    }
   },
   {
     "year": 2026,
@@ -2981,7 +3337,29 @@
     "director": "Takashi Yamamoto",
     "original_title": "Jidōhanbaiki ni Umarekawatta Ore wa Meikyū o Samayō",
     "ref": "[ 106 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "47968",
+      "title_romaji": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season",
+      "title_english": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 2",
+      "title_native": "自動販売機に生まれ変わった俺は迷宮を彷徨う 2期",
+      "description": "The second season of Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou.",
+      "cover_large": "https://media.kitsu.app/anime/47968/poster_image/large-5b46e9ee4d40e7e7c76cb2e6f26434ea.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2nd-season",
+      "genres": [
+        "Magic",
+        "Parody",
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Isekai"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-47968.jpg"
+    }
   },
   {
     "year": 2026,
@@ -2996,7 +3374,28 @@
     "director": "Keitaro Motonaga",
     "original_title": "Saikyō no Ōsama, Nidome no Jinsei wa Nani o Suru?",
     "ref": "[ 107 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "49294",
+      "title_romaji": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?",
+      "title_english": "The Beginning After the End",
+      "title_native": "最強の王様、二度目の人生は 何をする?",
+      "description": "After a mysterious death, King Grey is reborn as Arthur Leywin on the magical continent of Dicathen. Although he enters his second life as a baby, his previous wisdom remains. He begins to master magic and forge his own path as the years go by, seeking to correct the mistakes of his past life.",
+      "cover_large": "https://media.kitsu.app/anime/49294/poster_image/large-507caa05f9cb381463a4bef1e1531de0.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru",
+      "genres": [
+        "Magic",
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Isekai"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-49294.jpg"
+    }
   },
   {
     "year": 2026,
@@ -3321,7 +3720,28 @@
     "director": "Naokatsu Tsuda",
     "original_title": "Tensei Shitara Slime Datta Ken",
     "ref": "[ 117 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "49236",
+      "title_romaji": "Tensei shitara Slime Datta Ken Movie 2: Soukai no Namida-hen",
+      "title_english": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
+      "title_native": "劇場版 転生したらスライムだった件 蒼海の涙編",
+      "description": "The second movie in the Tensei Shitara Slime Datta Ken series. After concluding the opening ceremony of the Demon Kingdom Federation Tempest, Rimuru and his companions are invited by the Celestial Emperor Hermesia of the great elven nation – the Magi Dynasty Salion – to visit her private resort island. As the group enjoys their brief vacation, a mysterious woman named Yura appears. A new incident unfolds against the backdrop of the boundless azure sea.",
+      "cover_large": "https://media.kitsu.app/anime/49236/poster_image/large-14390c2e29138f5c89e09f0e745adf3b.jpeg",
+      "kitsu_year": 2026,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/tensei-shitara-slime-datta-ken-movie-2-soukai-no-namida-hen",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Isekai"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-49236.jpg"
+    }
   },
   {
     "year": 2026,
@@ -3336,7 +3756,25 @@
     "director": "Chihiro Kumano",
     "original_title": "Otonari no Tenshi-sama ni Itsu no Ma ni ka Dame Ningen ni Sareteita Ken",
     "ref": "[ 118 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "48069",
+      "title_romaji": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season",
+      "title_english": "The Angel Next Door Spoils Me Rotten Season 2",
+      "title_native": "お隣の天使様にいつの間にか駄目人間にされていた件 2期制",
+      "description": "Second season of Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita",
+      "cover_large": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/48069/poster_image/948bcb71e1cc39d4bc3d2fe3106c8fab.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20260909%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20260909T220135Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=fc09b443087dc2a422651d6cafbcdab3f8f485225b851e69f65cf941d799d9c6",
+      "kitsu_year": 2026,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken-2nd-season",
+      "genres": [
+        "High School",
+        "Romance",
+        "School Life"
+      ],
+      "year_match": true
+    }
   },
   {
     "year": 2026,
@@ -3385,7 +3823,28 @@
     "director": "Yoshiaki Iwasaki",
     "original_title": "Honzuki no Gekokujō: Shisho ni Naru Tame ni wa Shudan o Erandeiraremasen – Ryōshu no Yōjo",
     "ref": "[ 120 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "48293",
+      "title_romaji": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season",
+      "title_english": "Ascendance of a Bookworm Season 4",
+      "title_native": "本好きの下剋上 司書になるためには手段を選んでいられません 第4期",
+      "description": "Anime adaptation of Part 3 of Honzuki no Gekokujou. Following a disastrous encounter with a noble, Myne finally resolves to say goodbye to her family and friends in the lower city, changing her name to “Rozemyne” and beginning her new life as the adopted daughter of Ehrenfest’s archduke. However, her days as an arch-noble in noble society are brutal, as she is put through rigorous etiquette and magic training on top of her duties as High Bishop and forewoman. It all proves too much for a weak little seven-year-old girl... Or it would have, had the High Priest not offered her the keys to the temple’s book room as a reward. If she could get her hands on those, she’d be able to read all sorts of precious books! Her name may have changed, but Rozemyne’s passion for books remains the same as she charges into a whole new world! The detailed setting expands as the printing industry grows in size. Here begins Part 3 of this biblio-fantasy for book lovers everywhere!",
+      "cover_large": "https://media.kitsu.app/anime/48293/poster_image/large-00288fe42418cf025a025bb80c266e21.jpeg",
+      "kitsu_year": 2026,
+      "format": "TV",
+      "episodes": 24,
+      "site_url": "https://kitsu.io/anime/honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-4th-season",
+      "genres": [
+        "Magic",
+        "Fantasy World",
+        "Fantasy",
+        "Slice of Life",
+        "Isekai"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-48293.jpg"
+    }
   },
   {
     "year": 2026,
@@ -3453,7 +3912,29 @@
     "director": "Makoto Hoshino",
     "original_title": "Saikyō no Shokugyō wa Yūsha demo Kenja demo naku Kanteishi (Kari) Rashii Desu yo?",
     "ref": "[ 123 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "49059",
+      "title_romaji": "Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru",
+      "title_english": "Even Given the Worthless \"Appraiser\" Class, I'm Actually the Strongest",
+      "title_native": "不遇職【鑑定士】が実は最強だった～奈落で鍛えた最強の【神眼】で無双する～",
+      "description": "In a fantasy world where \"jobs\" are god-given from birth, heroes are born, not made... and Ein's job of \"Appraiser\" has put him about as far from the \"hero\" pedestal as possible. Used, abused, and eventually abandoned by his fellow adventurers, Ein decides it just isn't worth going on... Lucky for Ein, though, the end may just be the beginning... and a new lease on life. Turns out, his \"worthless\" job may just be the key to becoming a hero after all...",
+      "cover_large": "https://media.kitsu.app/anime/49059/poster_image/large-1436e3ecb00c3969160c53032d19462d.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/fuguushoku-kanteishi-ga-jitsu-wa-saikyou-datta-naraku-de-kitaeta-saikyou-no-shingan-de-musou-suru",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-49059.jpg"
+    }
   },
   {
     "year": 2026,
@@ -3468,7 +3949,26 @@
     "director": "Makoto Moriwaki (Chief) Ayaka Tsujihashi",
     "original_title": "Mairimashita! Iruma-kun",
     "ref": "[ 124 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "49361",
+      "title_romaji": "Mairimashita! Iruma-kun 4",
+      "title_english": "Welcome to Demon School! Iruma-kun Season 4",
+      "title_native": "魔入りました！入間くん 第4シリーズ",
+      "description": "The fourth season of Mairimashita! Iruma-kun. Suzuki Iruma and all thirteen students of the Misfit Class must perform to reach Rank 4 at the Music Festival.",
+      "cover_large": "https://media.kitsu.app/anime/49361/poster_image/large-2f5bdbb9b2adbd07fabb2af32c822ee9.jpeg",
+      "kitsu_year": 2026,
+      "format": "TV",
+      "episodes": 24,
+      "site_url": "https://kitsu.io/anime/mairimashita-iruma-kun-4th-season",
+      "genres": [
+        "Fantasy",
+        "Comedy",
+        "Supernatural"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-49361.jpg"
+    }
   },
   {
     "year": 2026,
@@ -3483,7 +3983,26 @@
     "director": "Hideaki Ōba",
     "original_title": "Daiya no A Act II",
     "ref": "[ 125 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "50822",
+      "title_romaji": "Diamond no Ace act II: Second Season Part 2",
+      "title_english": "Ace of Diamond Act II Season 2 Part 2",
+      "title_native": "ダイヤのA actⅡ -Second Season- 第2クール",
+      "description": "The second cour of the second season of Diamond no Ace act II.",
+      "cover_large": "https://media.kitsu.app/anime/50822/poster_image/large-2059f27c52786e97231557931bec2f8b.jpeg",
+      "kitsu_year": 2026,
+      "format": "TV",
+      "episodes": null,
+      "site_url": "https://kitsu.io/anime/diamond-no-ace-act-ii-second-season-part-2",
+      "genres": [
+        "Baseball",
+        "Sports",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-50822.jpg"
+    }
   },
   {
     "year": 2026,
@@ -3722,7 +4241,26 @@
     "director": "Sōta Warai",
     "original_title": "Ōkī Onnanoko wa Suki desu ka?",
     "ref": "[ 133 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "50752",
+      "title_romaji": "Kanojo no Tomodachi",
+      "title_english": "My Girlfriend's Friend",
+      "title_native": "彼女の友達",
+      "description": "For the first time in my life, I have a girlfriend. But her friend tempts me with a body that's so seductive... What would you do if your girlfriend's friend came on to you like this?",
+      "cover_large": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/50752/poster_image/73f0d499dd508338b8474461a090999a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20260909%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20260909T220146Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=7daab9ed695785eb81a19829ce693c0b7253b9e1a3e9c5990542b582ba58f77e",
+      "kitsu_year": 2026,
+      "format": "TV",
+      "episodes": null,
+      "site_url": "https://kitsu.io/anime/kanojo-no-tomodachi",
+      "genres": [
+        "Ecchi",
+        "Romance",
+        "Drama",
+        "Seinen"
+      ],
+      "year_match": true
+    }
   },
   {
     "year": 2026,
@@ -3737,7 +4275,26 @@
     "director": "Ryōichi Kuraya",
     "original_title": "Isekai Nonbiri Nōka",
     "ref": "[ 134 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "50117",
+      "title_romaji": "Isekai Nonbiri Nouka 2",
+      "title_english": "Farming Life in Another World Season 2",
+      "title_native": "異世界のんびり農家２",
+      "description": "The second season of Isekai Nonbiri Nouka.",
+      "cover_large": "https://media.kitsu.app/anime/50117/poster_image/large-913e18f6762a9c98fab90d8407a18033.jpeg",
+      "kitsu_year": 2026,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/isekai-nonbiri-nouka-2",
+      "genres": [
+        "Fantasy",
+        "Harem",
+        "Isekai"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-50117.jpg"
+    }
   },
   {
     "year": 2026,
@@ -4131,7 +4688,26 @@
     "director": "Norio Nitta",
     "original_title": "Higeki no Genkyō to naru Saikyō Gedō Last Boss Joō wa Min no tame ni Tsukushimasu",
     "ref": "[ 146 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "50073",
+      "title_romaji": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2",
+      "title_english": "The Most Heretical Last Boss Queen: From Villainess to Savior Season 2",
+      "title_native": "悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。Season2",
+      "description": "Second season of Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.",
+      "cover_large": "https://media.kitsu.app/anime/50073/poster_image/large-6ce4d112c1fcd49321fe29ee77e59d52.jpeg",
+      "kitsu_year": 2026,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2",
+      "genres": [
+        "Fantasy",
+        "Josei",
+        "Isekai"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-50073.jpg"
+    }
   },
   {
     "year": 2026,
@@ -4660,7 +5236,25 @@
     "director": "Chihiro Kumano",
     "original_title": "",
     "ref": "[ 163 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "48836",
+      "title_romaji": "Odekake Kozame: Tokai no Otomodachi",
+      "title_english": null,
+      "title_native": "映画 おでかけ子ザメ とかいのおともだち",
+      "description": "Kozame-chan's everyday life is full of fun and excitement! This time, the next destination is the big city. What awaits Kozame-chan is an unfamiliar place, and new friends. A big adventure filed with tiny miracles is about to begin.",
+      "cover_large": "https://media.kitsu.app/anime/48836/poster_image/large-eded6f8289295e19e61a1091a3528f2d.jpeg",
+      "kitsu_year": 2025,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/odekake-kozame-tokai-no-otomodachi",
+      "genres": [
+        "Anthropomorphism",
+        "Slice of Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-48836.jpg"
+    }
   },
   {
     "year": 2026,
@@ -4893,7 +5487,26 @@
     "director": "Toshihiro Kikuchi",
     "original_title": "Bungō Sutorei Doggusu",
     "ref": "[ 171 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "50328",
+      "title_romaji": "Bungou Stray Dogs Wan! 2",
+      "title_english": "Bungo Stray Dogs Wan! 2",
+      "title_native": "文豪ストレイドッグスわん！2",
+      "description": "Second season of Bungou Stray Dogs Wan!.",
+      "cover_large": "https://media.kitsu.app/anime/50328/poster_image/large-2128105918e7532547c5a8ec03d56c4a.jpeg",
+      "kitsu_year": 2026,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/bungou-stray-dogs-wan-2",
+      "genres": [
+        "Comedy",
+        "Slice of Life",
+        "Supernatural"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-50328.jpg"
+    }
   },
   {
     "year": 2026,
@@ -5189,7 +5802,28 @@
     "director": "Naokatsu Tsuda",
     "original_title": "Tensei Shitara Slime Datta Ken",
     "ref": "[ 180 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "49236",
+      "title_romaji": "Tensei shitara Slime Datta Ken Movie 2: Soukai no Namida-hen",
+      "title_english": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
+      "title_native": "劇場版 転生したらスライムだった件 蒼海の涙編",
+      "description": "The second movie in the Tensei Shitara Slime Datta Ken series. After concluding the opening ceremony of the Demon Kingdom Federation Tempest, Rimuru and his companions are invited by the Celestial Emperor Hermesia of the great elven nation – the Magi Dynasty Salion – to visit her private resort island. As the group enjoys their brief vacation, a mysterious woman named Yura appears. A new incident unfolds against the backdrop of the boundless azure sea.",
+      "cover_large": "https://media.kitsu.app/anime/49236/poster_image/large-14390c2e29138f5c89e09f0e745adf3b.jpeg",
+      "kitsu_year": 2026,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/tensei-shitara-slime-datta-ken-movie-2-soukai-no-namida-hen",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Isekai"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-49236.jpg"
+    }
   },
   {
     "year": 2026,
@@ -5469,7 +6103,28 @@
     "director": "Katsumi Ono",
     "original_title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechū II",
     "ref": "[ 189 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "49410",
+      "title_romaji": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu 2nd Season",
+      "title_english": "Skeleton Knight in Another World Season 2",
+      "title_native": "骸骨騎士様、只今異世界へお出掛け中 第2期",
+      "description": "The second season of Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu.",
+      "cover_large": "https://media.kitsu.app/anime/49410/poster_image/large-ea9b44af85904c999e56a7a5fbb92da1.jpeg",
+      "kitsu_year": 2026,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2nd-season",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Isekai"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-49410.jpg"
+    }
   },
   {
     "year": 2026,
@@ -5654,7 +6309,29 @@
     "director": "Toshinori Fukushima",
     "original_title": "Kabushiki Gaisha Magilumiere",
     "ref": "[ 195 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "49427",
+      "title_romaji": "Kabushiki Gaisha Magi Lumiere 2nd Season",
+      "title_english": "Magilumiere Magical Girls Inc. Season 2",
+      "title_native": "株式会社マジルミエ 第2期",
+      "description": "The second season of Kabushiki Gaisha Magi Lumiere.",
+      "cover_large": "https://media.kitsu.app/anime/49427/poster_image/large-d4e6906719adbaee3b0348ae59a55afa.jpeg",
+      "kitsu_year": 2026,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/kabushiki-gaisha-magi-lumiere-2nd-season",
+      "genres": [
+        "Magic",
+        "Magical Girl",
+        "Action",
+        "Fantasy",
+        "Comedy",
+        "Henshin"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-49427.jpg"
+    }
   },
   {
     "year": 2026,
@@ -5772,7 +6449,30 @@
     "director": "Hikaru Sato",
     "original_title": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo",
     "ref": "[ 199 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "48348",
+      "title_romaji": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season",
+      "title_english": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2",
+      "title_native": "君のことが大大大大大好きな100人の彼女 2期",
+      "description": "The second season of Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo. Rentaro meets new soulmates, balancing comedic chaos and heartfelt moments as his relationships deepen.",
+      "cover_large": "https://media.kitsu.app/anime/48348/poster_image/large-903ea7851b2dec90e42d8e477c99b627.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-2nd-season",
+      "genres": [
+        "High School",
+        "Breaking The Fourth Wall",
+        "Parody",
+        "Comedy",
+        "Romance",
+        "Harem",
+        "School Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-48348.jpg"
+    }
   },
   {
     "year": 2026,
@@ -6211,7 +6911,26 @@
     "director": "Shinji Takamatsu",
     "original_title": "Grand Blue",
     "ref": "[ 213 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "49247",
+      "title_romaji": "Grand Blue Season 2",
+      "title_english": "Grand Blue Dreaming Season 2",
+      "title_native": "ぐらんぶる Season 2",
+      "description": "Second season of Grand Blue. University is back in session for Iori, and so are the booze-fueled parties! Between diving club shenanigans, a surprise from his sister, and wild tests of courage, normal college life is anything but. Dive back into the madness with Iori and his beloved crew of lively splash artists.",
+      "cover_large": "https://media.kitsu.app/anime/49247/poster_image/large-86ebd97bccad5140d070949606cbfc53.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/grand-blue-season-2",
+      "genres": [
+        "Comedy",
+        "Sports",
+        "Seinen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-49247.jpg"
+    }
   },
   {
     "year": 2026,
@@ -6659,7 +7378,29 @@
     "director": "Takayuki Yamamoto",
     "original_title": "Yōjo Senki II",
     "ref": "[ 226 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "44778",
+      "title_romaji": "Youjo Senki II",
+      "title_english": "Saga of Tanya the Evil II",
+      "title_native": "幼女戦記 II",
+      "description": "The second season of Youjo Senki.",
+      "cover_large": "https://media.kitsu.app/anime/44778/poster_image/large-f09d935245e81ce280bb22bd8f16e003.jpeg",
+      "kitsu_year": 2026,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/youjo-senki-ii",
+      "genres": [
+        "Magic",
+        "Alternative Past",
+        "Germany",
+        "Europe",
+        "War",
+        "Military"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-44778.jpg"
+    }
   },
   {
     "year": 2026,
@@ -6863,7 +7604,27 @@
     "director": "Yuta Yamazaki",
     "original_title": "Nige Jōzu no Wakagimi",
     "ref": "[ 233 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "49265",
+      "title_romaji": "Nige Jouzu no Wakagimi 2nd Season",
+      "title_english": "The Elusive Samurai Season 2",
+      "title_native": "逃げ上手の若君 第二期",
+      "description": "The second season of Nige Jouzu no Wakagimi.",
+      "cover_large": "https://media.kitsu.app/anime/49265/poster_image/large-58721274b1529e64785a86388ef577aa.jpeg",
+      "kitsu_year": 2026,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/nige-jouzu-no-wakagimi-2nd-season",
+      "genres": [
+        "Samurai",
+        "Action",
+        "Adventure",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-49265.jpg"
+    }
   },
   {
     "year": 2026,
@@ -7093,7 +7854,28 @@
     "director": "Akinori Fudesaka",
     "original_title": "Kusuriya no Hitorigoto",
     "ref": "[ 240 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "48649",
+      "title_romaji": "Kusuriya no Hitorigoto 2nd Season",
+      "title_english": "The Apothecary Diaries Season 2",
+      "title_native": "薬屋のひとりごと 第2期",
+      "description": "The second season of Kusuriya no Hitorigoto. Maomao and Jinshi face palace intrigue as a pregnant concubine's safety and a looming conspiracy collide.",
+      "cover_large": "https://media.kitsu.app/anime/48649/poster_image/large-47f26dc6e2f3ee29bf411f719c37d90e.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 24,
+      "site_url": "https://kitsu.io/anime/kusuriya-no-hitorigoto-2nd-season",
+      "genres": [
+        "Historical",
+        "China",
+        "Romance",
+        "Drama",
+        "Mystery"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-48649.jpg"
+    }
   },
   {
     "year": 2026,
@@ -7175,7 +7957,31 @@
     "director": "Ayataka Tanemura",
     "original_title": "",
     "ref": "[ 243 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "50024",
+      "title_romaji": "Black Clover 2nd Season",
+      "title_english": "Black Clover Season 2",
+      "title_native": "ブラッククローバー 第2期",
+      "description": "The second season of Black Clover.",
+      "cover_large": "https://media.kitsu.app/anime/50024/poster_image/large-0afb0d5b575c5e4c5690c9016ea1233f.jpeg",
+      "kitsu_year": 2026,
+      "format": "TV",
+      "episodes": null,
+      "site_url": "https://kitsu.io/anime/Black-Clover-Season-2",
+      "genres": [
+        "Magic",
+        "Swordplay",
+        "Fantasy World",
+        "Demon",
+        "Action",
+        "Fantasy",
+        "Drama",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-50024.jpg"
+    }
   },
   {
     "year": 2026,
@@ -7238,7 +8044,25 @@
     "director": "Kiyoko Sayama",
     "original_title": "Marronnier Ōkoku no Shichinin no Kishi",
     "ref": "[ 246 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "50853",
+      "title_romaji": "Soara to Mamono no Ie",
+      "title_english": null,
+      "title_native": "ソアラと魔物の家",
+      "description": "Soara is a young orphan girl who was raised by knights and trained to battle the monsters that constantly attacked their kingdom. But by the time Soara is ready to join the fight herself, peace has been declared and her blade is no longer needed. Searching for a new home and a new purpose, Soara stumbles across Krik the dwarf, leader of the Monster Architects. Suddenly, instead of fighting monsters, Soara finds herself working with Krik to build comfortable homes for them! In the process, will she discover a new home and family for herself?",
+      "cover_large": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/poster_image/c63bd210601a40a33d8e8eec0c700960.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20260909%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20260909T220217Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=36ac50e5ef2a75e566b729f02d90ff47ab65e3a5c5debdd78e74fb638fb9d016",
+      "kitsu_year": 2027,
+      "format": "TV",
+      "episodes": null,
+      "site_url": "https://kitsu.io/anime/soara-to-mamono-no-ie",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "year_match": true
+    }
   },
   {
     "year": 2026,
@@ -7253,7 +8077,27 @@
     "director": "Maki Kodaira",
     "original_title": "Tokyo Revengers: Santen Sensō-hen",
     "ref": "[ 247 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "48960",
+      "title_romaji": "Tokyo Revengers: Santen Sensou-hen",
+      "title_english": "Tokyo Revengers: The Three Deities",
+      "title_native": "東京リベンジャーズ 三天戦争編",
+      "description": "Sequel to Tokyo Revengers: Tenjiku-hen.",
+      "cover_large": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/48960/poster_image/b9d9e5cacd58a90d47500dbeaa107ffa.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20260909%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20260909T215353Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=211b5dca261afc007ba9b7d5924b7a0a95656fd3c4fd7cf9b1a88be7d6a22865",
+      "kitsu_year": 2026,
+      "format": "TV",
+      "episodes": null,
+      "site_url": "https://kitsu.io/anime/Tokyo-Revengers-Zokuhen",
+      "genres": [
+        "Delinquent",
+        "Time Travel",
+        "Action",
+        "Drama",
+        "Supernatural"
+      ],
+      "year_match": true
+    }
   },
   {
     "year": 2026,
@@ -7300,7 +8144,25 @@
     "director": "Kazuki Yokoyama",
     "original_title": "",
     "ref": "[ 249 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "49883",
+      "title_romaji": "Aoashi 2nd Season",
+      "title_english": null,
+      "title_native": "アオアシ 第2期",
+      "description": "The second season of Aoashi.",
+      "cover_large": "https://media.kitsu.app/anime/49883/poster_image/large-d5bdc14bd1057e9ce15d4dc202c7c656.jpeg",
+      "kitsu_year": 2026,
+      "format": "TV",
+      "episodes": null,
+      "site_url": "https://kitsu.io/anime/aoashi-2nd-season",
+      "genres": [
+        "Sports",
+        "Soccer"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-49883.jpg"
+    }
   },
   {
     "year": 2026,
@@ -7532,7 +8394,24 @@
     "director": "Tommy Hino",
     "original_title": "",
     "ref": "[ 258 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "49597",
+      "title_romaji": "Hitori no Yoru to Sekiryoku",
+      "title_english": null,
+      "title_native": "ひとりのよると赤緑",
+      "description": "\"I feel relieved when the soup is delicious.\"",
+      "cover_large": "https://media.kitsu.app/anime/49597/poster_image/large-0f4b95529b9c9df0f5839802d8e8934e.jpeg",
+      "kitsu_year": 2025,
+      "format": "ONA",
+      "episodes": 2,
+      "site_url": "https://kitsu.io/anime/hitori-no-yoru-to-sekiryoku",
+      "genres": [
+        "Slice of Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-49597.jpg"
+    }
   },
   {
     "year": 2026,
@@ -7577,7 +8456,27 @@
     "director": "Noriyuki Abe",
     "original_title": "Kanata kara",
     "ref": "[ 261 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "50610",
+      "title_romaji": "Kanata Kara",
+      "title_english": "From Far Away",
+      "title_native": "彼方から",
+      "description": "On her way home from school one day, Noriko is unexpectedly plunged into a strange and extraordinary fantasy world. Her troubles compound exponentially when she is rescued and befriended by a handsome young man by the name of Izark. He may be brave and courageous, but inside Izark lurks the darkest evil imaginable. And according to an ancient prophecy, Noriko possesses the power to unleash that evil. Now, inexorably bound together, these two unlikely allies must navigate a world both wondrous and hostile.",
+      "cover_large": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/50610/poster_image/94f41412f040ebe7e5f20d1d4b1774e7.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20260909%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20260909T220230Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=18289c12f0622d8da87ff2013664c71bffe40faada829c186749983b3a4d0a4f",
+      "kitsu_year": 2026,
+      "format": "TV",
+      "episodes": null,
+      "site_url": "https://kitsu.io/anime/kanata-kara",
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Romance",
+        "Shoujo",
+        "Isekai"
+      ],
+      "year_match": true
+    }
   },
   {
     "year": 2026,
@@ -7792,7 +8691,30 @@
     "director": "Yui Miura",
     "original_title": "",
     "ref": "[ 269 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "49008",
+      "title_romaji": "Magical Knight Rayearth (2026)",
+      "title_english": null,
+      "title_native": "魔法騎士レイアース (2026)",
+      "description": "In celebration of \"Magic Knight Rayearth”anime’s 30th anniversary, a new animation project has been launched!",
+      "cover_large": "https://media.kitsu.app/anime/49008/poster_image/large-744c4394a93562c5863f0cd8d060319d.jpeg",
+      "kitsu_year": 2026,
+      "format": "TV",
+      "episodes": null,
+      "site_url": "https://kitsu.io/anime/magical-knight-rayearth-2026",
+      "genres": [
+        "Magic",
+        "Magical Girl",
+        "Mecha",
+        "Fantasy",
+        "Adventure",
+        "Shoujo",
+        "Isekai"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-49008.jpg"
+    }
   },
   {
     "year": 2026,
@@ -7908,7 +8830,28 @@
     "director": "Shinji Ishihira",
     "original_title": "Tensei Shitara Ken Deshita",
     "ref": "[ 274 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "46917",
+      "title_romaji": "Tensei Shitara Ken Deshita 2nd Season",
+      "title_english": "Reincarnated as a Sword 2nd Season",
+      "title_native": "転生したら剣でした 第2期",
+      "description": "The second season of Tensei Shitara Ken Deshita.",
+      "cover_large": "https://media.kitsu.app/anime/46917/poster_image/large-0b7b035d325ecf9a275240318d98bd6d.jpeg",
+      "kitsu_year": 2026,
+      "format": "TV",
+      "episodes": null,
+      "site_url": "https://kitsu.io/anime/tensei-shitara-ken-deshita-2nd-season",
+      "genres": [
+        "Swordplay",
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Isekai"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-46917.jpg"
+    }
   },
   {
     "year": 2026,
@@ -7923,7 +8866,26 @@
     "director": "Masahiro Takata",
     "original_title": "Hyōken no Majutsushi ga Sekai o Suberu II",
     "ref": "[ 275 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "50723",
+      "title_romaji": "Hyouken no Majutsushi ga Sekai wo Suberu II",
+      "title_english": "The Iceblade Sorcerer Shall Rule the World Season 2",
+      "title_native": "冰剣の魔術師が世界を統べるⅡ",
+      "description": "The second season of Hyouken no Majutsushi ga Sekai wo Suberu.",
+      "cover_large": "https://media.kitsu.app/anime/50723/poster_image/large-140942b21d23d48de64ba9629ba6dded.jpeg",
+      "kitsu_year": 2026,
+      "format": "TV",
+      "episodes": null,
+      "site_url": "https://kitsu.io/anime/hyouken-no-majutsushi-ga-sekai-wo-suberu-ii",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-50723.jpg"
+    }
   },
   {
     "year": 2026,
@@ -8019,7 +8981,26 @@
     "director": "Hideaki Ōba",
     "original_title": "Daiya no A Act II",
     "ref": "[ 279 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "50822",
+      "title_romaji": "Diamond no Ace act II: Second Season Part 2",
+      "title_english": "Ace of Diamond Act II Season 2 Part 2",
+      "title_native": "ダイヤのA actⅡ -Second Season- 第2クール",
+      "description": "The second cour of the second season of Diamond no Ace act II.",
+      "cover_large": "https://media.kitsu.app/anime/50822/poster_image/large-2059f27c52786e97231557931bec2f8b.jpeg",
+      "kitsu_year": 2026,
+      "format": "TV",
+      "episodes": null,
+      "site_url": "https://kitsu.io/anime/diamond-no-ace-act-ii-second-season-part-2",
+      "genres": [
+        "Baseball",
+        "Sports",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-50822.jpg"
+    }
   },
   {
     "year": 2026,
@@ -8115,7 +9096,26 @@
     "director": "Takehiro Kubota",
     "original_title": "Watashi no Shiawase na Kekkon: Tokubetsu-hen",
     "ref": "[ 283 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "47969",
+      "title_romaji": "Watashi no Shiawase na Kekkon 2nd Season",
+      "title_english": "My Happy Marriage Season 2",
+      "title_native": "わたしの幸せな結婚 第二期",
+      "description": "The second season of Watashi no Shiawase na Kekkon. Miyo and Kiyoka's love will be put to the test as trouble looms over them. Will they achieve the future they dream of?",
+      "cover_large": "https://media.kitsu.app/anime/47969/poster_image/large-c847c028767f0559788ea5d08030b869.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/watashi-no-shiawase-na-kekkon-2nd-season",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Supernatural"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-47969.jpg"
+    }
   },
   {
     "year": 2026,
@@ -8130,7 +9130,28 @@
     "director": "Taishi Kawaguchi",
     "original_title": "Kikansha no Mahō wa Tokubetsu Desu",
     "ref": "[ 284 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "48397",
+      "title_romaji": "Kikansha no Mahou wa Tokubetsu desu 2nd Season",
+      "title_english": "A Returner's Magic Should Be Special Season 2",
+      "title_native": "帰還者の魔法は特別です 第2期",
+      "description": "The second season of Kikansha no Mahou wa Tokubetsu desu.",
+      "cover_large": "https://media.kitsu.app/anime/48397/poster_image/large-872f73365c8858abcec975a61bbe6d11.jpeg",
+      "kitsu_year": 2026,
+      "format": "TV",
+      "episodes": null,
+      "site_url": "https://kitsu.io/anime/kikansha-no-mahou-wa-tokubetsu-desu-2nd-season",
+      "genres": [
+        "Magic",
+        "Demon",
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-48397.jpg"
+    }
   },
   {
     "year": 2026,
@@ -8355,7 +9376,29 @@
     "director": "Norihiko Nagahama",
     "original_title": "Mezametara Saikyō Sōbi to Uchūsen Mochi Datta no de, Ikkodate Mezashite Yōhei Toshite Jiyū ni Ikitai",
     "ref": "[ 291 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "51005",
+      "title_romaji": "Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai",
+      "title_english": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
+      "title_native": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい",
+      "description": "Sato Takahiro was an ordinary office worker and hobbyist gamer until the day he woke up on a spaceship–one that strangely resembled a craft from a favorite space-shooter game. With a decked-out ship, a crew full of babes, and a fantastic universe to explore, he's going to make the most of his good luck and create the life he's always dreamed of!",
+      "cover_large": "https://media.kitsu.app/anime/51005/poster_image/large-5332b51d4e8ae56f0d8f1135c51df00f.jpeg",
+      "kitsu_year": 2026,
+      "format": "TV",
+      "episodes": null,
+      "site_url": "https://kitsu.io/anime/mezametara-saikyou-soubi-to-uchuusen-mochi-datta-node-ikkodate-mezashite-youhei-to-shite-jiyuu-ni-ikitai",
+      "genres": [
+        "Mecha",
+        "Action",
+        "Science Fiction",
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-51005.jpg"
+    }
   },
   {
     "year": 2026,
@@ -8405,7 +9448,30 @@
     "director": "Yūshi Ibe",
     "original_title": "Sasaki to Pii-chan",
     "ref": "[ 293 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "48651",
+      "title_romaji": "Sasaki to Pii-chan 2nd Season",
+      "title_english": "Sasaki and Peeps 2",
+      "title_native": "佐々木とピーちゃん 第２期",
+      "description": "The second season of Sasaki to Pii-chan.",
+      "cover_large": "https://media.kitsu.app/anime/48651/poster_image/large-2d62420aa78db024d0aaf8e118e71489.jpeg",
+      "kitsu_year": 2026,
+      "format": "TV",
+      "episodes": null,
+      "site_url": "https://kitsu.io/anime/sasaki-to-pii-chan-2nd-season",
+      "genres": [
+        "Magic",
+        "Magical Girl",
+        "Fantasy",
+        "Comedy",
+        "Cops",
+        "Working Life",
+        "Isekai"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-48651.jpg"
+    }
   },
   {
     "year": 2026,
@@ -8654,7 +9720,29 @@
     "director": "Shinichi Matsumi",
     "original_title": "",
     "ref": "[ 303 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "49606",
+      "title_romaji": "BEASTARS FINAL SEASON Part 2",
+      "title_english": "BEASTARS Final Season Part 2",
+      "title_native": "BEASTARS FINAL SEASON Part 2",
+      "description": "The second part of BEASTARS Final Season. Desiring a future where he can be with Haru and where carnivores and herbivores can coexist, Legoshi continues down the difficult path of opposing the wicked and fighting his own instincts.",
+      "cover_large": "https://media.kitsu.app/anime/49606/poster_image/large-9adb673db2ab0f59c0f41c5fe1ab62b1.jpeg",
+      "kitsu_year": 2026,
+      "format": "ONA",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/beastars-final-season-part-2",
+      "genres": [
+        "Anthropomorphism",
+        "Slice of Life",
+        "Drama",
+        "Coming Of Age",
+        "Psychological",
+        "Mystery"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-49606.jpg"
+    }
   },
   {
     "year": 2026,
@@ -8801,7 +9889,29 @@
     "director": "Shigeyuki Miya",
     "original_title": "Kaijū Hachigō Narumi no Heijitsu",
     "ref": "[ 308 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "48994",
+      "title_romaji": "Kaijuu 8-gou 2nd Season",
+      "title_english": "Kaiju No.8 Season 2",
+      "title_native": "怪獣８号 第２期",
+      "description": "The second season of Kaijuu 8-gou. Kafka must face new challenges, new Kaiju, and… a new Captain?!",
+      "cover_large": "https://media.kitsu.app/anime/48994/poster_image/large-d66ad0518e3dcd862ffc4b734a85c432.jpeg",
+      "kitsu_year": 2025,
+      "format": "TV",
+      "episodes": 11,
+      "site_url": "https://kitsu.io/anime/Kaiju-No8-SEASON-2",
+      "genres": [
+        "Japan",
+        "Action",
+        "Science Fiction",
+        "Adventure",
+        "Comedy",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-48994.jpg"
+    }
   },
   {
     "year": 2026,
@@ -8816,7 +9926,26 @@
     "director": "",
     "original_title": "",
     "ref": "[ 309 ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "50445",
+      "title_romaji": "Umayuru: Pretty Gray",
+      "title_english": null,
+      "title_native": "うまゆる ぷりてぃ～ぐれい",
+      "description": "The Umamusume mini-anime is back with a new Golden Week series—Umayuru: Pretty Gray!",
+      "cover_large": "https://media.kitsu.app/anime/50445/poster_image/large-c8e01f477a5d1b394b7651d0dc5eb0ba.jpeg",
+      "kitsu_year": 2025,
+      "format": "ONA",
+      "episodes": 4,
+      "site_url": "https://kitsu.io/anime/umayuru-pretty-gray",
+      "genres": [
+        "Super Deformed",
+        "Comedy",
+        "Slice of Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-50445.jpg"
+    }
   },
   {
     "year": 2026,

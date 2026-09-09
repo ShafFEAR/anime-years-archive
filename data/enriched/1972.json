@@ -40,7 +40,25 @@
     "type": "TV",
     "demographic": "Family, Children",
     "regions": "JA, NA, EU",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2339",
+      "title_romaji": "Kashi no Ki Mokku",
+      "title_english": null,
+      "title_native": "樫の木モック",
+      "description": "This version of Pinocchio tells a story of an extremely gullible, naive and morally confused wooden doll brought to life by a mystical blue fairy. Pinocchio (Mokku) is characterized as having many character faults which he must learn to overcome in order to be worthy of being granted humanity. Some of these character faults include selfishness, rudeness, insensitivity, indolence, obstinacy, over- trusting, self-pity, stupidity, disobedience, compulsive lying, arrogance, greed, cowardice, recklessness, cruelty, foolishness and an inability to learn from mistakes. Throughout the entire series Pinocchio (Mokku), partly due to his own delinquency and repetitive disobedience, must undergo other costly ordeals of hardship and pain in which he is continuously tormented, persecuted, bullied, humiliated, tricked, ridiculed, ostracised, beaten, downtrodden and subjected to degrading and inhumane treatment. Its plain depiction of the austere reality of what it would be like to be literally subhuman growing up in a world of danger and hardship, makes this another good example of traditional Japanese stories, which teach moral observance through tough endurance.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2339/large.jpg",
+      "kitsu_year": 1972,
+      "format": "TV",
+      "episodes": 52,
+      "site_url": "https://kitsu.io/anime/kashi-no-ki-mokku",
+      "genres": [
+        "Fantasy",
+        "Adventure"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2339.jpg"
+    }
   },
   {
     "year": 1972,
@@ -86,7 +104,25 @@
     "type": "TV",
     "demographic": "Shōnen",
     "regions": "JA, EU",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3558",
+      "title_romaji": "Seigi wo Aisuru Mono Gekkou Kamen",
+      "title_english": null,
+      "title_native": "正義を愛する者、月光仮面",
+      "description": "Moonlight Mask's identity has always been a mystery (which is why the Moonlight Mask persona is credited as being played by \"?\" in the original series). Decked out in white tights, white &amp; red cape, white scarf, yellow gloves &amp; boots, dark glasses, face cloth and Indian-style turban (pinned with a \"moon\" ornament), Moonlight Mask is armed with a whip, two six-shooters, shuriken and moon-shaped boomerangs. He also rides a motorcycle. However, only audiences know that Moonlight Mask could very well be detective Juurou Iwai who seems to disappear from his friends before the caped crusader rides to the rescue in his motorcycle! Even his comical assistant Gorohachi Fukuro, his friend Inspector Matsuda, and children Shigeru, Kaboko and Fujiko are oblivious to Iwai's secret identity.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3558/large.jpg",
+      "kitsu_year": 1972,
+      "format": "TV",
+      "episodes": 39,
+      "site_url": "https://kitsu.io/anime/seigi-wo-aisuru-mono-gekko-kamen",
+      "genres": [
+        "Action",
+        "Mystery"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3558.jpg"
+    }
   },
   {
     "year": 1972,
@@ -99,7 +135,26 @@
     "type": "Movie",
     "demographic": "Family, Children",
     "regions": "JA, NA, EU, NL, RU",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3879",
+      "title_romaji": "Nagagutsu Sanjuushi",
+      "title_english": "Return of Pero",
+      "title_native": "ながぐつ三銃士",
+      "description": "Once upon a time, near the ruins of an old castle, there lived the King of Cats. He was famous for his violent temper and now he is lashing out at his three gunmen, who had been ordered to bring back Pero, but had returned empty-handed. Pero, a former subject of the angry King, had lived in Cat Country once but he had dared to save a mouse from death. Now, as everyone knows, the mouse is the mortal enemy of all cats, so the King orders his three gunmen to go to the ends of the earth, if necessary, to find Pero. Pero is a happy-go-lucky sort of feline and very hip for a cat. Fleeing from the wrath of the King, he decides to seek his fortune in the wild and wooly west. On the way, he encounters the King’s gunmen hot on his trail but he foils them and blithely goes on his way. On the stagecoach to Go Go Town, he meets Annie, a pretty girl who is returning after finishing her education in the East, and Jimmy, a boy with sleepy eyes and slow movements. They are attacked suddenly by holdups who are after the new sheriff but since he does not seem to be on the coach, they ride off. Sad news awaits Annie in town. Her father had been killed by the Big Bad Boss for finding out about the bogus money he was making to get rich fast. The Big Bad Boss also kills each new sheriff who arrives to keep law and order in town. He is determined to keep the whole place under his thumb. The Big Bad Boss tries to scare Annie into leaving town but she is her father’s daughter and cannot be frightened away by threats. With the help of Pero and Jimmy, she opens a restaurant in the building her father owned. Once again, Pero happens to save a little Indian mouse caught in a trap. The little mouse’s father, the Chieftain of the Indian mice, promises to help Pero and Annie. The sleepy-eyed Jimmy is really the new sheriff. They all join forces and expose the Big Boss’ villainy and his secret bogus money factory. The Big Bad Boss gets his comeuppance and all ends well.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3879/large.jpg",
+      "kitsu_year": 1972,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/nagagutsu-sanjuushi",
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Kids"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3879.jpg"
+    }
   },
   {
     "year": 1972,
@@ -275,7 +330,26 @@
     "type": "Movie",
     "demographic": "Shōnen",
     "regions": "JA, EU",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "6486",
+      "title_romaji": "Maken Liner 0011 Henshin Seyo!",
+      "title_english": null,
+      "title_native": "魔犬ライナー００１１変身せよ",
+      "description": "A medium long anime movie (50 minutes) released as one of the programs of 'Toei Manga Festival', and screened with a live-action film \"Kamen Rider vs. Ambassador Hell\" and others. A near-future Sci-Fi mecha action film featuring four cyborg dogs. An original story based on the concept from Hiroshi Sasagawa's manga \"Maken Goro\" (serialized in the magazine \"Weekly Shonen King\" in 1963). A boy named Tsutomu and four cyborg dogs (Queen, Ace, Jack and Joker who coalesce and transform into the spaceship \"Liner\") fight against aggression by insect-type aliens from the Planet Devil. Directed by Takeshi Tamiya. Music by Takeo Yamashita.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/6486/large.jpg",
+      "kitsu_year": 1972,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/maken-liner-0011-henshin-seyo",
+      "genres": [
+        "Mecha",
+        "Action",
+        "Science Fiction"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-6486.jpg"
+    }
   },
   {
     "year": 1972,
@@ -449,7 +523,27 @@
     "type": "TV",
     "demographic": "Shōnen",
     "regions": "JA, NA, EU, AR",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2041",
+      "title_romaji": "Mazinger Z",
+      "title_english": "Mazinger Z",
+      "title_native": "マジンガーＺ",
+      "description": "The villainous Dr. Hell has amassed an army of mechanical beasts in his secret hideaway, the island of Bardos located in the Aegean Sea. He is capable of controlling mechanized beasts with his cane, and instructs them to unleash devastating attacks. However, Dr. Hell doesn't do all the dirty work by himself; he has his loyal henchman Baron Ashura to carry out his devilish plans. There are also those that will see to it that evil does not prevail. Kouji Kabuto is the young and feisty teenager with a score to settle: his goal is avenging the murder of his grandfather by Dr. Hell. And he might just be able to pull it off, as he is the pilot of Mazinger Z, a mighty giant robot made out of an indestructible metal known as Super-Alloy Z. Mazinger Z boasts several powerful special attacks. By channeling Photonic Energy through its eyes, and unleashing the Koushiryoku Beam, it can cause great destruction. But things get really cool when Mazinger Z launches its Rocket Punch attack. Dr. Hell and his minions might have just found their match!",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2041/large.jpg",
+      "kitsu_year": 1972,
+      "format": "TV",
+      "episodes": 92,
+      "site_url": "https://kitsu.io/anime/mazinger-z",
+      "genres": [
+        "Mecha",
+        "Piloted Robot",
+        "Action",
+        "Science Fiction"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2041.jpg"
+    }
   },
   {
     "year": 1972,
@@ -528,7 +622,26 @@
     "type": "Short",
     "demographic": "General",
     "regions": "JA",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "4891",
+      "title_romaji": "Oni",
+      "title_english": null,
+      "title_native": "鬼",
+      "description": "One morning, two brothers living in a hut with their mother set out for the mountains to set traps for deer. They move silently through the forest undergrowth until suddenly a demon's arm reaches out from the treetops and grabs the younger brother. The older brother aims carefully, calms the shaking of his hands and lets an arrow fly, thus saving his brother's life. The demon's arm is left behind and somehow it looks familiar. After returning home a horrible truth is revealed.... Drawing on an early medieval Japanese legend, the film is reminiscent of the horror psychodrama Kwaidan. The Demon (1972) took awards at many animation festivals.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/4891/large.jpg",
+      "kitsu_year": 1972,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/oni",
+      "genres": [
+        "Historical",
+        "Demon",
+        "Fantasy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-4891.jpg"
+    }
   },
   {
     "year": 1972,
@@ -573,6 +686,27 @@
     "type": "TV",
     "demographic": "Shōnen",
     "regions": "JA, NA, EU",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2166",
+      "title_romaji": "Kagaku Ninja-tai Gatchaman",
+      "title_english": "Gatchaman",
+      "title_native": "科学忍者隊ガッチャマン",
+      "description": "Due to dangers of decreasing resources and growing pollution, the International Scientific Organization is established to improve environmental conditions throughout the world. But an international criminal group, Gallactor, tries to achieve world domination by taking control of the ISO. Gallactor was created by a mysterious being from outer space known as Generalissimo X, who gives orders through its chief commander on Earth, the masked Berg katse. To fight Gallactor and its robot monsters, the ISO's Dr. Nambu enlists five brave youths into a combat squad called Gatchaman,the Science Commandos. Special scientific powers and dramatic birdlike costumes make the Gatchaman Squad a match for Gallactor, wherever on Earth it may strike. Ken(the Eagle) is the wise leader, assisted by sometimes-foolhardy Joe(the Condor), pretty Jun(the Swan), eager little Jinpei(the Swallow), and strong Ryu(the Horned Owl). Each has individual scientific weapons, but their main power lies in their aircraft, the Phoenix, which can transform itself into a fiery arrow capable of piercing the most massive threats. GATCHAMAN is a series of dynamic action and tension as ken, Joe, Jun, Jinpei, and Ryu hold themselves in constant readiness to meet each new threat by Gallactor to conquer the world.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2166/large.jpg",
+      "kitsu_year": 1972,
+      "format": "TV",
+      "episodes": 105,
+      "site_url": "https://kitsu.io/anime/kagaku-ninja-tai-gatchaman",
+      "genres": [
+        "Future",
+        "Violence",
+        "Action",
+        "Science Fiction",
+        "Adventure"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2166.jpg"
+    }
   }
 ]

@@ -185,7 +185,27 @@
     "original_title": "Gekijōban Cardfight!! Vanguard: Neon Messiah",
     "director": "Shin Itagaki, Takashi Motoki",
     "studio": "Liden Films",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8655",
+      "title_romaji": "Cardfight!! Vanguard Movie: Neon Messiah",
+      "title_english": null,
+      "title_native": "劇場版 カードファイト!! ヴァンガード ネオンメサイア",
+      "description": "A hybrid anime/live-action movie for the series to be released Fall 2014. After the events of Link Joker-hen, Aichi and Kai team up to a confront an enemy that threatens the peace they've just regained. The movie also covers the events leading up to Aichi's disappearance in Legion Mate-hen.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/8655/large.jpg",
+      "kitsu_year": 2014,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/cardfight-vanguard-movie-neon-messiah",
+      "genres": [
+        "Demon",
+        "Action",
+        "Adventure",
+        "Card Games"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8655.jpg"
+    }
   },
   {
     "year": 2014,
@@ -198,7 +218,32 @@
     "original_title": "Gekijō-ban gdgd Yōseis tte Iu Eiga wa Dō kana...?",
     "director": "Sōta Sugahara",
     "studio": "Bouncy",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "7498",
+      "title_romaji": "gdgd Fairies 2",
+      "title_english": null,
+      "title_native": "gdgd妖精s 2期",
+      "description": "Direct continuation of the previous season. Full CG series about a 3 fairies who ramble over about random subjects in 3 locations.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/7498/large.jpg",
+      "kitsu_year": 2013,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/gdgd-fairies-2",
+      "genres": [
+        "Magic",
+        "Magical Girl",
+        "Fantasy World",
+        "Absurdist Humour",
+        "Parody",
+        "Parallel Universe",
+        "Fantasy",
+        "Comedy",
+        "Slice of Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-7498.jpg"
+    }
   },
   {
     "year": 2014,
@@ -224,7 +269,33 @@
     "original_title": "Hakuōki Dai-nishō Shikon Sōkyū",
     "director": "Osamu Yamasaki",
     "studio": "Studio Deen",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "6885",
+      "title_romaji": "Hakuouki Movie 1: Kyoto Ranbu",
+      "title_english": "Hakuoki ~Demon of the Fleeting Blossom~ Wild Dance of Kyoto",
+      "title_native": "劇場版 薄桜鬼 第一章 京都乱舞",
+      "description": "Chizuru Yukimura has come to Kyoto looking for her father, a doctor who has gone missing. While there, she witnesses a fight between an Oni and the Shinsengumi. Taking her into custody, the Shinsengumi debates on what to do with Chizuru, when they discover that she is the daughter of the doctor for whom they are also looking. The Shinsengumi then take Chizuru along on their search after the missing doctor, from adventure to adventure.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/6885/large.jpg",
+      "kitsu_year": 2013,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/hakuouki-movie-1-kyoto-ranbu",
+      "genres": [
+        "Samurai",
+        "Bishounen",
+        "Swordplay",
+        "Past",
+        "Earth",
+        "Historical",
+        "Japan",
+        "Tokugawa Period",
+        "Bakumatsu   Meiji Period",
+        "Reverse Harem"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-6885.jpg"
+    }
   },
   {
     "year": 2014,
@@ -273,7 +344,25 @@
     "original_title": "Inazuma Eleven: Chōjigen Dream Match",
     "director": "Katsuhito Akiyama",
     "studio": "OLM",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "7765",
+      "title_romaji": "Inazuma Eleven Go: Galaxy",
+      "title_english": null,
+      "title_native": "イナズマイレブンＧＯ ギャラクシー",
+      "description": "After fighting to free the game of soccer in Japan from the Fifth Sector, the country's soccer squads can once again look forward to stepping onto the field. However, a new challenge will emerge for Japanese players in the form of the Football Frontier International Vision 2, a new tournament that will bring together the best teams each country can assemble. Tenma Matsukaze and his Raimon teammates, Takuto Shindou and Kyousuke Tsurugi, are once again part of the action as they have been selected to play for the Japanese representative, Inazuma Japan. Much to their surprise, the coach selects eight other players that have no previous experience playing soccer! Team Inazuma Japan will have a huge mountain to climb, building chemistry and skills as they go along. What they don’t know is that the tournament will set the stage for something much bigger, something out of this world in Inazuma Eleven Go: Galaxy!",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/7765/large.jpg",
+      "kitsu_year": 2013,
+      "format": "TV",
+      "episodes": 43,
+      "site_url": "https://kitsu.io/anime/inazuma-eleven-go-galaxy",
+      "genres": [
+        "Super Power",
+        "Sports"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-7765.jpg"
+    }
   },
   {
     "year": 2014,
@@ -513,7 +602,26 @@
     "original_title": "Soreike! Anpanman: Ringo Bōya to Minna no Negai",
     "director": "Jun Kawagoe",
     "studio": "TMS/3xCube",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8554",
+      "title_romaji": "Sore Ike! Anpanman: Ringo Boy to Minna no Negai",
+      "title_english": "Anpanman: Apple Boy and Everyone's Hope",
+      "title_native": "それいけ! アンパンマン りんごぼうやとみんなの願い",
+      "description": null,
+      "cover_large": "https://media.kitsu.app/anime/poster_images/8554/large.jpg",
+      "kitsu_year": 2014,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/sore-ike-anpanman-ringo-bouya-to-minna-no-negai",
+      "genres": [
+        "Fantasy",
+        "Comedy",
+        "Kids"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8554.jpg"
+    }
   },
   {
     "year": 2014,
@@ -526,7 +634,27 @@
     "original_title": "Uchū Kyōdai #0",
     "director": "Ayumu Watanabe",
     "studio": "A-1 Pictures",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8358",
+      "title_romaji": "Uchuu Kyoudai: Number Zero",
+      "title_english": null,
+      "title_native": "宇宙兄弟#0[ナンバー・ゼロ]",
+      "description": "It will be a prequel to the TV anime series and will be titled Uchuu Kyoudai #0 (Number Zero). The mangaka also added that the movie will revolve around the \"origin of the dream.\"",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/8358/large.jpg",
+      "kitsu_year": 2014,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/uchuu-kyoudai-number-zero",
+      "genres": [
+        "Space",
+        "Science Fiction",
+        "Comedy",
+        "Slice of Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8358.jpg"
+    }
   },
   {
     "year": 2014,
@@ -659,7 +787,22 @@
     "original_title": "Taka no Tsume 7 - Joō Heika no Joboob",
     "director": "FROGMAN",
     "studio": "Kaeruotoko Shokai [ citation needed ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "40801",
+      "title_romaji": "Himitsukessha Taka no Tsume x Glass no Kamen Desu ga",
+      "title_english": null,
+      "title_native": "秘密結社鷹の爪×ガラスの仮面ですが",
+      "description": "A collaboration episode between <i>Himitsukessha Taka no Tsume</i> and <i>Glass no Kamen Desu ga</i> meant to promote the latter's official TV anime launch as well as the former's 4th season launch. In this collaboration two Chancellors appear. Deluxe Fighter then shows up to eliminate both since there can't be a double amount of evil in the world. One Chancellor comes forward to reveal themselves as Ayumi Himekawa <i>acting</i> as the Chancellor. Then Deluxe Fighter unveils themselves as Maya Kitajima. Both women are rivals in the <i>Glass no Kamen</i> franchise and frequently one-up each other acting, which leaves the real Chancellor and Yoshida confused as to why the came to their compound and even more confused that (breaking the 4th wall for self-deprecating humor) DLE will be animating the new <i>Glass no Kamen</i> anime.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/40801/large.jpg",
+      "kitsu_year": 2013,
+      "format": "ONA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/himitsukessha-taka-no-tsume-x-glass-no-kamen-desu-ga",
+      "genres": [],
+      "year_match": true,
+      "image_path": "images/kitsu-40801.jpg"
+    }
   },
   {
     "year": 2014,
@@ -710,7 +853,27 @@
     "original_title": "Tiger and Bunny",
     "director": "Yoshitomo Yonetani",
     "studio": "Sunrise",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "6644",
+      "title_romaji": "Tiger & Bunny Movie 2: The Rising",
+      "title_english": "Tiger & Bunny: The Rising",
+      "title_native": "劇場版 TIGER & BUNNY -The Rising-",
+      "description": "New corporate leadership shakes up Tiger and Barnaby's partnership. Meanwhile, the city is hit by a series of incidents resembling a legendary curse.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/6644/large.jpg",
+      "kitsu_year": 2014,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/tiger-bunny-movie-2-the-rising",
+      "genres": [
+        "Super Power",
+        "Action",
+        "Comedy",
+        "Mystery"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-6644.jpg"
+    }
   },
   {
     "year": 2014,
@@ -723,7 +886,29 @@
     "original_title": "Mōretsu Pirates: Akuu no Shin'en",
     "director": "Tatsuo Satō",
     "studio": "Satelight",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "7170",
+      "title_romaji": "Mouretsu Pirates: Abyss of Hyperspace",
+      "title_english": "Bodacious Space Pirates the Movie: Abyss of Hyperspace",
+      "title_native": "モーレツ宇宙海賊 ABYSS OF HYPERSPACE -亜空の深淵-",
+      "description": "Marika Katou, a third year student at Hakuho Girls' Academy, is a legitimate space pirate with a Letter of Marque. Between her studies, leading her school's space yacht club, working part time at Cafe Lamp, and being the captain of the space pirate ship Bentenmaru, Marika's days are very busy. One day, Marika gets a job to rob a high-class passenger ship, and she discovers that on the passenger list is Kanata Mugen, a boy who owns a \"galaxy pass\". Thus, an adventure featuring a hyperspace race between pirates and one young boy begins.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/7170/large.jpg",
+      "kitsu_year": 2014,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/bodacious-space-pirates-the-movie-abyss-of-hyperspace",
+      "genres": [
+        "Pirate",
+        "Space",
+        "Space Travel",
+        "Stereotypes",
+        "Science Fiction",
+        "Adventure"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-7170.jpg"
+    }
   },
   {
     "year": 2014,
@@ -810,7 +995,26 @@
     "original_title": "Gekijō-ban Pretty Rhythm All Stars Selection Prism Show☆Best Ten",
     "director": "Masakazu Hishida",
     "studio": "Tatsunoko Production",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "7618",
+      "title_romaji": "Pretty Rhythm: Rainbow Live",
+      "title_english": null,
+      "title_native": "プリティーリズム・レインボーライブ",
+      "description": "Naru Ayase is an 8th grader who can see the colors of music when she listens to it. For Naru, who is extremely good at decorating, becoming the owner of a shop like Dear Crown was her dream. One day, she finds out that the manager of a newly-opened shop is recruiting middle school girls who can do Prism Dance, and immediately applies. Naru begins to Prism Dance at the audition, and an aura she's never experienced spreads out in front of her. At that moment, a mysterious girl named Rinne asks her if she can see \"rainbow music.\"",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/7618/large.jpg",
+      "kitsu_year": 2013,
+      "format": "TV",
+      "episodes": 51,
+      "site_url": "https://kitsu.io/anime/pretty-rhythm-rainbow-live",
+      "genres": [
+        "Music",
+        "Slice of Life",
+        "Sports"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-7618.jpg"
+    }
   },
   {
     "year": 2014,
@@ -823,7 +1027,31 @@
     "original_title": "Purikyua All Stars New Stage 3: Eien no Tomodachi",
     "director": "Kouji Ogawa",
     "studio": "Toei Animation",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "7429",
+      "title_romaji": "Precure All Stars Movie New Stage 2: Kokoro no Tomodachi",
+      "title_english": null,
+      "title_native": "映画 プリキュアオールスターズ New Stage2 こころのともだち",
+      "description": "One day, the Pretty Cures receive an invitation to a party in their honor. Everyone is heading to the party venue, the school of fairies, but awaits a mysterious shadow. The shadow steals transformation objects! What can they do? If the Cures can not be converted are in big trouble! If this continues, the school, our world and everything else will deborado by that shadow! The 32 Pretty Cures will fight to protect everyone!",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/7429/large.jpg",
+      "kitsu_year": 2013,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/precure-all-stars-new-stage-2-kokoro-no-tomodachi",
+      "genres": [
+        "Magic",
+        "Magical Girl",
+        "Super Power",
+        "Present",
+        "Fantasy World",
+        "Contemporary Fantasy",
+        "Action",
+        "Kids"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-7429.jpg"
+    }
   },
   {
     "year": 2014,
@@ -836,7 +1064,26 @@
     "original_title": "Sekai-ichi Hatsukoi: Yokozawa Takafumi no Baai",
     "director": "Chiaki Kon",
     "studio": "Studio Deen",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8193",
+      "title_romaji": "Sekaiichi Hatsukoi Movie: Yokozawa Takafumi no Baai",
+      "title_english": null,
+      "title_native": "劇場版 世界一初恋 横澤隆史の場合",
+      "description": "Movie adaptation of the Sekaiichi Hatsukoi: Yokozawa Takafumi no Baai BL light novel.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/8193/large.jpg",
+      "kitsu_year": 2014,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/sekaiichi-hatsukoi-movie-yokozawa-takafumi-no-baai",
+      "genres": [
+        "Shounen Ai",
+        "Comedy",
+        "Romance"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8193.jpg"
+    }
   },
   {
     "year": 2014,
@@ -1157,7 +1404,33 @@
     "original_title": "Shin Gekijō-ban Initial D Legend 1 -Kakusei-",
     "director": "Masamitsu Hidaka",
     "studio": "Sanzigen , Liden Films",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "7906",
+      "title_romaji": "New Initial D Movie: Legend 1 - Kakusei",
+      "title_english": "Initial D Legend 1: Awakening",
+      "title_native": "新劇場版　頭文字［イニシャル］D Legend1 -覚醒-",
+      "description": "The first movie in a trilogy, focusing on the battle against the Takahashi brothers.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/7906/large.jpg",
+      "kitsu_year": 2014,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/new-initial-d-movie-legend-1-kakusei",
+      "genres": [
+        "Present",
+        "Earth",
+        "Japan",
+        "Motorsport",
+        "Street Racing",
+        "Asia",
+        "Action",
+        "Sports",
+        "Drifting",
+        "Seinen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-7906.jpg"
+    }
   },
   {
     "year": 2014,
@@ -1247,7 +1520,28 @@
     "original_title": "Aikatsu!",
     "director": "Yuichiro Yano",
     "studio": "Sunrise",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8499",
+      "title_romaji": "Aikatsu! Movie",
+      "title_english": null,
+      "title_native": "劇場版 アイカツ！アイドルカツドウ！",
+      "description": "The story of the anime revolves around Ichigo, who was just a normal middle school student until she suddenly got involved in the world of idols. The film will center on Aikatsu!'s greatest \"Super Live\" concert yet, the Dai Star Miya Ichigo Matsuri. Ichigo prepares for the concert with press conferences, last-minute lessons, and more.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/8499/large.jpg",
+      "kitsu_year": 2014,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/aikatsu-movie",
+      "genres": [
+        "Idol",
+        "Music",
+        "Slice of Life",
+        "School Life",
+        "The Arts"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8499.jpg"
+    }
   },
   {
     "year": 2014,
@@ -1758,7 +2052,25 @@
     "original_title": "Oshiri Kajiri Mushi",
     "director": "Kaori, Masatsugu Arakawa",
     "studio": "Kinema Citrus",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "7976",
+      "title_romaji": "Oshiri Kajiri Mushi (TV) 2nd Season",
+      "title_english": "Bottom Biting Bug 2",
+      "title_native": "おしりかじり虫　第２シリーズ",
+      "description": "Continuation of the gag comedy about Oshiri Kajiri Mushi XVIII, a 10-year-old insect who goes to Biting School to inherit his family's Biting Shop business.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/7976/large.jpg",
+      "kitsu_year": 2013,
+      "format": "TV",
+      "episodes": 32,
+      "site_url": "https://kitsu.io/anime/oshiri-kajiri-mushi-2",
+      "genres": [
+        "Comedy",
+        "Kids"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-7976.jpg"
+    }
   },
   {
     "year": 2014,
@@ -1771,7 +2083,33 @@
     "original_title": "Break Blade",
     "director": "Nobuyoshi Habara",
     "studio": "Production I.G , Xebec",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8281",
+      "title_romaji": "Break Blade",
+      "title_english": "Broken Blade",
+      "title_native": "ブレイク ブレイド",
+      "description": "In the continent of Cruzon, an impending war between the Kingdom of Krisna and the nation of Athens is brimming. The people of this land are able to use quartz for whatever purpose they desire. Yet one person, Rygart Arrow, is not. He is an \"un-sorcerer,\" a person unable to use quartz. But this characteristic will enable him to pilot an ancient Golem, one strong enough to put up a fight against the invading army of Athens.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/8281/large.jpg",
+      "kitsu_year": 2014,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/break-blade-tv",
+      "genres": [
+        "Magic",
+        "Gunfights",
+        "Swordplay",
+        "Fantasy World",
+        "Mecha",
+        "Piloted Robot",
+        "Action",
+        "Fantasy",
+        "War",
+        "Military"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8281.jpg"
+    }
   },
   {
     "year": 2014,
@@ -1893,7 +2231,30 @@
     "original_title": "Kin-iro no Corda Blue♪Sky",
     "director": "Kōjin Ochi",
     "studio": "TYO Animations",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8012",
+      "title_romaji": "Kiniro no Corda: Blue♪Sky",
+      "title_english": "La corda d'oro: Blue♪Sky",
+      "title_native": "金色のコルダ Blue♪Sky",
+      "description": "Soon after transferring to Seisou Gakuin, Kanade finds the orchestra club in the middle of preparing for the National concur. Teaming up with the other members, she will improve her skills, meet new rivals and create memories for what will become an unforgettable summer...",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/8012/large.jpg",
+      "kitsu_year": 2014,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/kiniro-no-corda-blue-sky",
+      "genres": [
+        "Bishounen",
+        "High School",
+        "Reverse Harem",
+        "Music",
+        "Harem",
+        "School Life",
+        "The Arts"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8012.jpg"
+    }
   },
   {
     "year": 2014,
@@ -1943,7 +2304,33 @@
     "original_title": "Dragon Ball Kai",
     "director": "Yasuhiro Nowatari",
     "studio": "Toei Animation",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8351",
+      "title_romaji": "Dragon Ball Kai (2014)",
+      "title_english": "Dragon Ball Z Kai: The Final Chapters",
+      "title_native": "ドラゴンボール改",
+      "description": "Remastered version of the Majin Buu saga that adheres more to the manga's story. Note: Only 61 episodes were released in Japan. International Broadcast had 69. Episode count on this page Represents International count.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/8351/large.jpg",
+      "kitsu_year": 2014,
+      "format": "TV",
+      "episodes": 69,
+      "site_url": "https://kitsu.io/anime/dragon-ball-kai-2014",
+      "genres": [
+        "Cyborg",
+        "Alien",
+        "Martial Arts",
+        "Super Power",
+        "Human Enhancement",
+        "Space Travel",
+        "Violence",
+        "Humanoid Alien",
+        "Action",
+        "Science Fiction"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8351.jpg"
+    }
   },
   {
     "year": 2014,
@@ -2077,7 +2464,24 @@
     "original_title": "Kindaichi Shōnen no Jikenbo Returns",
     "director": "Yutaka Tsuchida",
     "studio": "Toei Animation",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "11680",
+      "title_romaji": "Kindaichi Shounen no Jikenbo Returns 2nd Season: Akechi Keibu no Jikenbo",
+      "title_english": null,
+      "title_native": "金田一少年の事件簿R 明智警部の事件簿",
+      "description": "The official website of the The File of Young Kindaichi Returns anime announced that a one-hour special television episode of the anime titled \"The File of Inspector Akechi\" (Akechi Keibu no Jikenbo) will air on December 26. The site streamed a trailer on Sunday, which previews the episode and its story. The video also reveals that Yudai Chiba will play Ryūtaro Kobayashi, a junior detective under detective Kengo Akechi.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/11680/large.jpg",
+      "kitsu_year": 2015,
+      "format": "special",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/kindaichi-shounen-no-jikenbo-returns-akechi-keibu-no-jikenbo",
+      "genres": [
+        "Mystery"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-11680.jpg"
+    }
   },
   {
     "year": 2014,
@@ -2311,7 +2715,26 @@
     "original_title": "GO GO Tamagotchi!",
     "director": "Jouji Shimura",
     "studio": "OLM",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8378",
+      "title_romaji": "GO-GO Tamagotchi!",
+      "title_english": null,
+      "title_native": "GO-GO たまごっち！",
+      "description": "New series of Tamagotchi!.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/8378/large.jpg",
+      "kitsu_year": 2014,
+      "format": "TV",
+      "episodes": 50,
+      "site_url": "https://kitsu.io/anime/go-go-tamagotchi",
+      "genres": [
+        "Fantasy",
+        "Comedy",
+        "Kids"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8378.jpg"
+    }
   },
   {
     "year": 2014,
@@ -2596,7 +3019,33 @@
     "original_title": "Kashiramoji [ Initial ] D Final Stage",
     "director": "Mitsuo Hashimoto",
     "studio": "SynergySP",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8482",
+      "title_romaji": "Initial D Final Stage",
+      "title_english": null,
+      "title_native": "頭文字 Final Stage",
+      "description": "After defeating every racing team in the prefecture, everything comes down to one last race. Takumi Fujiwara has never lost a race, but when his opponent is also using an AE86, it turns into a battle of the AE86. Will Project D succeed in the final and most difficult race of Initial D?",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/8482/large.jpg",
+      "kitsu_year": 2014,
+      "format": "TV",
+      "episodes": 4,
+      "site_url": "https://kitsu.io/anime/initial-d-final-stage",
+      "genres": [
+        "Present",
+        "Earth",
+        "Japan",
+        "Motorsport",
+        "Street Racing",
+        "Plot Continuity",
+        "Asia",
+        "Sports",
+        "Drifting",
+        "Seinen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8482.jpg"
+    }
   },
   {
     "year": 2014,
@@ -2999,7 +3448,24 @@
     "original_title": "Maido! Urayasu Tekkin Kazoku",
     "director": "Akitaro Daichi",
     "studio": "Studio Deen",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8556",
+      "title_romaji": "Maido! Urayasu Tekkin Kazoku",
+      "title_english": null,
+      "title_native": "毎度! 浦安鉄筋家族",
+      "description": "Sequel to the Urayasu Tekkin Kazoku anime and adaptation of the manga of the same name. The series follows an energetic grade-schooler and his friends as they get into mischief.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/8556/large.jpg",
+      "kitsu_year": 2014,
+      "format": "TV",
+      "episodes": 25,
+      "site_url": "https://kitsu.io/anime/maido-urayasu-tekkin-kazoku",
+      "genres": [
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8556.jpg"
+    }
   },
   {
     "year": 2014,
@@ -3113,7 +3579,31 @@
     "original_title": "",
     "director": "Shudō Jun [ citation needed ] [ citation needed ]",
     "studio": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "7691",
+      "title_romaji": "Rescue Me!",
+      "title_english": null,
+      "title_native": "れすきゅーME!",
+      "description": "The story centers on Mizutani Masayuki, an ordinary high school boy. His classmate Shimizu Sayaka lives in his home as a zealously intrusive maid, leading to uncomfortably erotic situations.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/7691/large.jpg",
+      "kitsu_year": 2013,
+      "format": "OVA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/rescue-me",
+      "genres": [
+        "Present",
+        "Earth",
+        "Japan",
+        "Stereotypes",
+        "Asia",
+        "Ecchi",
+        "Romance",
+        "Harem"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-7691.jpg"
+    }
   },
   {
     "year": 2014,
@@ -3611,7 +4101,26 @@
     "original_title": "",
     "director": "Masakazu Hishida",
     "studio": "Tatsunoko Production",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "7618",
+      "title_romaji": "Pretty Rhythm: Rainbow Live",
+      "title_english": null,
+      "title_native": "プリティーリズム・レインボーライブ",
+      "description": "Naru Ayase is an 8th grader who can see the colors of music when she listens to it. For Naru, who is extremely good at decorating, becoming the owner of a shop like Dear Crown was her dream. One day, she finds out that the manager of a newly-opened shop is recruiting middle school girls who can do Prism Dance, and immediately applies. Naru begins to Prism Dance at the audition, and an aura she's never experienced spreads out in front of her. At that moment, a mysterious girl named Rinne asks her if she can see \"rainbow music.\"",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/7618/large.jpg",
+      "kitsu_year": 2013,
+      "format": "TV",
+      "episodes": 51,
+      "site_url": "https://kitsu.io/anime/pretty-rhythm-rainbow-live",
+      "genres": [
+        "Music",
+        "Slice of Life",
+        "Sports"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-7618.jpg"
+    }
   },
   {
     "year": 2014,
@@ -3938,7 +4447,29 @@
     "original_title": "",
     "director": "Hiroyuki Furukawa",
     "studio": "Seven",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8099",
+      "title_romaji": "Strange+",
+      "title_english": null,
+      "title_native": "ストレンジ・プラス",
+      "description": "Kou comes to a slum neighborhood in search of his elder brother Takumi and finds him to have become the head of a private detective firm. Kou is drafted by Takumi to do errands and chores in the detective firm, and they come to meet various interesting people...",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/8099/large.jpg",
+      "kitsu_year": 2014,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/strange",
+      "genres": [
+        "Absurdist Humour",
+        "Slapstick",
+        "Parody",
+        "Comedy",
+        "Slice of Life",
+        "Detective"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8099.jpg"
+    }
   },
   {
     "year": 2014,
@@ -4362,7 +4893,29 @@
     "original_title": "",
     "director": "Hiromitsu Kanazawa",
     "studio": "GoHands",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8061",
+      "title_romaji": "Seitokai Yakuindomo*",
+      "title_english": null,
+      "title_native": "生徒会役員共＊",
+      "description": "Formerly an all-girl school, Ousai Academy has recently gone co-ed. Enter student council vice president Takatoshi Tsuda, one of Ousai's first male students. He's adapting rather well now that he's in his second year, but there's still a lot to get used to. For example, what do girls talk about when there aren't any guys around? In Seitokai Yakuindomo*, pretty much exactly what you'd expect: sex! Although charged with upholding morality among the student body, the Ousai Student Council is notoriously perverted, especially president Shino Amakusa. As they carry out their duties to the school, Tsuda, Shino, and their fellow council members must balance curiosity with decency and sex jokes with studying. It takes a perv to know one, after all!",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/8061/large.jpg",
+      "kitsu_year": 2014,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/seitokai-yakuindomo-2nd-season",
+      "genres": [
+        "Present",
+        "Slapstick",
+        "Comedy",
+        "Ecchi",
+        "Slice of Life",
+        "School Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8061.jpg"
+    }
   },
   {
     "year": 2014,
@@ -4884,7 +5437,27 @@
     "original_title": "Wooser no Sono Higurashi Kakusei-hen",
     "director": "Kenji Seto",
     "studio": "Sanzigen , Liden Films",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "7979",
+      "title_romaji": "Wooser no Sono Higurashi: Kakusei-hen",
+      "title_english": "Wooser's Hand-to-Mouth Life: Awakening Arc",
+      "title_native": "うーさーのその日暮らし　覚醒編",
+      "description": "Second season of Wooser no Sono Higurashi.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/7979/large.jpg",
+      "kitsu_year": 2014,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/wooser-no-sono-higurashi-kakusei-hen",
+      "genres": [
+        "Fantasy",
+        "Comedy",
+        "Anthropomorphism",
+        "Slice of Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-7979.jpg"
+    }
   },
   {
     "year": 2014,
@@ -4910,7 +5483,33 @@
     "original_title": "Chūnibyō demo Koi ga Shitai! Ren",
     "director": "Tatsuya Ishihara",
     "studio": "Kyoto Animation",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "7705",
+      "title_romaji": "Chuunibyou demo Koi ga Shitai! Ren",
+      "title_english": "Love, Chunibyo & Other Delusions!: Heart Throb",
+      "title_native": "中二病でも恋がしたい！戀",
+      "description": "Due to various events, Yuuta and Rikka are living together. This secret co-habitation is so exciting for the two lovebirds! Or so it should be... Is having a chuuni girlfriend too high of a hurdle for Yuuta, who never even went out with a normal girl?! Yuuta worries about how to advance his relationship with Rikka. And then everyone else, Nibutani, Kumin, and Dekomori, have powered up by advancing a grade. Furthermore, the cause of his chuunibyou outburst in middle school, the girl who calls herself Sophia Ring Saturn the 7th, Satone Shichimiya appears... This is the long-awaited second season of the adolescent romantic comedy revolving around chuunibyou that makes you laugh and cry.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/7705/large.jpg",
+      "kitsu_year": 2014,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/chuunibyou-demo-koi-ga-shitai-ren",
+      "genres": [
+        "High School",
+        "Present",
+        "Earth",
+        "School Clubs",
+        "Japan",
+        "Slow When It Comes To Love",
+        "Unrequited Love",
+        "Asia",
+        "Comedy",
+        "Romance"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-7705.jpg"
+    }
   },
   {
     "year": 2014,
@@ -5157,7 +5756,29 @@
     "original_title": "",
     "director": "Takashi Nishikawa",
     "studio": "Seven",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8099",
+      "title_romaji": "Strange+",
+      "title_english": null,
+      "title_native": "ストレンジ・プラス",
+      "description": "Kou comes to a slum neighborhood in search of his elder brother Takumi and finds him to have become the head of a private detective firm. Kou is drafted by Takumi to do errands and chores in the detective firm, and they come to meet various interesting people...",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/8099/large.jpg",
+      "kitsu_year": 2014,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/strange",
+      "genres": [
+        "Absurdist Humour",
+        "Slapstick",
+        "Parody",
+        "Comedy",
+        "Slice of Life",
+        "Detective"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8099.jpg"
+    }
   },
   {
     "year": 2014,
@@ -5276,7 +5897,33 @@
     "original_title": "Nōrin",
     "director": "Shin Ōnuma",
     "studio": "Silver Link",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "7782",
+      "title_romaji": "Nourin",
+      "title_english": "No-Rin",
+      "title_native": "のうりん",
+      "description": "Idol-obsessed Kousaku Hata is left devastated when his favorite, Yuka Kusakabe, unexpectedly announces her retirement at the peak of an illustrious career. As Yuka’s biggest fan, this news proves to be more difficult than he can bear. Shaken to his very core, he sinks into depression and places himself in self-imposed isolation. However, on the day his friends managed to convince him to attend school again, he gets a pleasant surprise. It turns out that his beloved idol, under the guise of Ringo Kinoshita, has transferred into his class. This miraculous development fills Kousaku with newfound resolve, as he dedicates himself to take advantage of the once-in-a-lifetime opportunity. With the support of his teacher and friends, Kousaku works toward getting close to the girl of his dreams and uncovering the reason for her retirement from the entertainment industry. [Written by MAL Rewrite]",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/7782/large.jpg",
+      "kitsu_year": 2014,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/nourin",
+      "genres": [
+        "Idol",
+        "Earth",
+        "Countryside",
+        "Absurdist Humour",
+        "Parody",
+        "Japan",
+        "Comedy",
+        "Ecchi",
+        "Romance",
+        "Slice of Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-7782.jpg"
+    }
   },
   {
     "year": 2014,
@@ -5516,7 +6163,33 @@
     "original_title": "",
     "director": "Hiraku Kaneko",
     "studio": "Xebec",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "7275",
+      "title_romaji": "Maken-Ki! Two",
+      "title_english": "Maken-Ki! Two",
+      "title_native": "マケン姫っ！通",
+      "description": "Takeru continues his education at Tenbi Academy as part of the newly formed Security Committee. As a team with the other members, they battle unscrupulous individuals who use their Maken for evil purposes. In the meantime, his libido and the conflicting romantic interests of the girls surrounding him complicate matters considerably.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/7275/large.jpg",
+      "kitsu_year": 2014,
+      "format": "TV",
+      "episodes": 10,
+      "site_url": "https://kitsu.io/anime/maken-ki-two",
+      "genres": [
+        "Magic",
+        "Martial Arts",
+        "Super Power",
+        "Present",
+        "Earth",
+        "Contemporary Fantasy",
+        "Absurdist Humour",
+        "Japan",
+        "Violent Retribution For Accidental Infringement",
+        "Love Polygon"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-7275.jpg"
+    }
   },
   {
     "year": 2014,
@@ -5751,7 +6424,33 @@
     "original_title": "Mushishi: Zoku-Shō",
     "director": "Hiroshi Nagahama",
     "studio": "Artland",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8204",
+      "title_romaji": "Mushishi Zoku Shou",
+      "title_english": "MUSHI-SHI -Next Passage-",
+      "title_native": "蟲師 続章",
+      "description": "They existed long before anyone can remember. They are simple and strange in nature, not resembling any other plant or animal in this world. In ancient times, people revered these bizarre creatures and called them \"Mushi.\" People once again began to believe in the existence of these \"Mushi\" when they began affecting their lives in inexplicable ways. The one who connects the world of \"Mushi\" to the world of humans—they were called the \"Mushi-shi.\" All life exists not to hinder others in this world. They are simply there to live as they were meant to.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/8204/large.jpg",
+      "kitsu_year": 2014,
+      "format": "TV",
+      "episodes": 10,
+      "site_url": "https://kitsu.io/anime/mushishi-zoku-shou",
+      "genres": [
+        "Countryside",
+        "Historical",
+        "Contemporary Fantasy",
+        "Japan",
+        "Fantasy",
+        "Adventure",
+        "Slice of Life",
+        "Detective",
+        "Buddhism",
+        "Mystery"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8204.jpg"
+    }
   },
   {
     "year": 2014,
@@ -5840,7 +6539,33 @@
     "original_title": "",
     "director": "Shinji Ishihira",
     "studio": "A-1 Pictures, Bridge",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8203",
+      "title_romaji": "Fairy Tail Series 2",
+      "title_english": "Fairy Tail Season 2",
+      "title_native": "FAIRY TAIL (第2期)",
+      "description": "Magic is what makes the fictional world of Earth-land go 'round, and its many mage guilds work together—or sometimes against one another—to bring balance to that world. Each guild flaunts unique features in hopes of being the best guild on the planet. Lucy Heartfilia, a 17-year-old girl, is desperately searching for the perfect guild. After running from her father, she wanders the city in search of Gold Keys, for they unlock the Celestial Spirits that are so vital for her magic. With so many wizards around, it's a journey that's very challenging and dangerous to go alone. Yet a fateful encounter with Natsu Dragneel (a wizard who largely resembles a dragon) leads her to a guild known as Fairy Tail, which soon becomes her new home. Her happiness amongst new-found friends is overshadowed by the evil powers of malicious guilds and the mysterious dark wizard Zeref. Their lives are about to take an unexpected turn as they battle evil, fight for their guild, and uncover fragments of their past. It will shake the foundations of who they are as people, and help explain why Earth-land has fallen into this state to begin with.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/8203/large.jpg",
+      "kitsu_year": 2014,
+      "format": "TV",
+      "episodes": 102,
+      "site_url": "https://kitsu.io/anime/fairy-tail-2014",
+      "genres": [
+        "Magic",
+        "Fantasy World",
+        "Slapstick",
+        "Plot Continuity",
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Friendship",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8203.jpg"
+    }
   },
   {
     "year": 2014,
@@ -7866,7 +8591,33 @@
     "original_title": "",
     "director": "Naoyoshi Shiotani, Kiyotaka Suzuki",
     "studio": "Production I.G.",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "7863",
+      "title_romaji": "Psycho-Pass 2",
+      "title_english": "Psycho-Pass 2",
+      "title_native": "PSYCHO-PASS サイコパス 2",
+      "description": "A year and a half after the events of the original sci-fi psychological thriller, Akane Tsunemori continues her work as an inspector—enforcing the Sibyl System's judgments. Joining her are new enforcers and junior inspector Mika Shimotsuki, a young woman blindly and inflexibly loyal to Sibyl. As Akane ponders both the nature of her job and the legitimacy of Sibyl's verdicts, a disturbing new menace emerges. A mysterious figure has discovered a way to control the Crime Coefficient—a number compiled from mental scans that allows Sibyl to gauge psychological health and identify potential criminals. Through these means, he is able to murder an enforcer, leaving behind a cryptic clue: \"WC?\" scrawled in blood on a wall. Akane and the rest of Division 1 soon find themselves playing a deadly game against their new foe, coming face-to-face with a conspiracy threatening not only the authority of the Sibyl System, but the very foundation of Akane's own convictions. [Written by MAL Rewrite]",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/7863/large.jpg",
+      "kitsu_year": 2014,
+      "format": "TV",
+      "episodes": 11,
+      "site_url": "https://kitsu.io/anime/psycho-pass-2",
+      "genres": [
+        "Future",
+        "Earth",
+        "Japan",
+        "Violence",
+        "Asia",
+        "Action",
+        "Angst",
+        "Science Fiction",
+        "Thriller",
+        "Cyberpunk"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-7863.jpg"
+    }
   },
   {
     "year": 2014,
@@ -8145,7 +8896,32 @@
     "type": "OVA",
     "director": "Masaki Ōzora",
     "studio": "SynergySP",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8481",
+      "title_romaji": "12-sai.",
+      "title_english": "Age 12",
+      "title_native": "12歳。",
+      "description": "The story begins with Hanabi, a sixth-grade girl who is neither an adult nor a child. She deals with issues such as accidentally witnessing her homeroom teacher kissing, and worrying about experiencing physiological changes before her friends. The manga depicts a 12-year-old girl's innocent worries and first love.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/8481/large.jpg",
+      "kitsu_year": 2014,
+      "format": "OVA",
+      "episodes": 8,
+      "site_url": "https://kitsu.io/anime/twelve-sai",
+      "genres": [
+        "Middle School",
+        "Present",
+        "Earth",
+        "Japan",
+        "Unrequited Love",
+        "Asia",
+        "Romance",
+        "Friendship",
+        "School Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8481.jpg"
+    }
   },
   {
     "year": 2014,
@@ -8262,7 +9038,33 @@
     "type": "OVA",
     "director": "Noriyuki Abe",
     "studio": "A-1 Pictures",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8268",
+      "title_romaji": "Kuroshitsuji: Book of Circus",
+      "title_english": "Black Butler: Book of Circus",
+      "title_native": "黒執事 Book of Circus",
+      "description": "Full of wonder and excitement, the Noah's Arc Circus troupe has captured audiences with their dazzling performances. Yet these fantastic acts don't come without a price. Children have mysteriously gone missing around London, correlating to that of the groups' movements. Unsettled by these kidnappings, Queen Victoria sends in her notorious guard dog, Ciel Phantomhive, and his ever-faithful demon butler, Sebastian Michaelis, on an undercover mission to find these missing children. Trying to balance their new circus acts with their covert investigation under the big top, however, proves to be quite a challenge. With the other performers growing suspicious and the threat of the circus' mysterious benefactor looming overhead, what the two discover will shake Ciel to his very core. [Written by MAL Rewrite]",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/8268/large.jpg",
+      "kitsu_year": 2014,
+      "format": "TV",
+      "episodes": 10,
+      "site_url": "https://kitsu.io/anime/black-butler-book-of-circus",
+      "genres": [
+        "Super Power",
+        "Earth",
+        "Historical",
+        "Demon",
+        "United Kingdom",
+        "Europe",
+        "Action",
+        "Angst",
+        "Fantasy",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8268.jpg"
+    }
   },
   {
     "year": 2014,
@@ -8310,7 +9112,27 @@
     "type": "OVA",
     "director": "Takeshi Mori",
     "studio": "Jūmonji",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8790",
+      "title_romaji": "Chain Chronicle: Short Animation",
+      "title_english": null,
+      "title_native": "チェインクロニクル ~ショートアニメ~",
+      "description": "An anime adaptation of the game for mobile devices Chain Chronicle. Features eight short episodes that introduces the story, setting, and characters.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/8790/large.jpg",
+      "kitsu_year": 2014,
+      "format": "OVA",
+      "episodes": 8,
+      "site_url": "https://kitsu.io/anime/chain-chronicle-short-animation",
+      "genres": [
+        "Magic",
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8790.jpg"
+    }
   },
   {
     "year": 2014,
@@ -8456,7 +9278,29 @@
     "type": "OVA",
     "director": "Tetsurō Amino",
     "studio": "Production Reed",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8763",
+      "title_romaji": "Futari Ecchi (2014)",
+      "title_english": null,
+      "title_native": "ふたりエッチ",
+      "description": "Three new OVAs of Futari Ecchi released as standard DVDs and as part of a Premium DVD Box containing all seven OVAs of the series.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/8763/large.jpg",
+      "kitsu_year": 2014,
+      "format": "OVA",
+      "episodes": 3,
+      "site_url": "https://kitsu.io/anime/futari-ecchi-2014",
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Romance",
+        "Slice of Life",
+        "Housewives",
+        "Seinen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8763.jpg"
+    }
   },
   {
     "year": 2014,
@@ -8470,7 +9314,25 @@
     "type": "ONA",
     "director": "Kenshirō Morii",
     "studio": "Studio Moriken [ citation needed ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8383",
+      "title_romaji": "Gakumon!: Ookami Shoujo wa Kujikenai",
+      "title_english": null,
+      "title_native": "がくモン!〜オオカミ少女はくじけない〜",
+      "description": "”Wereman\" Shushu's life is turned upside down when her father tells her that despite what she was told her entire life, she is in fact a female, and cannot become a wereman. To be certified as a wereman so she can become a public servant and let her father retire, she enrolls in Monster Academy. There, she meets Juzu, the son of the monster king who founded the school. Although he is feared by everyone due to his status, when her secret is exposed to the monster prince, she finds out that Juzu is in fact stupid, but is kind and just wanted a friend. With all the eyes of the students on Shushu and Juzu, the inconspicuous life Shushu so direly desired goes down the drain.Note: The third episode will begin streaming on December 4, 2014 to celebrate the release of the manga's first compiled book volume, which will ship in Japan the same day.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/8383/large.jpg",
+      "kitsu_year": 2014,
+      "format": "ONA",
+      "episodes": 3,
+      "site_url": "https://kitsu.io/anime/gakumon-ookami-shoujo-wa-kujikenai",
+      "genres": [
+        "Comedy",
+        "School Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8383.jpg"
+    }
   },
   {
     "year": 2014,
@@ -8552,7 +9414,33 @@
     "type": "OVA",
     "director": "Yōichi Ueda",
     "studio": "Manglobe",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "7561",
+      "title_romaji": "Hayate no Gotoku! Cuties",
+      "title_english": "Hayate the Combat Butler! Cuties",
+      "title_native": "ハヤテのごとく！ Cuties",
+      "description": "Taking place after the events that occurred in Hayate no Gotoku! Can't Take My Eyes off You. Hayate, Nagi and Maria return to their daily lives at the Sanzenin Mansion and the Violet Mansion.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/7561/large.jpg",
+      "kitsu_year": 2013,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/hayate-the-combat-butler-cuties",
+      "genres": [
+        "Maid",
+        "Present",
+        "Earth",
+        "Parody",
+        "Japan",
+        "Stereotypes",
+        "Comedy",
+        "Romance",
+        "Harem",
+        "Friendship"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-7561.jpg"
+    }
   },
   {
     "year": 2014,
@@ -8634,7 +9522,32 @@
     "type": "OVA",
     "director": "Masashi Kudō",
     "studio": "Arms",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "13220",
+      "title_romaji": "Ikkitousen: Extravaganza Epoch",
+      "title_english": null,
+      "title_native": "一騎当千 Extravaganza Epoch",
+      "description": "New Ikkitousen OVA.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/13220/large.jpg",
+      "kitsu_year": 2014,
+      "format": "OVA",
+      "episodes": 2,
+      "site_url": "https://kitsu.io/anime/ikkitousen-ova-2014",
+      "genres": [
+        "Martial Arts",
+        "Super Power",
+        "Earth",
+        "Japan",
+        "Violence",
+        "Asia",
+        "Action",
+        "Ecchi",
+        "School Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-13220.jpg"
+    }
   },
   {
     "year": 2014,
@@ -8882,7 +9795,28 @@
     "type": "OVA",
     "director": "Yoshikazu Miyao",
     "studio": "Lay-duce",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8256",
+      "title_romaji": "Magi: Sinbad no Bouken",
+      "title_english": null,
+      "title_native": "マギ シンドバッドの冒険",
+      "description": "Not so long ago, mysterious structures called dungeons began appearing all over the world. No one knows what they are or how they came to be, but adventurers and armies around the world instantly took interest in them. Thousands set out to explore the dungeons, but so far, not a single person has returned. In a Parthevia port, a young boy is about to make a name for himself. Sinbad is good-natured, strong, and craving adventure. A kind deed leads to his meeting with Yunan, an enigmatic traveler who is far more powerful than his frivolous personality lets on. Yunan instructs Sinbad to attain the \"power of the king\" and change the world—by conquering a dungeon. The eager boy readily accepts, setting out on the grand adventure he so craved. Taking place 15 years before the events of the original series, Sinbad no Bouken chronicles Sinbad's youth as a dungeon conqueror. Along the way, the budding adventurer and merchant will have to face many obstacles, but anything is possible with the power of a king. [Written by MAL Rewrite]",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/8256/large.jpg",
+      "kitsu_year": 2014,
+      "format": "OVA",
+      "episodes": 5,
+      "site_url": "https://kitsu.io/anime/magi-sinbad-no-bouken",
+      "genres": [
+        "Magic",
+        "Super Power",
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8256.jpg"
+    }
   },
   {
     "year": 2014,
@@ -8986,7 +9920,33 @@
     "type": "Special",
     "director": "Hiroshi Nagahama",
     "studio": "Artland",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8204",
+      "title_romaji": "Mushishi Zoku Shou",
+      "title_english": "MUSHI-SHI -Next Passage-",
+      "title_native": "蟲師 続章",
+      "description": "They existed long before anyone can remember. They are simple and strange in nature, not resembling any other plant or animal in this world. In ancient times, people revered these bizarre creatures and called them \"Mushi.\" People once again began to believe in the existence of these \"Mushi\" when they began affecting their lives in inexplicable ways. The one who connects the world of \"Mushi\" to the world of humans—they were called the \"Mushi-shi.\" All life exists not to hinder others in this world. They are simply there to live as they were meant to.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/8204/large.jpg",
+      "kitsu_year": 2014,
+      "format": "TV",
+      "episodes": 10,
+      "site_url": "https://kitsu.io/anime/mushishi-zoku-shou",
+      "genres": [
+        "Countryside",
+        "Historical",
+        "Contemporary Fantasy",
+        "Japan",
+        "Fantasy",
+        "Adventure",
+        "Slice of Life",
+        "Detective",
+        "Buddhism",
+        "Mystery"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8204.jpg"
+    }
   },
   {
     "year": 2014,
@@ -9000,7 +9960,33 @@
     "type": "Special",
     "director": "Hiroshi Nagahama",
     "studio": "Artland",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8204",
+      "title_romaji": "Mushishi Zoku Shou",
+      "title_english": "MUSHI-SHI -Next Passage-",
+      "title_native": "蟲師 続章",
+      "description": "They existed long before anyone can remember. They are simple and strange in nature, not resembling any other plant or animal in this world. In ancient times, people revered these bizarre creatures and called them \"Mushi.\" People once again began to believe in the existence of these \"Mushi\" when they began affecting their lives in inexplicable ways. The one who connects the world of \"Mushi\" to the world of humans—they were called the \"Mushi-shi.\" All life exists not to hinder others in this world. They are simply there to live as they were meant to.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/8204/large.jpg",
+      "kitsu_year": 2014,
+      "format": "TV",
+      "episodes": 10,
+      "site_url": "https://kitsu.io/anime/mushishi-zoku-shou",
+      "genres": [
+        "Countryside",
+        "Historical",
+        "Contemporary Fantasy",
+        "Japan",
+        "Fantasy",
+        "Adventure",
+        "Slice of Life",
+        "Detective",
+        "Buddhism",
+        "Mystery"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8204.jpg"
+    }
   },
   {
     "year": 2014,
@@ -9014,7 +10000,31 @@
     "type": "OVA",
     "director": "Takahiro Ōmori",
     "studio": "Brain's Base",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8054",
+      "title_romaji": "Natsume Yuujinchou: Itsuka Yuki no Hi ni",
+      "title_english": "Natsume's Book of Friends: Sometime on a Snowy Day",
+      "title_native": "夏目友人帳 新作OVA いつかゆきのひに",
+      "description": "During a winter walk, Natsume meets a snowman youkai who is searching for something she's lost and can't seem to recall and decides to help her despite not knowing what exactly she's looking for.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/8054/large.jpg",
+      "kitsu_year": 2014,
+      "format": "OVA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/natsume-yuujinchou-itsuka-yuki-no-hi-ni",
+      "genres": [
+        "Present",
+        "Earth",
+        "Contemporary Fantasy",
+        "Japan",
+        "Asia",
+        "Fantasy",
+        "Slice of Life",
+        "Shoujo"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8054.jpg"
+    }
   },
   {
     "year": 2014,
@@ -9028,7 +10038,31 @@
     "type": "OVA",
     "director": "Takahiro Ōmori",
     "studio": "Brain's Base",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8054",
+      "title_romaji": "Natsume Yuujinchou: Itsuka Yuki no Hi ni",
+      "title_english": "Natsume's Book of Friends: Sometime on a Snowy Day",
+      "title_native": "夏目友人帳 新作OVA いつかゆきのひに",
+      "description": "During a winter walk, Natsume meets a snowman youkai who is searching for something she's lost and can't seem to recall and decides to help her despite not knowing what exactly she's looking for.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/8054/large.jpg",
+      "kitsu_year": 2014,
+      "format": "OVA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/natsume-yuujinchou-itsuka-yuki-no-hi-ni",
+      "genres": [
+        "Present",
+        "Earth",
+        "Contemporary Fantasy",
+        "Japan",
+        "Asia",
+        "Fantasy",
+        "Slice of Life",
+        "Shoujo"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8054.jpg"
+    }
   },
   {
     "year": 2014,
@@ -9118,7 +10152,32 @@
     "type": "Special",
     "director": "Naoyuki Itou",
     "studio": "Toei Animation",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "7894",
+      "title_romaji": "One Piece: Episode of Merry - Mou Hitori no Nakama no Monogatari",
+      "title_english": null,
+      "title_native": "ワンピース エピソード・オブ・メリー ～もうひとりの仲間の物語～",
+      "description": "The story arcs aboard the Straw Hat Crew's first ship Going Merry (Merry Go in some adaptations) are recreated with brand-new animation, from Luffy and Usopp's fight and Robin's disappearance to the crew's final farewell to the ship. Going Merry is treated as another member of the Straw Hats as Luffy, Zoro, Nami, and the rest of the crew set sail for the legendary treasure, the One Piece.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/7894/large.jpg",
+      "kitsu_year": 2013,
+      "format": "special",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/one-piece-episode-of-merry-mou-hitori-no-nakama-no-monogatari",
+      "genres": [
+        "Pirate",
+        "Super Power",
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Friendship",
+        "Drama",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-7894.jpg"
+    }
   },
   {
     "year": 2014,
@@ -9282,7 +10341,31 @@
     "type": "OVA",
     "director": "Hideyo Yamamoto",
     "studio": "M.S.C, Production I.G",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8034",
+      "title_romaji": "Shin Tennis no Ouji-sama OVA vs. Genius 10",
+      "title_english": "The Prince of Tennis II OVA vs Genius10",
+      "title_native": "新テニスの王子様 OVA vs Genius10",
+      "description": "This OVA series is a continuation of The New Prince of Tennis series from 2012, still set in the U-17 High School Representatives Selection Camp. The story follows the matches played when the First Strings return from their tour.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/8034/large.jpg",
+      "kitsu_year": 2014,
+      "format": "OVA",
+      "episodes": 10,
+      "site_url": "https://kitsu.io/anime/new-prince-of-tennis-ova-vs-genius10",
+      "genres": [
+        "Bishounen",
+        "Present",
+        "Tennis",
+        "Plot Continuity",
+        "Action",
+        "Comedy",
+        "Sports",
+        "Shounen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8034.jpg"
+    }
   },
   {
     "year": 2014,
@@ -9331,7 +10414,31 @@
     "type": "OVA",
     "director": "Yoshinobu Yamakawa",
     "studio": "J.C.Staff",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "7704",
+      "title_romaji": "Little Busters!: Refrain",
+      "title_english": "Little Busters! ~Refrain~",
+      "title_native": "リトルバスターズ！～Refrain～",
+      "description": "Riki and his friends have been managing to form a complete team for the Little Busters baseball team and after overcoming some of its new members' internal conflicts, Riki and Rin slowly approach the \"secret of this world.\" Will they be ready for the truth? In this world devoid of logic, something has started to move and soon will come the time when the lives of the Little Busters will change forever.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/7704/large.jpg",
+      "kitsu_year": 2013,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/little-busters-refrain",
+      "genres": [
+        "High School",
+        "Present",
+        "Comedy",
+        "Romance",
+        "Friendship",
+        "Slice of Life",
+        "School Life",
+        "Drama"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-7704.jpg"
+    }
   },
   {
     "year": 2014,
@@ -9589,7 +10696,33 @@
     "type": "OVA",
     "director": "Yasuhito Kikuchi",
     "studio": "8-Bit",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "7733",
+      "title_romaji": "IS: Infinite Stratos 2",
+      "title_english": "Infinite Stratos 2",
+      "title_native": "IS〈インフィニット・ストラトス〉2",
+      "description": "Second season of Infinite Stratos.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/7733/large.jpg",
+      "kitsu_year": 2013,
+      "format": "TV",
+      "episodes": 12,
+      "site_url": "https://kitsu.io/anime/is-infinite-stratos-2",
+      "genres": [
+        "All Girls School",
+        "Future",
+        "Earth",
+        "Mecha",
+        "Power Suit",
+        "Japan",
+        "Stereotypes",
+        "Asia",
+        "Action",
+        "Science Fiction"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-7733.jpg"
+    }
   },
   {
     "year": 2014,
@@ -9603,6 +10736,25 @@
     "type": "Special",
     "director": "Haruo Sotozaki",
     "studio": "ufotable",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "8703",
+      "title_romaji": "Tales of Zestiria: Doushi no Yoake",
+      "title_english": "Tales of Zestiria: Dawn of the Shepherd",
+      "title_native": "テイルズ オブ ゼスティリア ～導師の夜明け～",
+      "description": "TV anime special of Bandai Namco Games' Tales of Zestiria role-playing game.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/8703/large.jpg",
+      "kitsu_year": 2014,
+      "format": "special",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/tales-of-zestiria-doushi-no-yoake",
+      "genres": [
+        "Fantasy World",
+        "High Fantasy",
+        "Fantasy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-8703.jpg"
+    }
   }
 ]

@@ -478,7 +478,26 @@
     "runtime": "40 min",
     "demographic": "Children",
     "ref": "[ 6 ] [ better source needed ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "6018",
+      "title_romaji": "Sore Ike! Anpanman: Baikinman no Gyakushuu",
+      "title_english": null,
+      "title_native": "それいけ! アンパンマン ばいきんまんの逆襲",
+      "description": "Baikinsennin tells Baikinman about a magical vase called \"Mekoisu no tsubo\" that could grant him the power to destroy Anpanman. A princess of the perished Yaada-koku, Yaada-hime, also seeks the vase to restore her kingdom to its glory. When Anpanman joins forces with her, a furious chase ensues with both sides trying to get their hands on the vase.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/6018/large.jpg",
+      "kitsu_year": 1990,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/sore-ike-anpanman-baikinman-no-gyakushuu",
+      "genres": [
+        "Fantasy",
+        "Comedy",
+        "Kids"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-6018.jpg"
+    }
   },
   {
     "year": 1991,
@@ -508,7 +527,33 @@
     "runtime": "54 min",
     "demographic": "Shōnen",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1898",
+      "title_romaji": "Silent Möbius: The Motion Picture",
+      "title_english": null,
+      "title_native": "サイレントメビウス／THE MOTION PICTURE",
+      "description": "In a futuristic Tokyo, several policewomen fight a monster. One of them, Katsumi Liqueur, remembers where she saw it before... Katsumi Liqueur, an American-born woman of Japanese descent, travels to Tokyo to visit her mother, Fuyuka, who is sick in the hospital. She takes a shortcut through an alley after her taxi gets stuck in traffic, only to encounter a monster and two policewomen fighting it. Later, she meets their chief, Rally Cheyenne, who, it seems, has been expecting her, though Katsumi has never met her before. The policewomen want Katsumi to help them fight the monster, but Katsumi, who does not want to believe in magic, resists.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1898/large.jpg",
+      "kitsu_year": 1991,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/silent-mobius-the-motion-picture",
+      "genres": [
+        "Magic",
+        "Gunfights",
+        "Future",
+        "Earth",
+        "Demon",
+        "Contemporary Fantasy",
+        "Dark Fantasy",
+        "Japan",
+        "Tokyo",
+        "Violence"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1898.jpg"
+    }
   },
   {
     "year": 1991,
@@ -871,7 +916,33 @@
     "director": "Kiyoshi Egami",
     "studio": "Sunrise",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1319",
+      "title_romaji": "City Hunter '91",
+      "title_english": null,
+      "title_native": "シティーハンター'91",
+      "description": "Ryo Saeba is back as the City Hunter, a \"sweeper\" (private detective) working on the streets of Tokyo. He and sidekick Kaori Makimura are hired to solve the problems of desperate people. When Ryo is not using his sharp shooting skills against bad guys, he's aiming his sites on pretty ladies. Kaori uses a giant anti-ecchi hammer to make sure he behaves.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1319/large.jpg",
+      "kitsu_year": 1991,
+      "format": "TV",
+      "episodes": 13,
+      "site_url": "https://kitsu.io/anime/city-hunter-91",
+      "genres": [
+        "Bounty Hunter",
+        "Gunfights",
+        "Present",
+        "Earth",
+        "Slapstick",
+        "Japan",
+        "Tokyo",
+        "Violent Retribution For Accidental Infringement",
+        "Asia",
+        "Action"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1319.jpg"
+    }
   },
   {
     "year": 1991,
@@ -991,7 +1062,28 @@
     "director": "Takeshi Shirato Atsutoshi Umezawa",
     "studio": "Toei Animation",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2907",
+      "title_romaji": "Kinnikuman: Kinnikusei Oui Soudatsu-hen",
+      "title_english": null,
+      "title_native": "キン肉マン　キン肉星王位争奪編",
+      "description": "Kinnikuman has proven himself worthy to be crowned the next king of Planet Kinniku. But at the ceremony, five other Kinnikuman's arrive, all claiming to be the true prince of Planet Kinniku. Now, a Royal Survivor Tournament is being held to decide the true successor to the throne, and with the help and support of his friends and with his recently acquired knowledge of the Ultimate Technique (The Muscle Spark), Kinnikuman fights for what is rightfully his.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2907/large.jpg",
+      "kitsu_year": 1991,
+      "format": "TV",
+      "episodes": 46,
+      "site_url": "https://kitsu.io/anime/kinnikuman-kinnikusei-oui-soudatsu-hen",
+      "genres": [
+        "Martial Arts",
+        "Action",
+        "Science Fiction",
+        "Comedy",
+        "Sports"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2907.jpg"
+    }
   },
   {
     "year": 1991,
@@ -1570,7 +1662,26 @@
     "director": "Setsuko Shibuichi",
     "studio": "Magic Bus",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2233",
+      "title_romaji": "Maison Ikkoku: Ikkokujima Nanpa Shimatsuki",
+      "title_english": null,
+      "title_native": "めぞん一刻番外編 一刻島ナンパ始末記",
+      "description": "Yotsuya and Ichinose are enjoying a hot afternoon when they recall the time that the tenants of Ikkoku-kan and Mitaka go off on a cruise to party hard aboard Mitaka's new boat; however, the boat falls apart, and everyone is shipwrecked on a deserted island. With everyone up to their usual antics and shenanigans, what can happen in such a desolate place?",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2233/large.jpg",
+      "kitsu_year": 1991,
+      "format": "OVA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/maison-ikkoku-deserted-island",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Seinen"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2233.jpg"
+    }
   },
   {
     "year": 1991,
@@ -1766,7 +1877,24 @@
     "director": "By episode: Hiroshi Ishiodori (1–3) Hiroyuki Fukushima (2)",
     "studio": "Artmic",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3896",
+      "title_romaji": "Hurricane Live! 2033",
+      "title_english": null,
+      "title_native": "バブルガムクライシス Hurricane Live! 2033",
+      "description": "Hurricane Live 2033: More Music of the Bubblegum Crisis spotlights the music that helped to make 80's series The Bubblegum Crisis the popular early piece of anime that its become. The hard rock songs of Priss and the Replicants are played amidst a video montage of the series' most exciting action sequences, and rarely seen live footage from the musicians themselves is also included.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3896/large.jpg",
+      "kitsu_year": 1990,
+      "format": "special",
+      "episodes": 7,
+      "site_url": "https://kitsu.io/anime/hurricane-live-2033",
+      "genres": [
+        "Music"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3896.jpg"
+    }
   },
   {
     "year": 1991,
@@ -2210,7 +2338,33 @@
     "director": "Kazuchika Kise (chief director) By episode: Mamoru Hamatsu (1, 5–6) Yoshihiro Yamaguchi (2) Tetsurō Amino (3–4)",
     "studio": "By episode: I.G Tatsunoko (1) Aubec (2) Pierrot ; Daume (3–4) J.C.Staff (5–6)",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1582",
+      "title_romaji": "Arslan Senki",
+      "title_english": "The Heroic Legend of Arslan",
+      "title_native": "アルスラーン戦記",
+      "description": "In the medieval kingdom of Pars, young Prince Arslan confronts the hostility of his father and the disinterest of his mother, and yearns to learn more about the world. Despite being surrounded by poverty and slavery, Arslan persists in seeing the possibility of a nobler world. Everything changes when the neighboring nation of Lusitania invades Pars, and Arslan is forced to grow up in an instant.Arslan Senki follows Prince Arslan to war, where he struggles to save his nation and family with the help of a small but devoted circle of advisers. Along the way the young prince finds secrets around every corner and faces enemies who hate him because of what he is, but also finds friends where he least expects them. The story of nations at war, Arslan Senki is also the story of one boy's quest to stay himself in the most trying of circumstances.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1582/large.jpg",
+      "kitsu_year": 1991,
+      "format": "OVA",
+      "episodes": 6,
+      "site_url": "https://kitsu.io/anime/the-heroic-legend-of-arslan",
+      "genres": [
+        "Swordplay",
+        "Past",
+        "Alternative Past",
+        "Historical",
+        "Violence",
+        "Feudal Warfare",
+        "Plot Continuity",
+        "Middle East",
+        "Action",
+        "Fantasy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1582.jpg"
+    }
   },
   {
     "year": 1991,
@@ -2256,7 +2410,30 @@
     "director": "Takeshi Hirota",
     "studio": "Nippon Animation",
     "ref": "[ 28 ] [ better source needed ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3667",
+      "title_romaji": "Choujin Locke: Shinsekai Sentai",
+      "title_english": "Locke the Superman: New World Command",
+      "title_native": "超人ロック 新世界戦隊",
+      "description": "Azalea has been residing on the Colony-Planet of Dinahl, and she can't recall anything about herself until she hears a voice calling her name. Then there is another voice summoning her to go to a park on top of a skyscraper. Once she arrives there, she meets up with other people who also have no recollection of who they are or what they were doing before arriving at this destination as instructed by the voice. All the people assembled there possess superhuman powers, such as Eno's psychic power, Umoth's x-ray vision, Neia's teleportation powers, Azalea's telepathy, and Locke's electrical wizardry. Who has summoned them, and what will the five super-psychics confront?",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3667/large.jpg",
+      "kitsu_year": 1991,
+      "format": "OVA",
+      "episodes": 2,
+      "site_url": "https://kitsu.io/anime/choujin-locke-shin-sekai-sentai",
+      "genres": [
+        "Super Power",
+        "Future",
+        "Space",
+        "Earth",
+        "Other Planet",
+        "Action",
+        "Science Fiction"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3667.jpg"
+    }
   },
   {
     "year": 1991,
@@ -2345,7 +2522,26 @@
     "director": "Junichi Nojo (original creator)",
     "studio": "Gainax ; Magic Bus",
     "ref": "[ 30 ] [ better source needed ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "9644",
+      "title_romaji": "Super Real Mahjong: Kasumi Miki Shouko no Hajimemashite",
+      "title_english": null,
+      "title_native": "スーパーリアル麻雀 ミキ・カスミ・ショーコのはじめまして (スーパーリアル麻雀／かすみ・ミキ・ショー子のはじめまして)",
+      "description": "An anime based on characters from the strip mahjong arcade game \"Super Real Mahjong 2\".",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/9644/large.jpg",
+      "kitsu_year": 1990,
+      "format": "OVA",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/super-real-mahjong-kasumi-miki-shouko-no-hajimemashite",
+      "genres": [
+        "Virtual Reality",
+        "Comedy",
+        "Ecchi"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-9644.jpg"
+    }
   },
   {
     "year": 1991,
@@ -2641,7 +2837,26 @@
     "director": "Eiichi Yamamoto",
     "studio": "Studio Hibari ; Grouper Productions",
     "ref": "[ 38 ] [ better source needed ]",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "4317",
+      "title_romaji": "Izumo",
+      "title_english": null,
+      "title_native": "IZUMO [イズモ]",
+      "description": "Fantasy adventures in ancient Japan. Based on a manga with the same title written by Tsuzuki Kazuhiko, it is not related to the game of Studio e.go, and the anime based on the game.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/4317/large.jpg",
+      "kitsu_year": 1991,
+      "format": "OVA",
+      "episodes": 2,
+      "site_url": "https://kitsu.io/anime/izumo",
+      "genres": [
+        "Historical",
+        "Fantasy",
+        "Adventure"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-4317.jpg"
+    }
   },
   {
     "year": 1991,
@@ -3058,7 +3273,31 @@
     "director": "Katsuhito Akiyama",
     "studio": "By episode: AIC (1) Studio Kyūma (2)",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1864",
+      "title_romaji": "Gall Force: New Era",
+      "title_english": null,
+      "title_native": "ガルフォース新世紀編",
+      "description": "The year is 2291, and the citizens live a peaceful existence after the catastrophic war between the humans and the Yuman. This quiet life is about to be shattered, the leader of the Yuman is not convinced the war is over, and now plans to renew hostilities!",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1864/large.jpg",
+      "kitsu_year": 1991,
+      "format": "OVA",
+      "episodes": 2,
+      "site_url": "https://kitsu.io/anime/gall-force-new-era",
+      "genres": [
+        "Future",
+        "Space",
+        "Earth",
+        "Mecha",
+        "Action",
+        "Science Fiction",
+        "Drama",
+        "Military"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1864.jpg"
+    }
   },
   {
     "year": 1991,

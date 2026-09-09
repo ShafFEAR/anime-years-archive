@@ -10,7 +10,29 @@
     "type": "TV",
     "demographic": "Family, Children",
     "regions": "Japan, Korea, Spain, Italy, Germany, Arabia, Philippines, China (Taiwan)",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2318",
+      "title_romaji": "Flanders no Inu",
+      "title_english": "A Dog of Flanders",
+      "title_native": "フランダースの犬",
+      "description": "Nello Tarth is a poor but happy orphan who lives with his grandfather Jehan in a little village nearby Antwerp. Nello has a talent for drawing pictures and has been fascinated by it since he saw one of Rubens (a famous artist) pictures as a little boy. Helping Jehan with the daily milk delivery to Antwerp, Nello one day discovers Patrash, a working dog who has been mistreated and abandoned by his former owner. He treats the exhausted animal and after a little while a close and dependable friendship develops. Alois Cojez, the daughter of the richest and hence most influential man in Blacken Village, is Nellos best friend. When Nello decides to become an artist he has to experience firsthand the ignorance and cruelty of the villagers. Especially Alois father thinks of him as a slacker who cannot earn his living by drawing pictures. Nontheless Nello perseveres and never gives up to achieve his dream and to win their appreciation and respect while strenuously struggling with his poverty.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2318/large.jpg",
+      "kitsu_year": 1975,
+      "format": "TV",
+      "episodes": 52,
+      "site_url": "https://kitsu.io/anime/flanders-no-inu",
+      "genres": [
+        "Past",
+        "Earth",
+        "Historical",
+        "Europe",
+        "Friendship",
+        "Slice of Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2318.jpg"
+    }
   },
   {
     "year": 1975,
@@ -88,7 +110,30 @@
     "type": "Movie",
     "demographic": "Shōnen",
     "regions": "Japan",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3538",
+      "title_romaji": "Kore ga UFO da! Soratobu Enban",
+      "title_english": "That is an UFO! The Flying Saucer",
+      "title_native": "これがＵＦＯだ！ 空飛ぶ円盤",
+      "description": "UFOs and aliens from beyond the stars are common themes in media, entertainment, and other forms of science fiction; however, many individuals have sworn they have seen UFOs and have been abducted in real life! Sit back and watch as the makers of Mazinger take you on a journey through the history of UFO lore. Could it be that UFOs are real and that aliens watch us from afar? [from anime-planet]",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3538/large.jpg",
+      "kitsu_year": 1975,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/kore-ga-ufo-da-soratobu-enban",
+      "genres": [
+        "Air Force",
+        "Space",
+        "Earth",
+        "Humanoid Alien",
+        "United States",
+        "Americas",
+        "Science Fiction"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3538.jpg"
+    }
   },
   {
     "year": 1975,
@@ -370,7 +415,33 @@
     "type": "TV",
     "demographic": "Shōnen",
     "regions": "Japan, Spain, Italy, United States",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "1308",
+      "title_romaji": "Uchuu no Kishi Tekkaman",
+      "title_english": "Tekkaman",
+      "title_native": "宇宙の騎士テッカマン",
+      "description": "Tekkaman is just an average bright boy in his everyday life. However, modern science can turn him into a mighty space warrior. This becomes a reality when aggressive aliens come from space to invade our planet. Armed with a space lance, Tekkaman gallantly goes into action against the grotesque space creatures. During his battles he encounters a mysterious young man from another planet who helps him out whenever he is in danger.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/1308/large.jpg",
+      "kitsu_year": 1975,
+      "format": "TV",
+      "episodes": 26,
+      "site_url": "https://kitsu.io/anime/uchuu-no-kishi-tekkaman",
+      "genres": [
+        "Alien",
+        "Future",
+        "Space",
+        "Human Enhancement",
+        "Mecha",
+        "Space Travel",
+        "Power Suit",
+        "Humanoid Alien",
+        "Stereotypes",
+        "Action"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-1308.jpg"
+    }
   },
   {
     "year": 1975,
@@ -383,7 +454,30 @@
     "type": "Movie",
     "demographic": "Shōnen",
     "regions": "Japan, France, Italy",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "4205",
+      "title_romaji": "Uchuu Enban Dai-Sensou",
+      "title_english": null,
+      "title_native": "宇宙円盤大戦争",
+      "description": "The pilot movie of Grendizer. It is about Duke Fleed, a fugitive of the planet fleed, who was kicked out of his planet by the Armies of Vega. Fleed and the daughter of the king of Vega were in love before the war between their planets. The armies of Vega continue their fight with Duke Fleed.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/4205/large.jpg",
+      "kitsu_year": 1975,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/uchuu-enban-dai-sensou",
+      "genres": [
+        "Present",
+        "Earth",
+        "Mecha",
+        "Piloted Robot",
+        "Action",
+        "Science Fiction",
+        "Romance"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-4205.jpg"
+    }
   },
   {
     "year": 1975,
@@ -396,7 +490,28 @@
     "type": "Movie",
     "demographic": "Shōnen",
     "regions": "Japan, French, Spain, Arabia",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3582",
+      "title_romaji": "Great Mazinger tai Getter Robo G: Kuuchuu Daigekitotsu",
+      "title_english": null,
+      "title_native": "グレートマジンガー対ゲッターロボＧ 空中大激突",
+      "description": "Go Nagai crossover movie.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3582/large.jpg",
+      "kitsu_year": 1975,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/great-mazinger-vs-getter-robo-g-kuuchuu-dai-gekitotsu",
+      "genres": [
+        "Robot",
+        "Mecha",
+        "Action",
+        "Science Fiction",
+        "Super Robot"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3582.jpg"
+    }
   },
   {
     "year": 1975,
@@ -472,7 +587,24 @@
     "type": "Special",
     "demographic": "Children",
     "regions": "Japan",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "5467",
+      "title_romaji": "Yuuki Hitotsu wo Tomo ni Shite",
+      "title_english": null,
+      "title_native": "勇気一つを友にして",
+      "description": "The story of the Greek Icarus who wanted to escape the island by creating a pair of wings. Icarus, so enamored with the success of his wings, rose higher and higher toward the sun. Unfortunately, this results in the glue of the wings melting under the sun's heat.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/5467/large.jpg",
+      "kitsu_year": 1975,
+      "format": "music",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/yuuki-hitotsu-wo-tomo-ni-shite",
+      "genres": [
+        "Music"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-5467.jpg"
+    }
   },
   {
     "year": 1975,
@@ -515,7 +647,28 @@
     "type": "TV",
     "demographic": "Family, Children",
     "regions": "Japan, Spain, Poland, Italy, Netherlands, France, Germany, Arabia, China (Taiwan), Korea",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2579",
+      "title_romaji": "Arabian Nights: Sindbad no Bouken (TV)",
+      "title_english": null,
+      "title_native": "アラビアンナイト シンドバットの冒険",
+      "description": "Based on the famous tale from The Thousand and One Arabian Nights, this story takes place more than 1200 years ago. The story's hero is the impish Sindbad, a mischievous boy full of curiosity, who one night sneaks into the royal palace to watch the acrobatic performances and learns that a wide world awaits beyond Baghdad. Hearing of the travels of his uncle Captain Ali, Sindbad decides to become a sailor and travel around the world. Leaving behind a note to his father, young Sindbad boards Captain Ali`s ship and-accompanied by a myna called Sheila-sets out for the greatest adventure of his life.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2579/large.jpg",
+      "kitsu_year": 1975,
+      "format": "TV",
+      "episodes": 52,
+      "site_url": "https://kitsu.io/anime/sindbad-no-bouken",
+      "genres": [
+        "Magic",
+        "Middle East",
+        "Fantasy",
+        "Adventure",
+        "Romance"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2579.jpg"
+    }
   },
   {
     "year": 1975,
@@ -562,7 +715,33 @@
     "type": "TV",
     "demographic": "Shōnen",
     "regions": "Japan, United States, Korea, Spain, Italy, Arabia, Russia",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3346",
+      "title_romaji": "Time Bokan",
+      "title_english": "Time Fighters",
+      "title_native": "タイムボカン",
+      "description": "Dr. Kieta, the inventor of a time-travel machine, is lost on a test run of his machine to the prehistoric past. When the time-space craft returns to the present, his young assistants are surprised to find only a parrot in the cockpit. In their hurry to find the missing scientist before it is too late, the youngsters set out on a time-space hunt without any clear destination.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3346/large.jpg",
+      "kitsu_year": 1975,
+      "format": "TV",
+      "episodes": 61,
+      "site_url": "https://kitsu.io/anime/time-bokan",
+      "genres": [
+        "Time Travel",
+        "Mecha",
+        "Piloted Robot",
+        "Slapstick",
+        "Action",
+        "Science Fiction",
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Robot Helper"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3346.jpg"
+    }
   },
   {
     "year": 1975,
@@ -650,7 +829,25 @@
     "type": "TV",
     "demographic": "Shōnen",
     "regions": "Japan",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "6485",
+      "title_romaji": "Ganso Tensai Bakabon",
+      "title_english": null,
+      "title_native": "元祖天才バカボン",
+      "description": "A comedy about a former genius who has now become very eccentric and senile. His family deals with all the crazy problems he and his old friends cause around the neighborhood.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/6485/large.jpg",
+      "kitsu_year": 1975,
+      "format": "TV",
+      "episodes": 103,
+      "site_url": "https://kitsu.io/anime/ganso-tensai-bakabon",
+      "genres": [
+        "Comedy",
+        "Slice of Life"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-6485.jpg"
+    }
   },
   {
     "year": 1975,
@@ -723,7 +920,27 @@
     "type": "TV",
     "demographic": "Family, Children",
     "regions": "Italy, Russia, Arabia, Japan, China (Taiwan), China (Hong Kong), China (PRC)",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3857",
+      "title_romaji": "Ikkyuu-san",
+      "title_english": "Ikkyu the Little Monk",
+      "title_native": "一休さん",
+      "description": "Ikkyu is a little boy training to be a monk at Ankokuji Temple. Known for being mischievous and a bit of a troublemaker, but also extremely smart, Ikkyu constantly thinks of new ways to outwit his frustrated teachers, helping others at the same time.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3857/large.jpg",
+      "kitsu_year": 1975,
+      "format": "TV",
+      "episodes": 296,
+      "site_url": "https://kitsu.io/anime/ikkyuu-san",
+      "genres": [
+        "Historical",
+        "Japan",
+        "Comedy",
+        "Kids"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3857.jpg"
+    }
   },
   {
     "year": 1975,

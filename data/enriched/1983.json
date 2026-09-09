@@ -66,7 +66,25 @@
     "director": "Tetsu Dezaki",
     "studio": "Eiken",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "5933",
+      "title_romaji": "Captain (TV)",
+      "title_english": null,
+      "title_native": "キャプテン",
+      "description": "The original is an impressive sports manga featuring not heroes, but common boys, and the story depicts the growth of Sumiya 2 junior high school baseball team (the successive captains and players) in downtown Tokyo. Takao Taniguchi, who was a substitute player of the second team of Aoba Gakuin, a prestigious junior high school in the baseball world, but he transferred to Sumiya 2 and he became the captain of the baseball club. After steady training, the team try to do a final game in the regional preliminaries, against Aoba Gakuin.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/5933/large.jpg",
+      "kitsu_year": 1983,
+      "format": "TV",
+      "episodes": 26,
+      "site_url": "https://kitsu.io/anime/captain",
+      "genres": [
+        "Baseball",
+        "Sports"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-5933.jpg"
+    }
   },
   {
     "year": 1983,
@@ -312,7 +330,28 @@
     "director": "",
     "studio": "Shin-Ei Animation",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "10294",
+      "title_romaji": "Ninja Hattori-kun Plus Perman: Chounouryoku Wars",
+      "title_english": null,
+      "title_native": "忍者ハットリくん＋パーマン 超能力ウォーズ",
+      "description": "Crossover film featuring both of Motoo Abiko's work. Both casts gets wrapped up in an ESP war helping a psychic girl named Yuri whose homeland was destroyed by an evil psychic man who is trying to capture all the psychics in the world and use them for world domination. It was screened as a double feature with Doraemon: Nobita no Makai Daibouken.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/10294/large.jpg",
+      "kitsu_year": 1984,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/ninja-hattori-kun-plus-perman-chounouryoku-wars",
+      "genres": [
+        "Martial Arts",
+        "Super Power",
+        "Japan",
+        "Adventure",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-10294.jpg"
+    }
   },
   {
     "year": 1983,
@@ -340,7 +379,25 @@
     "director": "Minoru Okazaki",
     "studio": "Toei Animation",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "5382",
+      "title_romaji": "Dr. Slump Movie 02: \"Hoyoyo!\" Uchuu Daibouken",
+      "title_english": "Dr. Slump: \"Hoyoyo!\" Space Adventure",
+      "title_native": "Dr.SLUMP “ほよよ!”宇宙大冒険",
+      "description": "When local teacher Midori Yamabuki receives an emergency summons to her home planet it turns out to be a trap devised by galactic warlord Dr. Mashirito, and it's up to Dr. Senbei Norimaki and a group of students (including his robot daughter Arale) to venture into space to save her.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/5382/large.jpg",
+      "kitsu_year": 1982,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/dr-slump-movie-2-hoyoyo-uchuu-daibouken",
+      "genres": [
+        "Science Fiction",
+        "Comedy"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-5382.jpg"
+    }
   },
   {
     "year": 1983,
@@ -555,7 +612,33 @@
     "director": "Yasuo Yamayoshi , Takenori Kawada , Tetsuo Imazawa",
     "studio": "Toei Animation",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2898",
+      "title_romaji": "Kinnikuman",
+      "title_english": null,
+      "title_native": "キン肉マン",
+      "description": "Kinnikuman is a superhero... a bad one. The one day a person named Meat tells Kinnikuman that he is the prince of an alien planet. Kinnikuman must save the day numerous times fighting evil chiyojins and competing in tournaments to prove himself to his family and to gain respect and money.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2898/large.jpg",
+      "kitsu_year": 1983,
+      "format": "TV",
+      "episodes": 137,
+      "site_url": "https://kitsu.io/anime/kinnikuman",
+      "genres": [
+        "Martial Arts",
+        "Super Power",
+        "Present",
+        "Earth",
+        "Parody",
+        "Japan",
+        "Combat",
+        "Asia",
+        "Action",
+        "Science Fiction"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2898.jpg"
+    }
   },
   {
     "year": 1983,
@@ -603,7 +686,25 @@
     "director": "Tatsuo Hayakawa",
     "studio": "Studio Pierrot",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2376",
+      "title_romaji": "Spoon Oba-san",
+      "title_english": "Spoon Oba-san",
+      "title_native": "スプーンおばさん",
+      "description": "An older women wears a small spoon around her neck but every now and then, she shrinks to the size of a mouse because of the spoon. She sees the world then from a completely different perspective and has all kind of strange adventures together with Wendy, the mouse and many others.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2376/large.jpg",
+      "kitsu_year": 1983,
+      "format": "TV",
+      "episodes": 130,
+      "site_url": "https://kitsu.io/anime/spoon-oba-san",
+      "genres": [
+        "Magic",
+        "Kids"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2376.jpg"
+    }
   },
   {
     "year": 1983,
@@ -631,7 +732,32 @@
     "director": "Masakazu Higuchi",
     "studio": "Tatsunoko Productions",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "3361",
+      "title_romaji": "Personal Computer Travel Tanteidan",
+      "title_english": "Superbook 2",
+      "title_native": "パソコントラベル探偵団",
+      "description": "The book fell onto a computer keyboard, giving anybody the ability to see into the past from Sho's home via the monitor. Ruffles, Chris' dog, managed to get lost in time, prompting Zenmaijikake and Sho's cousin Hisashi to search for her. Sho and Azusa kept watch and control of the computer from the present. The older children also had a hard time trying to keep what happened a secret from Sho's parents.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/3361/large.jpg",
+      "kitsu_year": 1983,
+      "format": "TV",
+      "episodes": 26,
+      "site_url": "https://kitsu.io/anime/superbook-2",
+      "genres": [
+        "Past",
+        "Earth",
+        "Time Travel",
+        "Historical",
+        "Motorsport",
+        "Science Fiction",
+        "Fantasy",
+        "Adventure",
+        "Kids"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-3361.jpg"
+    }
   },
   {
     "year": 1983,
@@ -794,7 +920,27 @@
     "director": "Gisaburō Sugii",
     "studio": "Group TAC",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "5642",
+      "title_romaji": "Nine: Original Han",
+      "title_english": null,
+      "title_native": "ナイン オリジナル版",
+      "description": "Cinema adaption of the manga by Mitsuru Adachi.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/5642/large.jpg",
+      "kitsu_year": 1983,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/nine-original-han",
+      "genres": [
+        "Baseball",
+        "Action",
+        "School Life",
+        "Sports"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-5642.jpg"
+    }
   },
   {
     "year": 1983,
@@ -1082,7 +1228,26 @@
     "director": "",
     "studio": "Nippon Sunrise",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "5973",
+      "title_romaji": "Document Taiyou no Kiba Dagram",
+      "title_english": null,
+      "title_native": "ドキュメント 太陽の牙ダグラム",
+      "description": "In the planet Deloyer, a colony of the Earth federation, Colonel Von Stein stages a coup d'etat on behalf of the Federation chairman Donan Cashim.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/5973/large.jpg",
+      "kitsu_year": 1983,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/document-taiyou-no-kiba-dagram",
+      "genres": [
+        "Mecha",
+        "Science Fiction",
+        "Military"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-5973.jpg"
+    }
   },
   {
     "year": 1983,
@@ -1172,7 +1337,29 @@
     "director": "Moribi Murano",
     "studio": "Madhouse",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2203",
+      "title_romaji": "Unico: Mahou no Shima e",
+      "title_english": "Unico in the Island of Magic",
+      "title_native": "ユニコ 魔法の島へ",
+      "description": "Based on \"Unico and the Kingdom of the Sun,\" which was newly written as a theater version, this animated film features a battle between the wizard Kukuruku and Unico. Kukuruku builds a castle using dolls transformed from men as building parts. The story revolves around the sorrow and terror of men who have been transfigured into dolls, and a girl named Cherry who wishes to recover the kindness in her brother, who is a student of Kukuruku. This work reminds us of the fact that \"transformation\" or \"transfiguration\" - favorite themes of Tezuka Osamu - involves not only material aspects, but also man's immaterial heart.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2203/large.jpg",
+      "kitsu_year": 1983,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/unico-in-the-island-of-magic",
+      "genres": [
+        "Fantasy World",
+        "Fantasy",
+        "Adventure",
+        "Anthropomorphism",
+        "Friendship",
+        "Kids"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2203.jpg"
+    }
   },
   {
     "year": 1983,
@@ -1242,7 +1429,27 @@
     "director": "Gisaburō Sugii",
     "studio": "Group TAC",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "5642",
+      "title_romaji": "Nine: Original Han",
+      "title_english": null,
+      "title_native": "ナイン オリジナル版",
+      "description": "Cinema adaption of the manga by Mitsuru Adachi.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/5642/large.jpg",
+      "kitsu_year": 1983,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/nine-original-han",
+      "genres": [
+        "Baseball",
+        "Action",
+        "School Life",
+        "Sports"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-5642.jpg"
+    }
   },
   {
     "year": 1983,
@@ -1468,7 +1675,33 @@
     "director": "Takeyuki Kanda",
     "studio": "Nippon Sunrise",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "2701",
+      "title_romaji": "Ginga Hyouryuu Vifam",
+      "title_english": null,
+      "title_native": "銀河漂流バイファム",
+      "description": "AD. 2058, on the Clayad which was the 3rd planet of the Ypserlon system, which was 43 light years away from Earth, suddently aliens raided the planet.The emigrants on the Clayad had to escape from the planet. Because of the confusion during the escape, the children were strayed from their parents and got in the training space ship, Janous. With a lot of sacrifices, they managed to arrive at 4th planet Belwick. However, the Belwick had been already in the war. Therefore, the 13 children had to go to the Earth by themselves.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/2701/large.jpg",
+      "kitsu_year": 1983,
+      "format": "TV",
+      "episodes": 46,
+      "site_url": "https://kitsu.io/anime/ginga-hyouryuu-vifam",
+      "genres": [
+        "Alien",
+        "Robot",
+        "Future",
+        "Space",
+        "Mecha",
+        "Space Travel",
+        "Other Planet",
+        "Shipboard",
+        "Humanoid Alien",
+        "Plot Continuity"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-2701.jpg"
+    }
   },
   {
     "year": 1983,
@@ -1524,7 +1757,27 @@
     "director": "Gisaburō Sugii",
     "studio": "Group TAC",
     "ref": "",
-    "enrichment": null
+    "enrichment": {
+      "source": "kitsu",
+      "source_id": "5642",
+      "title_romaji": "Nine: Original Han",
+      "title_english": null,
+      "title_native": "ナイン オリジナル版",
+      "description": "Cinema adaption of the manga by Mitsuru Adachi.",
+      "cover_large": "https://media.kitsu.app/anime/poster_images/5642/large.jpg",
+      "kitsu_year": 1983,
+      "format": "movie",
+      "episodes": 1,
+      "site_url": "https://kitsu.io/anime/nine-original-han",
+      "genres": [
+        "Baseball",
+        "Action",
+        "School Life",
+        "Sports"
+      ],
+      "year_match": true,
+      "image_path": "images/kitsu-5642.jpg"
+    }
   },
   {
     "year": 1983,
