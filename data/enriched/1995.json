@@ -72,7 +72,7 @@
         "Drama"
       ],
       "year_match": true,
-      "similarity": 0.0,
+      "similarity": 1.0,
       "image_path": "images/kitsu-9258.jpg"
     }
   },
@@ -159,7 +159,7 @@
       "site_url": "https://kitsu.io/anime/crayon-shin-chan-movie-03-unkokusai-no-yabou",
       "year_match": true,
       "image_path": "images/kitsu-4480.jpg",
-      "similarity": 0.8
+      "similarity": 0.75
     }
   },
   {
@@ -848,7 +848,7 @@
       "site_url": "https://kitsu.io/anime/katta-kun-monogatari",
       "year_match": true,
       "image_path": "images/kitsu-9369.jpg",
-      "similarity": 0.5
+      "similarity": 1.0
     }
   },
   {
@@ -880,7 +880,7 @@
       "site_url": "https://kitsu.io/anime/kazu-yasu-hero-tanjou",
       "year_match": true,
       "image_path": "images/kitsu-9872.jpg",
-      "similarity": 0.75
+      "similarity": 0.67
     }
   },
   {
@@ -1355,7 +1355,7 @@
       ],
       "year_match": true,
       "image_path": "images/kitsu-5202.jpg",
-      "similarity": 0.11
+      "similarity": 0.5
     }
   },
   {
@@ -1612,7 +1612,7 @@
         "Shounen"
       ],
       "year_match": true,
-      "similarity": 0.62,
+      "similarity": 0.78,
       "image_path": "images/kitsu-2268.jpg"
     }
   },

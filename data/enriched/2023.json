@@ -1174,7 +1174,7 @@
       "site_url": "https://kitsu.io/anime/kitarou-tanjou-gegege-no-nazo",
       "year_match": true,
       "image_path": "images/kitsu-45534.jpg",
-      "similarity": 0.75
+      "similarity": 0.67
     }
   },
   {
@@ -1294,7 +1294,7 @@
       "site_url": "https://kitsu.io/anime/seishun-buta-yarou-wa-dekake-sister-no-yume-wo-minai",
       "year_match": true,
       "image_path": "images/kitsu-46530.jpg",
-      "similarity": 0.75
+      "similarity": 0.67
     }
   },
   {
@@ -3727,7 +3727,7 @@
       ],
       "year_match": true,
       "image_path": "images/kitsu-46932.jpg",
-      "similarity": 0.67
+      "similarity": 0.5
     }
   },
   {

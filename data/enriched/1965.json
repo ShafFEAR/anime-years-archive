@@ -42,7 +42,7 @@
         "Kids"
       ],
       "year_match": true,
-      "similarity": 0.5,
+      "similarity": 1.0,
       "image_path": "images/kitsu-5516.jpg"
     }
   },
@@ -206,7 +206,7 @@
       "site_url": "https://kitsu.io/anime/shin-takarajima",
       "year_match": true,
       "image_path": "images/kitsu-7319.jpg",
-      "similarity": 0.0
+      "similarity": 1.0
     }
   },
   {
@@ -302,7 +302,7 @@
       ],
       "year_match": true,
       "image_path": "images/kitsu-6877.jpg",
-      "similarity": 0.0
+      "similarity": 1.0
     }
   },
   {
@@ -333,7 +333,7 @@
       ],
       "year_match": true,
       "image_path": "images/kitsu-4839.jpg",
-      "similarity": 0.0
+      "similarity": 1.0
     }
   },
   {

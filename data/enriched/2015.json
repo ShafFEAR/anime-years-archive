@@ -1609,7 +1609,7 @@
       "site_url": "https://kitsu.io/anime/kantai-collection",
       "year_match": true,
       "image_path": "images/kitsu-8039.jpg",
-      "similarity": 0.67
+      "similarity": 0.5
     }
   },
   {
@@ -2653,7 +2653,7 @@
       "site_url": "https://kitsu.io/anime/mahou-shoujo-lyrical-nanoha-vivid",
       "year_match": true,
       "image_path": "images/kitsu-8687.jpg",
-      "similarity": 0.6
+      "similarity": 0.75
     }
   },
   {
@@ -5011,7 +5011,7 @@
       ],
       "year_match": true,
       "image_path": "images/kitsu-10078.jpg",
-      "similarity": 1.0
+      "similarity": 0.65
     }
   },
   {
@@ -6713,7 +6713,7 @@
       "site_url": "https://kitsu.io/anime/fushigi-na-somera-chan",
       "year_match": true,
       "image_path": "images/kitsu-10924.jpg",
-      "similarity": 0.67
+      "similarity": 1.0
     }
   },
   {

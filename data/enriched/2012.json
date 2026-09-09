@@ -3197,7 +3197,7 @@
       "site_url": "https://kitsu.io/anime/uchuu-kyoudai-apo-s-dream",
       "year_match": true,
       "image_path": "images/kitsu-6975.jpg",
-      "similarity": 0.67
+      "similarity": 1.0
     }
   },
   {
@@ -6283,7 +6283,7 @@
         "Juujin"
       ],
       "year_match": true,
-      "similarity": 0.67,
+      "similarity": 0.5,
       "image_path": "images/kitsu-7430.jpg"
     }
   },
@@ -13544,7 +13544,7 @@
       "site_url": "https://kitsu.io/anime/pokemon-fushigi-no-dungeon-magnagate-to-mugendai-meikyu",
       "year_match": true,
       "image_path": "images/kitsu-11738.jpg",
-      "similarity": 0.8
+      "similarity": 0.75
     }
   },
   {
@@ -14504,7 +14504,7 @@
       "site_url": "https://kitsu.io/anime/chuunibyou-demo-koi-ga-shitai-depth-of-field-ai-to-nikushimi-gekijou",
       "year_match": true,
       "image_path": "images/kitsu-7330.jpg",
-      "similarity": 0.8
+      "similarity": 0.75
     }
   },
   {

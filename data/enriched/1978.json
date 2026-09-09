@@ -187,7 +187,7 @@
       "site_url": "https://kitsu.io/anime/wakusei-robo-danguard-ace-uchuu-daikaisen",
       "year_match": true,
       "image_path": "images/kitsu-4131.jpg",
-      "similarity": 0.8
+      "similarity": 0.5
     }
   },
   {
@@ -495,7 +495,7 @@
       ],
       "year_match": true,
       "image_path": "images/kitsu-3267.jpg",
-      "similarity": 1.0
+      "similarity": 0.88
     }
   },
   {
@@ -1002,7 +1002,7 @@
       "site_url": "https://kitsu.io/anime/pink-lady-monogatari-eikou-no-tenshi-tachi",
       "year_match": true,
       "image_path": "images/kitsu-9535.jpg",
-      "similarity": 1.0
+      "similarity": 0.5
     }
   },
   {

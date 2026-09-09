@@ -220,7 +220,7 @@
       "site_url": "https://kitsu.io/anime/yuusha-raideen",
       "year_match": true,
       "image_path": "images/kitsu-1925.jpg",
-      "similarity": 0.0
+      "similarity": 0.5
     }
   },
   {
@@ -327,7 +327,7 @@
       "site_url": "https://kitsu.io/anime/gamba-no-bouken",
       "year_match": true,
       "image_path": "images/kitsu-4023.jpg",
-      "similarity": 0.5
+      "similarity": 1.0
     }
   },
   {
@@ -359,7 +359,7 @@
       "site_url": "https://kitsu.io/anime/shounen-tokugawa-ieyasu",
       "year_match": true,
       "image_path": "images/kitsu-9595.jpg",
-      "similarity": 0.67
+      "similarity": 1.0
     }
   },
   {
@@ -483,7 +483,7 @@
       ],
       "year_match": true,
       "image_path": "images/kitsu-3582.jpg",
-      "similarity": 0.8
+      "similarity": 0.75
     }
   },
   {
@@ -515,7 +515,7 @@
       "site_url": "https://kitsu.io/anime/iruka-to-shounen",
       "year_match": true,
       "image_path": "images/kitsu-6507.jpg",
-      "similarity": 0.0
+      "similarity": 0.5
     }
   },
   {
@@ -579,7 +579,7 @@
       ],
       "year_match": true,
       "image_path": "images/kitsu-5467.jpg",
-      "similarity": 0.0
+      "similarity": 0.75
     }
   },
   {
@@ -645,7 +645,7 @@
       ],
       "year_match": true,
       "image_path": "images/kitsu-2579.jpg",
-      "similarity": 0.5
+      "similarity": 0.67
     }
   },
   {
@@ -829,7 +829,7 @@
       ],
       "year_match": true,
       "image_path": "images/kitsu-6485.jpg",
-      "similarity": 0.33
+      "similarity": 0.5
     }
   },
   {
@@ -935,7 +935,7 @@
       "site_url": "https://kitsu.io/anime/mizu-no-tane",
       "year_match": true,
       "image_path": "images/kitsu-3463.jpg",
-      "similarity": 0.0
+      "similarity": 1.0
     }
   }
 ]

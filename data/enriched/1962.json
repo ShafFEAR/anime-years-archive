@@ -73,7 +73,7 @@
       ],
       "year_match": true,
       "image_path": "images/kitsu-4803.jpg",
-      "similarity": 0.0
+      "similarity": 0.5
     }
   },
   {
@@ -166,7 +166,7 @@
       "site_url": "https://kitsu.io/anime/otogi-no-sekai-ryokou",
       "year_match": true,
       "image_path": "images/kitsu-9525.jpg",
-      "similarity": 0.33
+      "similarity": 0.5
     }
   },
   {

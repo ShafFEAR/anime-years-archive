@@ -29,7 +29,8 @@
       ],
       "site_url": "https://kitsu.io/anime/astro-boy",
       "year_match": true,
-      "image_path": "images/kitsu-2507.jpg"
+      "image_path": "images/kitsu-2507.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -61,7 +62,8 @@
       ],
       "site_url": "https://kitsu.io/anime/big-x",
       "year_match": true,
-      "image_path": "images/kitsu-5809.jpg"
+      "image_path": "images/kitsu-5809.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -105,7 +107,8 @@
         "Fantasy"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-1846.jpg"
+      "image_path": "images/kitsu-1846.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -138,7 +141,8 @@
       ],
       "site_url": "https://kitsu.io/anime/shounen-ninja-kaze-no-fujimaru",
       "year_match": true,
-      "image_path": "images/kitsu-6936.jpg"
+      "image_path": "images/kitsu-6936.jpg",
+      "similarity": 0.75
     }
   },
   {
@@ -182,7 +186,8 @@
       ],
       "site_url": "https://kitsu.io/anime/zero-sen-hayato",
       "year_match": true,
-      "image_path": "images/kitsu-6806.jpg"
+      "image_path": "images/kitsu-6806.jpg",
+      "similarity": 1.0
     }
   }
 ]

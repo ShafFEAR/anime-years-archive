@@ -1021,7 +1021,7 @@
       "site_url": "https://kitsu.io/anime/cosmic-baton-girl-comet-san",
       "year_match": true,
       "image_path": "images/kitsu-1835.jpg",
-      "similarity": 0.5
+      "similarity": 1.0
     }
   },
   {
@@ -3833,7 +3833,7 @@
       ],
       "year_match": true,
       "image_path": "images/kitsu-9677.jpg",
-      "similarity": 0.5
+      "similarity": 1.0
     }
   },
   {

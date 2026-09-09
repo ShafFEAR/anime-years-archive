@@ -153,7 +153,7 @@
       "site_url": "https://kitsu.io/anime/shisukon-ouji",
       "year_match": true,
       "image_path": "images/kitsu-9590.jpg",
-      "similarity": 0.5
+      "similarity": 1.0
     }
   },
   {
@@ -220,7 +220,7 @@
       "site_url": "https://kitsu.io/anime/wanpaku-ouji-no-orochi-taiji",
       "year_match": true,
       "image_path": "images/kitsu-3336.jpg",
-      "similarity": 0.0
+      "similarity": 1.0
     }
   }
 ]

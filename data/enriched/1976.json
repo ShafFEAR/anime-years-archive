@@ -137,7 +137,7 @@
       "site_url": "https://kitsu.io/anime/ufo-robo-grendizer-tai-great-mazinger",
       "year_match": true,
       "image_path": "images/kitsu-3583.jpg",
-      "similarity": 0.75
+      "similarity": 1.0
     }
   },
   {
@@ -300,7 +300,7 @@
       "site_url": "https://kitsu.io/anime/ufo-senshi-dai-apolon",
       "year_match": true,
       "image_path": "images/kitsu-2956.jpg",
-      "similarity": 0.5
+      "similarity": 1.0
     }
   },
   {
@@ -373,7 +373,7 @@
       "site_url": "https://kitsu.io/anime/piccolino-no-bouken",
       "year_match": true,
       "image_path": "images/kitsu-2332.jpg",
-      "similarity": 0.5
+      "similarity": 1.0
     }
   },
   {
@@ -445,7 +445,7 @@
       "site_url": "https://kitsu.io/anime/grendizer-getter-robo-g-great-mazinger-kessen-daikaijuu",
       "year_match": true,
       "image_path": "images/kitsu-3041.jpg",
-      "similarity": 0.71
+      "similarity": 0.67
     }
   },
   {
@@ -593,7 +593,7 @@
       "site_url": "https://kitsu.io/anime/hana-no-kakarichou",
       "year_match": true,
       "image_path": "images/kitsu-9297.jpg",
-      "similarity": 0.0
+      "similarity": 0.5
     }
   },
   {

@@ -146,7 +146,7 @@
       "site_url": "https://kitsu.io/anime/crayon-shin-chan-movie-16-chou-arashi-wo-yobu-kinpoko-no-yuusha",
       "year_match": true,
       "image_path": "images/kitsu-5316.jpg",
-      "similarity": 0.57
+      "similarity": 0.6
     }
   },
   {
@@ -295,7 +295,7 @@
       "site_url": "https://kitsu.io/anime/pokemon-diamond-pearl-giratina-to-sora-no-hanataba-sheimi",
       "year_match": true,
       "image_path": "images/kitsu-3419.jpg",
-      "similarity": 0.67
+      "similarity": 0.5
     }
   },
   {
@@ -3319,7 +3319,7 @@
       "site_url": "https://kitsu.io/anime/ikkitousen-great-guardians",
       "year_match": true,
       "image_path": "images/kitsu-3516.jpg",
-      "similarity": 0.67
+      "similarity": 0.5
     }
   },
   {
@@ -3519,7 +3519,7 @@
       "site_url": "https://kitsu.io/anime/mahou-tsukai-ni-taisetsu-na-koto-natsu-no-sora",
       "year_match": true,
       "image_path": "images/kitsu-3636.jpg",
-      "similarity": 0.67
+      "similarity": 1.0
     }
   },
   {
@@ -4672,7 +4672,7 @@
       ],
       "year_match": true,
       "image_path": "images/kitsu-5476.jpg",
-      "similarity": 0.67
+      "similarity": 0.5
     }
   },
   {
@@ -6391,7 +6391,7 @@
       "site_url": "https://kitsu.io/anime/hoshi-no-umi-no-amuri",
       "year_match": true,
       "image_path": "images/kitsu-2977.jpg",
-      "similarity": 0.5
+      "similarity": 1.0
     }
   },
   {

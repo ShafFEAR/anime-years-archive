@@ -256,7 +256,7 @@
       "site_url": "https://kitsu.io/anime/crayon-shin-chan-movie-08-arashi-wo-yobu-jungle",
       "year_match": true,
       "image_path": "images/kitsu-5311.jpg",
-      "similarity": 0.67
+      "similarity": 0.6
     }
   },
   {
@@ -2465,7 +2465,7 @@
       ],
       "year_match": true,
       "image_path": "images/kitsu-11004.jpg",
-      "similarity": 0.67
+      "similarity": 0.5
     }
   },
   {

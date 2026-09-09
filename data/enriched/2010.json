@@ -275,7 +275,7 @@
       "site_url": "https://kitsu.io/anime/doraemon-nobita-s-great-mermaid-naval-battle",
       "year_match": true,
       "image_path": "images/kitsu-4824.jpg",
-      "similarity": 0.5
+      "similarity": 0.67
     }
   },
   {
@@ -2323,7 +2323,7 @@
       "site_url": "https://kitsu.io/anime/shin-koihime-musou-otome-tairan",
       "year_match": true,
       "image_path": "images/kitsu-5181.jpg",
-      "similarity": 0.8
+      "similarity": 0.75
     }
   },
   {
@@ -2716,7 +2716,7 @@
       "site_url": "https://kitsu.io/anime/major-world-series",
       "year_match": true,
       "image_path": "images/kitsu-6631.jpg",
-      "similarity": 0.5
+      "similarity": 1.0
     }
   },
   {
@@ -2905,7 +2905,7 @@
       "site_url": "https://kitsu.io/anime/gokujou-mecha-mote-iinchou-second-collection",
       "year_match": true,
       "image_path": "images/kitsu-5379.jpg",
-      "similarity": 0.67
+      "similarity": 0.5
     }
   },
   {
@@ -8295,7 +8295,7 @@
       "site_url": "https://kitsu.io/anime/major-world-series",
       "year_match": true,
       "image_path": "images/kitsu-6631.jpg",
-      "similarity": 0.5
+      "similarity": 1.0
     }
   },
   {

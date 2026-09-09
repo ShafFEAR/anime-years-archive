@@ -496,7 +496,7 @@
       "site_url": "https://kitsu.io/anime/mahou-no-princess-minky-momo",
       "year_match": true,
       "image_path": "images/kitsu-477.jpg",
-      "similarity": 0.75
+      "similarity": 1.0
     }
   },
   {
@@ -1327,7 +1327,7 @@
       "site_url": "https://kitsu.io/anime/ai-no-senshi-rainbowman",
       "year_match": true,
       "image_path": "images/kitsu-5276.jpg",
-      "similarity": 0.5
+      "similarity": 1.0
     }
   },
   {

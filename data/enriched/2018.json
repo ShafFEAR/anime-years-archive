@@ -283,7 +283,7 @@
       ],
       "year_match": true,
       "image_path": "images/kitsu-13960.jpg",
-      "similarity": 0.75
+      "similarity": 0.71
     }
   },
   {
@@ -3082,7 +3082,7 @@
       "site_url": "https://kitsu.io/anime/tachibanakan-to-lie-triangle",
       "year_match": true,
       "image_path": "images/kitsu-41016.jpg",
-      "similarity": 0.5
+      "similarity": 1.0
     }
   },
   {
@@ -4093,7 +4093,7 @@
       "site_url": "https://kitsu.io/anime/layton-mystery-tanteisha-katri-no-nazotoki-file",
       "year_match": true,
       "image_path": "images/kitsu-40578.jpg",
-      "similarity": 0.83
+      "similarity": 0.8
     }
   },
   {
@@ -4317,7 +4317,7 @@
       "site_url": "https://kitsu.io/anime/shokugeki-no-souma-san-no-sara-toutsuki-ressha-hen",
       "year_match": true,
       "image_path": "images/kitsu-14092.jpg",
-      "similarity": 0.67
+      "similarity": 0.6
     }
   },
   {

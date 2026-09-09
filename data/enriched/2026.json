@@ -516,7 +516,7 @@
       "site_url": "https://kitsu.io/anime/love-live-hasu-no-sora-jogakuin-school-idol-club-bloom-garden-party",
       "year_match": true,
       "image_path": "images/kitsu-50645.jpg",
-      "similarity": 0.62
+      "similarity": 0.57
     }
   },
   {
@@ -4345,7 +4345,7 @@
       "site_url": "https://kitsu.io/anime/class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
       "year_match": true,
       "image_path": "images/kitsu-47987.jpg",
-      "similarity": 0.71
+      "similarity": 0.67
     }
   },
   {
@@ -8346,7 +8346,7 @@
       ],
       "year_match": true,
       "image_path": "images/kitsu-49008.jpg",
-      "similarity": 0.67
+      "similarity": 1.0
     }
   },
   {
@@ -8898,7 +8898,7 @@
       "site_url": "https://kitsu.io/anime/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu",
       "year_match": null,
       "image_path": "images/kitsu-50520.jpg",
-      "similarity": 0.8
+      "similarity": 0.75
     }
   },
   {

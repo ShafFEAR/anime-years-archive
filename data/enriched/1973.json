@@ -195,7 +195,7 @@
       "site_url": "https://kitsu.io/anime/panda-no-daibouken",
       "year_match": true,
       "image_path": "images/kitsu-3234.jpg",
-      "similarity": 0.5
+      "similarity": 1.0
     }
   },
   {
@@ -519,7 +519,7 @@
       "site_url": "https://kitsu.io/anime/dororon-enma-kun",
       "year_match": true,
       "image_path": "images/kitsu-1192.jpg",
-      "similarity": 0.0
+      "similarity": 1.0
     }
   },
   {
@@ -661,7 +661,7 @@
       "site_url": "https://kitsu.io/anime/nanmu-ichibyou-sokusai",
       "year_match": true,
       "image_path": "images/kitsu-3464.jpg",
-      "similarity": 0.0
+      "similarity": 0.5
     }
   },
   {
@@ -693,7 +693,7 @@
       ],
       "year_match": true,
       "image_path": "images/kitsu-4916.jpg",
-      "similarity": 0.0
+      "similarity": 1.0
     }
   }
 ]

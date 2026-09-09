@@ -1804,7 +1804,7 @@
       "site_url": "https://kitsu.io/anime/amada-anime-series-super-mario-brothers",
       "year_match": true,
       "image_path": "images/kitsu-3585.jpg",
-      "similarity": 0.8
+      "similarity": 0.75
     }
   },
   {
@@ -2007,7 +2007,7 @@
       "site_url": "https://kitsu.io/anime/sonic-soldier-borgman-last-battle",
       "year_match": true,
       "image_path": "images/kitsu-3238.jpg",
-      "similarity": 0.67
+      "similarity": 1.0
     }
   },
   {
@@ -3066,7 +3066,7 @@
       "site_url": "https://kitsu.io/anime/super-mario-no-shouboutai",
       "year_match": true,
       "image_path": "images/kitsu-46634.jpg",
-      "similarity": 0.67
+      "similarity": 0.5
     }
   }
 ]

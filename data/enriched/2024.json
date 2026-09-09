@@ -4545,7 +4545,7 @@
       "site_url": "https://kitsu.io/anime/himitsu-no-aipri",
       "year_match": true,
       "image_path": "images/kitsu-48464.jpg",
-      "similarity": 0.5
+      "similarity": 1.0
     }
   },
   {
@@ -9551,7 +9551,7 @@
       ],
       "year_match": true,
       "image_path": "images/kitsu-48434.jpg",
-      "similarity": 1.0
+      "similarity": 0.64
     }
   },
   {

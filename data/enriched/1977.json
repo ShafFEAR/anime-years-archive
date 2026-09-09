@@ -63,7 +63,7 @@
       "site_url": "https://kitsu.io/anime/arrow-emblem-grand-prix-no-taka",
       "year_match": true,
       "image_path": "images/kitsu-3258.jpg",
-      "similarity": 0.8
+      "similarity": 1.0
     }
   },
   {
@@ -211,7 +211,7 @@
       "site_url": "https://kitsu.io/anime/wakusei-robo-danguard-ace-tai-konchuu-robot-gundan",
       "year_match": true,
       "image_path": "images/kitsu-5451.jpg",
-      "similarity": 0.5
+      "similarity": 0.6
     }
   },
   {
@@ -256,7 +256,7 @@
       ],
       "year_match": true,
       "image_path": "images/kitsu-9276.jpg",
-      "similarity": 0.0
+      "similarity": 0.5
     }
   },
   {
@@ -291,7 +291,7 @@
       "site_url": "https://kitsu.io/anime/chogattai-majutsu-robot-ginguiser",
       "year_match": true,
       "image_path": "images/kitsu-5321.jpg",
-      "similarity": 0.5
+      "similarity": 0.67
     }
   },
   {
@@ -324,7 +324,7 @@
       "site_url": "https://kitsu.io/anime/hyouga-senshi-gaislugger",
       "year_match": true,
       "image_path": "images/kitsu-5864.jpg",
-      "similarity": 0.0
+      "similarity": 0.5
     }
   },
   {
@@ -441,7 +441,7 @@
       "site_url": "https://kitsu.io/anime/tobidase-machine-hiryuu",
       "year_match": true,
       "image_path": "images/kitsu-9672.jpg",
-      "similarity": 0.33
+      "similarity": 0.67
     }
   },
   {
@@ -657,7 +657,7 @@
       ],
       "year_match": true,
       "image_path": "images/kitsu-2582.jpg",
-      "similarity": 0.0
+      "similarity": 1.0
     }
   },
   {
@@ -719,7 +719,7 @@
       ],
       "year_match": true,
       "image_path": "images/kitsu-5903.jpg",
-      "similarity": 0.33
+      "similarity": 1.0
     }
   },
   {
@@ -750,7 +750,7 @@
       "site_url": "https://kitsu.io/anime/manga-ijin-monogatari",
       "year_match": true,
       "image_path": "images/kitsu-9432.jpg",
-      "similarity": 0.33
+      "similarity": 1.0
     }
   },
   {
@@ -818,7 +818,7 @@
       "site_url": "https://kitsu.io/anime/bara-no-hana-to-joe",
       "year_match": true,
       "image_path": "images/kitsu-5653.jpg",
-      "similarity": 0.0
+      "similarity": 1.0
     }
   },
   {
@@ -871,7 +871,7 @@
       ],
       "year_match": true,
       "image_path": "images/kitsu-1484.jpg",
-      "similarity": 0.33
+      "similarity": 0.67
     }
   },
   {
@@ -1044,7 +1044,7 @@
       "site_url": "https://kitsu.io/anime/niji-ni-mukatte",
       "year_match": true,
       "image_path": "images/kitsu-3530.jpg",
-      "similarity": 0.0
+      "similarity": 1.0
     }
   },
   {

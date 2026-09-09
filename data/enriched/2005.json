@@ -115,7 +115,7 @@
       "site_url": "https://kitsu.io/anime/prince-of-tennis-the-two-samurai-the-first-game",
       "year_match": true,
       "image_path": "images/kitsu-722.jpg",
-      "similarity": 0.67
+      "similarity": 1.0
     }
   },
   {
@@ -509,7 +509,7 @@
       "site_url": "https://kitsu.io/anime/pokemon-advanced-generation-mew-to-hadou-no-yuusha-lucario",
       "year_match": true,
       "image_path": "images/kitsu-1368.jpg",
-      "similarity": 0.67
+      "similarity": 0.5
     }
   },
   {
@@ -5027,7 +5027,7 @@
       "site_url": "https://kitsu.io/anime/ginga-densetsu-weed",
       "year_match": true,
       "image_path": "images/kitsu-815.jpg",
-      "similarity": 0.67
+      "similarity": 1.0
     }
   },
   {
@@ -6634,7 +6634,7 @@
       ],
       "year_match": true,
       "image_path": "images/kitsu-8696.jpg",
-      "similarity": 0.5
+      "similarity": 1.0
     }
   },
   {

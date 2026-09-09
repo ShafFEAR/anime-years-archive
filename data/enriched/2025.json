@@ -1409,7 +1409,7 @@
       "site_url": "https://kitsu.io/anime/kisaki-kyouiku-kara-nigetai-watashi",
       "year_match": true,
       "image_path": "images/kitsu-48201.jpg",
-      "similarity": 0.8
+      "similarity": 0.75
     }
   },
   {
@@ -3749,7 +3749,7 @@
       ],
       "year_match": true,
       "image_path": "images/kitsu-49843.jpg",
-      "similarity": 0.67
+      "similarity": 0.5
     }
   },
   {

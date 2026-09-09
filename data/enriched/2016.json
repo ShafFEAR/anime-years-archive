@@ -2323,7 +2323,7 @@
       "site_url": "https://kitsu.io/anime/hai-to-gensou-no-grimgar",
       "year_match": true,
       "image_path": "images/kitsu-11447.jpg",
-      "similarity": 0.5
+      "similarity": 1.0
     }
   },
   {
@@ -6156,7 +6156,7 @@
       ],
       "year_match": true,
       "image_path": "images/kitsu-12154.jpg",
-      "similarity": 0.5
+      "similarity": 1.0
     }
   },
   {
@@ -8552,7 +8552,7 @@
       ],
       "year_match": true,
       "image_path": "images/kitsu-10078.jpg",
-      "similarity": 1.0
+      "similarity": 0.65
     }
   },
   {

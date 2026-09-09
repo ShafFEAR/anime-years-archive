@@ -359,7 +359,7 @@
       "site_url": "https://kitsu.io/anime/crayon-shin-chan-movie-04-henderland-no-daibouken",
       "year_match": true,
       "image_path": "images/kitsu-5308.jpg",
-      "similarity": 0.8
+      "similarity": 1.0
     }
   },
   {
@@ -1048,7 +1048,7 @@
       "site_url": "https://kitsu.io/anime/mutant-ninja-turtles-superman-legend",
       "year_match": true,
       "image_path": "images/kitsu-948.jpg",
-      "similarity": 0.5
+      "similarity": 0.67
     }
   },
   {

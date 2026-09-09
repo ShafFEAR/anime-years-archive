@@ -40,7 +40,7 @@
       ],
       "year_match": true,
       "image_path": "images/kitsu-4001.jpg",
-      "similarity": 0.5
+      "similarity": 1.0
     }
   },
   {
@@ -395,7 +395,7 @@
       ],
       "year_match": true,
       "image_path": "images/kitsu-9248.jpg",
-      "similarity": 0.0
+      "similarity": 1.0
     }
   },
   {
@@ -427,7 +427,7 @@
       "site_url": "https://kitsu.io/anime/bouken-shounen-shadar",
       "year_match": true,
       "image_path": "images/kitsu-5231.jpg",
-      "similarity": 0.5
+      "similarity": 1.0
     }
   },
   {
@@ -591,7 +591,7 @@
         "Dementia"
       ],
       "year_match": true,
-      "similarity": 0.0,
+      "similarity": 1.0,
       "image_path": "images/kitsu-4837.jpg"
     }
   }

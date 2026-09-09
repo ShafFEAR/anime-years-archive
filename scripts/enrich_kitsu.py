@@ -423,7 +423,9 @@ def revalidate():
             if not needs_full_research:
                 sim = title_similarity(correct_search_title, enr.get("title_english"), enr.get("title_romaji"))
                 if sim >= 0.45:
-                    enr["similarity"] = round(sim, 2)
+                    if enr.get("similarity") != round(sim, 2):
+                        enr["similarity"] = round(sim, 2)
+                        changed = True
                     kept += 1
                     continue
 

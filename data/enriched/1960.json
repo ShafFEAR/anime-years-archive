@@ -29,7 +29,8 @@
       ],
       "site_url": "https://kitsu.io/anime/alakazam-the-great",
       "year_match": true,
-      "image_path": "images/kitsu-3635.jpg"
+      "image_path": "images/kitsu-3635.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -60,7 +61,8 @@
         "Dementia"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-4834.jpg"
+      "image_path": "images/kitsu-4834.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -90,7 +92,8 @@
         "Fantasy"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-5490.jpg"
+      "image_path": "images/kitsu-5490.jpg",
+      "similarity": 1.0
     }
   }
 ]

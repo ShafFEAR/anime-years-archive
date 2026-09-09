@@ -1,0 +1,5 @@
+...checked 100: kept 100, fixed 0, reverted 0
+...checked 1100: kept 1100, fixed 0, reverted 0
+...checked 1300: kept 1300, fixed 0, reverted 0
+
+Revalidation done. Checked 6916: kept 6916, fixed-to-different-entry 0, reverted-to-unmatched 0.

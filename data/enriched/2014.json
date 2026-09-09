@@ -730,7 +730,7 @@
       "site_url": "https://kitsu.io/anime/doraemon-new-nobita-s-great-demon-peko-and-the-exploration-party-of-five",
       "year_match": true,
       "image_path": "images/kitsu-7902.jpg",
-      "similarity": 0.57
+      "similarity": 0.6
     }
   },
   {
@@ -871,7 +871,7 @@
       "site_url": "https://kitsu.io/anime/heaven-s-lost-property-final-eternal-my-master",
       "year_match": true,
       "image_path": "images/kitsu-6812.jpg",
-      "similarity": 0.83
+      "similarity": 0.8
     }
   },
   {
@@ -8558,7 +8558,7 @@
       "site_url": "https://kitsu.io/anime/monogatari-series-second-season",
       "year_match": true,
       "image_path": "images/kitsu-7573.jpg",
-      "similarity": 1.0
+      "similarity": 0.71
     }
   },
   {
@@ -9453,7 +9453,7 @@
       ],
       "year_match": true,
       "image_path": "images/kitsu-8256.jpg",
-      "similarity": 0.67
+      "similarity": 1.0
     }
   },
   {

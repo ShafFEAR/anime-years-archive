@@ -26,7 +26,8 @@
       ],
       "site_url": "https://kitsu.io/anime/hokkyoku-no-muushika-miishika",
       "year_match": true,
-      "image_path": "images/kitsu-5100.jpg"
+      "image_path": "images/kitsu-5100.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -56,7 +57,8 @@
       ],
       "site_url": "https://kitsu.io/anime/daikyouryuu-jidai",
       "year_match": true,
-      "image_path": "images/kitsu-3844.jpg"
+      "image_path": "images/kitsu-3844.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -90,7 +92,8 @@
         "Sports"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-283.jpg"
+      "image_path": "images/kitsu-283.jpg",
+      "similarity": 0.86
     }
   },
   {
@@ -128,7 +131,8 @@
         "Coming Of Age"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-258.jpg"
+      "image_path": "images/kitsu-258.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -162,7 +166,8 @@
       ],
       "site_url": "https://kitsu.io/anime/bannertail-the-story-of-gray-squirrel",
       "year_match": true,
-      "image_path": "images/kitsu-3660.jpg"
+      "image_path": "images/kitsu-3660.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -198,7 +203,8 @@
       ],
       "site_url": "https://kitsu.io/anime/lupin-iii-cagliostro-no-shiro",
       "year_match": true,
-      "image_path": "images/kitsu-1283.jpg"
+      "image_path": "images/kitsu-1283.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -236,7 +242,8 @@
         "Kids"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-460.jpg"
+      "image_path": "images/kitsu-460.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -279,7 +286,8 @@
       ],
       "site_url": "https://kitsu.io/anime/galaxy-express-999",
       "year_match": true,
-      "image_path": "images/kitsu-1337.jpg"
+      "image_path": "images/kitsu-1337.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -312,7 +320,8 @@
         "Sports"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-6544.jpg"
+      "image_path": "images/kitsu-6544.jpg",
+      "similarity": 0.61
     }
   },
   {
@@ -344,7 +353,8 @@
       ],
       "site_url": "https://kitsu.io/anime/ganbare-tabuchi-kun",
       "year_match": true,
-      "image_path": "images/kitsu-11875.jpg"
+      "image_path": "images/kitsu-11875.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -379,7 +389,8 @@
       ],
       "site_url": "https://kitsu.io/anime/hana-no-ko-lunlun",
       "year_match": true,
-      "image_path": "images/kitsu-2021.jpg"
+      "image_path": "images/kitsu-2021.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -411,7 +422,8 @@
       ],
       "site_url": "https://kitsu.io/anime/house-of-flames",
       "year_match": true,
-      "image_path": "images/kitsu-4890.jpg"
+      "image_path": "images/kitsu-4890.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -443,7 +455,8 @@
       ],
       "site_url": "https://kitsu.io/anime/nihon-meisaku-douwa-series-akai-tori-no-kokoro",
       "year_match": true,
-      "image_path": "images/kitsu-9488.jpg"
+      "image_path": "images/kitsu-9488.jpg",
+      "similarity": 0.83
     }
   },
   {
@@ -476,7 +489,8 @@
       ],
       "site_url": "https://kitsu.io/anime/nobara-no-julie",
       "year_match": true,
-      "image_path": "images/kitsu-5491.jpg"
+      "image_path": "images/kitsu-5491.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -506,7 +520,8 @@
       ],
       "site_url": "https://kitsu.io/anime/jean-valjean-monogatari",
       "year_match": true,
-      "image_path": "images/kitsu-4327.jpg"
+      "image_path": "images/kitsu-4327.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -537,7 +552,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kaitou-lupin-813-no-nazo",
       "year_match": true,
-      "image_path": "images/kitsu-9141.jpg"
+      "image_path": "images/kitsu-9141.jpg",
+      "similarity": 0.67
     }
   },
   {
@@ -576,7 +592,8 @@
         "Angst"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-59.jpg"
+      "image_path": "images/kitsu-59.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -608,7 +625,8 @@
       ],
       "site_url": "https://kitsu.io/anime/kurumiwari-ningyou",
       "year_match": true,
-      "image_path": "images/kitsu-4956.jpg"
+      "image_path": "images/kitsu-4956.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -638,7 +656,8 @@
         "Adventure"
       ],
       "year_match": true,
-      "image_path": "images/kitsu-3282.jpg"
+      "image_path": "images/kitsu-3282.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -679,7 +698,8 @@
       ],
       "site_url": "https://kitsu.io/anime/rose-of-versailles",
       "year_match": true,
-      "image_path": "images/kitsu-305.jpg"
+      "image_path": "images/kitsu-305.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -717,7 +737,8 @@
       ],
       "site_url": "https://kitsu.io/anime/taro-the-dragon-boy",
       "year_match": true,
-      "image_path": "images/kitsu-1086.jpg"
+      "image_path": "images/kitsu-1086.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -752,7 +773,8 @@
       ],
       "site_url": "https://kitsu.io/anime/time-bokan-series-zenderman",
       "year_match": true,
-      "image_path": "images/kitsu-4770.jpg"
+      "image_path": "images/kitsu-4770.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -783,7 +805,8 @@
       ],
       "site_url": "https://kitsu.io/anime/ashita-no-eleventachi",
       "year_match": true,
-      "image_path": "images/kitsu-7058.jpg"
+      "image_path": "images/kitsu-7058.jpg",
+      "similarity": 0.5
     }
   },
   {
@@ -821,7 +844,8 @@
       ],
       "site_url": "https://kitsu.io/anime/marine-express",
       "year_match": true,
-      "image_path": "images/kitsu-2839.jpg"
+      "image_path": "images/kitsu-2839.jpg",
+      "similarity": 1.0
     }
   },
   {
@@ -857,7 +881,8 @@
       ],
       "site_url": "https://kitsu.io/anime/unico-black-rain-and-white-feather",
       "year_match": true,
-      "image_path": "images/kitsu-2202.jpg"
+      "image_path": "images/kitsu-2202.jpg",
+      "similarity": 0.75
     }
   },
   {
@@ -895,7 +920,8 @@
       ],
       "site_url": "https://kitsu.io/anime/uchuu-senkan-yamato-aratanaru-tabidachi",
       "year_match": true,
-      "image_path": "images/kitsu-2769.jpg"
+      "image_path": "images/kitsu-2769.jpg",
+      "similarity": 1.0
     }
   }
 ]

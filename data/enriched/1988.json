@@ -101,7 +101,7 @@
       "site_url": "https://kitsu.io/anime/machine-robo-leina-the-legend-of-wolf-blade",
       "year_match": true,
       "image_path": "images/kitsu-4619.jpg",
-      "similarity": 0.75
+      "similarity": 0.67
     }
   },
   {
@@ -498,7 +498,7 @@
       "site_url": "https://kitsu.io/anime/harbor-light-monogatari-fashion-lala-yori",
       "year_match": true,
       "image_path": "images/kitsu-2933.jpg",
-      "similarity": 0.83
+      "similarity": 1.0
     }
   },
   {
@@ -1079,7 +1079,7 @@
       "site_url": "https://kitsu.io/anime/mashin-eiyuuden-wataru",
       "year_match": true,
       "image_path": "images/kitsu-3289.jpg",
-      "similarity": 0.67
+      "similarity": 1.0
     }
   },
   {
@@ -2188,7 +2188,7 @@
       "site_url": "https://kitsu.io/anime/hiatari-ryoukou-yume-no-naka-ni-kimi-ga-ita",
       "year_match": true,
       "image_path": "images/kitsu-1392.jpg",
-      "similarity": 0.8
+      "similarity": 0.75
     }
   },
   {
